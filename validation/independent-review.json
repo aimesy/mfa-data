@@ -1,0 +1,230 @@
+{
+  "schema": "mfa-independent-release-review/v1",
+  "passed": true,
+  "release_stage": "preliminary",
+  "review_scope": "Full source interpretation, two reported residential collection rows, four exact evidence pairs, actual full-page original/highlight review, documentation, portable citations, workbook, exclusion of held data and privacy.",
+  "reviewed_manifest_sha256": "1010b1a2fef69bb8299a7ca650bd4fdf847b30651e095c3d4063f01eea45cd7d",
+  "binding_note": "This pre-publication manifest included a pending review-status record. The artifacts below exclude that review-status record and the manifest itself so final review metadata can be added without circular hashing.",
+  "reviewed_artifacts": [
+    {
+      "path": ".gitignore",
+      "bytes": 19,
+      "sha256": "862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793"
+    },
+    {
+      "path": "data/capital-spending.csv",
+      "bytes": 235,
+      "sha256": "6b3e381571dc7518e151b90a33f94296131602ede51901ca2bd53713be1dc5df"
+    },
+    {
+      "path": "data/mfa-preliminary.xlsx",
+      "bytes": 12046,
+      "sha256": "c82be37685d1cce45718c58869383afec9024c2b20e3ebb1a90c91864fa8d25c"
+    },
+    {
+      "path": "data/reported-fee-collections.csv",
+      "bytes": 2549,
+      "sha256": "ab152e11f493f26ded1f3cc581ccdc03abbb85039801d1d3a07957bc0f38a4d9"
+    },
+    {
+      "path": "data/reported-fee-collections.json",
+      "bytes": 3715,
+      "sha256": "ec32dc66dfd9e03869cc6c9a86bb8171a1c00b87ded8cb49c86e6d27378e0735"
+    },
+    {
+      "path": "data/residential-cash-receipts.csv",
+      "bytes": 449,
+      "sha256": "116d0f4a92d0080bc9db93c150945baef366b88e18d66d882e625774d791d9eb"
+    },
+    {
+      "path": "data/residential-funded-shares.csv",
+      "bytes": 235,
+      "sha256": "6b3e381571dc7518e151b90a33f94296131602ede51901ca2bd53713be1dc5df"
+    },
+    {
+      "path": "docs/coverage.md",
+      "bytes": 2438,
+      "sha256": "4a7844999d0a4bdcbf921bf8ed210241c3a3b481c551fe78a4f9dca3364fa9a0"
+    },
+    {
+      "path": "docs/data-dictionary.md",
+      "bytes": 3028,
+      "sha256": "47b108f2ca0cf95e2e22717e6c3a51250190d25d19a88a4b47ed792fa224df25"
+    },
+    {
+      "path": "docs/methodology.md",
+      "bytes": 3210,
+      "sha256": "c8e15aa6af97a033d9596e1e8e333d7f0cfee080df40f559afe008bbf479c77e"
+    },
+    {
+      "path": "evidence/extracts/fremont-2020-21-p003.pdf",
+      "bytes": 343069,
+      "sha256": "03a54e28d196d28b59a10457f9017469103548bc1e5403bee1396b2f86d82316"
+    },
+    {
+      "path": "evidence/extracts/fremont-2020-21-p004.pdf",
+      "bytes": 343069,
+      "sha256": "b74b6f0d06f5e68b69b26823c818f3d75f1991d7bc659749ce03900f9ed63878"
+    },
+    {
+      "path": "evidence/extracts/fremont-2020-21-p006.pdf",
+      "bytes": 343069,
+      "sha256": "e7a5876a7b2c767179e53006b817900e42a22e86ac2e45f2cf0e27d111515c45"
+    },
+    {
+      "path": "evidence/extracts/fremont-2020-21-p017.pdf",
+      "bytes": 343069,
+      "sha256": "f70f0a83b1c4c29a75dc0c8dd531a0c99963a8797226757f8e139fa592b5bd6e"
+    },
+    {
+      "path": "evidence/highlights/fremont-2020-21-p003.pdf",
+      "bytes": 344041,
+      "sha256": "40d6b28f1496a5078a7a7ba78c61aedd0b0ff0466aaf3524cb68a1bbe393e9b9"
+    },
+    {
+      "path": "evidence/highlights/fremont-2020-21-p004.pdf",
+      "bytes": 344195,
+      "sha256": "fde3bb294c48fed5fa4f53663af4af9ab0ffe3bf12f70a8c8209198cdfbf0383"
+    },
+    {
+      "path": "evidence/highlights/fremont-2020-21-p006.pdf",
+      "bytes": 343949,
+      "sha256": "60050b4baaa8c0127737f35f9e505678ff6cdd4323ee6a91ddf54fedc1e0e2fe"
+    },
+    {
+      "path": "evidence/highlights/fremont-2020-21-p017.pdf",
+      "bytes": 343740,
+      "sha256": "96a258596d7a7f28a8a4d01e76e03b3b9d7bff5acb4181c781888b87db323983"
+    },
+    {
+      "path": "evidence/index.json",
+      "bytes": 5926,
+      "sha256": "3802d8e61f7eb8e58113084cba57e02dc313d6d9aa3bb0c70ee1ac98e0a4cfd5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2624,
+      "sha256": "a5dc3cf284b66ac37d0bbc72cdb8d7ba8a5248e6fb3dec6ed2323e1d704481ef"
+    },
+    {
+      "path": "sources/evergreen-2023-24.pdf",
+      "bytes": 170158,
+      "sha256": "1c0db88679eb086f6dbab6a012a3f44f7be642593c1fa499e5d1b14ee7447f27"
+    },
+    {
+      "path": "sources/fremont-2020-21.pdf",
+      "bytes": 215305,
+      "sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473"
+    },
+    {
+      "path": "sources/index.csv",
+      "bytes": 1525,
+      "sha256": "36ea431b7f12bb59045fd329fa2b2e9683f20c578eef1ba6498a6f26f0067985"
+    },
+    {
+      "path": "sources/index.json",
+      "bytes": 2408,
+      "sha256": "4ae34157491d6138afc374e636efeef259375b63883e6b0d0e56be6e59b6fad2"
+    },
+    {
+      "path": "sources/natomas-2024-25.pdf",
+      "bytes": 334540,
+      "sha256": "6042835392d614724b93f56bc7430c96d7af4dc3c397900c8ffc638eec919bc1"
+    },
+    {
+      "path": "sources/README.md",
+      "bytes": 1775,
+      "sha256": "6a136defc23833833564403ff6736a7d3b20c687e48f9eae4d25a0cb5bce0615"
+    },
+    {
+      "path": "validation/pdf_copy.py",
+      "bytes": 3192,
+      "sha256": "a75ddb7629ea00d5ece0b1859a0de4947e1be1ea1f7db9ff0e247a266b47e713"
+    },
+    {
+      "path": "validation/pdf_graph.py",
+      "bytes": 14859,
+      "sha256": "612e51473fd25af283cc74e653217a54986a8e2b1bd4980e4e7e47ea740ac782"
+    },
+    {
+      "path": "validation/requirements.txt",
+      "bytes": 49,
+      "sha256": "59a67599471e6d73c996e3103e79c9514075501590d0b2ed5d19d69edbe3463f"
+    },
+    {
+      "path": "validation/validate.py",
+      "bytes": 9028,
+      "sha256": "cf59e892e5edce5d46e981c7088974a13ef485a9fd6a84367580180451478818"
+    }
+  ],
+  "source_semantics": {
+    "passed": true,
+    "source_id": "fremont-2020-21",
+    "accepted_record_ids": [
+      "fremont-2020-21-parkland",
+      "fremont-2020-21-park-facilities"
+    ],
+    "amount_pages": [
+      4,
+      6
+    ],
+    "residential_attribution_page": 17,
+    "period_and_refund_context_page": 3,
+    "cash_status": "not_established",
+    "gross_or_net": "not_established"
+  },
+  "actual_visual_review": {
+    "passed": true,
+    "source_id": "fremont-2020-21",
+    "physical_pages": [
+      3,
+      4,
+      6,
+      17
+    ],
+    "full_original_highlight_pairs_actually_viewed": 4,
+    "finding": "Blue unfilled outlines correctly identify amount/label, residential applicability and relevant limitations; full page context remains readable."
+  },
+  "mechanical_reproduction": {
+    "passed": true,
+    "manifest_files": 31,
+    "source_reports": 3,
+    "reported_collection_rows": 2,
+    "verified_cash_rows": 0,
+    "funded_shares": 0,
+    "exact_evidence_pairs": 4,
+    "markdown_file_links": 19,
+    "privacy": {
+      "passed": true,
+      "scanned_payloads": 16821,
+      "archive_members": 15,
+      "pdf_objects": 16376
+    }
+  },
+  "provenance_links": {
+    "passed": true,
+    "internal_markdown_links": 19,
+    "workbook_public_hyperlinks": 11,
+    "scope": "Targets matched local release files; live remote verification is a separate publication step."
+  },
+  "privacy": {
+    "passed": true,
+    "scope": "Enumerated release artifacts, decoded PDF objects and streams, workbook archive members, document properties, and targeted operational-content scans."
+  },
+  "exclusion_checks": {
+    "passed": true,
+    "held_numeric_rows_in_data": 0,
+    "school_numeric_rows_released": 0,
+    "verified_residential_cash_rows": 0,
+    "verified_capital_spending_rows": 0,
+    "verified_funded_share_rows": 0,
+    "scope": "Original public reports and exact source pages retain their full source contents; unaccepted figures are excluded from analysis tables and summaries."
+  },
+  "limitations": [
+    "Preliminary selected sample, not statewide coverage",
+    "Annual reported collections do not establish cash accounting or comprehensive refunds",
+    "No residential fee-funded capital share established",
+    "School figures withheld; full public originals retained",
+    "Public remote readback and final corpus observation accounting remain separate requirements"
+  ]
+}

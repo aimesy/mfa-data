@@ -1,0 +1,50 @@
+[
+  {
+    "source_id": "fremont-2020-21",
+    "legal_entity": "City of Fremont",
+    "fiscal_year": "2020-21",
+    "source_type": "annual_developer_fee_report",
+    "fee_categories": "parks_recreation_open_space; transportation; fire_emergency_facilities; general_public_facilities",
+    "publication_title": "Development Impact Fee Annual Report for Period Ending June 30, 2021",
+    "publication_date": "2021-12-14",
+    "official_source_url": "https://abag.ca.gov/sites/default/files/documents/2023-09/Annual_Impact_Fee_Report_City_of_Fremont_FY20-21.pdf",
+    "original_pdf": "sources/fremont-2020-21.pdf",
+    "source_sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473",
+    "source_bytes": 215305,
+    "physical_pages": 17,
+    "data_status": "selected_reported_collections",
+    "selected_data_rows": 2
+  },
+  {
+    "source_id": "natomas-2024-25",
+    "legal_entity": "Natomas Unified School District",
+    "fiscal_year": "2024-25",
+    "source_type": "annual_and_five_year_developer_fee_report",
+    "fee_categories": "schools",
+    "publication_title": "Annual and Five-Year Developer Fee Report Fiscal Year 2024-2025",
+    "publication_date": null,
+    "official_source_url": "https://resources.finalsite.net/images/v1762276480/natomasunifiedorg/oxezqfuk3ewoi9mjsv8n/24-25AnnualandFive-YearDeveloperFeeReportFINALdocx.pdf",
+    "original_pdf": "sources/natomas-2024-25.pdf",
+    "source_sha256": "6042835392d614724b93f56bc7430c96d7af4dc3c397900c8ffc638eec919bc1",
+    "source_bytes": 334540,
+    "physical_pages": 5,
+    "data_status": "source_only_pdf_structure_hold",
+    "selected_data_rows": 0
+  },
+  {
+    "source_id": "evergreen-2023-24",
+    "legal_entity": "Evergreen Elementary School District",
+    "fiscal_year": "2023-24",
+    "source_type": "annual_developer_fee_report",
+    "fee_categories": "schools",
+    "publication_title": "Developer Fees Annual Report FY 2023-24",
+    "publication_date": null,
+    "official_source_url": "https://www.eesd.org/uploaded/documents/fiscal_services/2023-2024_Developer_Fee_Annual_Report.pdf",
+    "original_pdf": "sources/evergreen-2023-24.pdf",
+    "source_sha256": "1c0db88679eb086f6dbab6a012a3f44f7be642593c1fa499e5d1b14ee7447f27",
+    "source_bytes": 170158,
+    "physical_pages": 2,
+    "data_status": "source_only_figures_withheld",
+    "selected_data_rows": 0
+  }
+]

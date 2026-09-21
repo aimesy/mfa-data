@@ -1,0 +1,199 @@
+[
+  {
+    "source_id": "fremont-2020-21",
+    "source_pdf": "sources/fremont-2020-21.pdf",
+    "source_sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473",
+    "physical_pdf_page": 3,
+    "extract_pdf": "evidence/extracts/fremont-2020-21-p003.pdf",
+    "extract_sha256": "03a54e28d196d28b59a10457f9017469103548bc1e5403bee1396b2f86d82316",
+    "highlight_pdf": "evidence/highlights/fremont-2020-21-p003.pdf",
+    "highlight_sha256": "40d6b28f1496a5078a7a7ba78c61aedd0b0ff0466aaf3524cb68a1bbe393e9b9",
+    "original_annotation_count": 0,
+    "original_annots_present": false,
+    "added_annotations": 2,
+    "reviewed_text": [
+      {
+        "text": "When a developer pays",
+        "rectangles": [
+          [
+            417.5999755859375,
+            225.4800262451172,
+            535.66796875,
+            241.64402770996094
+          ]
+        ]
+      },
+      {
+        "text": "no refunds pursuant",
+        "rectangles": [
+          [
+            264.48004150390625,
+            591.2400512695312,
+            359.0160217285156,
+            607.404052734375
+          ]
+        ]
+      }
+    ],
+    "exact_graph_equal": true,
+    "native_text_equal": true,
+    "pixels_equal": true,
+    "renderer_warnings": []
+  },
+  {
+    "source_id": "fremont-2020-21",
+    "source_pdf": "sources/fremont-2020-21.pdf",
+    "source_sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473",
+    "physical_pdf_page": 4,
+    "extract_pdf": "evidence/extracts/fremont-2020-21-p004.pdf",
+    "extract_sha256": "b74b6f0d06f5e68b69b26823c818f3d75f1991d7bc659749ce03900f9ed63878",
+    "highlight_pdf": "evidence/highlights/fremont-2020-21-p004.pdf",
+    "highlight_sha256": "fde3bb294c48fed5fa4f53663af4af9ab0ffe3bf12f70a8c8209198cdfbf0383",
+    "original_annotation_count": 1,
+    "original_annots_present": true,
+    "added_annotations": 4,
+    "reviewed_text": [
+      {
+        "text": "new residential development",
+        "rectangles": [
+          [
+            393.72003173828125,
+            128.16001892089844,
+            530.2559204101562,
+            144.3240203857422
+          ]
+        ]
+      },
+      {
+        "text": "Fees Collected:",
+        "rectangles": [
+          [
+            108.0,
+            576.3599853515625,
+            182.2559814453125,
+            592.5239868164062
+          ]
+        ]
+      },
+      {
+        "text": "$7,398,609",
+        "rectangles": [
+          [
+            191.2799835205078,
+            576.3599853515625,
+            245.2799835205078,
+            592.5239868164062
+          ]
+        ]
+      },
+      {
+        "text": "received in lieu",
+        "rectangles": [
+          [
+            299.51776123046875,
+            661.56005859375,
+            372.71661376953125,
+            677.7240600585938
+          ]
+        ]
+      }
+    ],
+    "exact_graph_equal": true,
+    "native_text_equal": true,
+    "pixels_equal": true,
+    "renderer_warnings": []
+  },
+  {
+    "source_id": "fremont-2020-21",
+    "source_pdf": "sources/fremont-2020-21.pdf",
+    "source_sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473",
+    "physical_pdf_page": 6,
+    "extract_pdf": "evidence/extracts/fremont-2020-21-p006.pdf",
+    "extract_sha256": "e7a5876a7b2c767179e53006b817900e42a22e86ac2e45f2cf0e27d111515c45",
+    "highlight_pdf": "evidence/highlights/fremont-2020-21-p006.pdf",
+    "highlight_sha256": "60050b4baaa8c0127737f35f9e505678ff6cdd4323ee6a91ddf54fedc1e0e2fe",
+    "original_annotation_count": 1,
+    "original_annots_present": true,
+    "added_annotations": 3,
+    "reviewed_text": [
+      {
+        "text": "new residential development",
+        "rectangles": [
+          [
+            120.59999084472656,
+            140.75999450683594,
+            243.0961151123047,
+            156.9239959716797
+          ]
+        ]
+      },
+      {
+        "text": "Fees Collected:",
+        "rectangles": [
+          [
+            94.55999755859375,
+            585.3599853515625,
+            168.8159942626953,
+            601.5239868164062
+          ]
+        ]
+      },
+      {
+        "text": "$7,856,947",
+        "rectangles": [
+          [
+            177.83999633789062,
+            585.3599853515625,
+            231.83999633789062,
+            601.5239868164062
+          ]
+        ]
+      }
+    ],
+    "exact_graph_equal": true,
+    "native_text_equal": true,
+    "pixels_equal": true,
+    "renderer_warnings": []
+  },
+  {
+    "source_id": "fremont-2020-21",
+    "source_pdf": "sources/fremont-2020-21.pdf",
+    "source_sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473",
+    "physical_pdf_page": 17,
+    "extract_pdf": "evidence/extracts/fremont-2020-21-p017.pdf",
+    "extract_sha256": "f70f0a83b1c4c29a75dc0c8dd531a0c99963a8797226757f8e139fa592b5bd6e",
+    "highlight_pdf": "evidence/highlights/fremont-2020-21-p017.pdf",
+    "highlight_sha256": "96a258596d7a7f28a8a4d01e76e03b3b9d7bff5acb4181c781888b87db323983",
+    "original_annotation_count": 0,
+    "original_annots_present": false,
+    "added_annotations": 2,
+    "reviewed_text": [
+      {
+        "text": "Residential uses pay all five fees listed above.",
+        "rectangles": [
+          [
+            71.5169906616211,
+            647.280029296875,
+            236.94520568847656,
+            659.4030151367188
+          ]
+        ]
+      },
+      {
+        "text": "Non-residential uses pay three fees",
+        "rectangles": [
+          [
+            71.51698303222656,
+            659.280029296875,
+            197.2926788330078,
+            671.4030151367188
+          ]
+        ]
+      }
+    ],
+    "exact_graph_equal": true,
+    "native_text_equal": true,
+    "pixels_equal": true,
+    "renderer_warnings": []
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "schema": "mfa-release-review/v1",
+  "release_stage": "preliminary",
+  "source_semantics": {
+    "passed": true,
+    "scope": "Two Fremont annual reported residential collection amounts; cash and gross/net basis remain unresolved.",
+    "record_ids": [
+      "fremont-2020-21-parkland",
+      "fremont-2020-21-park-facilities"
+    ],
+    "amount_pages": [
+      4,
+      6
+    ],
+    "residential_attribution_page": 17,
+    "period_and_refund_scope_page": 3
+  },
+  "actual_visual_review": {
+    "passed": true,
+    "scope": "Primary reviewer inspected full original pages and all four corrected highlighted pages. Blue rectangles identify the collection labels/amounts, residential applicability and contextual limitations without changing source content.",
+    "source_id": "fremont-2020-21",
+    "physical_pages": [
+      3,
+      4,
+      6,
+      17
+    ]
+  },
+  "independent_review": {
+    "passed": true,
+    "status": "approved_for_preliminary_publication",
+    "evidence_path": "validation/independent-review.json",
+    "evidence_sha256": "c5e530034963d95dca61bb23f53c5a52bac4fab95e38a5e8abfbbfc6e2a99a76"
+  },
+  "limits": {
+    "verified_residential_cash_rows": 0,
+    "verified_capital_spending_rows": 0,
+    "verified_funded_share_rows": 0,
+    "school_numeric_rows_released": 0,
+    "statewide_coverage_complete": false,
+    "source_only_pdf_warning": "Natomas original has duplicate destination dictionary entries. The original is preserved; its numeric data and derivatives are withheld."
+  }
+}
