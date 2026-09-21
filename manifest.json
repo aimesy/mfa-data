@@ -14,8 +14,8 @@
     },
     {
       "path": "data/mfa-preliminary.xlsx",
-      "bytes": 12046,
-      "sha256": "c82be37685d1cce45718c58869383afec9024c2b20e3ebb1a90c91864fa8d25c"
+      "bytes": 12335,
+      "sha256": "823884ecd62105983c1cbc29fb4f0e48b98356293fa4caf991920df484a4e7a5"
     },
     {
       "path": "data/reported-fee-collections.csv",
@@ -39,8 +39,8 @@
     },
     {
       "path": "docs/coverage.md",
-      "bytes": 2438,
-      "sha256": "4a7844999d0a4bdcbf921bf8ed210241c3a3b481c551fe78a4f9dca3364fa9a0"
+      "bytes": 3007,
+      "sha256": "466d911414046c37c9ccdbeb7f1ef0dee1fe25b4e745665bb380120805fbfe6c"
     },
     {
       "path": "docs/data-dictionary.md",
@@ -99,8 +99,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 2624,
-      "sha256": "a5dc3cf284b66ac37d0bbc72cdb8d7ba8a5248e6fb3dec6ed2323e1d704481ef"
+      "bytes": 2641,
+      "sha256": "c2a2d3878879979953f74bbc56026d2ee8c34339dbe5447c1a8e23f09725fbb5"
+    },
+    {
+      "path": "sources/corona-2024-25.pdf",
+      "bytes": 2879030,
+      "sha256": "df6de2fe78cfdf6c5924f6568589330315f9544d08fad3df2fa7de2d3da879eb"
     },
     {
       "path": "sources/evergreen-2023-24.pdf",
@@ -114,13 +119,13 @@
     },
     {
       "path": "sources/index.csv",
-      "bytes": 1525,
-      "sha256": "36ea431b7f12bb59045fd329fa2b2e9683f20c578eef1ba6498a6f26f0067985"
+      "bytes": 2059,
+      "sha256": "a4faecd7e3c3fbc968ac70f21dd840fa4ca11bb49238b9c9d91ae89ae039645f"
     },
     {
       "path": "sources/index.json",
-      "bytes": 2408,
-      "sha256": "4ae34157491d6138afc374e636efeef259375b63883e6b0d0e56be6e59b6fad2"
+      "bytes": 3302,
+      "sha256": "29f5a38956fc4123ef9a1846a5407f5ad8158b824eef34b7ae77925d83321f1d"
     },
     {
       "path": "sources/natomas-2024-25.pdf",
@@ -129,13 +134,13 @@
     },
     {
       "path": "sources/README.md",
-      "bytes": 1775,
-      "sha256": "6a136defc23833833564403ff6736a7d3b20c687e48f9eae4d25a0cb5bce0615"
+      "bytes": 2291,
+      "sha256": "dde29e1e9067db111cfcb6b5610097d8ed998d8c86bd65d14d47cdf8878efedc"
     },
     {
       "path": "validation/independent-review.json",
-      "bytes": 8260,
-      "sha256": "c5e530034963d95dca61bb23f53c5a52bac4fab95e38a5e8abfbbfc6e2a99a76"
+      "bytes": 7858,
+      "sha256": "f9af6dc39dad81a286b9f065df04183cfe2a3610a9d8a6a9b7339478f5354895"
     },
     {
       "path": "validation/pdf_copy.py",
@@ -154,13 +159,13 @@
     },
     {
       "path": "validation/review.json",
-      "bytes": 1556,
-      "sha256": "737992623d91787e73342292dd0703b21b7f4c4cf8fc1c8d03e6fb02f8285270"
+      "bytes": 2096,
+      "sha256": "e0e2818086284fde85457ad325ea9de2bf4000ea2bfed8e9c87ea264ff52c1bd"
     },
     {
       "path": "validation/validate.py",
-      "bytes": 9028,
-      "sha256": "cf59e892e5edce5d46e981c7088974a13ef485a9fd6a84367580180451478818"
+      "bytes": 9368,
+      "sha256": "867172f6437eb5ee593e3f8c6b1d3fcc00caa5e8598190b93a17569a31abd02c"
     }
   ]
 }

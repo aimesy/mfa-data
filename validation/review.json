@@ -28,9 +28,9 @@
   },
   "independent_review": {
     "passed": true,
-    "status": "approved_for_preliminary_publication",
+    "status": "approved_for_preliminary_source_collection_update",
     "evidence_path": "validation/independent-review.json",
-    "evidence_sha256": "c5e530034963d95dca61bb23f53c5a52bac4fab95e38a5e8abfbbfc6e2a99a76"
+    "evidence_sha256": "f9af6dc39dad81a286b9f065df04183cfe2a3610a9d8a6a9b7339478f5354895"
   },
   "limits": {
     "verified_residential_cash_rows": 0,
@@ -38,6 +38,15 @@
     "verified_funded_share_rows": 0,
     "school_numeric_rows_released": 0,
     "statewide_coverage_complete": false,
-    "source_only_pdf_warning": "Natomas original has duplicate destination dictionary entries. The original is preserved; its numeric data and derivatives are withheld."
+    "source_only_pdf_warning": "Natomas original has duplicate destination dictionary entries. The original is preserved; its numeric data and derivatives are withheld.",
+    "corona_numeric_rows_released": 0
+  },
+  "source_collection": {
+    "passed": true,
+    "complete_original_reports": 4,
+    "new_source_id": "corona-2024-25",
+    "new_source_status": "source_only_figures_withheld",
+    "new_source_sha256": "df6de2fe78cfdf6c5924f6568589330315f9544d08fad3df2fa7de2d3da879eb",
+    "scope": "City report index directly links the preserved original; new official download matches exact bytes. Source privacy review passes. No Corona financial figures are accepted into data tables."
   }
 }

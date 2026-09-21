@@ -1,6 +1,6 @@
 # California impact-fee reports and reviewed data
 
-This preliminary collection contains **three complete public reports and two reviewed reported-collection rows**. It is a small research sample, not statewide coverage. The selected figures have source, land-use, page, exact-PDF and visual review; **cash accounting and residential-funded capital shares are not established**.
+This preliminary collection contains **four complete public reports and two reviewed reported-collection rows**. It is a small research sample, not statewide coverage. The selected figures have source, land-use, page, exact-PDF and visual review; **cash accounting and residential-funded capital shares are not established**.
 
 | Receiving entity | Fiscal year | Fee program | Reported collections | Evidence |
 |---|---|---|---:|---|

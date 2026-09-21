@@ -89,10 +89,12 @@ def main():
  for sheet,csvname in [('Residential cash','residential-cash-receipts'),('Capital spending','capital-spending'),('Funded shares','residential-funded-shares')]:
   assert wb[sheet].max_row==1
   with (ROOT/'data'/f'{csvname}.csv').open(newline='',encoding='utf-8') as f:assert list(next(wb[sheet].values))==next(csv.reader(f))
- index=read('sources/index.json');assert len(index)==3 and sum(p['selected_data_rows'] for p in index)==n
+ index=read('sources/index.json');assert len(index)==4 and sum(p['selected_data_rows'] for p in index)==n
  values=list(wb['Source index'].values);assert list(values[0])==list(index[0])
  assert [list(p.values()) for p in index]==[list(v) for v in values[1:]]
  with (ROOT/'sources/index.csv').open(newline='',encoding='utf-8') as f:assert list(csv.DictReader(f))==[{k:'' if v is None else str(v) for k,v in p.items()} for p in index]
+ assert {p['source_id'] for p in index}=={'fremont-2020-21','natomas-2024-25','evergreen-2023-24','corona-2024-25'}
+ assert all(p['selected_data_rows']==0 for p in index if p['source_id']!='fremont-2020-21')
  for p in index:
   f=local(p['original_pdf']);assert sha(f)==p['source_sha256'] and f.stat().st_size==p['source_bytes']
   with pymupdf.open(f) as d:assert len(d)==p['physical_pages']

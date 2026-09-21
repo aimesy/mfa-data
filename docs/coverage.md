@@ -1,6 +1,6 @@
 # Coverage and gaps
 
-This preliminary release covers three selected reports: Fremont FY2020–21, Evergreen Elementary School District FY2023–24, and Natomas Unified School District FY2024–25. Only two Fremont collection rows are released. The selection favors reports that can be checked against full originals; it is not a statistical sample.
+This preliminary release covers four selected reports: Fremont FY2020–21, Evergreen Elementary School District FY2023–24, Natomas Unified School District FY2024–25, and Corona FY2024–25. Only two Fremont collection rows are released. The selection favors reports that can be checked against full originals; it is not a statistical sample.
 
 | Question | Current result | Missing evidence |
 |---|---|---|
@@ -15,3 +15,5 @@ Evergreen's outflow classification remains unresolved, and the annual statement 
 Fremont's park-facilities spending table has a one-dollar difference between its printed total and the sum of its detail rows. Its project-cost columns do not establish a comparable annual citywide capital denominator. A malformed printed closing-balance token and inconsistent parkland rate schedules are preserved in the original; none is corrected or used to generate the released collection amounts. Published scope is limited to the separately identified annual collections and residential applicability.
 
 No catalogue count or registry-filing count is a statewide coverage denominator. Missing data and unpublished data are not zero. No state total, growth rate, representative average or financing share is estimated from this sample. The wider research corpus and its unresolved observations remain outside the public data tables.
+
+Corona is available as a complete source report, with no financial rows accepted into the data tables. Dash entries do not establish numeric zeros. The report draws on annual financial statements and adjusts some opening balances for available project resources; this does not establish cash receipts. Its refund statement is limited to non-compliance, and budgets, appropriations, transfers, debt service and actual capital costs require separate treatment. These limitations also prevent a residential financing-share estimate.
