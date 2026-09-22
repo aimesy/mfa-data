@@ -2,7 +2,7 @@
 
 Every file in this directory is a **complete original government report**, byte for byte as retrieved from the issuing agency or its publishing platform. Nothing here is a summary, a re-typeset copy or a screenshot. Each file's SHA-256 is recorded in [`index.csv`](index.csv), in [`../manifest.json`](../manifest.json) and beside every data row that cites it, and the copy in this repository was re-hashed after copying to confirm the bytes did not change.
 
-These reports cover 43 receiving entities and fiscal years 2013–14 to 2024–25. Nine El Dorado County special districts file inside one combined county document; that document is published once under a hash-derived name and every district's rows cite it with their own page.
+This directory holds **52 files carrying 61 publication records**, covering 43 receiving entities and fiscal years 2013–14 to 2024–25. There are fewer files than publications because some agencies file inside a shared document: nine El Dorado County special districts appear in one combined county filing, and the American Canyon Fire Protection District's two fiscal years are in one document. A shared document is published once under a hash-derived name, and every publication that uses those bytes cites the same file with its own page. Each publication still has its own row in [`index.csv`](index.csv).
 
 ## How to find a figure in a report
 
