@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T20:44:48.561865+00:00",
- "data_rows": 1018,
- "distinct_printed_figures": 850,
- "receiving_entities": 106,
- "agency_years": 218,
- "fee_programs": 501,
- "source_reports": 195,
- "evidence_pairs": 850,
+ "built_utc": "2026-09-22T21:01:27.983455+00:00",
+ "data_rows": 1052,
+ "distinct_printed_figures": 884,
+ "receiving_entities": 108,
+ "agency_years": 222,
+ "fee_programs": 518,
+ "source_reports": 199,
+ "evidence_pairs": 884,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1920,
- "total_bytes": 478033305,
+ "file_count": 1992,
+ "total_bytes": 486869174,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 10260,
-   "sha256": "e814067a228e0efac0abb567ff59067650282f8fe5e9d22933a21ec629df48df"
+   "bytes": 10384,
+   "sha256": "312997a103ad81a6d05e0943465095bff8b6aeb50497eeda2569bf762a83abc3"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1265,
-   "sha256": "6e358001caa77f1f31e93eddbf2693d3bd75a405b1306e2fb67936028d01e408"
+   "sha256": "35ac5b8c4e066c4103bae7fa513165f21c9b7950b62e42b3cedd90c20a92999c"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 410080,
-   "sha256": "1f106f71cb14824089fc475b8c49e3bc9b957e1ca8e57c728fc956cf16bf9c77"
+   "bytes": 421166,
+   "sha256": "de271d6fcfecf4b87c45ac1be6c97984ddf14e19ac9baedd042254ac8a1fdd55"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2210785,
-   "sha256": "24979a3e2e37ce1fa52d90d11b91b26f4971bdeb5b6cbdfc168a61c259660f8a"
+   "bytes": 2278195,
+   "sha256": "606c77a40a37e78447beb8c6dfd66d246d96ae3ef7d41e61be9b4162900c491b"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 3264434,
-   "sha256": "bac60650b940f3e073929323e414a995acd56968841b68b687d2a3b856907814"
+   "bytes": 3367104,
+   "sha256": "17ccb8a26f9e2a6148895a2e2e6041023e0ba755b41ff66ab6d5ba26dbcc2d7a"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -870,6 +870,46 @@
    "path": "evidence/extracts/city-of-east-palo-alto-p017-a2d48e43.pdf",
    "bytes": 57163,
    "sha256": "b6cd6bdb81b5bb6fa073a0cfe3851f69f2a674cc7f1be389165d8a23ca4f36cd"
+  },
+  {
+   "path": "evidence/extracts/city-of-eastvale-p005-27dbb411.pdf",
+   "bytes": 141192,
+   "sha256": "c44e10621cde49295989123d8d2c44dbb1e256f2c756df576b657d66b982cb36"
+  },
+  {
+   "path": "evidence/extracts/city-of-eastvale-p005-2a096aaa.pdf",
+   "bytes": 141192,
+   "sha256": "e6e0a76d783923a9327553cf0d42e67f822a59538f6e5e3d98293faadc57a05f"
+  },
+  {
+   "path": "evidence/extracts/city-of-eastvale-p005-30a76342.pdf",
+   "bytes": 141192,
+   "sha256": "3129842cdc9465826066d0adfd84d14bdb525f2e8c5926505b8a7de47870aac4"
+  },
+  {
+   "path": "evidence/extracts/city-of-eastvale-p005-90f23809.pdf",
+   "bytes": 141192,
+   "sha256": "33466c0b3b2adde6c11c5f7bcfa2648f5289e23bfb94d5810508be383775577a"
+  },
+  {
+   "path": "evidence/extracts/city-of-eastvale-p008-2bfb87c2.pdf",
+   "bytes": 80099,
+   "sha256": "8cc3d5fc81fbbadfe864ea6e1f79930ce22bb3b4046e5d2e3311718a65301ba1"
+  },
+  {
+   "path": "evidence/extracts/city-of-eastvale-p008-709e3ea9.pdf",
+   "bytes": 80099,
+   "sha256": "c13432169ca762137235bc6b840a4df0e5acae5e1be36346591415fefc4dcc10"
+  },
+  {
+   "path": "evidence/extracts/city-of-eastvale-p008-88aa877d.pdf",
+   "bytes": 80099,
+   "sha256": "e173fdf5bdc1de2b7ce64d8f8b357a9d3af877fdbb46c9182bdb45a994fbaf6c"
+  },
+  {
+   "path": "evidence/extracts/city-of-eastvale-p008-f7fde336.pdf",
+   "bytes": 80099,
+   "sha256": "35069094fb4586e44ab1b80a376b33c724f24c2e9d8760d6bc32c4dc956d0bb0"
   },
   {
    "path": "evidence/extracts/city-of-fontana-p004-07638bbc.pdf",
@@ -3182,6 +3222,136 @@
    "sha256": "9c83ee380677f52259384a9b4d3065b942ee16d4ba19196b31c594307eaeac39"
   },
   {
+   "path": "evidence/extracts/city-of-wildomar-p011-009ab996.pdf",
+   "bytes": 47753,
+   "sha256": "77b9602c42e7a9ff4bf85e000dab35c93f1ba963f580f5bcf942c1348f95d1af"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-0e1e5782.pdf",
+   "bytes": 47753,
+   "sha256": "c48035e2571bad48c7b7614523a50f0fe32377f29ebf9180b50fc7d0d1875262"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-10e26959.pdf",
+   "bytes": 55974,
+   "sha256": "7aa1748aed2462958107c3c1badfc521584861bb5960143fc2433bf05b496d81"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-15bfe438.pdf",
+   "bytes": 55974,
+   "sha256": "df07d75f9a7dbe9473c4d7be92c41a7cbf557cdd468d39d418b4e88ea03c2636"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-1ff5aceb.pdf",
+   "bytes": 55974,
+   "sha256": "368b92bef7dc57532e692f717bee9a8fd547d75655e9d75327f65dd467f312d9"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-21734fb5.pdf",
+   "bytes": 55974,
+   "sha256": "4f0020b43871566f1f8b3087567594f66aa2d34828ec84175ecae42233672530"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-327c1f7e.pdf",
+   "bytes": 55974,
+   "sha256": "12535a10056c8a8b4e1d8280435f91796784fa757f6c9f19bcd3e3ce99e55368"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-56064a24.pdf",
+   "bytes": 47753,
+   "sha256": "807fcc2a46a57a417169f8769579adbb1822fee0b8ce7bb50d299d88712046c1"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-5ca5cffb.pdf",
+   "bytes": 47753,
+   "sha256": "8536fdcbbe9c66f6faad283fff6df883aff1cc38849f72c281fce8027111e402"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-618e41da.pdf",
+   "bytes": 47753,
+   "sha256": "4bc606937a80aea26f574a1aebd8bf11f0204d8dfa6c03904dcdaed1807e74b1"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-6283cc8c.pdf",
+   "bytes": 55974,
+   "sha256": "451a9ea0a17a9d07bbd0e0f6ab2e0a85cfa56bd76fcb28d2a7728c9095fdd51d"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-6c42db43.pdf",
+   "bytes": 55974,
+   "sha256": "4cec71ed1a2b67025e115fe0a36567a63f8058978c1fdfe8d191cc8c06de3d86"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-7e1206a4.pdf",
+   "bytes": 47753,
+   "sha256": "d7f72110f982ecf473cc140cb5017b4604c0beef220c3f577dd5f163504de41f"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-81cb3978.pdf",
+   "bytes": 47753,
+   "sha256": "de08b6deee8ffc1eec938ea9c94d1a771f685a29e198f264677850337f142c93"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-86a78de5.pdf",
+   "bytes": 47753,
+   "sha256": "92b79ea38316cb1587a6bcf20d4f880702d6d680c642aa3d3b729e7053f20b26"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-8acfafb4.pdf",
+   "bytes": 55974,
+   "sha256": "3465035a83a3dddeb887d124952485030b8a009d05b34627e0364df2dd066e31"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-9eb91509.pdf",
+   "bytes": 55974,
+   "sha256": "deab8d921fe92671a05aba6886fff84cda5e9b62b2fdf16a9795b0f6a14377ed"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-a2c5e941.pdf",
+   "bytes": 47753,
+   "sha256": "0d81077ee174ed9faf083afda677e6d021c79e6ab0c0b42806c874a91b0d32be"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-a47b81f0.pdf",
+   "bytes": 55974,
+   "sha256": "99a56b61dc3cec843b1b6d3f0fb0ef6dc46a0ce5cc2ec53d0ad5f4bc90d4d7e6"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-ba57c171.pdf",
+   "bytes": 55974,
+   "sha256": "307e7cfb6990d55cf0453bf346ad1bfbc1553642c7f5eee6bdb96c0b8186e3ef"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-c1baa138.pdf",
+   "bytes": 55974,
+   "sha256": "be881369e163d08e4ae40ee429bf529758d3bd0a8dfe5e4799c924c8af9a8f5c"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-d4a0d93c.pdf",
+   "bytes": 47753,
+   "sha256": "e4ec21b78d463e5c309d733c848e450be556ebd798ed1e08c926ece4546051dc"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-d7664b16.pdf",
+   "bytes": 47753,
+   "sha256": "c1d722815a1536e6c7e7eedade07e12ee680efb3fd56293f2d3a2f45bacb9810"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-d7a1301e.pdf",
+   "bytes": 47753,
+   "sha256": "9a43476c0cd787735549bae15e6764b625f7e9aa0df7a2b317070c36ec723d3b"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-ef106ff9.pdf",
+   "bytes": 55974,
+   "sha256": "754f5e9086e2bf08fa0c9099f64ce8423ec5b4cdd2ccfde937b6ad8169b70bb6"
+  },
+  {
+   "path": "evidence/extracts/city-of-wildomar-p011-f71ed614.pdf",
+   "bytes": 47753,
+   "sha256": "4ebb3e321a83a0afcaaebd597783e8aa5bcd36b6ed571bc10d7d995f84902626"
+  },
+  {
    "path": "evidence/extracts/city-of-willows-p004-e538dbc2.pdf",
    "bytes": 33320,
    "sha256": "470ff7126c984fab82698ae9a8fe483df6d360412e83a2e47695906c58a60605"
@@ -4348,8 +4518,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 893105,
-   "sha256": "f993dc3c7816ae505f9abe60b47125e8e85aca5a2f0d29f59322ab9e81ce0052"
+   "bytes": 927301,
+   "sha256": "ef7e2367732133671e6147665c725c26e09a7641fe01771433cd2317a3dc083b"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -5125,6 +5295,46 @@
    "path": "evidence/outlined/city-of-east-palo-alto-p017-a2d48e43.pdf",
    "bytes": 57218,
    "sha256": "de50c53f510482201d18467a7ebba5a716f6009d51658555fe6c2e8308c05717"
+  },
+  {
+   "path": "evidence/outlined/city-of-eastvale-p005-27dbb411.pdf",
+   "bytes": 141250,
+   "sha256": "c797b21572ecb3504c06916783ebc739f16a13fe638cbd06e0afd4a2be3528b3"
+  },
+  {
+   "path": "evidence/outlined/city-of-eastvale-p005-2a096aaa.pdf",
+   "bytes": 141253,
+   "sha256": "6abb4ae8133490c5b8c773edfb951f7f789054c1dca93a2a0349e5c1a1ccf41c"
+  },
+  {
+   "path": "evidence/outlined/city-of-eastvale-p005-30a76342.pdf",
+   "bytes": 141252,
+   "sha256": "700b432ed5b9d6aaa853634e80588915d83d88f7b2101a3081f2aee08040c015"
+  },
+  {
+   "path": "evidence/outlined/city-of-eastvale-p005-90f23809.pdf",
+   "bytes": 141253,
+   "sha256": "51b9444b096521f143a376fe0d92a9e693b6149c929bc0e046d242cbcfc79d0e"
+  },
+  {
+   "path": "evidence/outlined/city-of-eastvale-p008-2bfb87c2.pdf",
+   "bytes": 80153,
+   "sha256": "48ed607cd625cee84bce8c810a7a227087f64fc933bc267232f9cfaa1f170a50"
+  },
+  {
+   "path": "evidence/outlined/city-of-eastvale-p008-709e3ea9.pdf",
+   "bytes": 80153,
+   "sha256": "ee50a97e7db67e673b4f7ed47c3f633219c8c085edc109d391a5fa42faf2acb3"
+  },
+  {
+   "path": "evidence/outlined/city-of-eastvale-p008-88aa877d.pdf",
+   "bytes": 80155,
+   "sha256": "9f66d602127572450d2169501648722748a3e3530f502dc1c14eba1240075130"
+  },
+  {
+   "path": "evidence/outlined/city-of-eastvale-p008-f7fde336.pdf",
+   "bytes": 80156,
+   "sha256": "96d7923e75ed50500226398bb080f2117674ce87d1240a8d31297bd9b3d2a88b"
   },
   {
    "path": "evidence/outlined/city-of-fontana-p004-07638bbc.pdf",
@@ -7437,6 +7647,136 @@
    "sha256": "26fca6a6bcaa0c73d8c5d183bb6cf2b4e71242be1778d3b1e1741409849d5d43"
   },
   {
+   "path": "evidence/outlined/city-of-wildomar-p011-009ab996.pdf",
+   "bytes": 47808,
+   "sha256": "809ba9d0978a1abdc7149f49d402d39f1cd934a1271ff80e34ef5f08af4a7e67"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-0e1e5782.pdf",
+   "bytes": 47812,
+   "sha256": "813b4a3c42734c34ee3801164f85e1ee8a4b62f8e8ba12dc99f0bdcd3e78a960"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-10e26959.pdf",
+   "bytes": 56038,
+   "sha256": "15066c4a8b7850dc09cd74c0017860f2814f4df4f3b57ada23c5e47db5491e55"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-15bfe438.pdf",
+   "bytes": 56035,
+   "sha256": "606589b17974f1e111515ca6663a03be8d6e93258f9c4f2c64548a5699cb080d"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-1ff5aceb.pdf",
+   "bytes": 56037,
+   "sha256": "48b70255e366dc6d88cca8acc57c4ac6af610ad5b0e3abe1a7ac48b85b0218a8"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-21734fb5.pdf",
+   "bytes": 56038,
+   "sha256": "2cad77cddd602ee198531f092e7bdf1cb75830330abcb40aa6da8d17c487afe0"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-327c1f7e.pdf",
+   "bytes": 56036,
+   "sha256": "ab5be2484348fd894ad68ed4ae6d7659912a93c5c273faec61c6617b85401e91"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-56064a24.pdf",
+   "bytes": 47811,
+   "sha256": "7f9b4d89b37b25414bd229bd2048d66be52200412fcd17b6b9db67fb2cec6403"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-5ca5cffb.pdf",
+   "bytes": 47809,
+   "sha256": "23bcd08a49d2a01759da87f3d7391f7f977c117d25a40a695ca2f0809151673c"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-618e41da.pdf",
+   "bytes": 47807,
+   "sha256": "cf4a99a55c30d9788c020b8f01b20b35434ae277847994c6b24ae6a0bae29ba0"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-6283cc8c.pdf",
+   "bytes": 56033,
+   "sha256": "e5912bc0e67602c56c82657f1561750dd1550255ca951e97ec8def6292ad45ea"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-6c42db43.pdf",
+   "bytes": 56035,
+   "sha256": "e6ba42e0c4624d9e2f63bdc8482350dc6b7cd09297cb2d004920bc30f5d6738c"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-7e1206a4.pdf",
+   "bytes": 47809,
+   "sha256": "1e108dacfb2f0aa004dfeefbd5fe0571c3f6c34b9df69d4b3f7563e3b0c8841b"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-81cb3978.pdf",
+   "bytes": 47813,
+   "sha256": "47e3789e42459a078ded8ad551548b453a78975c3cbf389ecebb74a09a21a04d"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-86a78de5.pdf",
+   "bytes": 47811,
+   "sha256": "26b5dc752059cc6d20ceb43692c20472a9f74d3a52509663e29fe9b19dda37ab"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-8acfafb4.pdf",
+   "bytes": 56033,
+   "sha256": "64d713ecaa8461d2ce89786884724e19f338691e7a0813fdcee5c13f6def5070"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-9eb91509.pdf",
+   "bytes": 56036,
+   "sha256": "9111fcbeb52b044a3547208fafdaeb3ff988896b6333dcf89221d683f9ba3dac"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-a2c5e941.pdf",
+   "bytes": 47813,
+   "sha256": "60725f7d7d3c589f254c70aaba0b8246c29c4e90b9404a370f9457ac5224c64e"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-a47b81f0.pdf",
+   "bytes": 56038,
+   "sha256": "fc1ff267da0355958ba897dbf37bf791ebf6c683b87a896ccc2fcc12e53a2e15"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-ba57c171.pdf",
+   "bytes": 56035,
+   "sha256": "cead1e6579eb999485675dececcf2268a4accf1c9c8e794bb8856850882f969e"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-c1baa138.pdf",
+   "bytes": 56038,
+   "sha256": "060cddd26cbc2a4363537cd90544916ce29c38959afd751f0279220a77c5ba1d"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-d4a0d93c.pdf",
+   "bytes": 47812,
+   "sha256": "000b20f177f6698651ec383b13708cb1f35b86b3ffe1f61321894e9646a05c4b"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-d7664b16.pdf",
+   "bytes": 47809,
+   "sha256": "abeafc71b47005f06c3ef8a8adb65a39bf51663c8f58e31905ba2ba75f687b49"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-d7a1301e.pdf",
+   "bytes": 47810,
+   "sha256": "189f98fb78b059965de51ba17babaa4239fc49108235add371a6553056a31eb7"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-ef106ff9.pdf",
+   "bytes": 56033,
+   "sha256": "6d917af2eacb9de7c5303d1d77612f62489fc2256c6d39133c971ce7a34d1423"
+  },
+  {
+   "path": "evidence/outlined/city-of-wildomar-p011-f71ed614.pdf",
+   "bytes": 47810,
+   "sha256": "1b10e7681f8c73ee0de43018122c16014922b738474ee84d8f3ec45cb15994eb"
+  },
+  {
    "path": "evidence/outlined/city-of-willows-p004-e538dbc2.pdf",
    "bytes": 33379,
    "sha256": "c2d5cac36b478286647768cd195dcf690997c7720751832a129f2888bb69fc82"
@@ -8812,6 +9152,16 @@
    "sha256": "c6cf1819517f55468ea45d5d8db59c10076255cf1e91ace72b3dce52a3c664ab"
   },
   {
+   "path": "sources/city-of-eastvale-2023-24.pdf",
+   "bytes": 2105662,
+   "sha256": "a3fbd2b4c7832d1a3583468a40798f73856eb04103ffa2096a0b267f5af5a647"
+  },
+  {
+   "path": "sources/city-of-eastvale-2024-25.pdf",
+   "bytes": 320315,
+   "sha256": "9ad1f4fc39f13a3973722488f8d5495fea37879f85fddbb94b9312767c3436a2"
+  },
+  {
    "path": "sources/city-of-fontana-2024-25.pdf",
    "bytes": 202688,
    "sha256": "38d3076fbf9c62c3b48110de0ca63f5a82c4c9036796de179abd5f3d179210d7"
@@ -9237,6 +9587,16 @@
    "sha256": "4904b54a247e8ee13c5ceb65a03bc013d982a2f15d2c609cde8a669afc8dae77"
   },
   {
+   "path": "sources/city-of-wildomar-2022-23.pdf",
+   "bytes": 273601,
+   "sha256": "2cb2624cfda0eeeb47a98c2c942bf102e347adf89b54cb542852f90d692deb5b"
+  },
+  {
+   "path": "sources/city-of-wildomar-2024-25.pdf",
+   "bytes": 1447331,
+   "sha256": "0da23a59495117e3d10bf608aebb103c3ad696254c393249d364e3d10fa32f94"
+  },
+  {
    "path": "sources/city-of-willows-2020-21.pdf",
    "bytes": 417037,
    "sha256": "e236073aeddc0758d657fd16c85c0e2c7f89f3904025e98ba320ac6ec4ff197e"
@@ -9538,13 +9898,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 89500,
-   "sha256": "17078c54ecaeb66d68950586920a20d2846b1360a8d58d81e890c5cab1730bb8"
+   "bytes": 90983,
+   "sha256": "35fb29fb95b26e20bf7b743268b4106999e36ad618c3836a5e83796bd228208c"
   },
   {
    "path": "sources/index.json",
-   "bytes": 154652,
-   "sha256": "d79e918b62288bf87707d5caa95c6d04947c466ab10a10b6c86baa724e40be26"
+   "bytes": 157403,
+   "sha256": "7ade94246d707f5ea27266d58726b138c5411accb167d32f492bfc2e4b5e2221"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -9603,8 +9963,8 @@
   },
   {
    "path": "validation/independent-review.json",
-   "bytes": 3056,
-   "sha256": "954fd09fd573a7f1b61115d8c9b47b85e380461d3ef3c9e8192cc4d8a9d73dcc"
+   "bytes": 3057,
+   "sha256": "ac1f13c21d0e7101cb04a985d3cc83f1fcba6ad56cac2a7ec969ab754a1ff5a9"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -9619,7 +9979,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2588,
-   "sha256": "ea7dc9081d98db2e03e29ca6091fa9e300b5dd5717c6b0ae111862d4953b0333"
+   "sha256": "822fca9f08a90aadb562928a4035a95ff06f00e467e2bb6851d3aedfe45bcfc9"
   },
   {
    "path": "validation/validate.py",

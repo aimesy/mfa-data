@@ -616,6 +616,34 @@
   "published_data_rows_from_this_source": 2
  },
  {
+  "source_id": "city-of-eastvale-2023-24",
+  "receiving_entity": "City of Eastvale",
+  "publication_title": "City of Eastvale annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://portal.laserfiche.com/Portal/ElectronicFile.aspx?docid=54850&repo=r-78788824",
+  "retrieved_utc": "2026-09-22T12:04:30.875735+00:00",
+  "physical_page_count": 8,
+  "source_sha256": "a3fbd2b4c7832d1a3583468a40798f73856eb04103ffa2096a0b267f5af5a647",
+  "source_bytes": 2105662,
+  "source_pdf": "sources/city-of-eastvale-2023-24.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
+  "source_id": "city-of-eastvale-2024-25",
+  "receiving_entity": "City of Eastvale",
+  "publication_title": "City of Eastvale annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://portal.laserfiche.com/Portal/ElectronicFile.aspx?docid=219265&repo=r-78788824",
+  "retrieved_utc": "2026-09-22T12:04:31.129820+00:00",
+  "physical_page_count": 9,
+  "source_sha256": "9ad1f4fc39f13a3973722488f8d5495fea37879f85fddbb94b9312767c3436a2",
+  "source_bytes": 320315,
+  "source_pdf": "sources/city-of-eastvale-2024-25.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
   "source_id": "city-of-fontana-2024-25",
   "receiving_entity": "City of Fontana",
   "publication_title": "City of Fontana Annual Report on Development Impact Fees, fiscal year ended June 30, 2025",
@@ -1818,6 +1846,34 @@
   "source_bytes": 218394,
   "source_pdf": "sources/city-of-whittier-2024-25.pdf",
   "published_data_rows_from_this_source": 4
+ },
+ {
+  "source_id": "city-of-wildomar-2022-23",
+  "receiving_entity": "City of Wildomar",
+  "publication_title": "City of Wildomar annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.wildomar.gov/ArchiveCenter/ViewFile/Item/139",
+  "retrieved_utc": "2026-09-22T08:26:52.982790+00:00",
+  "physical_page_count": 17,
+  "source_sha256": "2cb2624cfda0eeeb47a98c2c942bf102e347adf89b54cb542852f90d692deb5b",
+  "source_bytes": 273601,
+  "source_pdf": "sources/city-of-wildomar-2022-23.pdf",
+  "published_data_rows_from_this_source": 13
+ },
+ {
+  "source_id": "city-of-wildomar-2024-25",
+  "receiving_entity": "City of Wildomar",
+  "publication_title": "City of Wildomar annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.wildomar.gov/ArchiveCenter/ViewFile/Item/156",
+  "retrieved_utc": "2026-09-22T08:26:52.601668+00:00",
+  "physical_page_count": 18,
+  "source_sha256": "0da23a59495117e3d10bf608aebb103c3ad696254c393249d364e3d10fa32f94",
+  "source_bytes": 1447331,
+  "source_pdf": "sources/city-of-wildomar-2024-25.pdf",
+  "published_data_rows_from_this_source": 13
  },
  {
   "source_id": "city-of-willows-2020-21",

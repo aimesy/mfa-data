@@ -1,6 +1,6 @@
 # California impact fees
 
-1018 reviewed rows covering 850 printed figures, from 106 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
+1052 reviewed rows covering 884 printed figures, from 108 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
 
 This is a research sample, not statewide coverage. Thousands of California agencies levy these fees. Do not sum this into a statewide estimate.
 
@@ -47,9 +47,11 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | Beaumont Unified | 2024–25 | 1 | $3,171,017 |
 | City of Garden Grove | 2021–22 | 6 | $3,072,830 |
 | City of Pomona | 2023–24, 2024–25 | 15 | $2,917,512 |
+| City of Eastvale | 2023–24, 2024–25 | 8 | $2,384,719 |
 | City of Pasadena | 2022–23, 2023–24, 2024–25 | 6 | $2,156,431 |
 | County of Sacramento | 2022–23 | 15 | $2,154,730 |
 | EL DORADO HILLS COMMUNITY SERVICE DISTRICT | 2024–25 | 1 | $2,129,526 |
+| City of Wildomar | 2022–23, 2024–25 | 26 | $1,975,860 |
 | County of Orange | 2022–23 | 6 | $1,858,839 |
 | City of Manteca | 2020–21 to 2024–25 | 5 | $1,843,995 |
 | City of Novato | 2022–23, 2023–24, 2024–25 | 24 | $1,835,851 |
@@ -131,13 +133,13 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 
 ## Double counting
 
-Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 850 rows of the 1018. Summing every row counts most amounts twice.
+Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 884 rows of the 1052. Summing every row counts most amounts twice.
 
 ## Limits
 
 These are amounts the agencies reported collecting. They are not audited, not reconciled to bank receipts, and not adjusted to a common accounting basis.
 
-Residential share is unknown for almost every row. Forty-four figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 806 the source prints one undivided amount. Unknown is never recorded as zero.
+Residential share is unknown for almost every row. Forty-three figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 841 the source prints one undivided amount. Unknown is never recorded as zero.
 
 Accounting basis is usually not stated. Where it is, the row says so: Sacramento’s reports state they are prepared on the cash basis. Refund treatment varies and is recorded per row.
 
@@ -149,7 +151,7 @@ Some rows are not Mitigation Fee Act fees. Quimby Act park in lieu accounts and 
 
 ## Sources
 
-The [sources directory](sources/) holds 197 complete original reports carrying 206 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
+The [sources directory](sources/) holds 201 complete original reports carrying 210 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
 
 Read [coverage and gaps](docs/coverage.md), the [methodology](docs/methodology.md), the [data dictionary](docs/data-dictionary.md) and the [review process](docs/review-process.md). Mechanical checks do not substitute for reading the source.
 
