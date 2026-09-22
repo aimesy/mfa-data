@@ -8,10 +8,10 @@
  "published_plus_refused": 3373,
  "remaining_undecided": 0,
  "published_rows_in_data_file": 357,
- "statewide_lane_rows_in_data_file": 298,
- "total_rows_in_data_file": 655,
+ "statewide_lane_rows_in_data_file": 313,
+ "total_rows_in_data_file": 670,
  "statewide_lane_note": "Rows reviewed outside the frozen cohort, from an agency's own report, for entities the cohort never reached. They are counted separately because they are not part of the 3,373-row cohort this accounting disposes of.",
- "distinct_printed_figures_published": 487,
+ "distinct_printed_figures_published": 502,
  "refusal_reason_codes": 10,
  "note": "Every refusal carries its own source-specific reason naming the document, the page and the defect. Those reasons are retained privately with the held rows; only the reason codes and counts are published, in refusals-by-reason.csv."
 }

@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T12:19:07.594370+00:00",
- "data_rows": 655,
- "distinct_printed_figures": 487,
+ "built_utc": "2026-09-22T12:34:38.881038+00:00",
+ "data_rows": 670,
+ "distinct_printed_figures": 502,
  "receiving_entities": 71,
- "agency_years": 145,
- "fee_programs": 308,
- "source_reports": 113,
- "evidence_pairs": 487,
+ "agency_years": 148,
+ "fee_programs": 311,
+ "source_reports": 116,
+ "evidence_pairs": 502,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1112,
- "total_bytes": 162634805,
+ "file_count": 1145,
+ "total_bytes": 167587270,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 8066,
-   "sha256": "f8d1c34d1baaeb886893478eecd2fde47434bd50056ca8b316f4acf1189c5270"
+   "bytes": 8099,
+   "sha256": "dcefb70a41e86016c01d63f4ffcd8d483bb7008c4ab0a050d44a282884ad6763"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "7a1df13d4a62f9b2fae5ba6d296d27439d8a3ddff2badc0a1b7b8485ea639c78"
+   "sha256": "99e15792b246ac0f800e914daafdd809a25fb5c24934bda4503bb1db5c6a081f"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 260503,
-   "sha256": "b97fa87683589cab160169cd7481dbf3bc836942b2dc5227042d2b4a13aff1b1"
+   "bytes": 266433,
+   "sha256": "dd03c8f8d57d4ee0c7473b7750c9c6991bbc3be6c58401f62e0dd702fd4247f2"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1466394,
-   "sha256": "78af79bd58bc05a6dc28303e4b1f4c869bb8e341dc2f5aa37436fdf8c806ffb9"
+   "bytes": 1503294,
+   "sha256": "cc6191f6bf738ba5dd3938f3d1bfd152bf17000592766ef34da0c53f9d246462"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2143832,
-   "sha256": "dbf292f189f416c25728b922a8e939d3f3d8c7f3c8de92e6c87f1674f7b805a8"
+   "bytes": 2196227,
+   "sha256": "174db175b57f8a3025811c010a0d855af52eb16bed7291c214ab367b459ae5d5"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -817,9 +817,84 @@
    "sha256": "9e6bc422f6091d984ee8de147f0660c6b7f9dfee99836a2ab5cc82419a7a018f"
   },
   {
+   "path": "evidence/extracts/city-of-fremont-p004-f813cdca.pdf",
+   "bytes": 88265,
+   "sha256": "a03f92c2b1042ee1f293fe41baac1c31c574f8b26e9ce5595c6317579f407a64"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p005-f2d455e7.pdf",
+   "bytes": 95259,
+   "sha256": "33c4584edd4413de9751810afec164da2b3cb881216c05b521a5f7320a8b3a36"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p005-f9bf3e40.pdf",
+   "bytes": 94910,
+   "sha256": "0452e516df619d2914514fef5b873529c3399a610d487dba635024416a3762c8"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p006-3067f71e.pdf",
+   "bytes": 93554,
+   "sha256": "d77faaaa78301e0f0486434486cc4a7d76b18cff59b86742c602151b181470cd"
+  },
+  {
    "path": "evidence/extracts/city-of-fremont-p006-5f3bb62d.pdf",
    "bytes": 14389,
    "sha256": "b8fdcbd679110ed22d58155372011b0cbd68d3a4075414907d7a3dde0b3443ed"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p007-ff6814ce.pdf",
+   "bytes": 95415,
+   "sha256": "760da12f95b218ccedbd7561f9906892b2224159a1f42b67a0a45a3a81452708"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p009-d594afb9.pdf",
+   "bytes": 94436,
+   "sha256": "bea151c897058c57ba0d0ef7e3f3823ddeab06300cf7277f478a0f271bc4bc26"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p010-d45969ef.pdf",
+   "bytes": 104227,
+   "sha256": "525f987904209845272a90762bdb9d740aa0157f5bb7e4170c6f62d233b20598"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p012-7bd2b5c4.pdf",
+   "bytes": 94135,
+   "sha256": "7386fdb7903fb2fd391caa6594a492c0f53f1734f601e4d228188f13669b6711"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p013-85ed0751.pdf",
+   "bytes": 103400,
+   "sha256": "f23ab216e0e8bbdc179c0cf57b93f60d53f2033f54089931ba8929d96d088ba1"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p014-6c941f4f.pdf",
+   "bytes": 81654,
+   "sha256": "75b939c69ef987510fe60adb5ca869402297b2b4fc0721b07ce2d41d7143da32"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p016-10ade044.pdf",
+   "bytes": 98859,
+   "sha256": "060eb8cbbe217f7041d8589b1f747016bf60f39199a1b14303f9954a11ef9604"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p017-da6afa87.pdf",
+   "bytes": 94918,
+   "sha256": "d8bec5ee3cbe8764b183cb1a238f1422e65a9b196fe38d64eeb9f3dd0a537151"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p018-9edf6db1.pdf",
+   "bytes": 103207,
+   "sha256": "d841a52b0c87d167408eceb48426acc3a7213d2caa036670a58d8005167f2475"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p020-ba48df10.pdf",
+   "bytes": 121744,
+   "sha256": "ba997e7e2a6461945349303c408128a5c717b1393cd849007ae78dd954b6d8bc"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p022-5f13bbe9.pdf",
+   "bytes": 97072,
+   "sha256": "a38b17083fcbeb05302496a056deea2283f69f03c96a481fe98d3d9865519aab"
   },
   {
    "path": "evidence/extracts/city-of-garden-grove-p005-154151d9.pdf",
@@ -2533,8 +2608,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 519840,
-   "sha256": "b2f68825856736f00ce776d1c75399ae9936df8d99181b5461e50d4d601abfe8"
+   "bytes": 534817,
+   "sha256": "0d7595fb19c318159bd56f0d685eb91bf32b51959a4c3e429a7daf570a35ceea"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -3257,9 +3332,84 @@
    "sha256": "4e78888dcce50872fe23799843a117841242319e0987e2eb41656335713f930e"
   },
   {
+   "path": "evidence/outlined/city-of-fremont-p004-f813cdca.pdf",
+   "bytes": 88316,
+   "sha256": "a1dcfcabbb6a73f3642f57e1f6e0c737ceba0297a4a2e6efa00678e67638e35e"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p005-f2d455e7.pdf",
+   "bytes": 95312,
+   "sha256": "d2e9a5092cb1bac27bcbd6ab381b6b2a7a6ba45a73d74dc3a1c2dd9c704cd424"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p005-f9bf3e40.pdf",
+   "bytes": 94957,
+   "sha256": "81daae59878ec3a7cb8834cc69ae928d126502d73096ed1b80119f66ca5e1737"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p006-3067f71e.pdf",
+   "bytes": 93605,
+   "sha256": "dfeaaa2216fec3ca51a211dd9778e04ff02f6057c4392d9656b2c8f05d8692cd"
+  },
+  {
    "path": "evidence/outlined/city-of-fremont-p006-5f3bb62d.pdf",
    "bytes": 14437,
    "sha256": "ef53a684020a28eff0f75058d37e39c6595bcdebde7b139704ee8d813d5dde98"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p007-ff6814ce.pdf",
+   "bytes": 95468,
+   "sha256": "5c85e7becced4331ca070c5402114a9cbd80c403f386fe39cfa4017b0fd8600e"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p009-d594afb9.pdf",
+   "bytes": 94490,
+   "sha256": "b1f27793bd45ca5b8ed89d9e7cf81cf08e6038e9023964aa1d370eb54b3baeb9"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p010-d45969ef.pdf",
+   "bytes": 104278,
+   "sha256": "89cbca1c74d50a3816be2ad9ab2cc3662b0583da1fc89dd4cb1bc33847507644"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p012-7bd2b5c4.pdf",
+   "bytes": 94183,
+   "sha256": "ef39ebbe16d722b6c4866bffba8b4691cc2fa02f9386f6a2dcf5077ac993a745"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p013-85ed0751.pdf",
+   "bytes": 103450,
+   "sha256": "f38e8814eb2a15051876de667d6b5196ca945b5451a61bb8fdf1fb8bd9f515c9"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p014-6c941f4f.pdf",
+   "bytes": 81698,
+   "sha256": "dc62dd8c0a84aebbe990056d15c826790f296fae41e2ff5c6095f7842995d95b"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p016-10ade044.pdf",
+   "bytes": 98910,
+   "sha256": "081d9ce811136b6e138575448e3ef73ec9ce1cb0c4af97e888e7f10b9a8994bb"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p017-da6afa87.pdf",
+   "bytes": 94966,
+   "sha256": "b348190995393e7e90c4064fdc0a6808ecbb64b67e46f94710a5fb694df0ba1c"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p018-9edf6db1.pdf",
+   "bytes": 103258,
+   "sha256": "38cfd789dd806fdacd355aa830e0dec243134c347bad95c67ca8d7230753832c"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p020-ba48df10.pdf",
+   "bytes": 121795,
+   "sha256": "0b2c0735a1fad5954e3db37bdbfa9e0758c06fdaae83b328097bd27ac32b3ee6"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p022-5f13bbe9.pdf",
+   "bytes": 97120,
+   "sha256": "88af926b1b7105a700cefbb5a9fa55757fa8395663870e7b84788f6dfccb61a7"
   },
   {
    "path": "evidence/outlined/city-of-garden-grove-p005-154151d9.pdf",
@@ -5072,6 +5222,21 @@
    "sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473"
   },
   {
+   "path": "sources/city-of-fremont-2022-23.pdf",
+   "bytes": 672743,
+   "sha256": "2c6f1711d9492ae8d888afc26f3a25c330659a039ccfe014c430b70f78d84d20"
+  },
+  {
+   "path": "sources/city-of-fremont-2023-24.pdf",
+   "bytes": 540539,
+   "sha256": "a542f5103c479766d542741edd77325571f6c907bff7b56da7275e03a57b5ec8"
+  },
+  {
+   "path": "sources/city-of-fremont-2024-25.pdf",
+   "bytes": 702886,
+   "sha256": "9a26055402b9957d4678579de4a9209b921892b2017e7741c842f2c78286c7e6"
+  },
+  {
    "path": "sources/city-of-garden-grove-2021-22.pdf",
    "bytes": 100744,
    "sha256": "a784240356df4c954624825b2f79e146f6b72b3775b5d568f8e30fd3d7f0453d"
@@ -5508,13 +5673,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 55490,
-   "sha256": "477186d93dece6284ba48023e2ec65bc5564f896fb80b6f7374331e47d8768c8"
+   "bytes": 56615,
+   "sha256": "d6406d3b17c90e1023c3a9ca0e73b5098ef32cb770c35125f7d5c1be23eef15f"
   },
   {
    "path": "sources/index.json",
-   "bytes": 94600,
-   "sha256": "201cb95cb2e644bef2bb54d2144f4adfc671f15bd9ee756147785fbd428dcbd2"
+   "bytes": 96676,
+   "sha256": "0d3128cd6939fc546506ab6f8d9cb575aa33331d3802412f10f4154e7948ff58"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -5564,7 +5729,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "d15d1e939b9a8c327731e065668cba84c44c37f59ebc03f45393c63fe9f5ff66"
+   "sha256": "f11cbcd0718e3a7356bc28e1aad67e354a52347322fe5c63732354f678853305"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -5579,7 +5744,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "c50e221c64ed1c91e78fc7e6479e00da38ad39401607d223d0d562b469d34a0e"
+   "sha256": "ee29b35ef0b5e7523f70f35a7cffc5ffde3155a5280b83d7cb647042ad678972"
   },
   {
    "path": "validation/validate.py",

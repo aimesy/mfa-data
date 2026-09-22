@@ -308,6 +308,48 @@
   "published_data_rows_from_this_source": 4
  },
  {
+  "source_id": "city-of-fremont-2022-23",
+  "receiving_entity": "City of Fremont",
+  "publication_title": "City of Fremont annual report on development impact fees, fiscal year 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.fremont.gov/home/showpublisheddocument/14623/638382316336000000",
+  "retrieved_utc": "2026-09-22T06:26:30.406315+00:00",
+  "physical_page_count": 17,
+  "source_sha256": "2c6f1711d9492ae8d888afc26f3a25c330659a039ccfe014c430b70f78d84d20",
+  "source_bytes": 672743,
+  "source_pdf": "sources/city-of-fremont-2022-23.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-fremont-2023-24",
+  "receiving_entity": "City of Fremont",
+  "publication_title": "City of Fremont annual report on development impact fees, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.fremont.gov/home/showpublisheddocument/16973/638730691433600000",
+  "retrieved_utc": "2026-09-22T06:26:30.038601+00:00",
+  "physical_page_count": 21,
+  "source_sha256": "a542f5103c479766d542741edd77325571f6c907bff7b56da7275e03a57b5ec8",
+  "source_bytes": 540539,
+  "source_pdf": "sources/city-of-fremont-2023-24.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-fremont-2024-25",
+  "receiving_entity": "City of Fremont",
+  "publication_title": "City of Fremont annual report on development impact fees, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.fremont.gov/home/showpublisheddocument/19346/639016478618300000",
+  "retrieved_utc": "2026-09-22T06:26:29.794179+00:00",
+  "physical_page_count": 27,
+  "source_sha256": "9a26055402b9957d4678579de4a9209b921892b2017e7741c842f2c78286c7e6",
+  "source_bytes": 702886,
+  "source_pdf": "sources/city-of-fremont-2024-25.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
   "source_id": "city-of-garden-grove-2021-22",
   "receiving_entity": "City of Garden Grove",
   "publication_title": "City of Garden Grove impact fee report, fiscal year 2021-22",
