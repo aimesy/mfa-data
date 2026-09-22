@@ -1,15 +1,52 @@
 # Methodology
 
-The research target is annual residential cash impact-fee receipts by category, followed by compatible actual capital spending and the share financed by residential fees. This release provides a narrower, explicitly typed intermediate result: source-supported **reported annual collections**. It does not promote those amounts to verified cash receipts.
+## What this release did
 
-Each selected row was checked against the complete original report, its annual period, fee description, amount column and land-use applicability. Fremont's separate collection captions provide the amounts; fee descriptions and master-schedule Notes 2–3 provide residential attribution. No amount is calculated from rates, dwelling counts, floor area or a benefit percentage. The City is both the reported receiving entity and the entity whose fee funds are described; ultimate project financing is unresolved.
+A frozen research input held 3,373 fee-collection observations across 832 agencies that had already passed the research project's mechanical validation checks. Passing a mechanical check is not an acceptance for publication. Every one of those 3,373 rows was reviewed again, from the source, specifically for this release. 357 were published. 3,016 were refused and each refusal is recorded with its own source-specific reason.
 
-The release retains the source's collection wording while correcting unsupported gross/cash implications in the normalized field names. Accounting basis and gross/net treatment are explicitly unknown. A limited statutory refund statement is not treated as proof that all refunds were zero. Interest, balances, interfund transfers, rates, credits, deferred charges and the separately described in-kind park are excluded from the collection rows.
+## The bar every published figure had to clear
 
-Only rows without existing blocking checks were eligible for this sample. They additionally required fresh semantic, exact-derivative, actual visual and independent review. Inherited scoped passes were not treated as financial acceptance. Newly detected PDF parser warnings remain blocking for numeric release. Source originals may be included while their data remain withheld.
+1. **The complete original report is held and published.** Not a summary, not a screenshot. Original bytes, verified by SHA-256 after copying into the repository.
+2. **An exact page extract.** A single-page PDF cut from the original, carrying the page the figure is printed on.
+3. **An outlined figure.** The same page with a rectangle drawn around that figure and no other. Where a page carries many figures, each has its own outline file.
+4. **Actual visual review of the original and the outlined page together.** A reviewer looked at a side-by-side sheet showing the untouched page beside the outlined page, plus a zoomed crop of every outlined cell with its row and column labels visible, and confirmed that each outline sits on the correct row of the correct column.
+5. **Land-use and measure scope read from the source text.** What the printed label says, what the fee description says about who pays, what the footnotes qualify. Not inferred from the fee's name or purpose.
+6. **Publication, page and internal-identifier provenance.** Publication title and type, physical PDF page, printed page where the page carries a folio, the table or section label as printed, the official source URL and the source hash.
+7. **Independent review before publication.** A second pass re-derived every published value from the published outlined page, independently of the review that proposed it.
 
-Exact single-page PDF extracts preserve the selected page's typed reachable PDF graph and catalog context. The comparison excludes only the page's parent edge needed for a one-page document. Stream bytes, native text, original annotations and reference identity are checked. Blue, unfilled rectangle annotations identify source text in a separate highlighted copy. Removing only the added annotations must restore the exact base graph. Rendered pixels of source and unmarked extract must match. Full-page images of originals and highlighted derivatives are actually inspected by the primary reviewer and an independent reviewer.
+A row that failed any element was refused with a reason naming the specific source, page and defect, and stays out of the public repository.
 
-The public validation script checks all released values, citation links and file hashes; replays exact PDF, native-text and pixel comparisons; checks workbook contents; and scans text, PDF objects/streams and archive members for private operational material. The frozen manifest covers all tracked artifacts other than itself; its own bytes are separately verified during public remote readback. Validation records state their actual scope, including unresolved items.
+## Outlines were rebuilt for this release
 
-Future cash acceptance requires supported payment timing, residential attribution and refund treatment. Future capital-share acceptance requires actual capital use traced through transfers and accumulated balances, with compatible period, entities, geography and facility scope. Collections divided by capital spending alone is not a funded share. No numeric substitution is made for missing evidence.
+The inherited evidence carried page-level highlighted PDFs that marked every candidate number on a page. 148 of the 202 evidence records shared such a page with other records, so those artefacts could not identify which cell a given row's figure was. Each evidence record did carry an exact rectangle in original page coordinates. This release regenerated a **per-figure outline** from the preserved original for every evidence record, tightening the rectangle onto the printed token where the recorded rectangle was loose enough to catch a neighbouring cell, and recorded the resulting rectangle in the data as `outline_rect_pdf_points`. The text inside the outline was then compared with the printed token; disagreements were investigated individually rather than cleared in bulk.
+
+## Arithmetic was used to confirm the reading, not to create values
+
+No published figure was computed. Where a source prints a fund roll-forward, the review checked that beginning balance plus the published figure plus interest minus expenditures equals the printed ending balance. That closure is what confirms the figure was read from the right row and column; it is recorded per row in `arithmetic_check`. Where a source prints a total across accounts, the review checked the published figures sum to it. Where years chain across a multi-year table, the review checked each year's printed ending balance equals the next year's printed beginning balance.
+
+This closure test resolved two source defects that would otherwise have forced a refusal:
+
+- The City of Arcadia's FY2023-24 report prints "2022-23" on two consecutive rows of Exhibit A. The second row's roll-forward closes to the first row's beginning balance, and the same report's Exhibit B prints 2023-24 in the same position, so the first row is fiscal year 2023-24. The City's later FY2024-25 report independently confirms it.
+- The Esparto Fire Protection District's FY2023-24 report prints balance dates one year earlier than its own stated fiscal year. Its FY2024-25 report carries the same closing figure forward as the next year's opening balance, which establishes that the dates, not the fiscal year, are stale.
+
+Both resolutions are disclosed on every affected row.
+
+## Two measure grains, one printed figure
+
+The research input records some printed amounts twice: once as a total across land uses and once at a mixed or unallocated land-use grain. Both are true statements about the same printed number. Rather than silently drop one, this release publishes both, links them with `figure_group_id` and flags exactly one as `is_primary_in_figure_group`. 357 rows carry 189 distinct printed figures. **Sum primary rows only.**
+
+## Residential attribution
+
+The research goal behind this collection is residential impact-fee revenue. That makes it tempting to attribute a park or school fee to residential payers because its rate schedule lists dwelling types. This release does not do that.
+
+A residential land-use scope is published only where the source itself establishes it, in one of two ways: the report states the fee is levied on residential development **and** its printed rate schedule contains no non-residential rate (City of Fremont's Parkland and Park Facilities fees), or the agency prints a residential subtotal of what it collected (Natomas Unified). Sixteen rows that assigned a whole reported amount to residential payers on the strength of a fee schedule alone were refused, and the same printed amounts are published as reported collections with the residential share recorded as unknown.
+
+A fee schedule establishes who the fee applies to. It does not establish the residential share of what was collected.
+
+## Not every published row is a Mitigation Fee Act fee
+
+Agencies report Quimby Act park dedication in-lieu accounts, Government Code section 66013 capacity charges, development-agreement fees under section 65865(e) and utility connection charges inside the same annual report as their section 66006 impact fees. Where a published figure is one of those, `source_limitations` says so explicitly. Filter on it if your analysis needs section 66006 fees only.
+
+## What was not attempted
+
+Verified cash receipts, comprehensive refund reconciliation, actual capital spending on a comparable scope, tracing transfers and accumulated balances between funds, and any residential fee-funded share of capital spending. None of those is established by this release and all three corresponding tables are empty.

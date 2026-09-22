@@ -1,0 +1,11 @@
+refusal_reason_code,rows_refused,agencies_affected,source_documents_affected
+structured_data_no_page_no_outline_no_visual_review,2974,787,787
+derived_residential_attribution_no_printed_subtotal,12,5,6
+printed_row_combines_fees_with_other_revenue,8,1,1
+narrative_statement_and_wrong_year_evidence,6,1,1
+receiving_entity_not_identifiable_pass_through,4,1,1
+cited_page_lacks_row_label_and_measure_not_established,4,1,1
+negative_net_of_refund_not_a_collection,2,1,1
+measure_scope_not_established_for_in_lieu_account,2,1,1
+fiscal_year_conflicts_with_source_column,2,1,1
+figure_includes_non_fee_proceeds,2,1,1

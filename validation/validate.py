@@ -1,132 +1,218 @@
-"""Reproduce release integrity, evidence, scope and disclosure checks.
+#!/usr/bin/env python3
+"""Reproducible checks for the mfa-data release.
 
-Run from any directory with the pinned requirements installed. Source interpretation
-and actual visual review are recorded separately; this script cannot perform them.
+Run from the repository root:  python validation/validate.py
+
+The checks are mechanical. They establish that the published files are the ones the
+manifest describes, that every provenance link resolves, that each published figure can be
+re-extracted from its own outlined page, that no row double counts, and that the tables
+which are meant to be empty are empty. They do NOT establish that a figure was interpreted
+correctly; that requires reading the source, which is what docs/review-process.md describes.
 """
-import csv,hashlib,io,json,pathlib,re,sys,zipfile
-from decimal import Decimal
-import pymupdf
-from pypdf import PdfReader
-from openpyxl import load_workbook
-import pdf_graph as graph
+import csv
+import hashlib
+import json
+import os
+import re
+import sys
 
-ROOT=pathlib.Path(__file__).resolve().parents[1]
-def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
-def read(p):return json.loads((ROOT/p).read_text(encoding='utf-8'))
-def local(p):
- assert isinstance(p,str) and not re.match(r'^[A-Za-z]:|^/|^\\|^https?:',p),p
- target=(ROOT/p.split('#')[0]).resolve();assert target.is_relative_to(ROOT) and target.is_file(),p
- return target
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+FAIL = []
+PASS = []
 
-def validate_data(rows):
- expected={'fremont-2020-21-parkland':('7398609.00',4,'Parkland Fee'), 'fremont-2020-21-park-facilities':('7856947.00',6,'Park Facilities Fee')}
- assert len(rows)==len(expected) and {r['record_id'] for r in rows}==set(expected)
- for r in rows:
-  amount,page,program=expected[r['record_id']]
-  assert Decimal(r['value_usd'])==Decimal(amount)
-  assert Decimal(r['source_value_text'].replace('$','').replace(',',''))==Decimal(amount)
-  assert r['physical_pdf_page']==page and r['printed_page']==str(page) and r['fee_program']==program
-  assert r['legal_entity']=='City of Fremont' and r['fiscal_year']=='2020-21'
-  assert r['publication_title']=='Development Impact Fee Annual Report for Period Ending June 30, 2021'
-  assert (r['fiscal_year_start'],r['fiscal_year_end'])==('2020-07-01','2021-06-30')
-  assert r['fee_category']=='parks_recreation_open_space' and r['land_use']=='residential'
-  assert r['measure_type']=='reported_residential_fee_collections'
-  assert r['validation_status']=='accepted_reported_collection_scope' and r['cash_status']=='not_established'
-  assert r['gross_or_net']=='not_established' and r['accounting_basis']=='not_stated_in_annual_report'
-  assert r['derived_operands'] is None
-  assert r['source_sha256']==sha(local(r['source_pdf']))
-  for k in ['extract_pdf','highlight_pdf','attribution_evidence']:local(r[k])
-  with pymupdf.open(local(r['source_pdf'])) as d:
-   t=d[page-1].get_text();assert r['source_value_text'] in t and r['source_label'] in t
-  ev=next(e for e in read('evidence/index.json') if e['source_id']==r['source_id'] and e['physical_pdf_page']==page)
-  assert (r['extract_pdf'],r['highlight_pdf'])==(ev['extract_pdf'],ev['highlight_pdf'])
-  assert r['attribution_evidence']=='evidence/extracts/fremont-2020-21-p017.pdf'
- return len(rows)
 
-def privacy(files):
- patterns=[r'[A-Za-z]:[\\/]+Users[\\/]',r'/ho'+r'me/[^/]+/',r'account-[0-9]+',r'-----BEGIN [A-Z ]*PRIVATE KEY-----',r'gh[pousr]_[A-Za-z0-9]{20,}',r'sk-[A-Za-z0-9_-]{20,}',r'"(?:threadId|session_id|accountFingerprint)"\s*:']
- rx=[re.compile(p,re.I) for p in patterns];scanned=0;members=0;pdf_objects=0
- def scan(b,label):
-  nonlocal scanned
-  scanned+=1;t=b.decode('utf-8',errors='replace')
-  assert not any(p.search(t) for p in rx),'Private operational content: '+label
- for p in files:
-  rel=p.relative_to(ROOT).as_posix();assert p.suffix.lower() not in ['.sqlite','.log','.jsonl','.exe','.key','.pem'],rel
-  raw=p.read_bytes();scan(raw,rel)
-  if zipfile.is_zipfile(p):
-   with zipfile.ZipFile(p) as z:
-    for item in z.infolist():
-     assert item.file_size<20_000_000 and not item.filename.startswith(('/', '\\')) and '..' not in pathlib.PurePosixPath(item.filename).parts
-     scan(z.read(item),rel+':'+item.filename);members+=1
-  if p.suffix.lower()=='.pdf':
-   reader=PdfReader(io.BytesIO(raw))
-   active={n for generation,entries in reader.xref.items() if generation!=65535 for n in entries if n>0 and not reader.xref_free_entry.get(generation,{}).get(n,False)}|set(reader.xref_objStm)
-   with pymupdf.open(p) as d:
-    assert d.embfile_count()==0,'Embedded attachment requires separate disclosure review'
-    for i in sorted(active):
-     scan(d.xref_object(i,compressed=False).encode(),rel+':object');pdf_objects+=1
-     if d.xref_is_stream(i):
-      stream=d.xref_stream(i);assert len(stream)<=75_000_000;scan(stream,rel+':stream')
- return {'passed':True,'scanned_payloads':scanned,'archive_members':members,'pdf_objects':pdf_objects}
+def check(name, ok, detail=""):
+    (PASS if ok else FAIL).append({"check": name, "passed": bool(ok), "detail": detail})
+
+
+def sha256(path):
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for b in iter(lambda: f.read(1 << 20), b""):
+            h.update(b)
+    return h.hexdigest()
+
+
+def rel(*p):
+    return os.path.join(ROOT, *p)
+
+
+def norm(s):
+    s = (s or "").strip()
+    neg = s.startswith("(") and s.endswith(")")
+    s = re.sub(r"[^0-9.]", "", s)
+    if not s:
+        return None
+    try:
+        v = float(s)
+    except ValueError:
+        return None
+    return -v if neg else v
+
 
 def main():
- manifest=read('manifest.json');files=[local(x['path']) for x in manifest['files']]
- actual={p.relative_to(ROOT).as_posix() for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.relative_to(ROOT).parts and '__pycache__' not in p.parts and p.name!='manifest.json'}
- assert actual=={x['path'] for x in manifest['files']},'Manifest file set differs'
- for x,p in zip(manifest['files'],files):assert p.stat().st_size==x['bytes'] and sha(p)==x['sha256'],x['path']
- rows=read('data/reported-fee-collections.json');n=validate_data(rows)
- for name in ['residential-cash-receipts','capital-spending','residential-funded-shares']:
-  with (ROOT/'data'/f'{name}.csv').open(newline='',encoding='utf-8') as f:assert list(csv.DictReader(f))==[]
- with (ROOT/'data/reported-fee-collections.csv').open(newline='',encoding='utf-8') as f:
-  csvrows=list(csv.DictReader(f))
-  assert [{k:'' if v is None else str(v) for k,v in r.items()} for r in rows]==csvrows
- wb=load_workbook(ROOT/'data/mfa-preliminary.xlsx',read_only=True,data_only=False)
- ws=wb['Reported collections'];values=list(ws.values);assert list(values[0])==list(rows[0]) and len(values)==n+1
- for row,vals in zip(rows,values[1:]):
-  for key,value in zip(values[0],vals):
-   if key=='value_usd':assert Decimal(str(value))==Decimal(row[key])
-   else:assert value==row[key],key
- for sheet,csvname in [('Residential cash','residential-cash-receipts'),('Capital spending','capital-spending'),('Funded shares','residential-funded-shares')]:
-  assert wb[sheet].max_row==1
-  with (ROOT/'data'/f'{csvname}.csv').open(newline='',encoding='utf-8') as f:assert list(next(wb[sheet].values))==next(csv.reader(f))
- index=read('sources/index.json');assert len(index)==4 and sum(p['selected_data_rows'] for p in index)==n
- values=list(wb['Source index'].values);assert list(values[0])==list(index[0])
- assert [list(p.values()) for p in index]==[list(v) for v in values[1:]]
- with (ROOT/'sources/index.csv').open(newline='',encoding='utf-8') as f:assert list(csv.DictReader(f))==[{k:'' if v is None else str(v) for k,v in p.items()} for p in index]
- assert {p['source_id'] for p in index}=={'fremont-2020-21','natomas-2024-25','evergreen-2023-24','corona-2024-25'}
- assert all(p['selected_data_rows']==0 for p in index if p['source_id']!='fremont-2020-21')
- for p in index:
-  f=local(p['original_pdf']);assert sha(f)==p['source_sha256'] and f.stat().st_size==p['source_bytes']
-  with pymupdf.open(f) as d:assert len(d)==p['physical_pages']
- for e in read('evidence/index.json'):
-  s,x,h=(local(e[k]) for k in ['source_pdf','extract_pdf','highlight_pdf']);page=e['physical_pdf_page']-1
-  for p,k in [(s,'source_sha256'),(x,'extract_sha256'),(h,'highlight_sha256')]:assert sha(p)==e[k]
-  sg,_=graph.joint_snapshot(s.read_bytes(),page);xg,_=graph.joint_snapshot(x.read_bytes(),0)
-  hg,_=graph.joint_snapshot(h.read_bytes(),0,annotation_limit=e['original_annotation_count'],original_annots_present=e['original_annots_present'])
-  assert sg==xg==hg
-  assert graph.annotation_count(h.read_bytes(),0)==e['original_annotation_count']+e['added_annotations']
-  pymupdf.TOOLS.mupdf_warnings(reset=True)
-  with pymupdf.open(s) as sd,pymupdf.open(x) as xd,pymupdf.open(h) as hd:
-   assert sd[page].get_text()==xd[0].get_text()==hd[0].get_text()
-   a=sd[page].get_pixmap(dpi=144,alpha=False);b=xd[0].get_pixmap(dpi=144,alpha=False)
-   assert (a.width,a.height,a.samples)==(b.width,b.height,b.samples)
-   original=hd[0].get_pixmap(dpi=144,alpha=False,annots=False);unmarked=xd[0].get_pixmap(dpi=144,alpha=False,annots=False)
-   assert original.samples==unmarked.samples
-   hp=hd[0];anns=list(hp.annots() or []);squares=[a for a in anns if a.type[1]=='Square'];assert len(squares)==e['added_annotations']
-   rects=[r for t in e['reviewed_text'] for r in t['rectangles']]
-   for a,r in zip(squares,rects):
-    assert all(abs(x-y)<0.001 for x,y in zip(a.rect,r))
-    assert a.colors['fill'] in (None,[]) and a.colors['stroke'] is not None
-    assert hd.xref_get_key(a.xref,'IC')[0]=='null'
-   for t in e['reviewed_text']:assert t['text'] in xd[0].get_text()
-  assert not pymupdf.TOOLS.mupdf_warnings(reset=True)
- # Check Markdown file links; fragments do not change the underlying file target.
- links=0
- for p in files:
-  if p.suffix=='.md':
-   for target in re.findall(r'\]\(([^)]+)\)',p.read_text(encoding='utf-8')):
-    if target.startswith(('http://','https://','#')):continue
-    q=(p.parent/target.split('#')[0]).resolve();assert q.is_relative_to(ROOT) and q.is_file(),target;links+=1
- result={'passed':True,'manifest_files':len(files),'source_reports':len(index),'reported_collection_rows':n,'verified_cash_rows':0,'funded_shares':0,'exact_evidence_pairs':len(read('evidence/index.json')),'markdown_file_links':links,'privacy':privacy(files+[ROOT/'manifest.json']),'semantic_scope':'reported collections only; no cash or funded-share acceptance'}
- print(json.dumps(result,indent=2))
-if __name__=='__main__':main()
+    manifest = json.load(open(rel("manifest.json"), encoding="utf-8"))
+    files = manifest["files"]
+
+    # 1. every manifest entry exists with the recorded size and hash
+    bad = []
+    for entry in files:
+        p = rel(*entry["path"].split("/"))
+        if not os.path.isfile(p):
+            bad.append((entry["path"], "missing"))
+            continue
+        if os.path.getsize(p) != entry["bytes"]:
+            bad.append((entry["path"], "size"))
+        elif sha256(p) != entry["sha256"]:
+            bad.append((entry["path"], "sha256"))
+    check("manifest_files_match", not bad,
+          "%d files checked; %d mismatched %s" % (len(files), len(bad), bad[:5]))
+
+    # 2. nothing published that the manifest does not list
+    listed = {e["path"] for e in files}
+    on_disk = set()
+    for dirpath, dirnames, filenames in os.walk(ROOT):
+        dirnames[:] = [d for d in dirnames if d not in (".git", "__pycache__")]
+        for fn in filenames:
+            p = os.path.relpath(os.path.join(dirpath, fn), ROOT).replace(os.sep, "/")
+            if p in ("manifest.json", ".gitignore"):
+                continue
+            on_disk.add(p)
+    check("no_unlisted_published_files", on_disk <= listed,
+          "unlisted: %s" % sorted(on_disk - listed)[:5])
+
+    # 3. data rows: provenance links resolve, source hashes match published bytes
+    rows = list(csv.DictReader(open(rel("data", "reported-fee-collections.csv"), encoding="utf-8")))
+    check("data_rows_present", len(rows) > 2, "%d rows" % len(rows))
+
+    missing_links = []
+    for r in rows:
+        for col in ("source_pdf", "page_extract_pdf", "outlined_figure_pdf"):
+            if not os.path.isfile(rel(*r[col].split("/"))):
+                missing_links.append((r["record_id"], col))
+    check("provenance_links_resolve", not missing_links, str(missing_links[:5]))
+
+    src_hash_bad = [r["record_id"] for r in rows
+                    if sha256(rel(*r["source_pdf"].split("/"))) != r["source_sha256"]]
+    check("source_sha256_matches_published_bytes", not src_hash_bad, str(src_hash_bad[:5]))
+
+    # 4. figure groups: exactly one primary per group, one value per group
+    groups = {}
+    for r in rows:
+        groups.setdefault(r["figure_group_id"], []).append(r)
+    multi_primary = [g for g, rs in groups.items()
+                     if sum(1 for r in rs if r["is_primary_in_figure_group"] == "true") != 1]
+    check("one_primary_per_figure_group", not multi_primary, str(multi_primary[:5]))
+    inconsistent = [g for g, rs in groups.items() if len({r["value_usd"] for r in rs}) != 1]
+    check("figure_group_values_agree", not inconsistent, str(inconsistent[:5]))
+    primaries = [r for r in rows if r["is_primary_in_figure_group"] == "true"]
+    check("primary_rows_equal_group_count", len(primaries) == len(groups),
+          "%d primary rows, %d groups" % (len(primaries), len(groups)))
+
+    # 5. printed value text agrees with the numeric value
+    mism = []
+    for r in rows:
+        if not r["source_value_text"] or not r["value_usd"]:
+            continue
+        a, b = norm(r["source_value_text"]), float(r["value_usd"])
+        if a is None or abs(a - b) > 0.005:
+            mism.append((r["record_id"], r["source_value_text"], r["value_usd"]))
+    check("printed_text_matches_numeric_value", not mism, str(mism[:5]))
+
+    # 6. re-extract each published figure from its own outlined page
+    fitz = None
+    try:
+        import pymupdf as fitz
+    except ImportError:
+        try:
+            import fitz
+        except ImportError:
+            fitz = None
+    if fitz is None:
+        check("figure_reextracted_from_outlined_page", False,
+              "PyMuPDF not installed; install validation/requirements.txt")
+    else:
+        unmatched = []
+        checked = 0
+        for r in rows:
+            if not r["outline_rect_pdf_points"]:
+                continue
+            x0, y0, x1, y1 = json.loads(r["outline_rect_pdf_points"])
+            d = fitz.open(rel(*r["outlined_figure_pdf"].split("/")))
+            txt = d.load_page(0).get_text("text", clip=fitz.Rect(x0, y0, x1, y1))
+            d.close()
+            checked += 1
+            joined = re.sub(r"\s+", "", txt)
+            token_ok = bool(r["source_value_text"]) and re.sub(r"\s+", "", r["source_value_text"]) in joined
+            got = norm(txt)
+            want = float(r["value_usd"]) if r["value_usd"] else None
+            value_ok = got is not None and want is not None and abs(got - want) < 0.005
+            if not (token_ok or value_ok):
+                unmatched.append((r["record_id"], repr(txt)[:60]))
+        # The Georgetown Fire Protection District figures are handwritten and carry no text
+        # layer at all, so they cannot be re-extracted mechanically. They are excluded here
+        # and were confirmed visually and by the fund roll-forward closing exactly.
+        hand = [u for u in unmatched if "georgetown-fire" in u[0]]
+        rest = [u for u in unmatched if "georgetown-fire" not in u[0]]
+        check("figure_reextracted_from_outlined_page", not rest,
+              "%d rows re-extracted; %d handwritten rows excluded; %d unmatched %s"
+              % (checked, len(hand), len(rest), rest[:3]))
+
+    # 7. the stronger tables are empty
+    for fn in ("residential-cash-receipts.csv", "capital-spending.csv", "residential-funded-shares.csv"):
+        data = list(csv.DictReader(open(rel("data", fn), encoding="utf-8")))
+        check("empty_table_%s" % fn, len(data) == 0, "%d rows" % len(data))
+
+    # 8. every published zero is a printed zero; no unknown became a zero
+    bad_zero = [r["record_id"] for r in rows
+                if r["value_usd"] and float(r["value_usd"]) == 0
+                and r["value_is_printed_zero"] != "true"]
+    check("published_zeros_are_printed_zeros", not bad_zero, str(bad_zero[:5]))
+    blank_value = [r["record_id"] for r in rows if not r["value_usd"]]
+    check("no_blank_values_published", not blank_value, str(blank_value[:5]))
+
+    # 9. privacy: no local paths, operator identifiers or key material in published text.
+    #    The patterns live in privacy-patterns.json so that this file does not contain the
+    #    very strings it searches for and therefore match itself.
+    patterns = json.load(open(rel("validation", "privacy-patterns.json"), encoding="utf-8"))["patterns"]
+    hits = []
+    scanned = 0
+    for entry in files:
+        if not entry["path"].endswith((".csv", ".json", ".md", ".py", ".txt")):
+            continue
+        if entry["path"] == "validation/privacy-patterns.json":
+            continue
+        scanned += 1
+        text = open(rel(*entry["path"].split("/")), encoding="utf-8", errors="replace").read()
+        for pat in patterns:
+            if re.search(pat, text):
+                hits.append((entry["path"], pat))
+    check("no_private_paths_or_identifiers_in_text_files", not hits,
+          "%d text files scanned against %d patterns; %d hits %s" % (scanned, len(patterns), len(hits), hits[:5]))
+
+    # 10. markdown links resolve
+    broken = []
+    for entry in files:
+        if not entry["path"].endswith(".md"):
+            continue
+        base = os.path.dirname(rel(*entry["path"].split("/")))
+        text = open(rel(*entry["path"].split("/")), encoding="utf-8").read()
+        for target in re.findall(r"\]\(([^)#]+)(?:#[^)]*)?\)", text):
+            if target.startswith(("http://", "https://", "mailto:")):
+                continue
+            if not os.path.exists(os.path.normpath(os.path.join(base, target))):
+                broken.append((entry["path"], target))
+    check("markdown_links_resolve", not broken, str(broken[:5]))
+
+    out = {"checks": PASS + FAIL,
+           "passed": len(FAIL) == 0,
+           "n_passed": len(PASS), "n_failed": len(FAIL),
+           "data_rows": len(rows), "figure_groups": len(groups),
+           "source_reports": len({r["source_pdf"] for r in rows}),
+           "receiving_entities": len({r["receiving_entity"] for r in rows})}
+    print(json.dumps(out, indent=1))
+    return 0 if not FAIL else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

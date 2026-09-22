@@ -1,171 +1,2285 @@
 {
-  "schema": "mfa-artifact-manifest/v1",
-  "coverage": "All release files except this manifest; manifest bytes are verified separately during public readback.",
-  "files": [
-    {
-      "path": ".gitignore",
-      "bytes": 19,
-      "sha256": "862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793"
-    },
-    {
-      "path": "data/capital-spending.csv",
-      "bytes": 235,
-      "sha256": "6b3e381571dc7518e151b90a33f94296131602ede51901ca2bd53713be1dc5df"
-    },
-    {
-      "path": "data/mfa-preliminary.xlsx",
-      "bytes": 12335,
-      "sha256": "823884ecd62105983c1cbc29fb4f0e48b98356293fa4caf991920df484a4e7a5"
-    },
-    {
-      "path": "data/reported-fee-collections.csv",
-      "bytes": 2549,
-      "sha256": "ab152e11f493f26ded1f3cc581ccdc03abbb85039801d1d3a07957bc0f38a4d9"
-    },
-    {
-      "path": "data/reported-fee-collections.json",
-      "bytes": 3715,
-      "sha256": "ec32dc66dfd9e03869cc6c9a86bb8171a1c00b87ded8cb49c86e6d27378e0735"
-    },
-    {
-      "path": "data/residential-cash-receipts.csv",
-      "bytes": 449,
-      "sha256": "116d0f4a92d0080bc9db93c150945baef366b88e18d66d882e625774d791d9eb"
-    },
-    {
-      "path": "data/residential-funded-shares.csv",
-      "bytes": 235,
-      "sha256": "6b3e381571dc7518e151b90a33f94296131602ede51901ca2bd53713be1dc5df"
-    },
-    {
-      "path": "docs/coverage.md",
-      "bytes": 3007,
-      "sha256": "466d911414046c37c9ccdbeb7f1ef0dee1fe25b4e745665bb380120805fbfe6c"
-    },
-    {
-      "path": "docs/data-dictionary.md",
-      "bytes": 3028,
-      "sha256": "47b108f2ca0cf95e2e22717e6c3a51250190d25d19a88a4b47ed792fa224df25"
-    },
-    {
-      "path": "docs/methodology.md",
-      "bytes": 3210,
-      "sha256": "c8e15aa6af97a033d9596e1e8e333d7f0cfee080df40f559afe008bbf479c77e"
-    },
-    {
-      "path": "evidence/extracts/fremont-2020-21-p003.pdf",
-      "bytes": 343069,
-      "sha256": "03a54e28d196d28b59a10457f9017469103548bc1e5403bee1396b2f86d82316"
-    },
-    {
-      "path": "evidence/extracts/fremont-2020-21-p004.pdf",
-      "bytes": 343069,
-      "sha256": "b74b6f0d06f5e68b69b26823c818f3d75f1991d7bc659749ce03900f9ed63878"
-    },
-    {
-      "path": "evidence/extracts/fremont-2020-21-p006.pdf",
-      "bytes": 343069,
-      "sha256": "e7a5876a7b2c767179e53006b817900e42a22e86ac2e45f2cf0e27d111515c45"
-    },
-    {
-      "path": "evidence/extracts/fremont-2020-21-p017.pdf",
-      "bytes": 343069,
-      "sha256": "f70f0a83b1c4c29a75dc0c8dd531a0c99963a8797226757f8e139fa592b5bd6e"
-    },
-    {
-      "path": "evidence/highlights/fremont-2020-21-p003.pdf",
-      "bytes": 344041,
-      "sha256": "40d6b28f1496a5078a7a7ba78c61aedd0b0ff0466aaf3524cb68a1bbe393e9b9"
-    },
-    {
-      "path": "evidence/highlights/fremont-2020-21-p004.pdf",
-      "bytes": 344195,
-      "sha256": "fde3bb294c48fed5fa4f53663af4af9ab0ffe3bf12f70a8c8209198cdfbf0383"
-    },
-    {
-      "path": "evidence/highlights/fremont-2020-21-p006.pdf",
-      "bytes": 343949,
-      "sha256": "60050b4baaa8c0127737f35f9e505678ff6cdd4323ee6a91ddf54fedc1e0e2fe"
-    },
-    {
-      "path": "evidence/highlights/fremont-2020-21-p017.pdf",
-      "bytes": 343740,
-      "sha256": "96a258596d7a7f28a8a4d01e76e03b3b9d7bff5acb4181c781888b87db323983"
-    },
-    {
-      "path": "evidence/index.json",
-      "bytes": 5926,
-      "sha256": "3802d8e61f7eb8e58113084cba57e02dc313d6d9aa3bb0c70ee1ac98e0a4cfd5"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2641,
-      "sha256": "c2a2d3878879979953f74bbc56026d2ee8c34339dbe5447c1a8e23f09725fbb5"
-    },
-    {
-      "path": "sources/corona-2024-25.pdf",
-      "bytes": 2879030,
-      "sha256": "df6de2fe78cfdf6c5924f6568589330315f9544d08fad3df2fa7de2d3da879eb"
-    },
-    {
-      "path": "sources/evergreen-2023-24.pdf",
-      "bytes": 170158,
-      "sha256": "1c0db88679eb086f6dbab6a012a3f44f7be642593c1fa499e5d1b14ee7447f27"
-    },
-    {
-      "path": "sources/fremont-2020-21.pdf",
-      "bytes": 215305,
-      "sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473"
-    },
-    {
-      "path": "sources/index.csv",
-      "bytes": 2059,
-      "sha256": "a4faecd7e3c3fbc968ac70f21dd840fa4ca11bb49238b9c9d91ae89ae039645f"
-    },
-    {
-      "path": "sources/index.json",
-      "bytes": 3302,
-      "sha256": "29f5a38956fc4123ef9a1846a5407f5ad8158b824eef34b7ae77925d83321f1d"
-    },
-    {
-      "path": "sources/natomas-2024-25.pdf",
-      "bytes": 334540,
-      "sha256": "6042835392d614724b93f56bc7430c96d7af4dc3c397900c8ffc638eec919bc1"
-    },
-    {
-      "path": "sources/README.md",
-      "bytes": 2291,
-      "sha256": "dde29e1e9067db111cfcb6b5610097d8ed998d8c86bd65d14d47cdf8878efedc"
-    },
-    {
-      "path": "validation/independent-review.json",
-      "bytes": 7858,
-      "sha256": "f9af6dc39dad81a286b9f065df04183cfe2a3610a9d8a6a9b7339478f5354895"
-    },
-    {
-      "path": "validation/pdf_copy.py",
-      "bytes": 3192,
-      "sha256": "a75ddb7629ea00d5ece0b1859a0de4947e1be1ea1f7db9ff0e247a266b47e713"
-    },
-    {
-      "path": "validation/pdf_graph.py",
-      "bytes": 14859,
-      "sha256": "612e51473fd25af283cc74e653217a54986a8e2b1bd4980e4e7e47ea740ac782"
-    },
-    {
-      "path": "validation/requirements.txt",
-      "bytes": 49,
-      "sha256": "59a67599471e6d73c996e3103e79c9514075501590d0b2ed5d19d69edbe3463f"
-    },
-    {
-      "path": "validation/review.json",
-      "bytes": 2096,
-      "sha256": "e0e2818086284fde85457ad325ea9de2bf4000ea2bfed8e9c87ea264ff52c1bd"
-    },
-    {
-      "path": "validation/validate.py",
-      "bytes": 9368,
-      "sha256": "867172f6437eb5ee593e3f8c6b1d3fcc00caa5e8598190b93a17569a31abd02c"
-    }
-  ]
+ "release": "mfa-data release 03",
+ "built_utc": "2026-09-22T03:09:46.300333+00:00",
+ "data_rows": 357,
+ "distinct_printed_figures": 189,
+ "receiving_entities": 43,
+ "agency_years": 79,
+ "fee_programs": 131,
+ "source_reports": 50,
+ "evidence_pairs": 189,
+ "fiscal_years": [
+  "2013-14",
+  "2014-15",
+  "2015-16",
+  "2016-17",
+  "2017-18",
+  "2018-19",
+  "2019-20",
+  "2020-21",
+  "2021-22",
+  "2022-23",
+  "2023-24",
+  "2024-25"
+ ],
+ "held_rows_published": 0,
+ "file_count": 451,
+ "total_bytes": 61752365,
+ "files": [
+  {
+   "path": "README.md",
+   "bytes": 6880,
+   "sha256": "b498c9114d98729f19e757e9599517d8d8719bdfd9257b84eef0d768030f1a03"
+  },
+  {
+   "path": "data/capital-spending.csv",
+   "bytes": 94,
+   "sha256": "3ac163dcf959ea8b66b769190be776e025e48c3d0eece18cc2f6740fc4943536"
+  },
+  {
+   "path": "data/mfa-reviewed-collections.xlsx",
+   "bytes": 131764,
+   "sha256": "c2cc92a086a0951578e434bdb55291001fc68c32b00b0f3574aa63449c6478cb"
+  },
+  {
+   "path": "data/refusals-by-reason.csv",
+   "bytes": 615,
+   "sha256": "0f8bd51ab810bd9e24cd588fef2b8ae4df69a3ab834cc53d1ed08b1c631bd6a9"
+  },
+  {
+   "path": "data/reported-fee-collections.csv",
+   "bytes": 721248,
+   "sha256": "36c0d266ac5bef28e951e94a542d901b04abc139226838f246866bd2c7cb4df7"
+  },
+  {
+   "path": "data/reported-fee-collections.json",
+   "bytes": 1090578,
+   "sha256": "660d8744ff8affa7aea33504ca60b1baaa432378e184ab35b4fbe0e1038ac02d"
+  },
+  {
+   "path": "data/residential-cash-receipts.csv",
+   "bytes": 90,
+   "sha256": "bce44fed1e039c7579b12f1ac4dc7e4e90e53149cd6744e54238ffba907a8e95"
+  },
+  {
+   "path": "data/residential-funded-shares.csv",
+   "bytes": 119,
+   "sha256": "695c1d556c7e5f1b768f59c7419732d65d2572f969aee882d41bb3f3c75f3768"
+  },
+  {
+   "path": "docs/coverage.md",
+   "bytes": 5573,
+   "sha256": "fdb604a81df00ad73ea473c976dd6904115d4c392d1445a1a7be04c50c25118f"
+  },
+  {
+   "path": "docs/data-dictionary.md",
+   "bytes": 6240,
+   "sha256": "4ce15c335e0a5e693e3cafd4ae5b4890f8bb7266b700515e90d2ba9d20d9ab17"
+  },
+  {
+   "path": "docs/methodology.md",
+   "bytes": 6579,
+   "sha256": "5f1b16094f8982d5a60742bdece0af53f3f442c384f43e1c4b3d41d6c2711769"
+  },
+  {
+   "path": "docs/review-process.md",
+   "bytes": 4183,
+   "sha256": "976c279d37964f63ce8e85e04ac9d070943db2584278f3312a7877d4813c2cf3"
+  },
+  {
+   "path": "evidence/extracts/american-canyon-fire-protection-district-p002-f0927f65.pdf",
+   "bytes": 38842,
+   "sha256": "df8bcb78126ada0e478a0cdc404e479d53b300501ee050dcd447e2550332f1dc"
+  },
+  {
+   "path": "evidence/extracts/american-canyon-fire-protection-district-p004-6c00da1f.pdf",
+   "bytes": 39034,
+   "sha256": "9780e1b21dca050062b72620ab0e53a5e04e7c9e8e5bea73fc31cde9546f9e59"
+  },
+  {
+   "path": "evidence/extracts/antioch-unified-p003-50b89960.pdf",
+   "bytes": 50518,
+   "sha256": "f91cac97014da9f4d99194ebdf265d44198364f27f1c4edb769610278e01c10d"
+  },
+  {
+   "path": "evidence/extracts/beaumont-unified-p003-5d021355.pdf",
+   "bytes": 102606,
+   "sha256": "1917e1cd8dd15ae19ee50b2d06962012847a31ca6b4c62b29e8f493fa84b4501"
+  },
+  {
+   "path": "evidence/extracts/cameron-park-community-service-district-p002-ce81a69e.pdf",
+   "bytes": 75339,
+   "sha256": "6f7ef65fa6eec84e8296e266f8e3f7baf1167fd9b41bcaae897d31e2ceab2876"
+  },
+  {
+   "path": "evidence/extracts/cameron-park-community-service-district-p008-e19830eb.pdf",
+   "bytes": 75206,
+   "sha256": "fbbb1fe7427263dce4f1078a7f7753b15e8ae1a7f4e4224a7f75f8ee64b67d79"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p001-1e243abb.pdf",
+   "bytes": 53508,
+   "sha256": "3eced68d6464555ab5e20892fae76343446361fc687d57a6d5eaf8268851e00e"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p001-39e29299.pdf",
+   "bytes": 53508,
+   "sha256": "751ad85e92dd304f1b9c2e88d2de45da43844f77465fa657565e7cd41762e9e9"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p001-463bc7cc.pdf",
+   "bytes": 53508,
+   "sha256": "be948a95bb81a14995810d539e050df89882743d71844a50b704ef3c31163cf5"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p001-75b1c25b.pdf",
+   "bytes": 53508,
+   "sha256": "3345a2614d5278109e1463797e0d3abe63353070c1935aa53d14d64510341f74"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p001-9377a146.pdf",
+   "bytes": 53508,
+   "sha256": "a4aeb2bda3fe5ccc6ec6863ca0c7c5e6f338b68ad97f83c6b7a76bc9a4d2e2ca"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p001-a4a8a8c8.pdf",
+   "bytes": 53508,
+   "sha256": "7600c14701313e1cb9d025f39109c6054197cb261059b172869d2f91c80954c8"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p001-a80ae52e.pdf",
+   "bytes": 53508,
+   "sha256": "4d938c3deb533dc7f6c37b37e87912a05817b56f7b60820bdc97801bf8c10dd1"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p001-aee3a813.pdf",
+   "bytes": 53508,
+   "sha256": "a0abaddf2f33aa597d741392d40c54886db8339177c2c41feab72730218c812a"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p001-e83f1040.pdf",
+   "bytes": 53508,
+   "sha256": "1c7344c69a5690b99ec36312ca07eb8e00e74b64de5dc971d9421846d097cbd5"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p001-e9b28540.pdf",
+   "bytes": 53508,
+   "sha256": "cf6188d45a6e68f6c47d9789a938ec57e1464ef5830cdebe1d66c4ea28222994"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p001-f68c5cf9.pdf",
+   "bytes": 53790,
+   "sha256": "f4b40cbce37ad3d3ebf60a6546cd4369fb964d842ada7a0055f82255cf907b32"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p003-0072ee6b.pdf",
+   "bytes": 49867,
+   "sha256": "1fb5add2189d1b36dcef4fa617f25f2cd994437ff14ad35749b7b2e50840aa59"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p003-02dcf651.pdf",
+   "bytes": 49867,
+   "sha256": "f095f06ba7009b51b454acd401b2c9cd9faddbff7596e539a2ec2b72acf665b1"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p003-3de148f9.pdf",
+   "bytes": 49867,
+   "sha256": "b83465f91ce6d550acf6b8bde8dc4a87736775d99e8a7e1a6e71bae888c583be"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p003-6e6b645f.pdf",
+   "bytes": 49867,
+   "sha256": "c8a0fbffdf9021545cceb535ba1b5bd41e7305b5702b8c2effd8f9714e35ff4b"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p003-7a95e64f.pdf",
+   "bytes": 49867,
+   "sha256": "8651345437341c4b046122373808b06566c23c1e578826c13750c4695b640711"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p003-9c10958d.pdf",
+   "bytes": 49867,
+   "sha256": "7c1714805d909d33eab344d625294494e724b86cfb92aded15b9db74fe06e611"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p003-a1e4dfc1.pdf",
+   "bytes": 49867,
+   "sha256": "12ea38adde598876cfa377217a41a29294b2c4acee3cf52bea465e9a28a6299d"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p003-c7efb7f7.pdf",
+   "bytes": 49867,
+   "sha256": "b3fcda4ee43cbcbe4b0298dee9c45c6a5bd468e86dee5a04250f868600d123b7"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p003-e1aa3176.pdf",
+   "bytes": 49867,
+   "sha256": "7659033cf061f8f0d7b83563fe36e26f24ddb1c1edbeda54020fc2f0a4fb20b9"
+  },
+  {
+   "path": "evidence/extracts/city-of-arcadia-p003-f2d1d143.pdf",
+   "bytes": 49867,
+   "sha256": "cc0014603b0a1511a1a24290930a3deab4ad7cec0fa3d96cb1da3a319239b3cb"
+  },
+  {
+   "path": "evidence/extracts/city-of-avalon-p005-46e0698d.pdf",
+   "bytes": 22354,
+   "sha256": "7dead4cdb6b15580ea943c3a0a8a011124aec333f573997aca44fb79880b1e68"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-0051f5b8.pdf",
+   "bytes": 52223,
+   "sha256": "03a32ffc5a8a5be44df67d35b089860772c4167fcc3dec129a1e3f9b97422ac0"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-05e9ba34.pdf",
+   "bytes": 52223,
+   "sha256": "ba6bb497678d4a57947959f99bb8baa228bdf3c9bbbf44fdeb1af029a0bf021b"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-05fb9a74.pdf",
+   "bytes": 52223,
+   "sha256": "c723c7ded62b222d4f7135643e0938bed5c8fd8b85fc3d923e992d3e5fc9399a"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-393f69e5.pdf",
+   "bytes": 52223,
+   "sha256": "79d6d78ccedd8ae59eec7e811ee8dfefed526e6b6de10bdc1cc3064710b0c479"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-4193f6e5.pdf",
+   "bytes": 52223,
+   "sha256": "da7324531b9c27ef350911013281500e6d33aeb92c85475459b1daeedd12ceec"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-43048b7f.pdf",
+   "bytes": 52223,
+   "sha256": "415f562880867e1356a38ce09fb129f20780cc2108586cb4801daa45684e89b5"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-554bf34d.pdf",
+   "bytes": 52223,
+   "sha256": "c8bae410f2535ca788c054928c483735fbff3e1624a4ba95d92c4fd0da5bdab6"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-60471cb4.pdf",
+   "bytes": 52223,
+   "sha256": "ae23acab33c56f9b8febbca20cd4c85624fd9eb31ad6b4b53fa9b08c17907af2"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-7eb9d7dd.pdf",
+   "bytes": 52223,
+   "sha256": "8e0bf89fc9115dbb687c715df49cfdfaf6a2d9329abfa2ada01016bd3f1dcf28"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-896f38f5.pdf",
+   "bytes": 52223,
+   "sha256": "1cbec7a0b277b7a0aa2227d21d710a66ed0cf92a4828ad29683079608709086a"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-8a8fc37c.pdf",
+   "bytes": 52223,
+   "sha256": "320b571b484d78e7cc73d00d908afa1856d2c7d44ad69bf55ce014cff28bd10b"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-96a70180.pdf",
+   "bytes": 52223,
+   "sha256": "15a2c873d84d1992930c6031be1e4d8103730286b48c0b21183b9494db4b9700"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-a1041a48.pdf",
+   "bytes": 52223,
+   "sha256": "17c4725b3cd65c56d9b429a89fd01dbd46d78dd66c81715b3617da5e01529d37"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-a9798086.pdf",
+   "bytes": 52223,
+   "sha256": "2cf3f8d1a45369ff2490321d1f9d2a5d7c285a28bf81264479a2c85d9b3f2a63"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-cafec5c8.pdf",
+   "bytes": 52223,
+   "sha256": "674153c4bdd2b59c40cc9978d80fdbc0e2f2f3627a598da9abd7895241df993d"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-dc403fea.pdf",
+   "bytes": 52223,
+   "sha256": "0acb4aa2b1ce73b0833c129004a4831792c6f9302976d466d8ebd3e29171fb5d"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p002-feb1cfee.pdf",
+   "bytes": 52223,
+   "sha256": "a7931af0b9def76066b4a965fe46d83955e681678deb0340105b6bff635eda5a"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p004-0cdfc32f.pdf",
+   "bytes": 61466,
+   "sha256": "3c1ce4c8b5f43076844be423bbdca87fc5ae446fadc4b067ef6f5fe8dce74261"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p004-3977ec8a.pdf",
+   "bytes": 61466,
+   "sha256": "205b8e2020751d17440421f9c0b6419695603f2bf0aa57329c5091d558adaeef"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p004-5449f231.pdf",
+   "bytes": 61466,
+   "sha256": "6c014bf918927c6a9587f2b38987aa8cbfab22583cf40188d15bc8e267329d5d"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p004-662b20ff.pdf",
+   "bytes": 61466,
+   "sha256": "2b92eb8e304ce81298946702e3e76a2aec7ee8e349982bb0435ea67084df07c6"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p004-70bdcf13.pdf",
+   "bytes": 61466,
+   "sha256": "bf28961fc091d05f6919081696721c21ec7729842ca7c8bb82d24fc4ecc18a58"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p004-7ac7beb8.pdf",
+   "bytes": 59547,
+   "sha256": "98d4e8c55c7b98b29618d78edf9a481a8b437a2a4354772d7665fd7ec2f7057f"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p004-8cdd3292.pdf",
+   "bytes": 59547,
+   "sha256": "7b365185bb639de8a27afd13e9e4924c8ff30875973bbba3a78a14104f2cd7c0"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p004-92ebdd39.pdf",
+   "bytes": 59547,
+   "sha256": "0b9b0f6fbdb42e8dbb74cf21206cb49f81869358ddd3e3b70b9e850db4c6978f"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p004-d94a6b1b.pdf",
+   "bytes": 59547,
+   "sha256": "12f138b2da6c897839cb1e915253848e01fe9575a9d2a7b2fe17ba1bd57e4d78"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p004-ee54b654.pdf",
+   "bytes": 59547,
+   "sha256": "dd6653423b365beed7d08a4f77f43df48cf468a2c1ed3e730a25f66e484e4d12"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p005-5858a1e1.pdf",
+   "bytes": 62429,
+   "sha256": "f79e0c009ec88e6ee7894e9b5f1880d0b4515b421ac1b7a69bcf1af9719a3313"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p005-76acf07e.pdf",
+   "bytes": 62429,
+   "sha256": "894bf5750df041d93bc0cb630c2326562bb575be18dd4193b82ae39ee774af1c"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p005-cf08ea96.pdf",
+   "bytes": 62429,
+   "sha256": "c52e1e8f8126190a6fc92d5ccc5ab7b980faf10c366eb942598fffec0fd91830"
+  },
+  {
+   "path": "evidence/extracts/city-of-calimesa-p005-e6849438.pdf",
+   "bytes": 62429,
+   "sha256": "deb9327a2a599f2f0022145d43e796c97f9e2b92cbad17e66853f33c90bc76cc"
+  },
+  {
+   "path": "evidence/extracts/city-of-cloverdale-p001-15e48328.pdf",
+   "bytes": 39825,
+   "sha256": "4bdc8d2c9d8c210b4f6f36b0f6f01118d73ce3887a3dc773314fa31503efbd3b"
+  },
+  {
+   "path": "evidence/extracts/city-of-cloverdale-p001-48239ead.pdf",
+   "bytes": 39825,
+   "sha256": "ed77f46adc06b9271d277456002e8731d1aa1c8b1e6ff63c6ac16eff48656d30"
+  },
+  {
+   "path": "evidence/extracts/city-of-cloverdale-p001-65bc261b.pdf",
+   "bytes": 39825,
+   "sha256": "823a78e9aa37d4de33972b3dd1b9e2f8dbc859983f9094ab90463744a3a5fc93"
+  },
+  {
+   "path": "evidence/extracts/city-of-cloverdale-p001-7e8dd0bf.pdf",
+   "bytes": 39825,
+   "sha256": "35b2909d94a651b7e2725cd7b1c21acc280b6c097f9f55434e7c9e26826ec041"
+  },
+  {
+   "path": "evidence/extracts/city-of-cloverdale-p001-96ecc4b9.pdf",
+   "bytes": 39825,
+   "sha256": "77f7bffa2c8bb8a1d4a8f721f49d4eab366dbdbf5a958b79a163268fe77da28d"
+  },
+  {
+   "path": "evidence/extracts/city-of-cloverdale-p001-cebcbf66.pdf",
+   "bytes": 39825,
+   "sha256": "4a90e1e1601f4c8c27927177de05951c5f1529201d27574e919ada13a787a439"
+  },
+  {
+   "path": "evidence/extracts/city-of-cloverdale-p001-d424bc1d.pdf",
+   "bytes": 39825,
+   "sha256": "56d5e33b680e7d62b5366ddc911fd04d29d709b8a30c38fa04eb5a14d891dacf"
+  },
+  {
+   "path": "evidence/extracts/city-of-cloverdale-p001-f2f54aa8.pdf",
+   "bytes": 39825,
+   "sha256": "6a55c2693bc043cbf4bab4991542760b75512dae38fdfd537ddd853dfff98e26"
+  },
+  {
+   "path": "evidence/extracts/city-of-colton-p009-0208eeba.pdf",
+   "bytes": 50115,
+   "sha256": "c85c49f88c392141f392b08b4daccfc1c8884ac3b5bdf2454b9850d9afd316c4"
+  },
+  {
+   "path": "evidence/extracts/city-of-colton-p009-08f99f20.pdf",
+   "bytes": 50115,
+   "sha256": "606cbad3349d2ced9d9a6a215e4758185650c4aca7574dc497d65adbada19e1f"
+  },
+  {
+   "path": "evidence/extracts/city-of-colton-p009-1295d8cf.pdf",
+   "bytes": 50115,
+   "sha256": "f6b59442d5bcf172d47e8b08fd2081f3665bc791b469124c3d52617d6673d7f3"
+  },
+  {
+   "path": "evidence/extracts/city-of-colton-p009-1d4d1ab4.pdf",
+   "bytes": 50115,
+   "sha256": "3a460eaa5d6d3207b117e93dedf8efc416f0b664067970b650b60714ea96c97b"
+  },
+  {
+   "path": "evidence/extracts/city-of-colton-p009-390004f0.pdf",
+   "bytes": 51528,
+   "sha256": "a524fe336745220ce915e72023d41f33b19bc7b9b6e64886fdf9c8dfc1e34529"
+  },
+  {
+   "path": "evidence/extracts/city-of-colton-p009-60fea10f.pdf",
+   "bytes": 51528,
+   "sha256": "440bfce4a7787996b1385d1b362e30c34815b090a4c98bf1098e38387c220eba"
+  },
+  {
+   "path": "evidence/extracts/city-of-colton-p009-780265f0.pdf",
+   "bytes": 51528,
+   "sha256": "56afea7b0b8cf5179946c22d7577ae31467678a2be821667fc7be1d8dda59da7"
+  },
+  {
+   "path": "evidence/extracts/city-of-colton-p009-78c1b6b6.pdf",
+   "bytes": 50115,
+   "sha256": "39fd62119f3575870a28bee721fab023f0845566a871ee00a0260d82ba18d81c"
+  },
+  {
+   "path": "evidence/extracts/city-of-colton-p009-9138cd82.pdf",
+   "bytes": 51528,
+   "sha256": "d5712b2232afe6c4c509e95523e694859b65d6e73976cd2926ecd730bbe46abd"
+  },
+  {
+   "path": "evidence/extracts/city-of-costa-mesa-p002-04d15f87.pdf",
+   "bytes": 7742,
+   "sha256": "ad0b44a8699e9e61ebf6ca6c808847b504a70ea328d42ea4517f8f55d75aa06d"
+  },
+  {
+   "path": "evidence/extracts/city-of-costa-mesa-p002-d6d5ca44.pdf",
+   "bytes": 7742,
+   "sha256": "fa6e41969edc4427b992d76c675f842f3cfa26264ebae2d15db867b391434fec"
+  },
+  {
+   "path": "evidence/extracts/city-of-costa-mesa-p002-fa9c155b.pdf",
+   "bytes": 7742,
+   "sha256": "0c6655677cb2405e50075fed094c27b487da3457ece83b5cc1486c229d1d684c"
+  },
+  {
+   "path": "evidence/extracts/city-of-culver-city-p001-c4cd0d36.pdf",
+   "bytes": 7872,
+   "sha256": "569c1b9956981a7d3af8853142c324a6daec340de5e91af721a7d222fb3afa0f"
+  },
+  {
+   "path": "evidence/extracts/city-of-east-palo-alto-p010-99837c97.pdf",
+   "bytes": 57611,
+   "sha256": "d93afc78310e774419dee00dde36b51b53ffbc94e1dd90195f7590ccedf1cde7"
+  },
+  {
+   "path": "evidence/extracts/city-of-east-palo-alto-p012-9008b849.pdf",
+   "bytes": 56058,
+   "sha256": "f999da6b9efca81307a7167d886065d14e1942f2acd2ed87f54498cdf70d3c0f"
+  },
+  {
+   "path": "evidence/extracts/city-of-east-palo-alto-p017-a2d48e43.pdf",
+   "bytes": 56913,
+   "sha256": "203d879b1cd1af815fea93f5270fe6fe1797d1eca1ebec25333c088afcf7d67b"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p004-a9b9f63c.pdf",
+   "bytes": 14680,
+   "sha256": "2288cc0ac5e4cb59844852819b1f546fa8490559fae8dc53fa5df02f69799b7e"
+  },
+  {
+   "path": "evidence/extracts/city-of-fremont-p006-5f3bb62d.pdf",
+   "bytes": 14139,
+   "sha256": "4b80556002285cfc40e20f5bc18467da688fefa332d1b57c12a5ed36a50fb4be"
+  },
+  {
+   "path": "evidence/extracts/city-of-garden-grove-p005-154151d9.pdf",
+   "bytes": 31611,
+   "sha256": "6b3a642f921e47f77fde58b54ee0fb3385d00307f258da3280f9cdc4e64f4641"
+  },
+  {
+   "path": "evidence/extracts/city-of-garden-grove-p005-8732696f.pdf",
+   "bytes": 31611,
+   "sha256": "ec48d77f3807decc1d98a3cbce8e42f2c4a5a8933b102a42578b8f0246e1cbd1"
+  },
+  {
+   "path": "evidence/extracts/city-of-garden-grove-p005-9186b01f.pdf",
+   "bytes": 31611,
+   "sha256": "64d03e46abd399581c3911158feeca2004d25927a536f2ba20b760b01e50d7ad"
+  },
+  {
+   "path": "evidence/extracts/city-of-garden-grove-p005-b9908139.pdf",
+   "bytes": 31611,
+   "sha256": "9939db59ab47f82c546187103d5a59eda0297021c76d2a85bff5273fce0dcf7b"
+  },
+  {
+   "path": "evidence/extracts/city-of-garden-grove-p005-ce1e546c.pdf",
+   "bytes": 31611,
+   "sha256": "5a6e6e176618daf3a74b1b360b99a05fae6b69b5b4be82fc78113431524dd5a8"
+  },
+  {
+   "path": "evidence/extracts/city-of-garden-grove-p005-e7ed9645.pdf",
+   "bytes": 31611,
+   "sha256": "74ad9c16ba8a3c7bbdd5e2c7d00ad454f5d869a9188df87a9447cc149ea72163"
+  },
+  {
+   "path": "evidence/extracts/city-of-hemet-p024-07652e57.pdf",
+   "bytes": 6931,
+   "sha256": "24d32ab7df6f3540fac69642092d87c793a761ee3df9e0784e83fcd402ccffa7"
+  },
+  {
+   "path": "evidence/extracts/city-of-hemet-p024-0ff8fa2b.pdf",
+   "bytes": 6931,
+   "sha256": "8b241e1dad96bfbb97cb2b0b2549e65df1e0b94c68be1c20c6e1b6a09ae38e7d"
+  },
+  {
+   "path": "evidence/extracts/city-of-hemet-p024-34ea1f0b.pdf",
+   "bytes": 6931,
+   "sha256": "fbed8c685ffa4345d6fbb60d3ac714066cad86480a0c9e5e67daa1580937b36a"
+  },
+  {
+   "path": "evidence/extracts/city-of-hemet-p024-4e1b6bc1.pdf",
+   "bytes": 6931,
+   "sha256": "d12bfe371a88604a363dbdca723d4b674983e7169b009b525bfe44bf7ca3aa6d"
+  },
+  {
+   "path": "evidence/extracts/city-of-hemet-p024-676b22fd.pdf",
+   "bytes": 6931,
+   "sha256": "e731977aa05fc99a0827e506e11b3326fa080e24de655c0d61dc498dad07917e"
+  },
+  {
+   "path": "evidence/extracts/city-of-hemet-p024-7f454fc3.pdf",
+   "bytes": 6931,
+   "sha256": "113cd26ebdeb91fadfe0dc80a1148b69b4e06e866368c74bdfac457a0e855777"
+  },
+  {
+   "path": "evidence/extracts/city-of-hemet-p024-8e484aec.pdf",
+   "bytes": 6931,
+   "sha256": "6c59264ebefede9e19a066ddf259b4d6c88958a7fda907ab02e9f347c51ab514"
+  },
+  {
+   "path": "evidence/extracts/city-of-hemet-p024-b1b60b30.pdf",
+   "bytes": 6931,
+   "sha256": "7ea14a5d70f73d74483dac83ae6d15b1a99265e0a056c13a4a8132c1cfcf3308"
+  },
+  {
+   "path": "evidence/extracts/city-of-hemet-p024-caf33287.pdf",
+   "bytes": 6931,
+   "sha256": "97ef56e2652ca3a48d4a095213783c115ace9da5538242157cd0bab8b7d7f91d"
+  },
+  {
+   "path": "evidence/extracts/city-of-manteca-p033-50ff2ba0.pdf",
+   "bytes": 94698,
+   "sha256": "35df07bcde486348ecbc711c454fc505c746d62ef36fbf416127b1b95749aa0c"
+  },
+  {
+   "path": "evidence/extracts/city-of-manteca-p033-6eac4a24.pdf",
+   "bytes": 94698,
+   "sha256": "a8288b38a1d14a6b1a2a3f084b68fabb3e7f7e66489e7ee6247947b109c6b0bd"
+  },
+  {
+   "path": "evidence/extracts/city-of-manteca-p033-c92cb52d.pdf",
+   "bytes": 94698,
+   "sha256": "9c4056dc5332d446a03b43262d586cc2cd45d280a6db2f9e873241f76a0ea441"
+  },
+  {
+   "path": "evidence/extracts/city-of-manteca-p033-d1f26128.pdf",
+   "bytes": 94698,
+   "sha256": "0f1c5df8d37763d1749381b42e3986c6e4bdbdc0a5cd0e19389e3ff8adc96427"
+  },
+  {
+   "path": "evidence/extracts/city-of-manteca-p033-d432e9c7.pdf",
+   "bytes": 94698,
+   "sha256": "ccf56f2b96532e8863a4adf486ccb3543110c90537ad0943bed6cb1d84c849f0"
+  },
+  {
+   "path": "evidence/extracts/city-of-murrieta-p002-24c94829.pdf",
+   "bytes": 5089,
+   "sha256": "4e9185f8cd7cc683c535643b69e7208fffd6f6f06eadc071f2a2fe578186a253"
+  },
+  {
+   "path": "evidence/extracts/city-of-murrieta-p006-26417645.pdf",
+   "bytes": 4613,
+   "sha256": "e72e13942696be0f5b7e7b8ed3d110f6fdeb529fa9e5a503bccd40727e94b3d3"
+  },
+  {
+   "path": "evidence/extracts/city-of-murrieta-p012-98c9ac74.pdf",
+   "bytes": 15677,
+   "sha256": "f419111e6a1abb56ad29351fd5297d844d7a452cae20fd24dd680d7fe2496da8"
+  },
+  {
+   "path": "evidence/extracts/city-of-napa-p010-78c90dc0.pdf",
+   "bytes": 45893,
+   "sha256": "7a17465e5ad53b2081bb3d784345a0cae02b9f1234ac81d97b54342bb188f28f"
+  },
+  {
+   "path": "evidence/extracts/city-of-paso-robles-p008-21cb0b1b.pdf",
+   "bytes": 47402,
+   "sha256": "ef76347297734eb27f8d30f4d9b5dbd7772d9e2cc179e89217898dea9ba88160"
+  },
+  {
+   "path": "evidence/extracts/city-of-paso-robles-p009-45451670.pdf",
+   "bytes": 44996,
+   "sha256": "f84e1c745b072b8961da02da7b0cf2e432920c7cc5ffe9bd160549cbfd908ad6"
+  },
+  {
+   "path": "evidence/extracts/city-of-riverbank-p010-4bda7b35.pdf",
+   "bytes": 17369,
+   "sha256": "adac474d30d403e0c95ff6a77bd5e1ac510a8bf94a8c5fb997925b934fc1621b"
+  },
+  {
+   "path": "evidence/extracts/city-of-riverbank-p010-9a1ee38e.pdf",
+   "bytes": 17369,
+   "sha256": "737b35426e6d94f4e38671d6a64db5c1d30c76e0fbb6de3c29af8f369d5d49ae"
+  },
+  {
+   "path": "evidence/extracts/city-of-riverbank-p010-abf26b16.pdf",
+   "bytes": 17369,
+   "sha256": "0b08ab6145d3f0f81d8bc0b6812f96104de961165cb908e6e9ac8873ec292a4a"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p044-0b8ba991.pdf",
+   "bytes": 58223,
+   "sha256": "d93764e2250e8cf7501dea8fc967a97b3903d6dd713133cc30d8f2f6f27fad24"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p044-3ca3f720.pdf",
+   "bytes": 58223,
+   "sha256": "d63028c1ea8d5c5a2509a35f1dda095d2a06ba548dc32667fe9335893cae5965"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p044-46761303.pdf",
+   "bytes": 58223,
+   "sha256": "74eb35c8025b5ca8036d961b6444385b03d8acf9b489f22e8342cfa5777d1d2f"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p044-58f6a645.pdf",
+   "bytes": 58223,
+   "sha256": "0cf90e5a4e962b988bad690a8fca9c15c039838731b3f9134b7da805cc6c4d11"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p044-5f384b74.pdf",
+   "bytes": 58223,
+   "sha256": "22680fb3680a8e1820de593dad0fba4322a5cedcc2a9503bfdf1fbceac7305b2"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p044-85f5b220.pdf",
+   "bytes": 58223,
+   "sha256": "65166ab20fd12f149c673f1731e2e23bb0fab61005382419c49185d4bb15a9e2"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p044-93f8710e.pdf",
+   "bytes": 58223,
+   "sha256": "5bc8b81e256a4d4116b6461faca1fa240f87206c551f4f8c337dc914d23d1741"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p044-c976ebfa.pdf",
+   "bytes": 58222,
+   "sha256": "bb3f769b7019cf5f53c8e69a9cee56d5cf11fe6893be3ec51d3f19722a71cd33"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p044-cc6d0165.pdf",
+   "bytes": 58223,
+   "sha256": "42eed1ec94a4757faf802048107c2f675acbaa744037c707c07e972169c514fa"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p044-fd92b77f.pdf",
+   "bytes": 58223,
+   "sha256": "0dde0320a9ba3e70dc5df49f3ffc0af767c5bc61f6c2c6768e21dd9eeca1b91e"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p044-fedff924.pdf",
+   "bytes": 58223,
+   "sha256": "2952c57000ae36fdcc803d924ef99f1b58386d0fd0c32067ae32a005d7252c05"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p045-07c7d5c0.pdf",
+   "bytes": 51676,
+   "sha256": "cec5cfdd791bc08303b5a1c670b36851faabbb38052637751af159aa574a339a"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p045-17db90b3.pdf",
+   "bytes": 51676,
+   "sha256": "713c9622bd53a82d341808b762031e4aab780144d31c3b493e5e4611c28d21ba"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p045-3ec32684.pdf",
+   "bytes": 51676,
+   "sha256": "72ab2f0ea244a88a919cc764daa12d349dfce2cd443d0fb77739ea1e1b30682b"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p045-6371df11.pdf",
+   "bytes": 51672,
+   "sha256": "0cc083803e4d37595c9b81c5b72a3bd6d779962ed5b1a50a0f8075f3c022a754"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p045-71f8f625.pdf",
+   "bytes": 51676,
+   "sha256": "f483794ded3929dda30fb0b262eb9f287d40c8766390ba7e79eac9d64b26412d"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p045-a1383ba0.pdf",
+   "bytes": 51676,
+   "sha256": "ad7f3eb3cd4636070963b18c98e009d7adc33c0f7b9674220cec5239cf936444"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p045-b839e010.pdf",
+   "bytes": 51676,
+   "sha256": "7cdddfb4c7c2e6849354b43fa45dedbfdd89c6bc29a28c2d82c281c371cb7add"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p045-ba448bd4.pdf",
+   "bytes": 51676,
+   "sha256": "89a9f663436004e3f44c25eb7af4b396b2ed1848f0c2f261159c86fc52df1c8a"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p045-cc3cb7fc.pdf",
+   "bytes": 51676,
+   "sha256": "4dfce4964a08e7e7d0ca8a6e2863d11f92616451d8b048632388212b3d34686b"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p045-d1d2aea6.pdf",
+   "bytes": 51676,
+   "sha256": "ac0e40ec4136d52d6e569f3a3cf38519c0dee03f925890264920992d38fe9139"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p045-dcae81a7.pdf",
+   "bytes": 51676,
+   "sha256": "5ff4d1ac45aa0c38926ceba8a76dc63d10408a4554eba4d4175a6b7b39c9cc36"
+  },
+  {
+   "path": "evidence/extracts/city-of-sacramento-p045-fb42a9db.pdf",
+   "bytes": 51676,
+   "sha256": "915990dac4039af437636805617d65ea56e6187b7f242232c10f178ab6b2ed69"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-bruno-p027-f943452a.pdf",
+   "bytes": 19916,
+   "sha256": "6ef978f82fec12ebd0712e2f6fc7f33614d2cf46f457db2119951339ea7e6593"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-leandro-p001-0052f76b.pdf",
+   "bytes": 85414,
+   "sha256": "eb85ff01dc21e16fdfe3f8d9b6c30b16639f9e3e40250c94701a0573ec88ada9"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-leandro-p001-0b3b5a13.pdf",
+   "bytes": 85414,
+   "sha256": "5f9a8dff4af4b7415a1ae4acc040b37d239cc27304919d358ace3149d721f932"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-leandro-p001-179a61a5.pdf",
+   "bytes": 85414,
+   "sha256": "a777d1d6fa216baedaeb51fffa219464354e6ed49a8ad9be4f698379b5b856f1"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-leandro-p001-1d736519.pdf",
+   "bytes": 85414,
+   "sha256": "ee85b5b2ee4580e637aed38dc0ac0c855a6df74625c254a694a2bb38b9e39521"
+  },
+  {
+   "path": "evidence/extracts/city-of-st-helena-p001-1ee5924b.pdf",
+   "bytes": 36315,
+   "sha256": "6503190fbd639bd8992be8aeb6106ad225de3ad533eb5fc196d21b63c729fe93"
+  },
+  {
+   "path": "evidence/extracts/city-of-st-helena-p001-30132dc4.pdf",
+   "bytes": 52267,
+   "sha256": "b6247300e5971e12f11af6dbc1877f4ae453dbcce6d5b771c0dee166243707b9"
+  },
+  {
+   "path": "evidence/extracts/city-of-st-helena-p001-76f97b5f.pdf",
+   "bytes": 44183,
+   "sha256": "46af364c3cd8c10917f09274fba53da26754ba9db26be9f06b5d477e08fc208d"
+  },
+  {
+   "path": "evidence/extracts/city-of-st-helena-p001-b7140157.pdf",
+   "bytes": 52267,
+   "sha256": "6b3b8573818966e15241393fffec514b4dda59b978cfff8bd8604e0e52bab3c5"
+  },
+  {
+   "path": "evidence/extracts/city-of-st-helena-p001-e49c7463.pdf",
+   "bytes": 36319,
+   "sha256": "9ceed97220107ffdd6bab51714b90eb5178d85b55a5ac78d5f656a7872934a45"
+  },
+  {
+   "path": "evidence/extracts/city-of-st-helena-p003-0217d97f.pdf",
+   "bytes": 50299,
+   "sha256": "87fcb1b752a8cda699700b443a7f53936433b98784861a96c92c7fff60f2bba0"
+  },
+  {
+   "path": "evidence/extracts/city-of-st-helena-p005-cbe139ca.pdf",
+   "bytes": 50937,
+   "sha256": "2307a7660d150514be1830eeeca56b6d35f9407988365cc8ba60c27fdaacd64e"
+  },
+  {
+   "path": "evidence/extracts/city-of-st-helena-p005-df93bb5b.pdf",
+   "bytes": 50937,
+   "sha256": "914bd89d399c7f7ff178fcd9f5b5565455fd76cae2d50ea1e30c827e69ac9c46"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p025-9c0a4933.pdf",
+   "bytes": 76065,
+   "sha256": "3e04a9fe77ecacabd2f4da4250715c8d136e378544982d2695fac0487765fdac"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p025-e22aff9e.pdf",
+   "bytes": 76065,
+   "sha256": "b78b49e1ff9088ac51606177c5f6004073ed08ee09c40f324dc842544a127a63"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p054-19b02520.pdf",
+   "bytes": 101335,
+   "sha256": "988bc63c4e9bf56c9d11e79c9cc5cf20dc1487dd41780afbb08adde16d6bb7d6"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p054-4ec95e8c.pdf",
+   "bytes": 101335,
+   "sha256": "7b5929bb69d818fbe3ea89e29a8f04ca7c08f084b7c61598a4e6993368100633"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p060-031fdef0.pdf",
+   "bytes": 74080,
+   "sha256": "b887bd4b8d17f69a7d73eeb6e12f930c47bb21f6e3e00c546cc9315c71be87ad"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p060-d392dff1.pdf",
+   "bytes": 74080,
+   "sha256": "de578c3f2114ee580732df6b38e5c9be9ec265e0b83143b359be773b3bc08732"
+  },
+  {
+   "path": "evidence/extracts/city-of-temecula-p002-43725435.pdf",
+   "bytes": 65715,
+   "sha256": "a86d90d94cee0dc0d866baf05658b76bae405886aa3cf069c54af3272563a0b7"
+  },
+  {
+   "path": "evidence/extracts/city-of-temecula-p002-63950bed.pdf",
+   "bytes": 65715,
+   "sha256": "eed7844fae9d54e71f6125ef9a0ec06c09e6ecc63e85825bad028b7e6c1b216d"
+  },
+  {
+   "path": "evidence/extracts/city-of-temecula-p002-6fce4402.pdf",
+   "bytes": 65715,
+   "sha256": "5d6c7a73a0cfac2197e22496a229388da5446a4742cade0308b39beb70567d42"
+  },
+  {
+   "path": "evidence/extracts/city-of-temecula-p002-b5ad120c.pdf",
+   "bytes": 65715,
+   "sha256": "d16c19c4683f0343648f0f3c61b3265aebb74dbae50af5dde1d1d6ba3e0e6a43"
+  },
+  {
+   "path": "evidence/extracts/city-of-willows-p004-e538dbc2.pdf",
+   "bytes": 33070,
+   "sha256": "1754686c4a93459fced920c4e2927aac992319ddfed5033d5b33e2aa37e6773c"
+  },
+  {
+   "path": "evidence/extracts/city-of-willows-p005-3dc06c20.pdf",
+   "bytes": 50927,
+   "sha256": "c4ec3076c67bd755e98363dedb2d746de17bfa7afcbe8bb9aa6f7eec32e5ecb8"
+  },
+  {
+   "path": "evidence/extracts/city-of-willows-p006-0c0cb9e9.pdf",
+   "bytes": 37957,
+   "sha256": "8f4f25140f418e4625a3bdd4fc3d22fb2a10646de81c222d3522ff265c277eb8"
+  },
+  {
+   "path": "evidence/extracts/city-of-willows-p008-df19aa9b.pdf",
+   "bytes": 50149,
+   "sha256": "5bdaa0edcdb7cc38643346261d1a997cb607a643bf54ffa9daf14b232da0415b"
+  },
+  {
+   "path": "evidence/extracts/city-of-willows-p009-0af5d257.pdf",
+   "bytes": 48645,
+   "sha256": "f58e235023272b6fcfa9ff568b9b33db363a07846801d93b02d42a0656cda3cd"
+  },
+  {
+   "path": "evidence/extracts/city-of-willows-p010-81a491be.pdf",
+   "bytes": 38278,
+   "sha256": "36b0ecc84c554f91be95a0ca5dfcd72953bfe2d0bbb9a0181a857a48e76ac418"
+  },
+  {
+   "path": "evidence/extracts/consolidated-fire-protection-district-of-p064-a831158b.pdf",
+   "bytes": 76683,
+   "sha256": "9d1b1ac25bcacdeb19d1ae4a7b187a89b06635fdff36b01f9b8872f6e2f06d13"
+  },
+  {
+   "path": "evidence/extracts/consolidated-fire-protection-district-of-p064-a958f41e.pdf",
+   "bytes": 76683,
+   "sha256": "7d3f57c4bcd4b50c6dc62409412839cda584fa72edb15cfb764d5eb087bde1cd"
+  },
+  {
+   "path": "evidence/extracts/consolidated-fire-protection-district-of-p064-bc15283b.pdf",
+   "bytes": 76683,
+   "sha256": "fb450f986993a04c75fc5f845f2312bd12c9a8230df879b0a9e40d376f7d19e5"
+  },
+  {
+   "path": "evidence/extracts/costa-mesa-sanitary-district-p001-b77ae80b.pdf",
+   "bytes": 22418,
+   "sha256": "2eff54cd45cea930085aa4c7ea4efc6050812c1fbf4f730b0724b4cdfecd4f6d"
+  },
+  {
+   "path": "evidence/extracts/diamond-springs-el-dorado-fire-protectio-p015-65648205.pdf",
+   "bytes": 75549,
+   "sha256": "04c4e673981a90dc631531ac2312fd1e8a5e8c6cb96c94272f1b5f69cc6de784"
+  },
+  {
+   "path": "evidence/extracts/el-dorado-county-fire-protection-distric-p021-43aef972.pdf",
+   "bytes": 80990,
+   "sha256": "d0a38dd75bdd24c2c80488c734dc04e38f6a8e887879ccb38a0a0f2a8317830f"
+  },
+  {
+   "path": "evidence/extracts/el-dorado-hills-community-service-distri-p027-804fb4fa.pdf",
+   "bytes": 84317,
+   "sha256": "c8f8a28d44fc8c561c1d696b22dd6fc9f6065dc5b48a913d9957283bdc4649f4"
+  },
+  {
+   "path": "evidence/extracts/esparto-fire-protection-district-p001-677b54f6.pdf",
+   "bytes": 71752,
+   "sha256": "ad19c0abbf61028b4403eaa845de7273c4684f536abbf13c6a8484b96163f119"
+  },
+  {
+   "path": "evidence/extracts/esparto-fire-protection-district-p001-b7ad0306.pdf",
+   "bytes": 71330,
+   "sha256": "efad2d70107c400d9c216576a48fc65b3efe0b8c92907af98fbf551b4f8b84f6"
+  },
+  {
+   "path": "evidence/extracts/garden-valley-fire-protection-district-p042-2c2f4bbc.pdf",
+   "bytes": 75081,
+   "sha256": "74508bb883a75be74e97e41c3d95fb366d6663f05d351e81a8d80d9fec4fb392"
+  },
+  {
+   "path": "evidence/extracts/georgetown-divide-recreation-district-p048-96715f7c.pdf",
+   "bytes": 74875,
+   "sha256": "3982c40089591311a39be64927e5301d170782ff97478037877ac474b9530c31"
+  },
+  {
+   "path": "evidence/extracts/georgetown-fire-protection-district-p054-09af986b.pdf",
+   "bytes": 63304,
+   "sha256": "a3ccc7c07f010ff0409d4ced584af36800392e49c988b7aeac4c992c7badd929"
+  },
+  {
+   "path": "evidence/extracts/lake-valley-fire-protection-district-p060-f33944db.pdf",
+   "bytes": 75899,
+   "sha256": "1c5205050584e85d7d350d008d2d82b4161e627e9dfe232fa46d82c0c3bf785f"
+  },
+  {
+   "path": "evidence/extracts/moorpark-unified-p005-36ef65c9.pdf",
+   "bytes": 149723,
+   "sha256": "a7343df1342670f21b122377c9645566ef0964a5cd08b650d990d2f7d7330b71"
+  },
+  {
+   "path": "evidence/extracts/mosquito-fire-protection-district-p066-b17aea6a.pdf",
+   "bytes": 212361,
+   "sha256": "7e1546a40ad8805c5e036411a8fbfbeabd51738a82741c5cc9badff485dc3a17"
+  },
+  {
+   "path": "evidence/extracts/natomas-unified-school-district-p002-7f9cab37.pdf",
+   "bytes": 91444,
+   "sha256": "a0a95535b41ce7007286cb8a25a98335798dd6a35185b50c2fda7e3463fdbc87"
+  },
+  {
+   "path": "evidence/extracts/pioneer-fire-protection-district-p072-ad774c8d.pdf",
+   "bytes": 74464,
+   "sha256": "7fa7f3a1743717b20044eb5e8af4735581e97db519277c1b0bae8c99008d10bc"
+  },
+  {
+   "path": "evidence/extracts/saddleback-valley-unified-p004-12ecd88e.pdf",
+   "bytes": 204959,
+   "sha256": "977e0f091b1dd9033c17e32279fcde97b86420ae2105b9b7cb8c014d7d7dde0d"
+  },
+  {
+   "path": "evidence/extracts/saddleback-valley-unified-p004-3675d2e2.pdf",
+   "bytes": 385829,
+   "sha256": "bcc6a0eefe9d0a8c9e9f8f12da498d6a9e9d1cd4d88293133a3f0492420fdea8"
+  },
+  {
+   "path": "evidence/extracts/saddleback-valley-unified-p004-46c4ea40.pdf",
+   "bytes": 458457,
+   "sha256": "7ba914282df34e778c85cccb5cbd2d0c8e646a4cbcf19e964125a3a5d63a2bd0"
+  },
+  {
+   "path": "evidence/extracts/saddleback-valley-unified-p004-596651e4.pdf",
+   "bytes": 458773,
+   "sha256": "a988ef9e9112fb47636048a17b9108dc80b4f148eb53e202a15c389b6456394d"
+  },
+  {
+   "path": "evidence/extracts/saddleback-valley-unified-p004-c1455ce8.pdf",
+   "bytes": 235648,
+   "sha256": "60c1754b4a86eb8c32bd868cb307b94275ee0f3a53c9d5b5d8b1307f5379dda6"
+  },
+  {
+   "path": "evidence/extracts/saddleback-valley-unified-p004-e4eaa959.pdf",
+   "bytes": 53921,
+   "sha256": "94147260471b12ca2b81f9041a49d325afaea0d2142432f223a2abd76d35238b"
+  },
+  {
+   "path": "evidence/index.json",
+   "bytes": 198701,
+   "sha256": "7103a5b5421c8b95a2b8ec989e9f405cda5444e40b13b67f0c96b1ff5562fb7f"
+  },
+  {
+   "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
+   "bytes": 38907,
+   "sha256": "65836c11e653526aaab3ac36c1e92a3c15c968edaf225930bd2356b6e599bffa"
+  },
+  {
+   "path": "evidence/outlined/american-canyon-fire-protection-district-p004-6c00da1f.pdf",
+   "bytes": 39101,
+   "sha256": "170e75bdf44886c35b968fc3d0f0d050756b3738a64139d491ff70e73fc70df2"
+  },
+  {
+   "path": "evidence/outlined/antioch-unified-p003-50b89960.pdf",
+   "bytes": 50579,
+   "sha256": "e029f294a3b4914fa7906f5437c2f199bd6b9f9c2267fb9092d4a032a865087c"
+  },
+  {
+   "path": "evidence/outlined/beaumont-unified-p003-5d021355.pdf",
+   "bytes": 102653,
+   "sha256": "7b88ad970c1111290abd82cfb716824220038d8e7b9d9774df85e2d6f609216a"
+  },
+  {
+   "path": "evidence/outlined/cameron-park-community-service-district-p002-ce81a69e.pdf",
+   "bytes": 75398,
+   "sha256": "1ede8b8155e0048046beade25392ecffb92418e9894bf5b406a4c54d502e55cb"
+  },
+  {
+   "path": "evidence/outlined/cameron-park-community-service-district-p008-e19830eb.pdf",
+   "bytes": 75269,
+   "sha256": "03d218d0fc998ec0e947544dbc6b43bb1f56bddc0dc64bb60e42dc39688b2d4f"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p001-1e243abb.pdf",
+   "bytes": 53568,
+   "sha256": "212cf3f862e176ba37e7563c54340968fdd7dc24b04580ed303a4ed888fc6b13"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p001-39e29299.pdf",
+   "bytes": 53567,
+   "sha256": "b997131c8d2b475a8286f2d31e54827f21ebf42a77ba1dbed3666a7b1e62e23f"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p001-463bc7cc.pdf",
+   "bytes": 53566,
+   "sha256": "7bce13c6960f515e5c500ebe4f0e9667ea92cbea8575877a3380a8c0c70aca4e"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p001-75b1c25b.pdf",
+   "bytes": 53567,
+   "sha256": "1bccd1554bf01e1a514161972e909865f5923f7b35bb3e7a0ff9c6fba12ae363"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p001-9377a146.pdf",
+   "bytes": 53567,
+   "sha256": "e1f10ad5173051c8ae01b04bb73d8559e0b87887ae43ec758e64040de1fe2f26"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p001-a4a8a8c8.pdf",
+   "bytes": 53561,
+   "sha256": "2ec68a0e74041bd50f550512aa23b414fb9dbc0014ba2bd85756bd0cf0e42f90"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p001-a80ae52e.pdf",
+   "bytes": 53569,
+   "sha256": "22152678961eb67a1c79f94f8421fc7356f00c4e75fcf57594e0d421d5d57e59"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p001-aee3a813.pdf",
+   "bytes": 53565,
+   "sha256": "97f22ea116595996400d89fe81a3ab3e591c78524498d333b06cb8b98d0dbc29"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p001-e83f1040.pdf",
+   "bytes": 53567,
+   "sha256": "d898c320ca04845bc30f252a6faf6ad832e9425ad6ea0a61eef7952dbb6d0aa5"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p001-e9b28540.pdf",
+   "bytes": 53566,
+   "sha256": "59c66079b2e74f2a50fcc180e3a0865f055f6783e5b7cccc6904635c5f17e111"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p001-f68c5cf9.pdf",
+   "bytes": 53850,
+   "sha256": "fa6ab74d1f5b41b05efdb69cef2d84858e4040f0c6789ae63fb79df01e65e9e2"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p003-0072ee6b.pdf",
+   "bytes": 49924,
+   "sha256": "50ebbffab2d6d15365a8beb1b9c91f434e9ea216749d32681fa37507db71af7c"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p003-02dcf651.pdf",
+   "bytes": 49924,
+   "sha256": "14fd024609ea7968693e9f84eb551bdf37011f825254f9293372aacb437f5592"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p003-3de148f9.pdf",
+   "bytes": 49925,
+   "sha256": "b6ce4e794afb3b884ef4ccd0cda85d3c1180365b82ce0f8d54ad9ad8c56675bd"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p003-6e6b645f.pdf",
+   "bytes": 49924,
+   "sha256": "1531dbc8cfa9a62f26cbbd1e748c483ea27ab769d3793877f5457455192309fc"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p003-7a95e64f.pdf",
+   "bytes": 49924,
+   "sha256": "4d549367f1273ac972707daf760f13738b8d59fa1ee721763416fc0b969f63f5"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p003-9c10958d.pdf",
+   "bytes": 49924,
+   "sha256": "4905fb659c3662cb5e1a215d1e6883ebb59ae2e8ebb3dbf236b9cdabad1bebff"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p003-a1e4dfc1.pdf",
+   "bytes": 49923,
+   "sha256": "4d703888625643913d1abd396b4c56b737fc4cab7358f9c692a84162668ccb6e"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p003-c7efb7f7.pdf",
+   "bytes": 49924,
+   "sha256": "12bf7b9d99817faa8da240bd29f5a647210d0473665f7fb1b24db5b351647a5b"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p003-e1aa3176.pdf",
+   "bytes": 49925,
+   "sha256": "df8eb0e7fd5771906eaf1c7e91470d8e590d0501e2240e4956954af44ca84983"
+  },
+  {
+   "path": "evidence/outlined/city-of-arcadia-p003-f2d1d143.pdf",
+   "bytes": 49924,
+   "sha256": "9194ea33fdcf61845cc41448534fb3e3ded23f97f99b77577579b2b848591ef8"
+  },
+  {
+   "path": "evidence/outlined/city-of-avalon-p005-46e0698d.pdf",
+   "bytes": 22411,
+   "sha256": "0b93b2dd68a923c7e3b6e7cbf1feaabcffa9d9e115a38e86fb3c85760b3f14b7"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-0051f5b8.pdf",
+   "bytes": 52280,
+   "sha256": "410affdcc8663a50237294aaebff7b2394bb2e52115c3691f416a797ee375d34"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-05e9ba34.pdf",
+   "bytes": 52281,
+   "sha256": "c2847601ab623a75e088f1d3fbc9d308877322414b283d4197405e36da9dca87"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-05fb9a74.pdf",
+   "bytes": 52281,
+   "sha256": "a8da62e4bd268932a452887ccc91c4f6a21c909401867d23d7855d6e2db53dea"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-393f69e5.pdf",
+   "bytes": 52281,
+   "sha256": "ba16177323384dfafadb68b3bab54b2b371cffb0aa2f317323b5c383d3518ec3"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-4193f6e5.pdf",
+   "bytes": 52282,
+   "sha256": "27ec9392576fe385f8b5af71cf000da5014f6aa727b27c41f5606a4e07754ecd"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-43048b7f.pdf",
+   "bytes": 52284,
+   "sha256": "9d153888b805ecbbe2c58537780813bffbabd2e43d04a87865a72f9406ce888b"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-554bf34d.pdf",
+   "bytes": 52281,
+   "sha256": "49b514da5fbedc1caa29470a861410e2958d9734605652ab2696e2a32ce62f3e"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-60471cb4.pdf",
+   "bytes": 52282,
+   "sha256": "889fb7f5394862eed32cdf9958e382d32bb000a70c5e8bfc0899ef69eec2d2f1"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-7eb9d7dd.pdf",
+   "bytes": 52281,
+   "sha256": "2f1c3f954f5afb8080d7952c6e32d4230f8310b17387e992848875e4b2d704e8"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-896f38f5.pdf",
+   "bytes": 52282,
+   "sha256": "04eb32b27e5b2f27a73d9763257c2a467eaa86cd22eeda03b6a3ad1692f8f6b9"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-8a8fc37c.pdf",
+   "bytes": 52282,
+   "sha256": "2a4583dc7eaeda494cde338c5c211542b7527ec4dd3ee5c3fc516f8e1336890d"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-96a70180.pdf",
+   "bytes": 52285,
+   "sha256": "d7c9dc8b8e6bec0bacadd4b6811aa2e1b29ff0280c361e762d8dce6df66e2a9a"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-a1041a48.pdf",
+   "bytes": 52282,
+   "sha256": "401a9eabf8159d3a3679606a14e25c6759bf4d0501131870614f18eca568a17c"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-a9798086.pdf",
+   "bytes": 52282,
+   "sha256": "655af8324e42cdb74a07acbcc87c0219c5956bb1b274b880ceb46a976a429768"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-cafec5c8.pdf",
+   "bytes": 52282,
+   "sha256": "c88f5ec62a2a0e8a63ffd4b861b926c9d2d54a165f5872625c0ea7289e68d2e9"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-dc403fea.pdf",
+   "bytes": 52281,
+   "sha256": "d55358f8a0c283735592d27796e8f84334fa0bae4d4d51f5cf611f627ccc6f0d"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p002-feb1cfee.pdf",
+   "bytes": 52283,
+   "sha256": "10ab00eb4bde96e0754bbf132ee02d73462f91c8a5bb3084d9508c41c6461b63"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p004-0cdfc32f.pdf",
+   "bytes": 61535,
+   "sha256": "57fe75436ca0404f2b89aada25082121e020b6c28d0d842bc7ae7a4db8fc41d1"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p004-3977ec8a.pdf",
+   "bytes": 61534,
+   "sha256": "0afb0008b85435966a9c0907af4181ec96a6d7e5c312e47f15ab9810fb9765b5"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p004-5449f231.pdf",
+   "bytes": 61531,
+   "sha256": "2fe70a583aef548eed1ac5806bf6b3266f71413ea503e51debe70f7772b063fb"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p004-662b20ff.pdf",
+   "bytes": 61532,
+   "sha256": "9d5e76d2e20ad3be1a961e2ddd9a7068f64c6244fb3e6b97744b0392b63ea284"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p004-70bdcf13.pdf",
+   "bytes": 61534,
+   "sha256": "4be916ffdf6c2e953feac06ed6e9031ee821373c51083b65282c9589e44970a2"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p004-7ac7beb8.pdf",
+   "bytes": 59611,
+   "sha256": "8c4768e1d58f73dd1a691904432e40e932b797439f73e6ad975ef8dd22f83cc8"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p004-8cdd3292.pdf",
+   "bytes": 59612,
+   "sha256": "1ceabe9b6b8e4c766f99c56afb074d4434eaa70ce9fc20130112aec76dd01f4e"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p004-92ebdd39.pdf",
+   "bytes": 59612,
+   "sha256": "a1a2a1d97cfa8fabb61cd5af81094a93c1a37853e58c0a5a33c4c3fdd80507a9"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p004-d94a6b1b.pdf",
+   "bytes": 59613,
+   "sha256": "d973faeba4d7d84f0037166f8aadfaa0b5e8315f9356c129207d75684157f5ce"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p004-ee54b654.pdf",
+   "bytes": 59613,
+   "sha256": "2a0952b2266904b8450334e63f957e0eb60b47216fabde7e51a382b93594ce1d"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p005-5858a1e1.pdf",
+   "bytes": 62491,
+   "sha256": "8bf699cb5ce17551bc2a7ac0660541d78f62da56e36bd5aeadece2bff0f2f848"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p005-76acf07e.pdf",
+   "bytes": 62489,
+   "sha256": "a893b3017e8a6b5f5c6f2259f5ec0c7c0eac09d68e83d6f0133b67b658839b25"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p005-cf08ea96.pdf",
+   "bytes": 62490,
+   "sha256": "894bd192bbcd5bc6b22f78486eb8e4da7240e7a5dfd5066dcbb99aa67ca09c46"
+  },
+  {
+   "path": "evidence/outlined/city-of-calimesa-p005-e6849438.pdf",
+   "bytes": 62491,
+   "sha256": "2da2f63805f35e1399892c5079f192f267422ff2f6346681ecb405267486790b"
+  },
+  {
+   "path": "evidence/outlined/city-of-cloverdale-p001-15e48328.pdf",
+   "bytes": 39884,
+   "sha256": "6e27b21533420a2049d3ffec51d57af5420052e52bf653477bfcf49f319b609f"
+  },
+  {
+   "path": "evidence/outlined/city-of-cloverdale-p001-48239ead.pdf",
+   "bytes": 39884,
+   "sha256": "03ba4b436d921dcf5f124e0d41f10be99ba9dd6b8483fb3416d2dfcad565f034"
+  },
+  {
+   "path": "evidence/outlined/city-of-cloverdale-p001-65bc261b.pdf",
+   "bytes": 39882,
+   "sha256": "e00d628877ce9fa1fe836909b7c54bde42f32274033a0fd0e1d96fe0f8b30833"
+  },
+  {
+   "path": "evidence/outlined/city-of-cloverdale-p001-7e8dd0bf.pdf",
+   "bytes": 39883,
+   "sha256": "f9fcc3344a3ffaf2e64aaa571c3a8fbca89740b4d94c2ace1d24da22449b5f0b"
+  },
+  {
+   "path": "evidence/outlined/city-of-cloverdale-p001-96ecc4b9.pdf",
+   "bytes": 39884,
+   "sha256": "73569a4a6c88689b0582af9faeb1ee352c753218dd84d6c77575de90e418546d"
+  },
+  {
+   "path": "evidence/outlined/city-of-cloverdale-p001-cebcbf66.pdf",
+   "bytes": 39884,
+   "sha256": "dcce15f75ffd1029117c748394310747d2623b731ae25508541da4d892ee4f04"
+  },
+  {
+   "path": "evidence/outlined/city-of-cloverdale-p001-d424bc1d.pdf",
+   "bytes": 39884,
+   "sha256": "c6e6ca64bdea850917bd86e0b31879d77517124c41bb06386a1253441f752b0c"
+  },
+  {
+   "path": "evidence/outlined/city-of-cloverdale-p001-f2f54aa8.pdf",
+   "bytes": 39885,
+   "sha256": "fe05183008916a87872e5b185cba94d4b393d403d214c44623bdc0de374812bd"
+  },
+  {
+   "path": "evidence/outlined/city-of-colton-p009-0208eeba.pdf",
+   "bytes": 50174,
+   "sha256": "4abf8c2b5c0f3adf57c1ec07e2dc28579bc18092d0b78f7e0f52c8d5ff0e3525"
+  },
+  {
+   "path": "evidence/outlined/city-of-colton-p009-08f99f20.pdf",
+   "bytes": 50174,
+   "sha256": "300a08ae80f54b354a6ef5d2f609bbae2b92f855acffb3d20a260acbf18a8805"
+  },
+  {
+   "path": "evidence/outlined/city-of-colton-p009-1295d8cf.pdf",
+   "bytes": 50175,
+   "sha256": "92794c9befb40ca78b087d1d2677024e8cf4d9094904fcbc800b66df5c078c59"
+  },
+  {
+   "path": "evidence/outlined/city-of-colton-p009-1d4d1ab4.pdf",
+   "bytes": 50172,
+   "sha256": "ad6b37b3c69f11816afdc8462e72b23ce605298828086fd9cb1045fa662e10f5"
+  },
+  {
+   "path": "evidence/outlined/city-of-colton-p009-390004f0.pdf",
+   "bytes": 51585,
+   "sha256": "e6bc7d6deb7cc588f7c3a6874dbb4e96a9f8ceda21e87d03aaeb18e62ec68fb0"
+  },
+  {
+   "path": "evidence/outlined/city-of-colton-p009-60fea10f.pdf",
+   "bytes": 51585,
+   "sha256": "1fa54ffd0c8e1b44d9a95da6037be744e21f372920436032345149b0ed149b02"
+  },
+  {
+   "path": "evidence/outlined/city-of-colton-p009-780265f0.pdf",
+   "bytes": 51583,
+   "sha256": "34c3315978a413bc75f11c5ecb374d388206fc5ad03befd3a25b0f1467d41c21"
+  },
+  {
+   "path": "evidence/outlined/city-of-colton-p009-78c1b6b6.pdf",
+   "bytes": 50174,
+   "sha256": "ddb43351dde7fb1690bfe01b910993722fddcb270e786bbbb9f193ee07fd48f7"
+  },
+  {
+   "path": "evidence/outlined/city-of-colton-p009-9138cd82.pdf",
+   "bytes": 51582,
+   "sha256": "fc75332d4f5a50dccb6cba8c455f82ea978271ebfa7b92c3d93133f9cc8d36a1"
+  },
+  {
+   "path": "evidence/outlined/city-of-costa-mesa-p002-04d15f87.pdf",
+   "bytes": 7799,
+   "sha256": "f6f67399eaf62ddc8bb81223bdfc9dce6251b1b8d92962838aaea34ff9d72ed6"
+  },
+  {
+   "path": "evidence/outlined/city-of-costa-mesa-p002-d6d5ca44.pdf",
+   "bytes": 7803,
+   "sha256": "38f6cf539d0615bb50dd45d28d49b70dcc20194261871a5a4583f8bbd5c5580a"
+  },
+  {
+   "path": "evidence/outlined/city-of-costa-mesa-p002-fa9c155b.pdf",
+   "bytes": 7800,
+   "sha256": "3d69cda45f7ad85d1c550530a22a20334ce3cf454ce175ed4c85f149b28d2369"
+  },
+  {
+   "path": "evidence/outlined/city-of-culver-city-p001-c4cd0d36.pdf",
+   "bytes": 7924,
+   "sha256": "82124724df1b2e1e4782682a8ae678b818a4fe2c52eab4ca62e0d97e220a40cb"
+  },
+  {
+   "path": "evidence/outlined/city-of-east-palo-alto-p010-99837c97.pdf",
+   "bytes": 57675,
+   "sha256": "b42041c5223c5e68a3d29a3b09f39fd37a1c2755746746370c856514dee3703d"
+  },
+  {
+   "path": "evidence/outlined/city-of-east-palo-alto-p012-9008b849.pdf",
+   "bytes": 56118,
+   "sha256": "00240e2e02e8b815b98df39c1ab228ff8df4a72c3ebad7d6446ca0166f8dbee6"
+  },
+  {
+   "path": "evidence/outlined/city-of-east-palo-alto-p017-a2d48e43.pdf",
+   "bytes": 56968,
+   "sha256": "1655ae97b2248bcaba018508b061be317f23d16182eedd572c0c8d7afb7eee44"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p004-a9b9f63c.pdf",
+   "bytes": 14736,
+   "sha256": "e6f35bedbc8afccf4ade7d8902a27c369c29241235016c990b74b4b21f15d1d6"
+  },
+  {
+   "path": "evidence/outlined/city-of-fremont-p006-5f3bb62d.pdf",
+   "bytes": 14187,
+   "sha256": "bc27aee369029fc758bc068c1af419490a75eccd02ca136c960169e8126267d5"
+  },
+  {
+   "path": "evidence/outlined/city-of-garden-grove-p005-154151d9.pdf",
+   "bytes": 31668,
+   "sha256": "428ce16c9fbb0b95ee7d2c16702378191845289a3d056d109ae9ea2f64b7d1ae"
+  },
+  {
+   "path": "evidence/outlined/city-of-garden-grove-p005-8732696f.pdf",
+   "bytes": 31675,
+   "sha256": "41d91137c1049b4cdd8164544d60f7fdb583f5ebae6751f40b056eb4b0b97031"
+  },
+  {
+   "path": "evidence/outlined/city-of-garden-grove-p005-9186b01f.pdf",
+   "bytes": 31668,
+   "sha256": "3fa66f4db8c0d6802b3752aad925d93723cc62298376e556fe5ad74909aaf6ad"
+  },
+  {
+   "path": "evidence/outlined/city-of-garden-grove-p005-b9908139.pdf",
+   "bytes": 31669,
+   "sha256": "56456dc1e61f1ed3b63dd097f1c5966eac8763ec6b3b930301d24a831af3e590"
+  },
+  {
+   "path": "evidence/outlined/city-of-garden-grove-p005-ce1e546c.pdf",
+   "bytes": 31675,
+   "sha256": "8615ff4256cc0122a4826e3ab25f0f26a9a7fd81c1cedf66ce911aec854f05ab"
+  },
+  {
+   "path": "evidence/outlined/city-of-garden-grove-p005-e7ed9645.pdf",
+   "bytes": 31670,
+   "sha256": "e5e584c0c3339e46bb260d12388c487d4e0b9b543d88ae2dd5b5c299c7bd94ea"
+  },
+  {
+   "path": "evidence/outlined/city-of-hemet-p024-07652e57.pdf",
+   "bytes": 6988,
+   "sha256": "647d4f5fb0170164cd262c506e9a7807a262d0d6ddf8471679a8f89f1d15cd90"
+  },
+  {
+   "path": "evidence/outlined/city-of-hemet-p024-0ff8fa2b.pdf",
+   "bytes": 6988,
+   "sha256": "2e02d94bd7cd39ab6940f7e7ed2da33c2219fc954a3e76743896f61c52533c58"
+  },
+  {
+   "path": "evidence/outlined/city-of-hemet-p024-34ea1f0b.pdf",
+   "bytes": 6986,
+   "sha256": "514bde4bad9f5ad1ef5ed1a3f15a171b0deff6a5b21e7aa4dd08ab14d6c5cd72"
+  },
+  {
+   "path": "evidence/outlined/city-of-hemet-p024-4e1b6bc1.pdf",
+   "bytes": 6988,
+   "sha256": "118c048cf2a648638512841021113c15380cfacece67589b91c4504393e5cd99"
+  },
+  {
+   "path": "evidence/outlined/city-of-hemet-p024-676b22fd.pdf",
+   "bytes": 6986,
+   "sha256": "1e16994c5d6598a03b9278b51131ef2e5866142d3ec37d8991fa35ce8be41778"
+  },
+  {
+   "path": "evidence/outlined/city-of-hemet-p024-7f454fc3.pdf",
+   "bytes": 6987,
+   "sha256": "d1e064716dacf45075565451d77a4506dedb91781374e239da334a507e64dea5"
+  },
+  {
+   "path": "evidence/outlined/city-of-hemet-p024-8e484aec.pdf",
+   "bytes": 6985,
+   "sha256": "eae0a49d703374e1030bd7f680703180904024678c3b79bbe3db94f346660d5c"
+  },
+  {
+   "path": "evidence/outlined/city-of-hemet-p024-b1b60b30.pdf",
+   "bytes": 6988,
+   "sha256": "0ea100d51940ff1ce182f63471f7bc56f324816e9d2ba560c4ee848aac1046b6"
+  },
+  {
+   "path": "evidence/outlined/city-of-hemet-p024-caf33287.pdf",
+   "bytes": 6987,
+   "sha256": "3d5ad5bc02fbece0aab69136d6e0b3c40bd9ff162430970d37ebe076f7294f89"
+  },
+  {
+   "path": "evidence/outlined/city-of-manteca-p033-50ff2ba0.pdf",
+   "bytes": 94749,
+   "sha256": "76c27ac85537424c780aca0581ed02af768c08397ca5615c98014f6f14b43b2e"
+  },
+  {
+   "path": "evidence/outlined/city-of-manteca-p033-6eac4a24.pdf",
+   "bytes": 94751,
+   "sha256": "8d4b183f2ddbfb23a936ffb834329c014adbd9c8fce891cbac4a3258e3104d53"
+  },
+  {
+   "path": "evidence/outlined/city-of-manteca-p033-c92cb52d.pdf",
+   "bytes": 94750,
+   "sha256": "db1e5c5e7d09bdab9834242cc7c5a48d5170689817c0038ada5754477b87c5df"
+  },
+  {
+   "path": "evidence/outlined/city-of-manteca-p033-d1f26128.pdf",
+   "bytes": 94749,
+   "sha256": "795dfa559bff0ed1c8e7075d23e2faef36430442d3d087c60c8f72bf7cf29e86"
+  },
+  {
+   "path": "evidence/outlined/city-of-manteca-p033-d432e9c7.pdf",
+   "bytes": 94749,
+   "sha256": "c0934a302ccf8f05b35adb747a550215552d64cc462d5ce5b6acb60ef05b2f24"
+  },
+  {
+   "path": "evidence/outlined/city-of-murrieta-p002-24c94829.pdf",
+   "bytes": 5147,
+   "sha256": "d8ae7c80d58deec89fa0ac13fe95792ff7da855b81a562ec9299bdabf877b0d2"
+  },
+  {
+   "path": "evidence/outlined/city-of-murrieta-p006-26417645.pdf",
+   "bytes": 4669,
+   "sha256": "0f5edf7c7ff8fca0c8bc4adc6989494e28e4c9af8dbb9f2a9fac411b6631608c"
+  },
+  {
+   "path": "evidence/outlined/city-of-murrieta-p012-98c9ac74.pdf",
+   "bytes": 15734,
+   "sha256": "078b23b7f1c2f42531f708007fea67512a1c544feafeccd135f2a052e3926a3a"
+  },
+  {
+   "path": "evidence/outlined/city-of-napa-p010-78c90dc0.pdf",
+   "bytes": 45948,
+   "sha256": "565d1e3e44334a015467d78d5e44bb2936ce32d55ad05b1f439ce52a56cb05e2"
+  },
+  {
+   "path": "evidence/outlined/city-of-paso-robles-p008-21cb0b1b.pdf",
+   "bytes": 47461,
+   "sha256": "f1d4540411dd619b67f099adfb05d4ed207282416f0b236d4a39eeaa1d823205"
+  },
+  {
+   "path": "evidence/outlined/city-of-paso-robles-p009-45451670.pdf",
+   "bytes": 45054,
+   "sha256": "a9043e1562935faabbbf7968349462ba8dca33938d9dfe862cbadfd1ff92df7e"
+  },
+  {
+   "path": "evidence/outlined/city-of-riverbank-p010-4bda7b35.pdf",
+   "bytes": 17426,
+   "sha256": "0803c2b66abdd1046042cbe272eea399c64f0b831f7544a574216ab6835fee3d"
+  },
+  {
+   "path": "evidence/outlined/city-of-riverbank-p010-9a1ee38e.pdf",
+   "bytes": 17427,
+   "sha256": "1327df39fd9d85ec1fbe9d0064972b9daae5c0a0e6d8106c1dd8ff9ae7b93769"
+  },
+  {
+   "path": "evidence/outlined/city-of-riverbank-p010-abf26b16.pdf",
+   "bytes": 17427,
+   "sha256": "6658619ef04e3626805a95cc4679892372a7350608d100e3a1670c5d9663ee0c"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p044-0b8ba991.pdf",
+   "bytes": 58288,
+   "sha256": "55bfc7b767cf824483b966e3245f8ea710ab6d53ef8e44f66869a2c53203fd91"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p044-3ca3f720.pdf",
+   "bytes": 58287,
+   "sha256": "ddb575a49de4ed57bdad04c21101d6fae8fa03060ab0be1605350816c526f2c6"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p044-46761303.pdf",
+   "bytes": 58287,
+   "sha256": "502d8da6b8d863b6357de83c3dcf8d64513c97b4276846a59b7f236525050bc4"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p044-58f6a645.pdf",
+   "bytes": 58288,
+   "sha256": "ddfc08f6d2e0f6e403b63052769f94a33010653b79abd0f218889929d5b46794"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p044-5f384b74.pdf",
+   "bytes": 58285,
+   "sha256": "fb3a4e1f820e62be2f9560c73298e3602d1639840bbf0ab5e96da6ea7913f0fb"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p044-85f5b220.pdf",
+   "bytes": 58290,
+   "sha256": "471a158b597b5520540c4efe1b4d42220b879be15f3403c7a0457b0e3bf7f0de"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p044-93f8710e.pdf",
+   "bytes": 58285,
+   "sha256": "939d092dd0bd9862d45d5cc216e72906a507d168d9da20ff757feff2b0ef0412"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p044-c976ebfa.pdf",
+   "bytes": 58283,
+   "sha256": "39872f1ed764851ce00688f68131b769ef1222af7c98fa90625af84f20b0d6c3"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p044-cc6d0165.pdf",
+   "bytes": 58289,
+   "sha256": "141e03ea8e8697878b61149c3811c2970e539014f66f7764e33566b3248e394a"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p044-fd92b77f.pdf",
+   "bytes": 58287,
+   "sha256": "bb40065658866af0ffd1a141dff781febfb8c34ed11f45337d553a61e8802478"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p044-fedff924.pdf",
+   "bytes": 58289,
+   "sha256": "1216f064cd24009a8e4dcf7d3def610697213ccbeb2709931b183ef0de70ff30"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p045-07c7d5c0.pdf",
+   "bytes": 51738,
+   "sha256": "e0f6af1a45d12ca88021a9b5e06213473a0d0eb57a73a2bfd6703d5287f0767d"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p045-17db90b3.pdf",
+   "bytes": 51742,
+   "sha256": "c0b53973fe52631834428cddf89654d4089ec3a95d6247f8649afe8f22a7a2d0"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p045-3ec32684.pdf",
+   "bytes": 51743,
+   "sha256": "c7c0f75e2fd8946fd5c318c06a62ae03fc48484cd714239b70dcf10a65e58866"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p045-6371df11.pdf",
+   "bytes": 51742,
+   "sha256": "7c064d2748274ecdc0ea96eb6dc9b2cfdd477dca182dfbe61fda9c32c91caf8d"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p045-71f8f625.pdf",
+   "bytes": 51739,
+   "sha256": "96ac57f2fd8e909d7f11778074276416fab89acb72dd196f0f80edc55c18ea64"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p045-a1383ba0.pdf",
+   "bytes": 51742,
+   "sha256": "bbfb483c3c5ec61accdfede93d3a909e08d6d693061187952001bcfd5e2c4c36"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p045-b839e010.pdf",
+   "bytes": 51741,
+   "sha256": "efe6d1b14355986115e2258c0340b02b03a148b904eca695bc04f227c0f34c1a"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p045-ba448bd4.pdf",
+   "bytes": 51741,
+   "sha256": "bd701c2963e838a9c29898cd308e9eeb1f34c8ccdc1fcb32a59652c6787ca68c"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p045-cc3cb7fc.pdf",
+   "bytes": 51741,
+   "sha256": "a1fcbba7d7abcc8d7d48fdcc543ddea5f4f1d48e9a6ece0243cd18780d39d039"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p045-d1d2aea6.pdf",
+   "bytes": 51741,
+   "sha256": "37239e9be5b54b525d2f3a5f51843b605bf0e90d6a9e1c63ae98a7479e9c392c"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p045-dcae81a7.pdf",
+   "bytes": 51741,
+   "sha256": "0c61c7af814b1483aa01dfca210ee3e58b2e47d5f1dcd656a882060e71a37057"
+  },
+  {
+   "path": "evidence/outlined/city-of-sacramento-p045-fb42a9db.pdf",
+   "bytes": 51742,
+   "sha256": "a643e01eccf8cb119c14c7b322d19c330bd9fd850e076811e040a1446903b7d9"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-bruno-p027-f943452a.pdf",
+   "bytes": 19979,
+   "sha256": "d5fcb7f4551c9140e99bee062db7fc34841dfaf52a44c1d1b1a924d4128af2e5"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-leandro-p001-0052f76b.pdf",
+   "bytes": 85486,
+   "sha256": "5877c9e26c56f8ff84e8e2cdec6592f858dfda913819e289f0501392b7465f67"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-leandro-p001-0b3b5a13.pdf",
+   "bytes": 85484,
+   "sha256": "550a0813af92e9a9a5e7c7e3946c5e31af96e496187c495b2a379303d5944a6b"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-leandro-p001-179a61a5.pdf",
+   "bytes": 85484,
+   "sha256": "f6a5d82fe76616a6531f5aa164ec59f97e27785ce6187a04485c9accd00c1441"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-leandro-p001-1d736519.pdf",
+   "bytes": 85484,
+   "sha256": "47bfaebd41c1c4a74176df72ea5a548fdd10a83a0019accc16054aa958fc1d9a"
+  },
+  {
+   "path": "evidence/outlined/city-of-st-helena-p001-1ee5924b.pdf",
+   "bytes": 36369,
+   "sha256": "1806b5463d1e1c4b2e55128e025c43f558425cabb0930c8c9d1a0b2fc6814db1"
+  },
+  {
+   "path": "evidence/outlined/city-of-st-helena-p001-30132dc4.pdf",
+   "bytes": 52319,
+   "sha256": "1b0d2effdf9492da6f0f62f6798690aa7ea7b6e7fb51274146d9d536b4ff8f94"
+  },
+  {
+   "path": "evidence/outlined/city-of-st-helena-p001-76f97b5f.pdf",
+   "bytes": 44235,
+   "sha256": "b73fc519f592afcf09dbf03f99d2668120a5be62731a0bc12954b021fbb01e45"
+  },
+  {
+   "path": "evidence/outlined/city-of-st-helena-p001-b7140157.pdf",
+   "bytes": 52323,
+   "sha256": "2ca6f8086097afda1a708d2a42a812e6649f9ae032b6e42ca2cebccfc0d114ea"
+  },
+  {
+   "path": "evidence/outlined/city-of-st-helena-p001-e49c7463.pdf",
+   "bytes": 36374,
+   "sha256": "407ea48d15ca3800ab2264778d041265138ffb89b9fcce3a7e292d882df99270"
+  },
+  {
+   "path": "evidence/outlined/city-of-st-helena-p003-0217d97f.pdf",
+   "bytes": 50352,
+   "sha256": "e760122d517243df85e6c651867187dd050e24dcb825219b82dbc00ca1bdaa68"
+  },
+  {
+   "path": "evidence/outlined/city-of-st-helena-p005-cbe139ca.pdf",
+   "bytes": 50995,
+   "sha256": "9f3515aa17db8afed4790fa11d0e81878513e3d84dde536102296e7a54778257"
+  },
+  {
+   "path": "evidence/outlined/city-of-st-helena-p005-df93bb5b.pdf",
+   "bytes": 50989,
+   "sha256": "2ef6c7eccfa6355df503b704dab892df863d84a6849aaf4041a544b8236ade79"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p025-9c0a4933.pdf",
+   "bytes": 76119,
+   "sha256": "0aec3d8368fae9872ce308867d0c015d2300abc96869581ca6f2b3bcbf883cde"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p025-e22aff9e.pdf",
+   "bytes": 76115,
+   "sha256": "6005376eca5131064fc7cc5d80e426bd6db4f6220506fc292d1b7a1c3321bb4f"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p054-19b02520.pdf",
+   "bytes": 101390,
+   "sha256": "335d45a988a3c91d45fff87bea78df2e555bed52f1989413f9365330abba639f"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p054-4ec95e8c.pdf",
+   "bytes": 101387,
+   "sha256": "d18b1413355ddd6db92861a1973bce5680a1742ffbe1bc14666f921f0b81fde4"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p060-031fdef0.pdf",
+   "bytes": 74135,
+   "sha256": "7da6c2c72df44899d5156bf15386a360b6767706a800ab3bf5ed9fb21d26ac5e"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p060-d392dff1.pdf",
+   "bytes": 74137,
+   "sha256": "62b5b0a48cf969da7a54f4315a80f8364c020257e04661aad2eea1b986d60d28"
+  },
+  {
+   "path": "evidence/outlined/city-of-temecula-p002-43725435.pdf",
+   "bytes": 65774,
+   "sha256": "66c14fe590ed7cefd35151102f43780e58e24638ed275163fdf4f80bc9e8af3d"
+  },
+  {
+   "path": "evidence/outlined/city-of-temecula-p002-63950bed.pdf",
+   "bytes": 65773,
+   "sha256": "09c17a6b8d4862e001646c3f30687ed020bc187dda756728188c96c76a016f3c"
+  },
+  {
+   "path": "evidence/outlined/city-of-temecula-p002-6fce4402.pdf",
+   "bytes": 65775,
+   "sha256": "15481410fec3c6d93a4bc37240b5d49a31da5d33a32d9741329d0cbe51277317"
+  },
+  {
+   "path": "evidence/outlined/city-of-temecula-p002-b5ad120c.pdf",
+   "bytes": 65776,
+   "sha256": "e4ec24d3564d9b2d9c575569ebee04ef2e3fe680eafccb9ce044385df9ad4633"
+  },
+  {
+   "path": "evidence/outlined/city-of-willows-p004-e538dbc2.pdf",
+   "bytes": 33129,
+   "sha256": "5af3f29a68cb370c7f7edba60f5320228e8467c8547cc7ea8dd3890ed6a8c48b"
+  },
+  {
+   "path": "evidence/outlined/city-of-willows-p005-3dc06c20.pdf",
+   "bytes": 50985,
+   "sha256": "e40e2992e05ae406f9b6934c4576364314bf2bf77f3fa1b4ab13167c06daeeb3"
+  },
+  {
+   "path": "evidence/outlined/city-of-willows-p006-0c0cb9e9.pdf",
+   "bytes": 38013,
+   "sha256": "67bbe71800ea650ac007a834a8e91029793e28818ac1af1cdf7d8a4dcc4685f9"
+  },
+  {
+   "path": "evidence/outlined/city-of-willows-p008-df19aa9b.pdf",
+   "bytes": 50206,
+   "sha256": "a0fe2852d971d4f4133659f4dc0fe950dd471861015c2c88847379fc6db1f4a8"
+  },
+  {
+   "path": "evidence/outlined/city-of-willows-p009-0af5d257.pdf",
+   "bytes": 48703,
+   "sha256": "fc3a5067dfb33577d8915971baf73f3cf104591b8d0c9e16a1ad7ce1740af94f"
+  },
+  {
+   "path": "evidence/outlined/city-of-willows-p010-81a491be.pdf",
+   "bytes": 38332,
+   "sha256": "c89f999f1b1aa8b870c963c3d2606c19e290f43b0cfcf8ff2aa063206811fe37"
+  },
+  {
+   "path": "evidence/outlined/consolidated-fire-protection-district-of-p064-a831158b.pdf",
+   "bytes": 76744,
+   "sha256": "d12699da2ea0ef5347c22f356f33fe5e64ff5421524a1fda50c173595215fda8"
+  },
+  {
+   "path": "evidence/outlined/consolidated-fire-protection-district-of-p064-a958f41e.pdf",
+   "bytes": 76743,
+   "sha256": "fd9dc11a1369b5bb5cb765fbdd7ca551a176271913baef989497291b52a127d8"
+  },
+  {
+   "path": "evidence/outlined/consolidated-fire-protection-district-of-p064-bc15283b.pdf",
+   "bytes": 76741,
+   "sha256": "d568b70ef60b2a1d0f283884804169fe8bdbe54ce914a92465534c205a5bfa1f"
+  },
+  {
+   "path": "evidence/outlined/costa-mesa-sanitary-district-p001-b77ae80b.pdf",
+   "bytes": 22475,
+   "sha256": "42a8fba801f03b0c6ca69d8d692075705e62c9f8e5a30b6980b6cf0d991bcb3b"
+  },
+  {
+   "path": "evidence/outlined/diamond-springs-el-dorado-fire-protectio-p015-65648205.pdf",
+   "bytes": 75609,
+   "sha256": "c701856d9c517c859d7048f2831995d219aca00c2584819ae36c09a196bab4a4"
+  },
+  {
+   "path": "evidence/outlined/el-dorado-county-fire-protection-distric-p021-43aef972.pdf",
+   "bytes": 81054,
+   "sha256": "cdfd45298dd2ac0811e4855ca09553bfe2943ef0ef20edf80d2a8839fac38862"
+  },
+  {
+   "path": "evidence/outlined/el-dorado-hills-community-service-distri-p027-804fb4fa.pdf",
+   "bytes": 84373,
+   "sha256": "5a2b66657f73de69e4318fd689048ba1265d216110708ffa5b6e3c0f9f80c1a2"
+  },
+  {
+   "path": "evidence/outlined/esparto-fire-protection-district-p001-677b54f6.pdf",
+   "bytes": 71809,
+   "sha256": "92f48b22aa876d271013f8958b1e0a36c4a6828d01d53454b0fc42c6af7797c3"
+  },
+  {
+   "path": "evidence/outlined/esparto-fire-protection-district-p001-b7ad0306.pdf",
+   "bytes": 71388,
+   "sha256": "f4315c57be517d285adbd8e25f4748bbfb1948f0229a1f49d0d785aa1aadeea1"
+  },
+  {
+   "path": "evidence/outlined/garden-valley-fire-protection-district-p042-2c2f4bbc.pdf",
+   "bytes": 75140,
+   "sha256": "eca6cf8bb502d0bb3b899b6748d6ff6ec86d98203326da29afe1473fbb7330f9"
+  },
+  {
+   "path": "evidence/outlined/georgetown-divide-recreation-district-p048-96715f7c.pdf",
+   "bytes": 74935,
+   "sha256": "b13d57b09e662cd750149dccdff0fb57827fd45150635476c58ee25b451f03b6"
+  },
+  {
+   "path": "evidence/outlined/georgetown-fire-protection-district-p054-09af986b.pdf",
+   "bytes": 63342,
+   "sha256": "d2121a38e5e5fb5846cb80aa5c7f8524f99821bce6c789d6d229be5eb6ddc700"
+  },
+  {
+   "path": "evidence/outlined/lake-valley-fire-protection-district-p060-f33944db.pdf",
+   "bytes": 75958,
+   "sha256": "a5d57e640afeeaa48757c0173182b40adc8997659f524119cc2a16cc89cd0a31"
+  },
+  {
+   "path": "evidence/outlined/moorpark-unified-p005-36ef65c9.pdf",
+   "bytes": 149771,
+   "sha256": "766c9110752124759006771bdc3d7fb15514e771aabaf3009aa134c7fc759e02"
+  },
+  {
+   "path": "evidence/outlined/mosquito-fire-protection-district-p066-b17aea6a.pdf",
+   "bytes": 212418,
+   "sha256": "98f09a8bd440b0bfdd5a488a38d6d80c80c16951591ec69c32eca58b6ed77581"
+  },
+  {
+   "path": "evidence/outlined/natomas-unified-school-district-p002-7f9cab37.pdf",
+   "bytes": 91498,
+   "sha256": "e35e28023875534378a9cea64d2e9ff0b3ea5a26921525eda6d0daec7ab98667"
+  },
+  {
+   "path": "evidence/outlined/pioneer-fire-protection-district-p072-ad774c8d.pdf",
+   "bytes": 74525,
+   "sha256": "bef975476c3ac102911d1f15d9cefec69e0e4a14b0fbfbe7cc3255633c348050"
+  },
+  {
+   "path": "evidence/outlined/saddleback-valley-unified-p004-12ecd88e.pdf",
+   "bytes": 205010,
+   "sha256": "1bae483c5ab72a408c76d48126520aec33e1286cf19bd6694468a5151f7ec975"
+  },
+  {
+   "path": "evidence/outlined/saddleback-valley-unified-p004-3675d2e2.pdf",
+   "bytes": 385883,
+   "sha256": "90d11d08271cd479d5d958ce3ccf165a34f521d392d6c3a2ab518b2177095663"
+  },
+  {
+   "path": "evidence/outlined/saddleback-valley-unified-p004-46c4ea40.pdf",
+   "bytes": 458512,
+   "sha256": "672d746090a480e4aab79e6a1321fabefda3298d99b48aebe9310a18d640dfdc"
+  },
+  {
+   "path": "evidence/outlined/saddleback-valley-unified-p004-596651e4.pdf",
+   "bytes": 458829,
+   "sha256": "39e1217076888b49aa9168e5eb4fb9dd6cf2d3f9dc38b0fe1610caa2c768b138"
+  },
+  {
+   "path": "evidence/outlined/saddleback-valley-unified-p004-c1455ce8.pdf",
+   "bytes": 235703,
+   "sha256": "2dcffd559e300631e808945942e3f035dbc3d21f2a7f038667a674ebb2d38ea6"
+  },
+  {
+   "path": "evidence/outlined/saddleback-valley-unified-p004-e4eaa959.pdf",
+   "bytes": 53983,
+   "sha256": "978aa0b371d34237195551036b19c0ae49a414de2eb88e36363ef985d759c3ea"
+  },
+  {
+   "path": "sources/README.md",
+   "bytes": 3617,
+   "sha256": "6af2ef8e5aa372a01bc238c69c20d95033f3e4c718892aad1397e0f635debcac"
+  },
+  {
+   "path": "sources/american-canyon-fire-protection-district-2023-24-2024-25.pdf",
+   "bytes": 200752,
+   "sha256": "1bcc08b66ed5afc742359be2fe5654bc647c6adcfe9a30cac63a392f7e6202ce"
+  },
+  {
+   "path": "sources/antioch-unified-2023-24.pdf",
+   "bytes": 393372,
+   "sha256": "b9079d9b81766afbec0f1add2b2dfd01ae44e614d56f03dabc603b3bf581591d"
+  },
+  {
+   "path": "sources/beaumont-unified-2024-25.pdf",
+   "bytes": 439356,
+   "sha256": "a1c9e11036ad6f97c163eef590d0fa48ff39158ad6e7d7cda94f89c006e352e8"
+  },
+  {
+   "path": "sources/city-of-arcadia-2023-24.pdf",
+   "bytes": 132062,
+   "sha256": "992b95978f3cd19cbff48b6619fa0a6bee103e2fe23131b18dd4dbe8ccac3476"
+  },
+  {
+   "path": "sources/city-of-arcadia-2024-25.pdf",
+   "bytes": 144385,
+   "sha256": "b55e542770570a19f00abe9181985d4029536d43c39bd121508f61dcd777024c"
+  },
+  {
+   "path": "sources/city-of-avalon-2020-21.pdf",
+   "bytes": 181009,
+   "sha256": "ad2e9c890bd5777e68c0333e7b6ae1b45da7453a231775425ebbaf0dbb6f52b8"
+  },
+  {
+   "path": "sources/city-of-beaumont-2024-25.pdf",
+   "bytes": 284825,
+   "sha256": "e0b4ec3f7b06ca7ae70b1c935b75031fa2b2c9b9141c1d4ceb552c5341996ccd"
+  },
+  {
+   "path": "sources/city-of-calimesa-2019-20.pdf",
+   "bytes": 434854,
+   "sha256": "afcf1cd8531ca31fae0291a6b833c5f8e272301ce68f03074bf4b1bb3d79e3c5"
+  },
+  {
+   "path": "sources/city-of-calimesa-2020-21.pdf",
+   "bytes": 595062,
+   "sha256": "1287f77e6c2410c9ed522454e3dd2d46b55cb278a3d151b6838fb745c02c7cb4"
+  },
+  {
+   "path": "sources/city-of-calimesa-2021-22.pdf",
+   "bytes": 684005,
+   "sha256": "b5c09d1d4809b52300d8f09356510c6ac4eecba9204c4c800a4260371a36ac47"
+  },
+  {
+   "path": "sources/city-of-cloverdale-2024-25.pdf",
+   "bytes": 84936,
+   "sha256": "5d37bea292a016142269dfab32b0fad554e3a16ccfc2cce433409c9f6de7cb20"
+  },
+  {
+   "path": "sources/city-of-colton-2023-24.pdf",
+   "bytes": 446687,
+   "sha256": "3946e92da6e65fa420cfb18d8fe75bbedf7379d9373e894c83acf8ec52e8563a"
+  },
+  {
+   "path": "sources/city-of-colton-2024-25.pdf",
+   "bytes": 408953,
+   "sha256": "921b5f63bd25fcfc581e1fb8f616b3f384fd7f84c3a1f9b74ac46abe1bb62c97"
+  },
+  {
+   "path": "sources/city-of-costa-mesa-2018-19.pdf",
+   "bytes": 711058,
+   "sha256": "39d385157364adc58a74e0eaf1c9768c8ad71f40df9c7d0bf47a6cf7c4027666"
+  },
+  {
+   "path": "sources/city-of-culver-city-2023-24.pdf",
+   "bytes": 15056,
+   "sha256": "1b5c97a259e0203a867f9e3f912564779c8b9c15bb4ffb7c88dbfe2a408a7b8a"
+  },
+  {
+   "path": "sources/city-of-east-palo-alto-2018-19.pdf",
+   "bytes": 606039,
+   "sha256": "6c01029d258ec3e3cc0307bc10ea248f1a586a57baab8e1228b0f792038100c0"
+  },
+  {
+   "path": "sources/city-of-east-palo-alto-2022-23.pdf",
+   "bytes": 1178927,
+   "sha256": "c6cf1819517f55468ea45d5d8db59c10076255cf1e91ace72b3dce52a3c664ab"
+  },
+  {
+   "path": "sources/city-of-fremont-2020-21.pdf",
+   "bytes": 215305,
+   "sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473"
+  },
+  {
+   "path": "sources/city-of-garden-grove-2021-22.pdf",
+   "bytes": 100744,
+   "sha256": "a784240356df4c954624825b2f79e146f6b72b3775b5d568f8e30fd3d7f0453d"
+  },
+  {
+   "path": "sources/city-of-hemet-2013-14.pdf",
+   "bytes": 241622,
+   "sha256": "8c2ec758c2abf48cfa51c6acc8d34135eb263a9785679e6aca0f5b9689da9fd2"
+  },
+  {
+   "path": "sources/city-of-manteca-2024-25.pdf",
+   "bytes": 1839161,
+   "sha256": "75415a9d347347aa5c511c9989eec55cfb023b6868371c6bef4440d58bf6c3cf"
+  },
+  {
+   "path": "sources/city-of-murrieta-2014-15.pdf",
+   "bytes": 141641,
+   "sha256": "0c5d86eb2914368c49b24aef1eea7fb8cba3a7a53c12ad2f5f9697dca47406b5"
+  },
+  {
+   "path": "sources/city-of-murrieta-2016-17.pdf",
+   "bytes": 141556,
+   "sha256": "d9f0ebf4e06a45f9db4cfbed8ed2a43d7452253df398f7e177253a1254b86658"
+  },
+  {
+   "path": "sources/city-of-napa-2020-21.pdf",
+   "bytes": 1057817,
+   "sha256": "a677716f7f164794bcaf0c95bf0b2bbade05f99a99896e918e8ec12236f60fd0"
+  },
+  {
+   "path": "sources/city-of-paso-robles-2020-21.pdf",
+   "bytes": 181634,
+   "sha256": "2e9cc9922268d6196180eb2e39894dd1f1ea7c307f243a539a484e7ce93fbc3d"
+  },
+  {
+   "path": "sources/city-of-riverbank-2018-19.pdf",
+   "bytes": 3429998,
+   "sha256": "4e4f0201b52a0adde552235d78c0da2c1b508e6bde19c1b8e11c3f5616941113"
+  },
+  {
+   "path": "sources/city-of-sacramento-2022-23.pdf",
+   "bytes": 1215777,
+   "sha256": "4ddd059a60b2171a5f0d28ef764767b4a8e844723a8a2ffdc7463a4a31fff108"
+  },
+  {
+   "path": "sources/city-of-sacramento-2024-25.pdf",
+   "bytes": 1881397,
+   "sha256": "6e59e33e4532c14291c533a110a41646df468ed3307bff5386a9f5edc97ead7a"
+  },
+  {
+   "path": "sources/city-of-san-bruno-2023-24.pdf",
+   "bytes": 782924,
+   "sha256": "7dca4430cfba187b5cb5a80fc60cd66d0e5bc0cbd74d67f1461c1858f8515b98"
+  },
+  {
+   "path": "sources/city-of-san-leandro-2024-25.pdf",
+   "bytes": 401601,
+   "sha256": "ae24b389e0a8e564bad849dd034257c05308d187f77614e92251b763f141ac49"
+  },
+  {
+   "path": "sources/city-of-st-helena-2014-15.pdf",
+   "bytes": 100477,
+   "sha256": "ec805a81f22b3ef83b03cf97923de4f4e75774f4fd07d51723ced522dffb7e3e"
+  },
+  {
+   "path": "sources/city-of-st-helena-2015-16.pdf",
+   "bytes": 106605,
+   "sha256": "ebc438b895ad65db591bb6a2cce5a4231aa83199b66ec22365d18ebfcaeb1c77"
+  },
+  {
+   "path": "sources/city-of-st-helena-2016-17.pdf",
+   "bytes": 609460,
+   "sha256": "ae1bd5f7d4098917b5d296396e7c7d4b1e384ce64266d9912e814051e8f2d69f"
+  },
+  {
+   "path": "sources/city-of-st-helena-2017-18.pdf",
+   "bytes": 112594,
+   "sha256": "1a7681ab3e34b5058d446380a2da4e60f1b9867c308aa865be5cbd33d98fba0f"
+  },
+  {
+   "path": "sources/city-of-stockton-2022-23.pdf",
+   "bytes": 2697997,
+   "sha256": "91248855f657ca85c11dd8240fea7697dc33bb1e40191d2ae9610edcc9b3a309"
+  },
+  {
+   "path": "sources/city-of-temecula-2023-24.pdf",
+   "bytes": 247658,
+   "sha256": "dc62f0303f7e6a05a3b7b18554028e82b6dd348b7aa6f7b68ace3da52e723901"
+  },
+  {
+   "path": "sources/city-of-willows-2020-21.pdf",
+   "bytes": 417037,
+   "sha256": "e236073aeddc0758d657fd16c85c0e2c7f89f3904025e98ba320ac6ec4ff197e"
+  },
+  {
+   "path": "sources/combined-filing-3476ee5f6f57.pdf",
+   "bytes": 2969354,
+   "sha256": "3476ee5f6f570e26316a2954004648e09a40f46996c364ef8b6a4d7dc9041be9"
+  },
+  {
+   "path": "sources/consolidated-fire-protection-district-of-los-angeles-county-2022-23.pdf",
+   "bytes": 3211139,
+   "sha256": "ae1dcc7c114c153cccc1fe1775d0970173af3796645d3dc04836839c5e261ffa"
+  },
+  {
+   "path": "sources/corona-2024-25.pdf",
+   "bytes": 2879030,
+   "sha256": "df6de2fe78cfdf6c5924f6568589330315f9544d08fad3df2fa7de2d3da879eb"
+  },
+  {
+   "path": "sources/costa-mesa-sanitary-district-2017-18.pdf",
+   "bytes": 149847,
+   "sha256": "f4e9978ec56cfe6abba60e96e995ffb0240cc082ba3714f59da0bd9090370e13"
+  },
+  {
+   "path": "sources/esparto-fire-protection-district-2023-24.pdf",
+   "bytes": 166584,
+   "sha256": "2a1f87c27938b50b40217fee0c8350629ce72052110e19eb0ed2b845a1ed56c6"
+  },
+  {
+   "path": "sources/esparto-fire-protection-district-2024-25.pdf",
+   "bytes": 166385,
+   "sha256": "cf993d1821baf09c653cfc76134299c1f8dceaaeb9a54bb4f537da9365b2bf97"
+  },
+  {
+   "path": "sources/evergreen-2023-24.pdf",
+   "bytes": 170158,
+   "sha256": "1c0db88679eb086f6dbab6a012a3f44f7be642593c1fa499e5d1b14ee7447f27"
+  },
+  {
+   "path": "sources/index.csv",
+   "bytes": 25369,
+   "sha256": "63f86ddf867e4034db451471375ed51145a6ad3e2be6c41fe74f099df92a94af"
+  },
+  {
+   "path": "sources/index.json",
+   "bytes": 44502,
+   "sha256": "2113d5c0b34223e98352e8062c251b166032863412e067f667edd42128360eb3"
+  },
+  {
+   "path": "sources/moorpark-unified-2024-25.pdf",
+   "bytes": 702153,
+   "sha256": "dab2badcf6e8ac0fa75a76a6e932c2bd37585a13ec21cb026d013d28db68730b"
+  },
+  {
+   "path": "sources/natomas-unified-school-district-2024-25.pdf",
+   "bytes": 334540,
+   "sha256": "6042835392d614724b93f56bc7430c96d7af4dc3c397900c8ffc638eec919bc1"
+  },
+  {
+   "path": "sources/saddleback-valley-unified-2015-16.pdf",
+   "bytes": 481073,
+   "sha256": "e95bb0b25cc9c80047cb6a2dc961998ae8d2856dc81e4c0e31935e55c043cca3"
+  },
+  {
+   "path": "sources/saddleback-valley-unified-2016-17.pdf",
+   "bytes": 579330,
+   "sha256": "4cceae58255aec3f13dc24f78e20a098ca29c44aecc6162657f1abe4cb5554a6"
+  },
+  {
+   "path": "sources/saddleback-valley-unified-2017-18.pdf",
+   "bytes": 388815,
+   "sha256": "5d39baefb9697e9d31fc410393596601f8af3dace79646840fdbb94a5db588fb"
+  },
+  {
+   "path": "sources/saddleback-valley-unified-2018-19.pdf",
+   "bytes": 652244,
+   "sha256": "314add9218e2ebfba3a908ed3b0d0397e1668e39a03bd5397fbf023688733ae3"
+  },
+  {
+   "path": "sources/saddleback-valley-unified-2019-20.pdf",
+   "bytes": 172816,
+   "sha256": "b5f5574b1ad856cc4cb1a1d6fb945a8646561bed1b31f97e97f8b8fd62391568"
+  },
+  {
+   "path": "sources/saddleback-valley-unified-2020-21.pdf",
+   "bytes": 686883,
+   "sha256": "5ca63d46abd53ef3626789c6c64c0e1760760435985b6dbb94ee525c292e30d0"
+  },
+  {
+   "path": "validation/independent-review.json",
+   "bytes": 2782,
+   "sha256": "fecaa935ce0e9831672eb8ce977577c0bbbbbd6c7d7697dbee352adc5db0cae5"
+  },
+  {
+   "path": "validation/privacy-patterns.json",
+   "bytes": 596,
+   "sha256": "30f0c015c0201c5094402606ed3e40bd9873580cb7c455c3baa4c8de6e62bbae"
+  },
+  {
+   "path": "validation/requirements.txt",
+   "bytes": 18,
+   "sha256": "b5b839879f8372dab4dacb76a8c4adcaf6158f710a5365eb3c8c6e3709339b79"
+  },
+  {
+   "path": "validation/review.json",
+   "bytes": 2029,
+   "sha256": "6067ee105c234141b351f48eeba3f065a2528b7bdece329f1ad3fc8f3ed61208"
+  },
+  {
+   "path": "validation/validate.py",
+   "bytes": 9439,
+   "sha256": "c356520d748f13f06169f52f614c1ff8ce75886c9da40ed6512a88249803d53a"
+  }
+ ]
 }

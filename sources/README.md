@@ -1,12 +1,36 @@
-# Source index
+# Source reports
 
-| Legal entity | Fiscal year | Type / categories | Complete original | Released data scope |
-|---|---|---|---|---|
-| City of Fremont | 2020–21 | Annual impact-fee report; parks, transportation, fire, general public facilities | [PDF](fremont-2020-21.pdf) · [official archive](https://abag.ca.gov/sites/default/files/documents/2023-09/Annual_Impact_Fee_Report_City_of_Fremont_FY20-21.pdf) | Two reviewed reported residential collection amounts; cash basis unresolved |
-| Natomas Unified School District | 2024–25 | Annual and five-year developer-fee report; schools | [PDF](natomas-2024-25.pdf) · [official publication](https://resources.finalsite.net/images/v1762276480/natomasunifiedorg/oxezqfuk3ewoi9mjsv8n/24-25AnnualandFive-YearDeveloperFeeReportFINALdocx.pdf) | Source only; numeric extraction withheld due to PDF structural warning and unresolved cash treatment |
-| Evergreen Elementary School District | 2023–24 | Annual developer-fee report; schools | [PDF](evergreen-2023-24.pdf) · [official publication](https://www.eesd.org/uploaded/documents/fiscal_services/2023-2024_Developer_Fee_Annual_Report.pdf) | Source only; numeric data remain on validation holds |
-| City of Corona | 2024–25 | Annual impact-fee report; libraries, streets, drainage, public safety, parks, community facilities and utilities | [PDF](corona-2024-25.pdf) · [official publication](https://cdn.prod.website-files.com/65799af8ef225180fdf1ba2e/69384a264b4f0fec01050e8b_AB1600%20report%20FY2025.pdf) · [City report index](https://www.coronaca.gov/departments/finance/budget-annual-reports) | Source only; financial figures withheld pending accounting, classification and financing review |
+Every file in this directory is a **complete original government report**, byte for byte as retrieved from the issuing agency or its publishing platform. Nothing here is a summary, a re-typeset copy or a screenshot. Each file's SHA-256 is recorded in [`index.csv`](index.csv), in [`../manifest.json`](../manifest.json) and beside every data row that cites it, and the copy in this repository was re-hashed after copying to confirm the bytes did not change.
 
-[Machine-readable CSV](index.csv) and [JSON](index.json) include titles, source URLs, SHA-256 hashes, byte counts, page counts and data-release status. The original sources contain additional figures and claims that are **not** validated data in this release. Whole reports are preserved to retain context.
+These reports cover 43 receiving entities and fiscal years 2013–14 to 2024–25. Nine El Dorado County special districts file inside one combined county document; that document is published once under a hash-derived name and every district's rows cite it with their own page.
 
-Fremont's original is a City report hosted in the Association of Bay Area Governments' public archive. The school districts are separate receiving entities, not their surrounding cities. This index records source holdings, not complete entity-year or statewide coverage.
+## How to find a figure in a report
+
+Each published data row gives the `physical_pdf_page` of the original, the `printed_page` where the page carries a folio, and the `internal_identifier` — the table, exhibit or line label as printed. Two derived files let you go straight to it without opening the whole report:
+
+- `evidence/extracts/…` is that single page, cut from the original.
+- `evidence/outlined/…` is the same page with a rectangle around **that figure and no other**. Pages carrying several published figures have one outlined file per figure.
+
+The rectangle's coordinates are published as `outline_rect_pdf_points` so you can check the mark independently.
+
+## Report types
+
+The collection mixes several kinds of document, because agencies publish their fee information in different places:
+
+- `annual_fee_report_66006` — the agency's own annual development impact fee report
+- `five_year_findings_66001` — combined annual and five-year reports
+- `combined_annual_and_five_year`
+- `acfr_audited_financial_statements` — audited statements, used only where the agency's fee reporting appears in them
+- `capacity_charge_compliance_report` — Government Code section 66013 capacity charge reports, which are a **different statutory scheme** from Mitigation Fee Act impact fees
+
+`publication_type` in `index.csv` records which. Rows drawn from a section 66013 report, a Quimby Act in-lieu account or a development-agreement fee say so in their `source_limitations`.
+
+## Where a source appears here but a figure does not
+
+Publishing a report does not mean every number in it was accepted. Several reports in this directory contributed some published figures and had others refused — a revenue line that includes property-sale proceeds, a negative net-of-refund amount, a residential figure derived rather than printed. The published data files contain only the accepted figures; the reports retain all of their original contents, and those other figures are not promoted into the data tables.
+
+Sources whose figures were **all** refused are not published here at all, with one deliberate exception. Two reports — the City of Corona's FY2024-25 AB1600 report and the Evergreen Elementary School District's FY2023-24 developer fee report — were published by an earlier release as **source-only** records whose extracted figures remain held. They are carried forward here rather than withdrawn, because taking an already-public record back off the public record is not an improvement. Their `index.csv` entries show `published_data_rows_from_this_source = 0`, and no figure from either appears in any data file.
+
+## Rights
+
+These are third-party government publications. They retain their original bytes and any rights of their issuers. No open-source licence is asserted over them, and this release makes no claim of government endorsement.

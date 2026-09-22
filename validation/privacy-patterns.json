@@ -1,0 +1,15 @@
+{
+ "purpose": "Regular expressions that must NOT match anywhere in a published text file. They cover operator workstation paths, the research project's private directories, account identifiers and key material. validation/validate.py loads them from here so that the validator's own source does not contain the strings it searches for.",
+ "patterns": [
+  "C:\\\\\\\\Users",
+  "C:/Users",
+  "/srv/mitigation",
+  "/mnt/sfsc",
+  "\\.sensitive",
+  "Amybot",
+  "BEGIN [A-Z ]*PRIVATE KEY",
+  "ssh-ed25519 AAAA",
+  "mfa-data-release-ed25519",
+  "[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.(?:com|org|net)"
+ ]
+}

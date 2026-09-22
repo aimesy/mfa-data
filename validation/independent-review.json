@@ -1,229 +1,69 @@
 {
-  "schema": "mfa-independent-release-review/v1",
-  "passed": true,
-  "release_stage": "preliminary",
-  "review_scope": "Independent source-only Corona report addition; unchanged two Fremont reported residential collection rows and four reviewed exact/outlined evidence pairs; source index, workbook, documents, scope and privacy.",
-  "reviewed_manifest_sha256": "f8f8ec257dc18f667eef8c65de88583404abadbde2ba5623b3e009d92e6d948e",
-  "binding_note": "The listed31 substantive artifacts exclude manifest.json and the two review metadata files so completed review records may be added without circular hashing.",
-  "reviewed_artifacts": [
-    {
-      "path": ".gitignore",
-      "bytes": 19,
-      "sha256": "862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793"
-    },
-    {
-      "path": "data/capital-spending.csv",
-      "bytes": 235,
-      "sha256": "6b3e381571dc7518e151b90a33f94296131602ede51901ca2bd53713be1dc5df"
-    },
-    {
-      "path": "data/mfa-preliminary.xlsx",
-      "bytes": 12335,
-      "sha256": "823884ecd62105983c1cbc29fb4f0e48b98356293fa4caf991920df484a4e7a5"
-    },
-    {
-      "path": "data/reported-fee-collections.csv",
-      "bytes": 2549,
-      "sha256": "ab152e11f493f26ded1f3cc581ccdc03abbb85039801d1d3a07957bc0f38a4d9"
-    },
-    {
-      "path": "data/reported-fee-collections.json",
-      "bytes": 3715,
-      "sha256": "ec32dc66dfd9e03869cc6c9a86bb8171a1c00b87ded8cb49c86e6d27378e0735"
-    },
-    {
-      "path": "data/residential-cash-receipts.csv",
-      "bytes": 449,
-      "sha256": "116d0f4a92d0080bc9db93c150945baef366b88e18d66d882e625774d791d9eb"
-    },
-    {
-      "path": "data/residential-funded-shares.csv",
-      "bytes": 235,
-      "sha256": "6b3e381571dc7518e151b90a33f94296131602ede51901ca2bd53713be1dc5df"
-    },
-    {
-      "path": "docs/coverage.md",
-      "bytes": 3007,
-      "sha256": "466d911414046c37c9ccdbeb7f1ef0dee1fe25b4e745665bb380120805fbfe6c"
-    },
-    {
-      "path": "docs/data-dictionary.md",
-      "bytes": 3028,
-      "sha256": "47b108f2ca0cf95e2e22717e6c3a51250190d25d19a88a4b47ed792fa224df25"
-    },
-    {
-      "path": "docs/methodology.md",
-      "bytes": 3210,
-      "sha256": "c8e15aa6af97a033d9596e1e8e333d7f0cfee080df40f559afe008bbf479c77e"
-    },
-    {
-      "path": "evidence/extracts/fremont-2020-21-p003.pdf",
-      "bytes": 343069,
-      "sha256": "03a54e28d196d28b59a10457f9017469103548bc1e5403bee1396b2f86d82316"
-    },
-    {
-      "path": "evidence/extracts/fremont-2020-21-p004.pdf",
-      "bytes": 343069,
-      "sha256": "b74b6f0d06f5e68b69b26823c818f3d75f1991d7bc659749ce03900f9ed63878"
-    },
-    {
-      "path": "evidence/extracts/fremont-2020-21-p006.pdf",
-      "bytes": 343069,
-      "sha256": "e7a5876a7b2c767179e53006b817900e42a22e86ac2e45f2cf0e27d111515c45"
-    },
-    {
-      "path": "evidence/extracts/fremont-2020-21-p017.pdf",
-      "bytes": 343069,
-      "sha256": "f70f0a83b1c4c29a75dc0c8dd531a0c99963a8797226757f8e139fa592b5bd6e"
-    },
-    {
-      "path": "evidence/highlights/fremont-2020-21-p003.pdf",
-      "bytes": 344041,
-      "sha256": "40d6b28f1496a5078a7a7ba78c61aedd0b0ff0466aaf3524cb68a1bbe393e9b9"
-    },
-    {
-      "path": "evidence/highlights/fremont-2020-21-p004.pdf",
-      "bytes": 344195,
-      "sha256": "fde3bb294c48fed5fa4f53663af4af9ab0ffe3bf12f70a8c8209198cdfbf0383"
-    },
-    {
-      "path": "evidence/highlights/fremont-2020-21-p006.pdf",
-      "bytes": 343949,
-      "sha256": "60050b4baaa8c0127737f35f9e505678ff6cdd4323ee6a91ddf54fedc1e0e2fe"
-    },
-    {
-      "path": "evidence/highlights/fremont-2020-21-p017.pdf",
-      "bytes": 343740,
-      "sha256": "96a258596d7a7f28a8a4d01e76e03b3b9d7bff5acb4181c781888b87db323983"
-    },
-    {
-      "path": "evidence/index.json",
-      "bytes": 5926,
-      "sha256": "3802d8e61f7eb8e58113084cba57e02dc313d6d9aa3bb0c70ee1ac98e0a4cfd5"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2641,
-      "sha256": "c2a2d3878879979953f74bbc56026d2ee8c34339dbe5447c1a8e23f09725fbb5"
-    },
-    {
-      "path": "sources/corona-2024-25.pdf",
-      "bytes": 2879030,
-      "sha256": "df6de2fe78cfdf6c5924f6568589330315f9544d08fad3df2fa7de2d3da879eb"
-    },
-    {
-      "path": "sources/evergreen-2023-24.pdf",
-      "bytes": 170158,
-      "sha256": "1c0db88679eb086f6dbab6a012a3f44f7be642593c1fa499e5d1b14ee7447f27"
-    },
-    {
-      "path": "sources/fremont-2020-21.pdf",
-      "bytes": 215305,
-      "sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473"
-    },
-    {
-      "path": "sources/index.csv",
-      "bytes": 2059,
-      "sha256": "a4faecd7e3c3fbc968ac70f21dd840fa4ca11bb49238b9c9d91ae89ae039645f"
-    },
-    {
-      "path": "sources/index.json",
-      "bytes": 3302,
-      "sha256": "29f5a38956fc4123ef9a1846a5407f5ad8158b824eef34b7ae77925d83321f1d"
-    },
-    {
-      "path": "sources/natomas-2024-25.pdf",
-      "bytes": 334540,
-      "sha256": "6042835392d614724b93f56bc7430c96d7af4dc3c397900c8ffc638eec919bc1"
-    },
-    {
-      "path": "sources/README.md",
-      "bytes": 2291,
-      "sha256": "dde29e1e9067db111cfcb6b5610097d8ed998d8c86bd65d14d47cdf8878efedc"
-    },
-    {
-      "path": "validation/pdf_copy.py",
-      "bytes": 3192,
-      "sha256": "a75ddb7629ea00d5ece0b1859a0de4947e1be1ea1f7db9ff0e247a266b47e713"
-    },
-    {
-      "path": "validation/pdf_graph.py",
-      "bytes": 14859,
-      "sha256": "612e51473fd25af283cc74e653217a54986a8e2b1bd4980e4e7e47ea740ac782"
-    },
-    {
-      "path": "validation/requirements.txt",
-      "bytes": 49,
-      "sha256": "59a67599471e6d73c996e3103e79c9514075501590d0b2ed5d19d69edbe3463f"
-    },
-    {
-      "path": "validation/validate.py",
-      "bytes": 9368,
-      "sha256": "867172f6437eb5ee593e3f8c6b1d3fcc00caa5e8598190b93a17569a31abd02c"
-    }
-  ],
-  "findings": [],
-  "source_reports": 4,
-  "accepted_reported_collection_rows": 2,
-  "verified_residential_cash_rows": 0,
-  "accepted_capital_spending_rows": 0,
-  "accepted_funded_shares": 0,
-  "corona_numeric_rows_released": 0,
-  "source_review": {
-    "corona_original_sha256": "df6de2fe78cfdf6c5924f6568589330315f9544d08fad3df2fa7de2d3da879eb",
-    "corona_legal_entity": "City of Corona",
-    "corona_fiscal_year": "2024-25",
-    "corona_full_source_pages_actually_viewed": [
-      1,
-      9,
-      10,
-      11,
-      12,
-      13,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      24
-    ],
-    "corona_report_context_read": true,
-    "conclusion": "Original public source suitable for publication; financial values remain withheld. Dashes do not establish zeros, and accounting/capital/financing questions remain unresolved."
+ "review": "independent review of mfa-data release 03",
+ "performed_utc": "2026-09-22T03:09:45.933946+00:00",
+ "independence": "This pass re-derived every published value from the published outlined PDFs and the published source PDFs alone. It did not read the primary reviewer's recorded readings.",
+ "published_rows": 357,
+ "distinct_printed_figures": 189,
+ "receiving_entities": 43,
+ "source_reports": 50,
+ "checks": [
+  {
+   "check": "independent_value_rederivation",
+   "passed": true,
+   "detail": "356 rows re-derived from their own outlined page; 1 handwritten rows read visually instead and confirmed by the printed fund roll-forward; 0 disagreements []"
   },
-  "unchanged_evidence_review": {
-    "source_id": "fremont-2020-21",
-    "full_original_and_highlight_pages_actually_viewed": [
-      3,
-      4,
-      6,
-      17
-    ],
-    "current_original_extract_highlight_hashes_equal_previously_reviewed_bytes": true
+  {
+   "check": "outlined_and_extract_pages_are_the_cited_source_page",
+   "passed": true,
+   "detail": "357 rows; 0 pages did not match the cited page of the cited source []"
   },
-  "mechanical_validation": {
-    "passed": true,
-    "manifest_files": 33,
-    "source_reports": 4,
-    "reported_collection_rows": 2,
-    "verified_cash_rows": 0,
-    "funded_shares": 0,
-    "exact_evidence_pairs": 4,
-    "markdown_file_links": 20,
-    "privacy": {
-      "passed": true,
-      "scanned_payloads": 17356,
-      "archive_members": 15,
-      "pdf_objects": 16796
-    },
-    "semantic_scope": "reported collections only; no cash or funded-share acceptance"
+  {
+   "check": "published_pdf_derivatives_have_no_duplicate_destinations_javascript_or_embedded_files",
+   "passed": true,
+   "detail": "378 derivative PDFs checked; 0 flagged []"
   },
-  "limitations": [
-    "Reported collections are not verified cash.",
-    "No held analysis rows are released.",
-    "Source holdings and selected rows do not establish statewide coverage.",
-    "Mechanical checks do not substitute for source interpretation or actual visual review."
-  ]
+  {
+   "check": "observation_accounting",
+   "passed": true,
+   "detail": "cohort 3373, decided 3373, published 357, refused 3016, orphan decisions 0, public rows 357"
+  },
+  {
+   "check": "every_refusal_carries_its_own_source_specific_reason",
+   "passed": true,
+   "detail": "3016 refusals, 2989 distinct reason texts, 0 without a substantive reason"
+  },
+  {
+   "check": "privacy_no_held_row_leaked_into_the_public_tree",
+   "passed": true,
+   "detail": "3016 refused observation ids and 1510 refused amounts checked against the whole public tree; 0 ids and 0 amounts found []"
+  },
+  {
+   "check": "privacy_raw_bytes_and_pdf_page_text",
+   "passed": true,
+   "detail": "450 published files scanned byte-wise, and every PDF page also scanned as rendered text, for workstation paths, private research directories, account identifiers and key material; 0 hits []"
+  },
+  {
+   "check": "held_tables_empty_and_refusal_summary_carries_no_amounts",
+   "passed": true,
+   "detail": "{'residential-cash-receipts.csv': 0, 'capital-spending.csv': 0, 'residential-funded-shares.csv': 0}; money-like tokens in refusal summary: 0"
+  },
+  {
+   "check": "provenance_links_complete_on_every_published_row",
+   "passed": true,
+   "detail": "357 rows x 14 required provenance fields; 0 blank []"
+  },
+  {
+   "check": "source_semantics",
+   "passed": true,
+   "detail": "357 rows checked for printed measure label and for residential scope resting on a stated source basis; 0 problems []"
+  },
+  {
+   "check": "parent_inputs_unchanged",
+   "passed": true,
+   "detail": "{\"parent_edition02\": true, \"frozen_input_edition29\": true}"
+  }
+ ],
+ "passed": true,
+ "n_passed": 11,
+ "n_failed": 0
 }

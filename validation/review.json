@@ -1,52 +1,96 @@
 {
-  "schema": "mfa-release-review/v1",
-  "release_stage": "preliminary",
-  "source_semantics": {
-    "passed": true,
-    "scope": "Two Fremont annual reported residential collection amounts; cash and gross/net basis remain unresolved.",
-    "record_ids": [
-      "fremont-2020-21-parkland",
-      "fremont-2020-21-park-facilities"
-    ],
-    "amount_pages": [
-      4,
-      6
-    ],
-    "residential_attribution_page": 17,
-    "period_and_refund_scope_page": 3
+ "checks": [
+  {
+   "check": "manifest_files_match",
+   "passed": true,
+   "detail": "451 files checked; 0 mismatched []"
   },
-  "actual_visual_review": {
-    "passed": true,
-    "scope": "Primary reviewer inspected full original pages and all four corrected highlighted pages. Blue rectangles identify the collection labels/amounts, residential applicability and contextual limitations without changing source content.",
-    "source_id": "fremont-2020-21",
-    "physical_pages": [
-      3,
-      4,
-      6,
-      17
-    ]
+  {
+   "check": "no_unlisted_published_files",
+   "passed": true,
+   "detail": "unlisted: []"
   },
-  "independent_review": {
-    "passed": true,
-    "status": "approved_for_preliminary_source_collection_update",
-    "evidence_path": "validation/independent-review.json",
-    "evidence_sha256": "f9af6dc39dad81a286b9f065df04183cfe2a3610a9d8a6a9b7339478f5354895"
+  {
+   "check": "data_rows_present",
+   "passed": true,
+   "detail": "357 rows"
   },
-  "limits": {
-    "verified_residential_cash_rows": 0,
-    "verified_capital_spending_rows": 0,
-    "verified_funded_share_rows": 0,
-    "school_numeric_rows_released": 0,
-    "statewide_coverage_complete": false,
-    "source_only_pdf_warning": "Natomas original has duplicate destination dictionary entries. The original is preserved; its numeric data and derivatives are withheld.",
-    "corona_numeric_rows_released": 0
+  {
+   "check": "provenance_links_resolve",
+   "passed": true,
+   "detail": "[]"
   },
-  "source_collection": {
-    "passed": true,
-    "complete_original_reports": 4,
-    "new_source_id": "corona-2024-25",
-    "new_source_status": "source_only_figures_withheld",
-    "new_source_sha256": "df6de2fe78cfdf6c5924f6568589330315f9544d08fad3df2fa7de2d3da879eb",
-    "scope": "City report index directly links the preserved original; new official download matches exact bytes. Source privacy review passes. No Corona financial figures are accepted into data tables."
+  {
+   "check": "source_sha256_matches_published_bytes",
+   "passed": true,
+   "detail": "[]"
+  },
+  {
+   "check": "one_primary_per_figure_group",
+   "passed": true,
+   "detail": "[]"
+  },
+  {
+   "check": "figure_group_values_agree",
+   "passed": true,
+   "detail": "[]"
+  },
+  {
+   "check": "primary_rows_equal_group_count",
+   "passed": true,
+   "detail": "189 primary rows, 189 groups"
+  },
+  {
+   "check": "printed_text_matches_numeric_value",
+   "passed": true,
+   "detail": "[]"
+  },
+  {
+   "check": "figure_reextracted_from_outlined_page",
+   "passed": true,
+   "detail": "357 rows re-extracted; 1 handwritten rows excluded; 0 unmatched []"
+  },
+  {
+   "check": "empty_table_residential-cash-receipts.csv",
+   "passed": true,
+   "detail": "0 rows"
+  },
+  {
+   "check": "empty_table_capital-spending.csv",
+   "passed": true,
+   "detail": "0 rows"
+  },
+  {
+   "check": "empty_table_residential-funded-shares.csv",
+   "passed": true,
+   "detail": "0 rows"
+  },
+  {
+   "check": "published_zeros_are_printed_zeros",
+   "passed": true,
+   "detail": "[]"
+  },
+  {
+   "check": "no_blank_values_published",
+   "passed": true,
+   "detail": "[]"
+  },
+  {
+   "check": "no_private_paths_or_identifiers_in_text_files",
+   "passed": true,
+   "detail": "19 text files scanned against 10 patterns; 0 hits []"
+  },
+  {
+   "check": "markdown_links_resolve",
+   "passed": true,
+   "detail": "[]"
   }
+ ],
+ "passed": true,
+ "n_passed": 17,
+ "n_failed": 0,
+ "data_rows": 357,
+ "figure_groups": 189,
+ "source_reports": 50,
+ "receiving_entities": 43
 }
