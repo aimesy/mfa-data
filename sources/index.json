@@ -602,6 +602,20 @@
   "published_data_rows_from_this_source": 2
  },
  {
+  "source_id": "county-of-el-dorado-2022-23",
+  "receiving_entity": "County of El Dorado",
+  "publication_title": "County of El Dorado, Department of Transportation, Public Notice of Impact Fee Accounts, FY 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2021-22",
+  "official_source_url": "https://www.eldoradocounty.ca.gov/files/assets/county/v/1/documents/land-use/transportation/tim/tim-annual-compliance-reports/2022-2023-annual-mitigation-fee-report.pdf",
+  "retrieved_utc": "2026-09-22T06:05:13.316674+00:00",
+  "physical_page_count": 44,
+  "source_sha256": "bc0c7da86d8d6cd52bd7453f1538f682e8310af382c67f5420a2a5e0c94eb872",
+  "source_bytes": 10927535,
+  "source_pdf": "sources/county-of-el-dorado-2022-23.pdf",
+  "published_data_rows_from_this_source": 10
+ },
+ {
   "source_id": "county-of-monterey-2022-23",
   "receiving_entity": "County of Monterey",
   "publication_title": "County of Monterey, report on the status of development traffic impact fees, fiscal year 2022-23, Attachment A draft resolution with Exhibit 1",

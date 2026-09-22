@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T08:36:04.034144+00:00",
- "data_rows": 506,
- "distinct_printed_figures": 338,
- "receiving_entities": 64,
- "agency_years": 126,
- "fee_programs": 241,
- "source_reports": 96,
- "evidence_pairs": 338,
+ "built_utc": "2026-09-22T08:41:40.999271+00:00",
+ "data_rows": 516,
+ "distinct_printed_figures": 348,
+ "receiving_entities": 65,
+ "agency_years": 128,
+ "fee_programs": 251,
+ "source_reports": 97,
+ "evidence_pairs": 348,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 797,
- "total_bytes": 129954191,
+ "file_count": 818,
+ "total_bytes": 142783978,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7598,
-   "sha256": "a764b679380a43e3c448a5a285735349264b541bc6c294e36f52c90e0938b9b5"
+   "bytes": 7663,
+   "sha256": "72d4a9d102fe38e95799d60c3ee9ee4ab9e7e61bbe3f1e3d990c3b70cc730878"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "9e36b36ade1948b193285f491bc8061c998f0c042fd34e963d0b79e66ed3ac6e"
+   "sha256": "868e79921d8857f373c096d62f58a46492545239abc01b5cc37ed8c342eb415a"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 201951,
-   "sha256": "13e132cafb7cbf7b034a5aecb908667b402a0b9dba7730b58859a936b34b29bd"
+   "bytes": 206444,
+   "sha256": "5a38645685e0948b7e022398bcd7c771b728db7ab30f2b88b9a03a6e4df7a845"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1081715,
-   "sha256": "3acf852346f4a00b9bfe77aff0c23c91ecff6f89c1e57c34adedb96291254ab3"
+   "bytes": 1111257,
+   "sha256": "9a0c6262239ef11681670a77f94087aa6f1d98eaea2f9f156db5f51bf82de036"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1604988,
-   "sha256": "2f3e482de1312ab4fcf39926d809a065fbf9ad669bb2129c927587f17de61c43"
+   "bytes": 1644850,
+   "sha256": "af07f4dc3c5f6019cd1948266791a6b763aa60130a9397d784008f455aad9d85"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -967,6 +967,56 @@
    "sha256": "0b54cdf9891273f9c58b0082eb733e24496d769698b81b032533aa0b0c4bb22d"
   },
   {
+   "path": "evidence/extracts/county-of-el-dorado-p033-360544d4.pdf",
+   "bytes": 100727,
+   "sha256": "3349c4b03b06ec10e3622e23751077c1602517bc2f6408f7a4750bbc873194c2"
+  },
+  {
+   "path": "evidence/extracts/county-of-el-dorado-p033-6ea8b9f0.pdf",
+   "bytes": 100727,
+   "sha256": "e4f33cbfb8cbdc951bcac727b4d236864dc7be5555e6c2bbdc9d6ef6e4b3395b"
+  },
+  {
+   "path": "evidence/extracts/county-of-el-dorado-p033-7df36d42.pdf",
+   "bytes": 100727,
+   "sha256": "71a8e02dea1fb54e3e43a780b84c70f1c045a6df1b5ef3a9a1bfc20bbe0c2e40"
+  },
+  {
+   "path": "evidence/extracts/county-of-el-dorado-p033-cd4312f7.pdf",
+   "bytes": 100727,
+   "sha256": "8058c5ed53107f0c2a2c0fcedcc1af6620ee29537487acc46a324ba7278c92e6"
+  },
+  {
+   "path": "evidence/extracts/county-of-el-dorado-p033-e13b4585.pdf",
+   "bytes": 100727,
+   "sha256": "ed16b46c66468b621674aaf13f17798a9cfe174c737c3451731af9b13191162a"
+  },
+  {
+   "path": "evidence/extracts/county-of-el-dorado-p038-4550529e.pdf",
+   "bytes": 75159,
+   "sha256": "0cf0486394474be6ad53a59b0c3a5183673799b4ad74acb90791fbb16579edf7"
+  },
+  {
+   "path": "evidence/extracts/county-of-el-dorado-p039-183a4465.pdf",
+   "bytes": 91394,
+   "sha256": "0815be47044db8bdf8f29698d0f6c8ad30298e6951ad6434cf4ffaa0416e91b0"
+  },
+  {
+   "path": "evidence/extracts/county-of-el-dorado-p039-ae7079e3.pdf",
+   "bytes": 91394,
+   "sha256": "fd70e5af0e8d0af7d9c23027fb6e69a4e2e7362e1d0afa3e4eb50f42b1fee760"
+  },
+  {
+   "path": "evidence/extracts/county-of-el-dorado-p041-c34b8bb7.pdf",
+   "bytes": 74308,
+   "sha256": "34ff8478bcaf38274a377d579ba01a1adc5ff011cedf3502c319632394bf6d2b"
+  },
+  {
+   "path": "evidence/extracts/county-of-el-dorado-p043-fbe4a667.pdf",
+   "bytes": 71748,
+   "sha256": "67a8a5f4217615952c91e83c77ab732776149b1f52c876c68d1212234af7ead5"
+  },
+  {
    "path": "evidence/extracts/county-of-monterey-p006-22333157.pdf",
    "bytes": 24746,
    "sha256": "1dc63008d40c8e4cd158af4543226c0a9891948a8202833e80c7a3dbaaa7a777"
@@ -1788,8 +1838,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 362743,
-   "sha256": "91c8ee4ff92895379b95f39abc33008d4411ac34da89e9d0bab57287714b2260"
+   "bytes": 373782,
+   "sha256": "85cd8a14e4374a6a6c810581b062dd7ff0530a4600f50deada5f6e7a60295b83"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -2660,6 +2710,56 @@
    "path": "evidence/outlined/cosumnes-community-services-district-p003-9117113d.pdf",
    "bytes": 38205,
    "sha256": "84d35ee5c15c94b6a4b7e75ab99550f9a9d79b41224a4f5179968781bc546119"
+  },
+  {
+   "path": "evidence/outlined/county-of-el-dorado-p033-360544d4.pdf",
+   "bytes": 100791,
+   "sha256": "64325cd95eb64afeeb22d7669b592f0a081275016f3546afa406a5ea3d084794"
+  },
+  {
+   "path": "evidence/outlined/county-of-el-dorado-p033-6ea8b9f0.pdf",
+   "bytes": 100794,
+   "sha256": "0f12660739dab4d802f5bc2522f7e3ae49fe190c956f35315bc57e168dda4002"
+  },
+  {
+   "path": "evidence/outlined/county-of-el-dorado-p033-7df36d42.pdf",
+   "bytes": 100793,
+   "sha256": "43c058697dd8be7095c01e57eefc9d410e69b7777f0744eeaa532261fcbe347c"
+  },
+  {
+   "path": "evidence/outlined/county-of-el-dorado-p033-cd4312f7.pdf",
+   "bytes": 100789,
+   "sha256": "81891c2eb5039fea4111e50855b74bbc969b98f910635bb8aee27e02fa6ef1c7"
+  },
+  {
+   "path": "evidence/outlined/county-of-el-dorado-p033-e13b4585.pdf",
+   "bytes": 100792,
+   "sha256": "fa6cda99c25ed8b91a8fcf6cb8bf833a22c421742988841550167d7deb7e5e95"
+  },
+  {
+   "path": "evidence/outlined/county-of-el-dorado-p038-4550529e.pdf",
+   "bytes": 75226,
+   "sha256": "0e0d0a4fa8dd8eddfe2adba51c95eb73f9a7fe06802a014d1f35f30c09d2f345"
+  },
+  {
+   "path": "evidence/outlined/county-of-el-dorado-p039-183a4465.pdf",
+   "bytes": 91457,
+   "sha256": "d5fa154ff2d59a251137f172834aa8c648096a2b5b2bfb928c6635aafd4b4c10"
+  },
+  {
+   "path": "evidence/outlined/county-of-el-dorado-p039-ae7079e3.pdf",
+   "bytes": 91462,
+   "sha256": "2c9a440233be852db67535c7d0dd834a5d4a0548d47a3b9b51e84e6d1a15608f"
+  },
+  {
+   "path": "evidence/outlined/county-of-el-dorado-p041-c34b8bb7.pdf",
+   "bytes": 74370,
+   "sha256": "10c26ffef21e0c50aef5720b183d4cf6fd5eda62c508c7c9a70c3f78f1a7d7ca"
+  },
+  {
+   "path": "evidence/outlined/county-of-el-dorado-p043-fbe4a667.pdf",
+   "bytes": 71812,
+   "sha256": "09f010cac0f9bad58faa81a93a551d15f7f47274a5725e5d9bc28dc49acd84ad"
   },
   {
    "path": "evidence/outlined/county-of-monterey-p006-22333157.pdf",
@@ -3692,6 +3792,11 @@
    "sha256": "f4e9978ec56cfe6abba60e96e995ffb0240cc082ba3714f59da0bd9090370e13"
   },
   {
+   "path": "sources/county-of-el-dorado-2022-23.pdf",
+   "bytes": 10927535,
+   "sha256": "bc0c7da86d8d6cd52bd7453f1538f682e8310af382c67f5420a2a5e0c94eb872"
+  },
+  {
    "path": "sources/county-of-monterey-2022-23.pdf",
    "bytes": 461392,
    "sha256": "22098d8bc3ec100bd38b2cf92bf27ca87df32d72d9e083605e0dff799248e32f"
@@ -3933,13 +4038,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 48311,
-   "sha256": "3bbde3a59d791a33d061c99721b217fb43502279840178fcff484d374c7b8ca4"
+   "bytes": 48816,
+   "sha256": "765659b53bd508934144286e44531ae8d6f7caf0ef6639a414d10214e538bdae"
   },
   {
    "path": "sources/index.json",
-   "bytes": 82032,
-   "sha256": "e59da9fb12e0f9f7e37bf306bad4d94aa9f062a3da984d6e2113e41bf9c96aea"
+   "bytes": 82854,
+   "sha256": "b943dc17e7785a7acdc068016f61c40a92c545e6dd2fe5d8fc5947d98e9fd79f"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -3989,7 +4094,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3048,
-   "sha256": "fce543ab3054a8a5149a27ec7cbf58e6cd40a4cde21d2dc2d648682f6836d443"
+   "sha256": "9e549e43c6aaf6541a77fff47995baa85097788c682ddfaa713ab116c127de79"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -4004,7 +4109,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2582,
-   "sha256": "f61e93f5ba19c503ac1f9e38e06cd1c0209971892b76b9141064cb45af94450a"
+   "sha256": "c7d9f6209043ad3185ff052e5fc1c89cfd820e161073430614f63d50d7035563"
   },
   {
    "path": "validation/validate.py",
