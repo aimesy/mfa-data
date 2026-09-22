@@ -123,7 +123,7 @@
   "source_sha256": "a5731cc0102ee2766147974ebfe02631ff7e6fd6045f9037686374485990f692",
   "source_bytes": 529958,
   "source_pdf": "sources/city-of-artesia-2024-25-a5731cc0.pdf",
-  "published_data_rows_from_this_source": 1
+  "published_data_rows_from_this_source": 2
  },
  {
   "source_id": "city-of-avalon-2020-21",
@@ -1008,6 +1008,48 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "city-of-moorpark-2022-23-543c9169",
+  "receiving_entity": "City of Moorpark",
+  "publication_title": "AB1600 Development Impact Fee Report (2023)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.moorparkca.gov/DocumentCenter/View/16399/2023-Annual-Report-Section-66006?bidId=",
+  "retrieved_utc": "2026-09-22T08:27:03.990553+00:00",
+  "physical_page_count": 32,
+  "source_sha256": "543c9169fa3ac346447494ab73ce5571a2c716e4fa6d1f4a9ba12474f1154e8e",
+  "source_bytes": 380944,
+  "source_pdf": "sources/city-of-moorpark-2022-23-543c9169.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
+  "source_id": "city-of-moorpark-2023-24-abb8e596",
+  "receiving_entity": "City of Moorpark",
+  "publication_title": "FY2023-24 AB1600 Report",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://moorparkca.gov/DocumentCenter/View/18049/FY2023-24-AB1600-Report",
+  "retrieved_utc": "2026-09-22T08:27:00.611091+00:00",
+  "physical_page_count": 32,
+  "source_sha256": "abb8e596f5654401b1497c42d7b6a5a581148ab5cd69c223dc47e4660f8ceefd",
+  "source_bytes": 380816,
+  "source_pdf": "sources/city-of-moorpark-2023-24-abb8e596.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
+  "source_id": "city-of-moorpark-2024-25-0e182ef4",
+  "receiving_entity": "City of Moorpark",
+  "publication_title": "FY2024-25 AB1600 Report",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://moorparkca.gov/DocumentCenter/View/19802/FY2024-25-AB1600-Report",
+  "retrieved_utc": "2026-09-22T08:26:58.701007+00:00",
+  "physical_page_count": 35,
+  "source_sha256": "0e182ef4dcd1d3ca06c0b95a44ffdb07badff3821b09453f2f334e7a8c40a4cc",
+  "source_bytes": 365250,
+  "source_pdf": "sources/city-of-moorpark-2024-25-0e182ef4.pdf",
+  "published_data_rows_from_this_source": 6
+ },
+ {
   "source_id": "city-of-murrieta-2014-15",
   "receiving_entity": "City of Murrieta",
   "publication_title": "City of Murrieta impact fee report, fiscal year 2014-15",
@@ -1048,6 +1090,48 @@
   "source_bytes": 1057817,
   "source_pdf": "sources/city-of-napa-2020-21.pdf",
   "published_data_rows_from_this_source": 2
+ },
+ {
+  "source_id": "city-of-novato-2022-23-5f9589a7",
+  "receiving_entity": "City of Novato",
+  "publication_title": "City of Novato development impact fee report, fiscal year 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.novato.gov/home/showpublisheddocument/40004/639061773278130000",
+  "retrieved_utc": "2026-09-22T07:36:31.771657+00:00",
+  "physical_page_count": 46,
+  "source_sha256": "5f9589a71555bff11850420e998b68278d08730e674dbabd96aa266427418026",
+  "source_bytes": 917291,
+  "source_pdf": "sources/city-of-novato-2022-23-5f9589a7.pdf",
+  "published_data_rows_from_this_source": 8
+ },
+ {
+  "source_id": "city-of-novato-2023-24-ebf41f4a",
+  "receiving_entity": "City of Novato",
+  "publication_title": "City of Novato development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.novato.gov/home/showpublisheddocument/40006/639061773720200000",
+  "retrieved_utc": "2026-09-22T07:36:30.818597+00:00",
+  "physical_page_count": 43,
+  "source_sha256": "ebf41f4a38e43d434fed918f39af6317c481a5300fdbc65c42deda4d5b3f5f69",
+  "source_bytes": 894447,
+  "source_pdf": "sources/city-of-novato-2023-24-ebf41f4a.pdf",
+  "published_data_rows_from_this_source": 8
+ },
+ {
+  "source_id": "city-of-novato-2024-25-852cc47e",
+  "receiving_entity": "City of Novato",
+  "publication_title": "City of Novato development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.novato.gov/home/showpublisheddocument/40008/639061774150700000",
+  "retrieved_utc": "2026-09-22T07:36:29.839026+00:00",
+  "physical_page_count": 43,
+  "source_sha256": "852cc47eae7b004358bd57a6eb2f65f4d4d66c5f914dc09498b25f29776dabc1",
+  "source_bytes": 897624,
+  "source_pdf": "sources/city-of-novato-2024-25-852cc47e.pdf",
+  "published_data_rows_from_this_source": 8
  },
  {
   "source_id": "city-of-oakdale-2022-23-3f79c47c",

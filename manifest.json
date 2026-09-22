@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T20:09:23.259120+00:00",
- "data_rows": 982,
- "distinct_printed_figures": 814,
- "receiving_entities": 104,
- "agency_years": 212,
- "fee_programs": 485,
- "source_reports": 189,
- "evidence_pairs": 814,
+ "built_utc": "2026-09-22T20:44:48.561865+00:00",
+ "data_rows": 1018,
+ "distinct_printed_figures": 850,
+ "receiving_entities": 106,
+ "agency_years": 218,
+ "fee_programs": 501,
+ "source_reports": 195,
+ "evidence_pairs": 850,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1842,
- "total_bytes": 467143867,
+ "file_count": 1920,
+ "total_bytes": 478033305,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 10115,
-   "sha256": "c43d89efa682eb4acbcbbde1ee811a867bad95f502209a851344cc016a6e20e1"
+   "bytes": 10260,
+   "sha256": "e814067a228e0efac0abb567ff59067650282f8fe5e9d22933a21ec629df48df"
   },
   {
    "path": "data/capital-spending.csv",
@@ -43,13 +43,13 @@
   },
   {
    "path": "data/cohort-accounting.json",
-   "bytes": 1264,
-   "sha256": "d9141facb15226b40da1d2d5d498e125a070c9352f3031bfce469ea0f1462b9e"
+   "bytes": 1265,
+   "sha256": "6e358001caa77f1f31e93eddbf2693d3bd75a405b1306e2fb67936028d01e408"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 395977,
-   "sha256": "054274d598a158ae086a1e3632abef18a85bb2cf4e8f63c53d9c63601f448eff"
+   "bytes": 410080,
+   "sha256": "1f106f71cb14824089fc475b8c49e3bc9b957e1ca8e57c728fc956cf16bf9c77"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2138570,
-   "sha256": "6b1714d5263ba3e7bf68a69a23a9d1b67f51abf94e481435ba0de6902aebc785"
+   "bytes": 2210785,
+   "sha256": "24979a3e2e37ce1fa52d90d11b91b26f4971bdeb5b6cbdfc168a61c259660f8a"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 3154865,
-   "sha256": "7387a44b3a73961c6e7f302b3bb9f8d28c0b3bf3583a4a21c268bc4f11f4683e"
+   "bytes": 3264434,
+   "sha256": "bac60650b940f3e073929323e414a995acd56968841b68b687d2a3b856907814"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -250,6 +250,11 @@
    "path": "evidence/extracts/city-of-artesia-p007-2f2be51e.pdf",
    "bytes": 122112,
    "sha256": "927c0e08c5ab8f2bc22e80a730270a25b1d0486602ce27f8cb0505de55c01594"
+  },
+  {
+   "path": "evidence/extracts/city-of-artesia-p013-75784c48.pdf",
+   "bytes": 119398,
+   "sha256": "0207ecfdd71de1bb53643636cd63934c62bf5dcf024fa8572b4711179fadf261"
   },
   {
    "path": "evidence/extracts/city-of-avalon-p005-46e0698d.pdf",
@@ -1842,6 +1847,61 @@
    "sha256": "428b62c0deec4968e5caab843dade4ee188df29b8314b1c9df5d942d1e49ab6e"
   },
   {
+   "path": "evidence/extracts/city-of-moorpark-p006-446d3b31.pdf",
+   "bytes": 51579,
+   "sha256": "7fb993ea2d5282a8b622f4f128707afa37c821e79894163f0ac3b6ff0c271712"
+  },
+  {
+   "path": "evidence/extracts/city-of-moorpark-p006-7f225924.pdf",
+   "bytes": 52941,
+   "sha256": "a09e6644694c0fbf15a92077821e3d0d0997a86f57ae08a4b12337af37f69b89"
+  },
+  {
+   "path": "evidence/extracts/city-of-moorpark-p006-7fd2c694.pdf",
+   "bytes": 53020,
+   "sha256": "4a15534b5247cadb07dce3897b2a4219c1f163625e270897990986c79daef786"
+  },
+  {
+   "path": "evidence/extracts/city-of-moorpark-p008-b8824625.pdf",
+   "bytes": 48675,
+   "sha256": "6cff5ac9f57a4c961f5e011fb6c47a8efdd970697b76e03143de7dbf9ff9b653"
+  },
+  {
+   "path": "evidence/extracts/city-of-moorpark-p010-0d565d0f.pdf",
+   "bytes": 47970,
+   "sha256": "eadf5a9d56fb915b46d9ac67b2ad9d1405c729107a7db10a0e0957a4248f93fb"
+  },
+  {
+   "path": "evidence/extracts/city-of-moorpark-p012-af16d2ac.pdf",
+   "bytes": 51398,
+   "sha256": "919b6f66a70709378c5df51f08fa2a4802427c1218905cf6156fd21013e6caa7"
+  },
+  {
+   "path": "evidence/extracts/city-of-moorpark-p012-e793df99.pdf",
+   "bytes": 51964,
+   "sha256": "473be05098521a84d20a1131ad3597329449fa6d6a64d399af69a46ef6555d2d"
+  },
+  {
+   "path": "evidence/extracts/city-of-moorpark-p014-affb3bb5.pdf",
+   "bytes": 47500,
+   "sha256": "dded244d470d4f5419b306d6146e96be3dd70a810d18a0586ca5963f4c0d040c"
+  },
+  {
+   "path": "evidence/extracts/city-of-moorpark-p021-8b377d8f.pdf",
+   "bytes": 49074,
+   "sha256": "a4f72fa389ea74043b938cad4c0fca0e487c91e254050ef9266014bbdc29e035"
+  },
+  {
+   "path": "evidence/extracts/city-of-moorpark-p021-a8ce2d7f.pdf",
+   "bytes": 64384,
+   "sha256": "7086582e022a3c1180d0c2498a9ddb5c098cf69ce262e8bedcee5c5ccc5ff4fd"
+  },
+  {
+   "path": "evidence/extracts/city-of-moorpark-p032-1c82523a.pdf",
+   "bytes": 49183,
+   "sha256": "8602339ab37c750fa78ed54a3729d3b1e8c14faacfa288d3ec19f73f8ffcf4fb"
+  },
+  {
    "path": "evidence/extracts/city-of-murrieta-p002-24c94829.pdf",
    "bytes": 5339,
    "sha256": "7bce18fd24c89acd82bf59e8e24811b8b1e251e1ffcd1f0fb342da748ff705cc"
@@ -1865,6 +1925,126 @@
    "path": "evidence/extracts/city-of-nevada-city-p006-6e665991.pdf",
    "bytes": 59099,
    "sha256": "f763ce912ef7e6b24f46987854b7b42e3cbf0bdcee5df983e61f8927fc13ee51"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p008-5458c443.pdf",
+   "bytes": 115759,
+   "sha256": "b2a0b78fb5bef92013f4f8167d2fb144bf9ab92ae0a37bf3a8820dad6d9fd53f"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p008-89fadc33.pdf",
+   "bytes": 112850,
+   "sha256": "7d8dcde8fcb0f71f66dbf86215dd788ed49d964f32e4bf12ec76caadf5336924"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p008-d5fde935.pdf",
+   "bytes": 113821,
+   "sha256": "51141c0cbf1d683cd37255506642b1634e5ef1e1719af21d70c1c99da32b7f35"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p013-3bc85850.pdf",
+   "bytes": 112490,
+   "sha256": "97c92b746aaf1092f08977f76869359ca47af79acbaea4149feb7c7e2b5e7ce2"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p013-60ad4fb1.pdf",
+   "bytes": 111439,
+   "sha256": "c4fd0f57c8f2fbc8b465ff5ab865c4df40a5cd75b56ece174bdc0284dfe70d01"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p013-ae3d5b2f.pdf",
+   "bytes": 112939,
+   "sha256": "aa24112bcf8007ab34592d4ade8cd8733852f6f2f0d348e602b5cebc0bc3100d"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p018-4e570d89.pdf",
+   "bytes": 110520,
+   "sha256": "0bbf4ecdffd472dafdfa79fd17f92c7306cc4de46fc1dd2d20c61918068ab5dc"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p018-75f80b98.pdf",
+   "bytes": 112314,
+   "sha256": "ab8bf4177057d18be1928e17665acd86e7dbd97618c9ffaec6a699d9926a0f3d"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p018-7c857fa1.pdf",
+   "bytes": 110093,
+   "sha256": "4a525c384508591e4547fc17e11896dc13552d89cb30efffc4770e17a506031d"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p023-37c95e79.pdf",
+   "bytes": 139523,
+   "sha256": "54fcff93b604bac2fae491f0a26cb0adfcda76a78aed7dba59005b7663819335"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p023-4284c7a9.pdf",
+   "bytes": 113333,
+   "sha256": "94b9f782e36d163581ea277ac6fd988d5e963cc9f52af7b2a767c9b98ae64761"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p023-d227142a.pdf",
+   "bytes": 109074,
+   "sha256": "8eaa31f5d935bfd0ade9348cb99bed47e96b9608074551ee6bfd88da8cc61cbc"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p028-0c944048.pdf",
+   "bytes": 114028,
+   "sha256": "a777dcdb606fbb3698b884c3462ed18bdf78de624172e19f0fd7d2d91927e6bd"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p028-1fdcd2a4.pdf",
+   "bytes": 115236,
+   "sha256": "942ebdb8dae8de103dd4bb6b21d141ccb9c569a8aeee52c8362f2d4883673d63"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p028-4909a546.pdf",
+   "bytes": 114267,
+   "sha256": "bd7696062c712e0d3665a4fbe83d68b5c827be628b3a585d66afead24ce27064"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p031-37789454.pdf",
+   "bytes": 114121,
+   "sha256": "049c8652db7962286342fab5a739f46254524eb9362e96a01f15a1a22ffddb98"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p031-c227b986.pdf",
+   "bytes": 112406,
+   "sha256": "44d1b5b8d731482777ed1d9d47bd4ef8ceaf67c49217782b93888c5500d37a7d"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p031-ee89d0ab.pdf",
+   "bytes": 111810,
+   "sha256": "ca32b3f21e5f219359f02c388926e703f62e47e4b2c1de69171b76cd323f4f1a"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p036-3332376b.pdf",
+   "bytes": 110327,
+   "sha256": "d2fc06b9300183569131e12523aab9bec9a6e3b6b150560b7fbda818a760b1b9"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p036-9365f3c7.pdf",
+   "bytes": 112965,
+   "sha256": "20be949ad778dd4fc6bc2d22c122ce475ce76320ddef436ca18888f2a860d89f"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p036-e5b13b10.pdf",
+   "bytes": 110517,
+   "sha256": "ce8772dfdddb08f2b1d32da8135419b10374e57f953c32091d7cd41cab8cbcc5"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p039-57499711.pdf",
+   "bytes": 111132,
+   "sha256": "7492a53714d227928f9ed6553f8562e8b98026885f01fd44c9ae077476ec0230"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p039-667a28c5.pdf",
+   "bytes": 108651,
+   "sha256": "63c37ce6a7c3cf67c6a11dc8eb8dc5fa0eb10271c5ef997511a6e1602482b069"
+  },
+  {
+   "path": "evidence/extracts/city-of-novato-p039-8b9385c3.pdf",
+   "bytes": 109314,
+   "sha256": "14788a96e7cd01518bae11d7e05ac1fd1267f94552a58ae74099ce05dabc6e03"
   },
   {
    "path": "evidence/extracts/city-of-oakdale-p015-387d783c.pdf",
@@ -4168,8 +4348,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 856524,
-   "sha256": "53a6a4b3a7c1b6ac7f5c68a0cd212f89be6c91eebd61dffaca7f1284fb2d3449"
+   "bytes": 893105,
+   "sha256": "f993dc3c7816ae505f9abe60b47125e8e85aca5a2f0d29f59322ab9e81ce0052"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -4325,6 +4505,11 @@
    "path": "evidence/outlined/city-of-artesia-p007-2f2be51e.pdf",
    "bytes": 122170,
    "sha256": "8ae050cdf92e60b99772fee0794718483f7cfeeeb5708d80fa5bf07e0d22dc04"
+  },
+  {
+   "path": "evidence/outlined/city-of-artesia-p013-75784c48.pdf",
+   "bytes": 119452,
+   "sha256": "3523d2cb1e380a7212475d5dbe305461fa8c5b625550fcb906483ab1b1d11bae"
   },
   {
    "path": "evidence/outlined/city-of-avalon-p005-46e0698d.pdf",
@@ -5917,6 +6102,61 @@
    "sha256": "97128245003a8a7d3fcf52381084411929e2e31ab78e0e9abc6f4e05b74c8c70"
   },
   {
+   "path": "evidence/outlined/city-of-moorpark-p006-446d3b31.pdf",
+   "bytes": 51634,
+   "sha256": "af852f32628ebdce7cc5824843a892e3f47d7d6c45488e8fe4a3e06c1aef7929"
+  },
+  {
+   "path": "evidence/outlined/city-of-moorpark-p006-7f225924.pdf",
+   "bytes": 53000,
+   "sha256": "76283ff1485bf371c40bbeb46fb897a8cad86630b25498f3e0198242869a9631"
+  },
+  {
+   "path": "evidence/outlined/city-of-moorpark-p006-7fd2c694.pdf",
+   "bytes": 53078,
+   "sha256": "8d21d9464203a859fdcbe6f11d57e45080fd7e83f237ad1ec5343dbe29389fed"
+  },
+  {
+   "path": "evidence/outlined/city-of-moorpark-p008-b8824625.pdf",
+   "bytes": 48733,
+   "sha256": "f8820bd71f63e79238db3350c356e0c3a33689f660f577da172b951b843f6ce5"
+  },
+  {
+   "path": "evidence/outlined/city-of-moorpark-p010-0d565d0f.pdf",
+   "bytes": 48028,
+   "sha256": "5dd6b8fcabbd5357e153d719e273d8c8ffe424694142f2fee9e5c0a5c7e83baf"
+  },
+  {
+   "path": "evidence/outlined/city-of-moorpark-p012-af16d2ac.pdf",
+   "bytes": 51456,
+   "sha256": "8c0f7a4a70e1ae6158a4c6e5a2d1c1e71845584dfcccb3234a9a3c5262240498"
+  },
+  {
+   "path": "evidence/outlined/city-of-moorpark-p012-e793df99.pdf",
+   "bytes": 52020,
+   "sha256": "52a5caeb226fd23c4cc3a1e0b56e35db25114c8b591aa0a6575f13f139c0cad4"
+  },
+  {
+   "path": "evidence/outlined/city-of-moorpark-p014-affb3bb5.pdf",
+   "bytes": 47555,
+   "sha256": "eec76713dffe1c631a4f959302f6eea8bc3803b2b6ce9a54688286125f741f6f"
+  },
+  {
+   "path": "evidence/outlined/city-of-moorpark-p021-8b377d8f.pdf",
+   "bytes": 49129,
+   "sha256": "2556c7c1122dd582c978b128e43244983ad1f5df90fadf2f075a63c5f163723f"
+  },
+  {
+   "path": "evidence/outlined/city-of-moorpark-p021-a8ce2d7f.pdf",
+   "bytes": 64443,
+   "sha256": "316bd1227a6700dc6154a5f9f61b686fbc63149f3631c7caf2bc09b526ca79f9"
+  },
+  {
+   "path": "evidence/outlined/city-of-moorpark-p032-1c82523a.pdf",
+   "bytes": 49238,
+   "sha256": "a6cbb285710ff3f3fa4ebac3077181b78d3e83d03094d8f4fe320f0ad7a26d3f"
+  },
+  {
    "path": "evidence/outlined/city-of-murrieta-p002-24c94829.pdf",
    "bytes": 5397,
    "sha256": "87a89aa72dcdb3d4976cbdda0c227e32b1f738453c96f92574493596ca5cd8c8"
@@ -5940,6 +6180,126 @@
    "path": "evidence/outlined/city-of-nevada-city-p006-6e665991.pdf",
    "bytes": 59156,
    "sha256": "39b7dcbacfa7142276cc7c338b3a0dd20ab3057cf399c31f1ae630a6a06b6382"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p008-5458c443.pdf",
+   "bytes": 115815,
+   "sha256": "e31f259bdbb28356565c4447a03cfc3759ae63dd12e60304d44918b355ba3313"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p008-89fadc33.pdf",
+   "bytes": 112910,
+   "sha256": "17b77cf3c9b6b092c834b3af79e0dd17b675ca34c109d0ae70b007d55d9d9382"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p008-d5fde935.pdf",
+   "bytes": 113880,
+   "sha256": "3479c3feda50172bf5ef7ca073bbb357cc663db67e07de31044d7aa0937eb38a"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p013-3bc85850.pdf",
+   "bytes": 112558,
+   "sha256": "470ad955e9bccb1bd92bc0d30e7d9a9652bea11d1b3a4f13625c5519e17217f2"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p013-60ad4fb1.pdf",
+   "bytes": 111502,
+   "sha256": "3128aa1f0aa2beab605a23946ae13ae79f022cefca821aecdf16002651ed37b7"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p013-ae3d5b2f.pdf",
+   "bytes": 112999,
+   "sha256": "eaa34cd4bfdc171df2ff27b312c2ea58a10add5cae7316bc2c79ef5b840fa561"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p018-4e570d89.pdf",
+   "bytes": 110582,
+   "sha256": "51981d3a56a6a39ccbc637c196f0e4e37f640cf5371e8bdfc084d0ea54bfdff6"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p018-75f80b98.pdf",
+   "bytes": 112374,
+   "sha256": "b1d4aa84da0897594b88d1937eb23c072517040b127e68df227fdd5c651080be"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p018-7c857fa1.pdf",
+   "bytes": 110152,
+   "sha256": "f3c07c79edce0f643af5b6106a0a7ba3c40d8983ed591b9aae0ef08a700d0cbe"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p023-37c95e79.pdf",
+   "bytes": 139582,
+   "sha256": "23597f186e6a8c218bd51154441f251aae2922429bffd9bb71197d1a2d47d161"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p023-4284c7a9.pdf",
+   "bytes": 113391,
+   "sha256": "2bfb54d68e2876a8cedb3bb4bba83fd9f89cf94eb496127a89b69c8eb760c62d"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p023-d227142a.pdf",
+   "bytes": 109139,
+   "sha256": "e0ddf9fa5360979dd3bb30354556e671eea1484dec35271671e29fce3f322de3"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p028-0c944048.pdf",
+   "bytes": 114090,
+   "sha256": "1cbcc0d1ca6cddb5836f4f402649758672c61ce6b45274f2a81a811920f13478"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p028-1fdcd2a4.pdf",
+   "bytes": 115301,
+   "sha256": "d13026914a15f4667e51fc758a1729dd3b5881bcad91c52cdb637e8f6a87a121"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p028-4909a546.pdf",
+   "bytes": 114329,
+   "sha256": "b1069871af39c9d1b160224ed3c376e8f33e31f7a5b8e008608d44410d5d2630"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p031-37789454.pdf",
+   "bytes": 114182,
+   "sha256": "7617dd1ed8be2c720da150ca3f3200bd556a15a1eff9fd3aa39eb8d397005747"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p031-c227b986.pdf",
+   "bytes": 112470,
+   "sha256": "15ccffdf751e96f4933494f7f0f115ce5ace70f682d752e31320fd3a59f38d90"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p031-ee89d0ab.pdf",
+   "bytes": 111867,
+   "sha256": "28862bf0123b26a05d3ec6a06a2038199f314ddac1f95e0776ba2c6650dc88c8"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p036-3332376b.pdf",
+   "bytes": 110386,
+   "sha256": "a262bba67e9f81acd78ea030de51716810401d60eb0f149fafe1ad05dc560e25"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p036-9365f3c7.pdf",
+   "bytes": 113024,
+   "sha256": "df3b6171cba938faa6aeadff83bb92a8ba4e19ee5da7fac5c16bd2c221151017"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p036-e5b13b10.pdf",
+   "bytes": 110582,
+   "sha256": "387b5abe8dfaa0e648b7d8f62463dd70668e5ab0f77654770f20db8880a0c4ed"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p039-57499711.pdf",
+   "bytes": 111187,
+   "sha256": "c0002f0c136d87784ad8dc8c9f25c3e28ef5a4f6bbcb667677912c219083da94"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p039-667a28c5.pdf",
+   "bytes": 108710,
+   "sha256": "20f178831b41c7a308da692b69e231177fc4d315519af33aea70a6589c69d3b8"
+  },
+  {
+   "path": "evidence/outlined/city-of-novato-p039-8b9385c3.pdf",
+   "bytes": 109379,
+   "sha256": "1d1b2b7449cf910e1e4bf8725ab3c698eb441999fdeea720f70843a3d88dbfcc"
   },
   {
    "path": "evidence/outlined/city-of-oakdale-p015-387d783c.pdf",
@@ -8587,6 +8947,21 @@
    "sha256": "a79d1401321fa0914be04605f4d3f908255c206f3e496e283db77d7452fa7f1d"
   },
   {
+   "path": "sources/city-of-moorpark-2022-23-543c9169.pdf",
+   "bytes": 380944,
+   "sha256": "543c9169fa3ac346447494ab73ce5571a2c716e4fa6d1f4a9ba12474f1154e8e"
+  },
+  {
+   "path": "sources/city-of-moorpark-2023-24-abb8e596.pdf",
+   "bytes": 380816,
+   "sha256": "abb8e596f5654401b1497c42d7b6a5a581148ab5cd69c223dc47e4660f8ceefd"
+  },
+  {
+   "path": "sources/city-of-moorpark-2024-25-0e182ef4.pdf",
+   "bytes": 365250,
+   "sha256": "0e182ef4dcd1d3ca06c0b95a44ffdb07badff3821b09453f2f334e7a8c40a4cc"
+  },
+  {
    "path": "sources/city-of-murrieta-2014-15.pdf",
    "bytes": 141641,
    "sha256": "0c5d86eb2914368c49b24aef1eea7fb8cba3a7a53c12ad2f5f9697dca47406b5"
@@ -8600,6 +8975,21 @@
    "path": "sources/city-of-napa-2020-21.pdf",
    "bytes": 1057817,
    "sha256": "a677716f7f164794bcaf0c95bf0b2bbade05f99a99896e918e8ec12236f60fd0"
+  },
+  {
+   "path": "sources/city-of-novato-2022-23-5f9589a7.pdf",
+   "bytes": 917291,
+   "sha256": "5f9589a71555bff11850420e998b68278d08730e674dbabd96aa266427418026"
+  },
+  {
+   "path": "sources/city-of-novato-2023-24-ebf41f4a.pdf",
+   "bytes": 894447,
+   "sha256": "ebf41f4a38e43d434fed918f39af6317c481a5300fdbc65c42deda4d5b3f5f69"
+  },
+  {
+   "path": "sources/city-of-novato-2024-25-852cc47e.pdf",
+   "bytes": 897624,
+   "sha256": "852cc47eae7b004358bd57a6eb2f65f4d4d66c5f914dc09498b25f29776dabc1"
   },
   {
    "path": "sources/city-of-oakdale-2022-23-3f79c47c.pdf",
@@ -9148,13 +9538,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 87318,
-   "sha256": "920ebf447ad3fb69533dfb373cb3d243f6013e29f0ecdc22cc6edbdee4d0fb2f"
+   "bytes": 89500,
+   "sha256": "17078c54ecaeb66d68950586920a20d2846b1360a8d58d81e890c5cab1730bb8"
   },
   {
    "path": "sources/index.json",
-   "bytes": 150562,
-   "sha256": "75e9698115e1532ad0612e4bc7f1fcd0542fb978cb26dce6db6beee3457779c1"
+   "bytes": 154652,
+   "sha256": "d79e918b62288bf87707d5caa95c6d04947c466ab10a10b6c86baa724e40be26"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -9213,8 +9603,8 @@
   },
   {
    "path": "validation/independent-review.json",
-   "bytes": 3051,
-   "sha256": "48aff7d45ec2d3042f5a730e979e98fe650e90f1d20966fc5d66c4a24092ef7c"
+   "bytes": 3056,
+   "sha256": "954fd09fd573a7f1b61115d8c9b47b85e380461d3ef3c9e8192cc4d8a9d73dcc"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -9228,8 +9618,8 @@
   },
   {
    "path": "validation/review.json",
-   "bytes": 2585,
-   "sha256": "3c458a9c60e7dc02ec0571051d582a9741ef27984dd187d3907837cad1b592d7"
+   "bytes": 2588,
+   "sha256": "ea7dc9081d98db2e03e29ca6091fa9e300b5dd5717c6b0ae111862d4953b0333"
   },
   {
    "path": "validation/validate.py",

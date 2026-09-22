@@ -1,6 +1,6 @@
 # California impact fees
 
-982 reviewed rows covering 814 printed figures, from 104 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
+1018 reviewed rows covering 850 printed figures, from 106 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
 
 This is a research sample, not statewide coverage. Thousands of California agencies levy these fees. Do not sum this into a statewide estimate.
 
@@ -38,6 +38,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Glendale | 2022–23, 2023–24 | 6 | $4,770,642 |
 | City of Costa Mesa | 2018–19, 2022–23, 2023–24, 2024–25 | 13 | $4,683,535 |
 | City of Redwood City | 2022–23, 2024–25 | 8 | $4,554,941 |
+| City of Moorpark | 2022–23, 2023–24, 2024–25 | 11 | $4,435,799 |
 | County of Napa | 2018–19 to 2024–25 | 7 | $4,030,503 |
 | City of Oakdale | 2022–23, 2023–24, 2024–25 | 17 | $3,502,715 |
 | City of Chowchilla | 2022–23, 2024–25 | 20 | $3,437,549 |
@@ -51,6 +52,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | EL DORADO HILLS COMMUNITY SERVICE DISTRICT | 2024–25 | 1 | $2,129,526 |
 | County of Orange | 2022–23 | 6 | $1,858,839 |
 | City of Manteca | 2020–21 to 2024–25 | 5 | $1,843,995 |
+| City of Novato | 2022–23, 2023–24, 2024–25 | 24 | $1,835,851 |
 | City of Beaumont | 2024–25 | 17 | $1,791,194 |
 | City of Culver City | 2022–23, 2023–24, 2024–25 | 9 | $1,783,275 |
 | County of Santa Barbara | 2023–24 | 15 | $1,690,598 |
@@ -72,6 +74,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Colton | 2023–24, 2024–25 | 9 | $770,851 |
 | City of Tehachapi | 2022–23 | 6 | $739,047 |
 | City of Murrieta | 2014–15, 2016–17 | 3 | $721,217 |
+| City of Artesia | 2024–25 | 2 | $683,230 |
 | City of St Helena | 2014–15 to 2017–18 | 8 | $592,094 |
 | Sunrise Recreation and Park District | 2022–23 | 1 | $590,576 |
 | City of Whittier | 2023–24, 2024–25 | 10 | $524,851 |
@@ -91,7 +94,6 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | Town of Yucca Valley | 2022–23, 2024–25 | 8 | $156,862 |
 | City of East Palo Alto | 2015–16, 2022–23 | 3 | $153,188 |
 | COSTA MESA SANITARY DISTRICT | 2017–18 | 1 | $147,335 |
-| City of Artesia | 2024–25 | 1 | $141,816 |
 | County of Tehama | 2023–24 | 7 | $132,570 |
 | City of Grass Valley | 2022–23 | 1 | $114,833 |
 | CAMERON PARK COMMUNITY SERVICE DISTRICT | 2024–25 | 2 | $86,269 |
@@ -129,13 +131,13 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 
 ## Double counting
 
-Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 814 rows of the 982. Summing every row counts most amounts twice.
+Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 850 rows of the 1018. Summing every row counts most amounts twice.
 
 ## Limits
 
 These are amounts the agencies reported collecting. They are not audited, not reconciled to bank receipts, and not adjusted to a common accounting basis.
 
-Residential share is unknown for almost every row. Forty-three figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 771 the source prints one undivided amount. Unknown is never recorded as zero.
+Residential share is unknown for almost every row. Forty-four figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 806 the source prints one undivided amount. Unknown is never recorded as zero.
 
 Accounting basis is usually not stated. Where it is, the row says so: Sacramento’s reports state they are prepared on the cash basis. Refund treatment varies and is recorded per row.
 
@@ -147,7 +149,7 @@ Some rows are not Mitigation Fee Act fees. Quimby Act park in lieu accounts and 
 
 ## Sources
 
-The [sources directory](sources/) holds 191 complete original reports carrying 200 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
+The [sources directory](sources/) holds 197 complete original reports carrying 206 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
 
 Read [coverage and gaps](docs/coverage.md), the [methodology](docs/methodology.md), the [data dictionary](docs/data-dictionary.md) and the [review process](docs/review-process.md). Mechanical checks do not substitute for reading the source.
 
