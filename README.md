@@ -1,6 +1,6 @@
 # California impact fees
 
-503 reviewed rows covering 335 printed figures, from 61 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
+506 reviewed rows covering 338 printed figures, from 64 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
 
 This is a research sample, not statewide coverage. Thousands of California agencies levy these fees. Do not sum this into a statewide estimate.
 
@@ -47,6 +47,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Murrieta | 2014–15, 2016–17 | 3 | $721,217 |
 | City of St Helena | 2014–15 to 2017–18 | 8 | $592,094 |
 | Sunrise Recreation and Park District | 2022–23 | 1 | $590,576 |
+| County of Nevada | 2022–23 | 1 | $510,200 |
 | City of San Leandro | 2021–22 to 2024–25 | 4 | $502,732 |
 | American Canyon Fire Protection District | 2023–24, 2024–25 | 2 | $288,678 |
 | City of Willows | 2020–21 | 6 | $252,090 |
@@ -59,6 +60,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of East Palo Alto | 2015–16, 2022–23 | 3 | $153,188 |
 | COSTA MESA SANITARY DISTRICT | 2017–18 | 1 | $147,335 |
 | County of Tehama | 2023–24 | 7 | $132,570 |
+| City of Grass Valley | 2022–23 | 1 | $114,833 |
 | CAMERON PARK COMMUNITY SERVICE DISTRICT | 2024–25 | 2 | $86,269 |
 | Lake Valley Fire Protection District | 2024–25 | 1 | $64,117 |
 | Esparto Fire Protection District | 2023–24, 2024–25 | 2 | $57,567 |
@@ -72,6 +74,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | Cosumnes Community Services District | 2022–23 | 2 | $9,521 |
 | Georgetown Fire Protection District | 2024–25 | 1 | $6,436 |
 | City of Napa | 2020–21 | 1 | $4,643 |
+| City of Nevada City | 2022–23 | 1 | $2,870 |
 | City of Riverbank | 2014–15, 2015–16, 2018–19 | 3 | $0 |
 ## Each row
 
@@ -86,13 +89,13 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 
 ## Double counting
 
-Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 335 rows of the 503. Summing every row counts most amounts twice.
+Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 338 rows of the 506. Summing every row counts most amounts twice.
 
 ## Limits
 
 These are amounts the agencies reported collecting. They are not audited, not reconciled to bank receipts, and not adjusted to a common accounting basis.
 
-Residential share is unknown for almost every row. Twenty-two figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 313 the source prints one undivided amount. Unknown is never recorded as zero.
+Residential share is unknown for almost every row. Twenty-two figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 316 the source prints one undivided amount. Unknown is never recorded as zero.
 
 Accounting basis is usually not stated. Where it is, the row says so: Sacramento’s reports state they are prepared on the cash basis. Refund treatment varies and is recorded per row.
 
@@ -104,7 +107,7 @@ Some rows are not Mitigation Fee Act fees. Quimby Act park in lieu accounts and 
 
 ## Sources
 
-The [sources directory](sources/) holds 97 complete original reports carrying 106 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
+The [sources directory](sources/) holds 98 complete original reports carrying 107 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
 
 Read [coverage and gaps](docs/coverage.md), the [methodology](docs/methodology.md), the [data dictionary](docs/data-dictionary.md) and the [review process](docs/review-process.md). Mechanical checks do not substitute for reading the source.
 

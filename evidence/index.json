@@ -3024,6 +3024,38 @@
   "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
  },
  {
+  "evidence_id": "f425cdf363f7f3d5",
+  "receiving_entity": "City of Grass Valley",
+  "source_id": "nevada-county-rtmf-2022-23",
+  "physical_pdf_page": 6,
+  "printed_page": "Exhibit 4",
+  "internal_identifier": "Exhibit 4, RTMF Revenues, Interest, and Expenditures from 2000/01-2022/23 / row City of Grass Valley / column RTMF COLLECTED FY 22/23",
+  "quoted_label": "RTMF COLLECTED FY 22/23",
+  "quoted_value_text": "114,832.66",
+  "page_extract_pdf": "evidence/extracts/city-of-grass-valley-p006-f425cdf3.pdf",
+  "page_extract_sha256": "2e685537220d6356abf4c399b26773554d0cb45654743db38ca3d03f926d585a",
+  "outlined_figure_pdf": "evidence/outlined/city-of-grass-valley-p006-f425cdf3.pdf",
+  "outlined_figure_sha256": "21327b6e797c370ca9beb9812e7c72c207ab4b92912a79219343c509712be293",
+  "outline_rect_pdf_points": "[306.2799987792969, 253.38713985443115, 352.0966796875, 265.81344831466674]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
+  "evidence_id": "6e6659917c2230b0",
+  "receiving_entity": "City of Nevada City",
+  "source_id": "nevada-county-rtmf-2022-23",
+  "physical_pdf_page": 6,
+  "printed_page": "Exhibit 4",
+  "internal_identifier": "Exhibit 4, RTMF Revenues, Interest, and Expenditures from 2000/01-2022/23 / row City of Nevada City / column RTMF COLLECTED FY 22/23",
+  "quoted_label": "RTMF COLLECTED FY 22/23",
+  "quoted_value_text": "2,869.95",
+  "page_extract_pdf": "evidence/extracts/city-of-nevada-city-p006-6e665991.pdf",
+  "page_extract_sha256": "f763ce912ef7e6b24f46987854b7b42e3cbf0bdcee5df983e61f8927fc13ee51",
+  "outlined_figure_pdf": "evidence/outlined/city-of-nevada-city-p006-6e665991.pdf",
+  "outlined_figure_sha256": "39b7dcbacfa7142276cc7c338b3a0dd20ab3057cf399c31f1ae630a6a06b6382",
+  "outline_rect_pdf_points": "[314.68035888671875, 264.18713985443117, 352.0966491699219, 276.61344831466675]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
   "evidence_id": "22333157eacdd8a9",
   "receiving_entity": "County of Monterey",
   "source_id": "county-of-monterey-2022-23",
@@ -3197,6 +3229,22 @@
   "outlined_figure_pdf": "evidence/outlined/county-of-napa-p001-6dac826f.pdf",
   "outlined_figure_sha256": "8f9c4c3b5c314faa601c3b8a779ab6daa88fcf36f80499c5e396c6dcc3f3daee",
   "outline_rect_pdf_points": "[163.97999572753906, 475.3079833984375, 238.88275146484375, 508.36370849609375]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
+  "evidence_id": "57877a55ec5fc6b7",
+  "receiving_entity": "County of Nevada",
+  "source_id": "nevada-county-rtmf-2022-23",
+  "physical_pdf_page": 6,
+  "printed_page": "Exhibit 4",
+  "internal_identifier": "Exhibit 4, RTMF Revenues, Interest, and Expenditures from 2000/01-2022/23 / row County of Nevada / column RTMF COLLECTED FY 22/23",
+  "quoted_label": "RTMF COLLECTED FY 22/23",
+  "quoted_value_text": "510,200.28",
+  "page_extract_pdf": "evidence/extracts/county-of-nevada-p006-57877a55.pdf",
+  "page_extract_sha256": "c6134494dcb6b0ae273b8ab98753be53d1a3a2044e0987b74893f1742c84709c",
+  "outlined_figure_pdf": "evidence/outlined/county-of-nevada-p006-57877a55.pdf",
+  "outlined_figure_sha256": "8fe177f4e79bb5e2abb7e41ffdb4eccfc9c744c9fa213debf407624c41a76afa",
+  "outline_rect_pdf_points": "[306.2799987792969, 274.9871398544312, 352.0966796875, 287.41344831466677]",
   "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
  },
  {

@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T08:29:50.231873+00:00",
- "data_rows": 503,
- "distinct_printed_figures": 335,
- "receiving_entities": 61,
- "agency_years": 123,
- "fee_programs": 238,
- "source_reports": 95,
- "evidence_pairs": 335,
+ "built_utc": "2026-09-22T08:36:04.034144+00:00",
+ "data_rows": 506,
+ "distinct_printed_figures": 338,
+ "receiving_entities": 64,
+ "agency_years": 126,
+ "fee_programs": 241,
+ "source_reports": 96,
+ "evidence_pairs": 338,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 790,
- "total_bytes": 129003585,
+ "file_count": 797,
+ "total_bytes": 129954191,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7449,
-   "sha256": "c3c22a9de2a6844a9ee2103d1054d32549ac02278442bafcc3dac427988753f0"
+   "bytes": 7598,
+   "sha256": "a764b679380a43e3c448a5a285735349264b541bc6c294e36f52c90e0938b9b5"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "425e2df97ca3bfe0d60d10c7aad9ebf9c6db4225688806b6d5aeb6f67cb10198"
+   "sha256": "9e36b36ade1948b193285f491bc8061c998f0c042fd34e963d0b79e66ed3ac6e"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 197757,
-   "sha256": "0b8e84f81cdbd3c78259ed271c7b0df923621dc2c08b2bcb4bebb72bc24f5467"
+   "bytes": 201951,
+   "sha256": "13e132cafb7cbf7b034a5aecb908667b402a0b9dba7730b58859a936b34b29bd"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1072897,
-   "sha256": "2c98c886c602754786118402fb08c1f72e4454a33380cba539ee932ef22ec2ea"
+   "bytes": 1081715,
+   "sha256": "3acf852346f4a00b9bfe77aff0c23c91ecff6f89c1e57c34adedb96291254ab3"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1593077,
-   "sha256": "f6f11d8c90f26eafd2683df61d5bfb99ac9640f462ffaa1e509925ea0a3241c2"
+   "bytes": 1604988,
+   "sha256": "2f3e482de1312ab4fcf39926d809a065fbf9ad669bb2129c927587f17de61c43"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -552,6 +552,11 @@
    "sha256": "0294b849e6c2f9297fa23e536813ad19f32b411980ab60d68133acaa2d19e9cd"
   },
   {
+   "path": "evidence/extracts/city-of-grass-valley-p006-f425cdf3.pdf",
+   "bytes": 59099,
+   "sha256": "2e685537220d6356abf4c399b26773554d0cb45654743db38ca3d03f926d585a"
+  },
+  {
    "path": "evidence/extracts/city-of-hemet-p024-07652e57.pdf",
    "bytes": 7181,
    "sha256": "a98d20736011ddb34d5839fea5b1877ef06c0fb89c8a242b00fbd789dd28ce01"
@@ -640,6 +645,11 @@
    "path": "evidence/extracts/city-of-napa-p010-78c90dc0.pdf",
    "bytes": 46143,
    "sha256": "45c359dd6957bffc27b62c48ea96dbc7e706a34e662347af41ee4a8c6593c541"
+  },
+  {
+   "path": "evidence/extracts/city-of-nevada-city-p006-6e665991.pdf",
+   "bytes": 59099,
+   "sha256": "f763ce912ef7e6b24f46987854b7b42e3cbf0bdcee5df983e61f8927fc13ee51"
   },
   {
    "path": "evidence/extracts/city-of-paso-robles-p008-21cb0b1b.pdf",
@@ -1010,6 +1020,11 @@
    "path": "evidence/extracts/county-of-napa-p002-d907f2da.pdf",
    "bytes": 71767,
    "sha256": "99441e9cc697a0a0935eb29a436e555ff397d110006a4b6ee73df7eef0ec9af5"
+  },
+  {
+   "path": "evidence/extracts/county-of-nevada-p006-57877a55.pdf",
+   "bytes": 59099,
+   "sha256": "c6134494dcb6b0ae273b8ab98753be53d1a3a2044e0987b74893f1742c84709c"
   },
   {
    "path": "evidence/extracts/county-of-placer-p008-147fe979.pdf",
@@ -1773,8 +1788,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 359450,
-   "sha256": "fb7032a4701fa82fe350a336df823efdc7683d595fea2496c59fadb4a9ed4bab"
+   "bytes": 362743,
+   "sha256": "91c8ee4ff92895379b95f39abc33008d4411ac34da89e9d0bab57287714b2260"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -2232,6 +2247,11 @@
    "sha256": "4614e1c00e7e3e8a97df866deed5ffb23ef34f87e2af6d12f97e9fef404a79de"
   },
   {
+   "path": "evidence/outlined/city-of-grass-valley-p006-f425cdf3.pdf",
+   "bytes": 59156,
+   "sha256": "21327b6e797c370ca9beb9812e7c72c207ab4b92912a79219343c509712be293"
+  },
+  {
    "path": "evidence/outlined/city-of-hemet-p024-07652e57.pdf",
    "bytes": 7238,
    "sha256": "eaa4cc2a211ad41102269fcd2b5972879af2ebdf7935fb16d3edeb02d7d14acc"
@@ -2320,6 +2340,11 @@
    "path": "evidence/outlined/city-of-napa-p010-78c90dc0.pdf",
    "bytes": 46198,
    "sha256": "1425999b87714e9fc0d7a0bc2e34de3c00ccca68711cdb4f8809a863274072d5"
+  },
+  {
+   "path": "evidence/outlined/city-of-nevada-city-p006-6e665991.pdf",
+   "bytes": 59156,
+   "sha256": "39b7dcbacfa7142276cc7c338b3a0dd20ab3057cf399c31f1ae630a6a06b6382"
   },
   {
    "path": "evidence/outlined/city-of-paso-robles-p008-21cb0b1b.pdf",
@@ -2690,6 +2715,11 @@
    "path": "evidence/outlined/county-of-napa-p002-d907f2da.pdf",
    "bytes": 71825,
    "sha256": "3157b2746f36c468c9eab357c5688224d8efe65c9a6d7c0625dca8fd4f628a1f"
+  },
+  {
+   "path": "evidence/outlined/county-of-nevada-p006-57877a55.pdf",
+   "bytes": 59155,
+   "sha256": "8fe177f4e79bb5e2abb7e41ffdb4eccfc9c744c9fa213debf407624c41a76afa"
   },
   {
    "path": "evidence/outlined/county-of-placer-p008-147fe979.pdf",
@@ -3903,13 +3933,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 47856,
-   "sha256": "d007a98f741f900e32ce11e42fad2f6d2f9fe97c9b10a18b517c77af2126aa3e"
+   "bytes": 48311,
+   "sha256": "3bbde3a59d791a33d061c99721b217fb43502279840178fcff484d374c7b8ca4"
   },
   {
    "path": "sources/index.json",
-   "bytes": 81260,
-   "sha256": "5466e11011d890cf7f33535946ae72462fad7d80aafd4d4cd069686525af5f13"
+   "bytes": 82032,
+   "sha256": "e59da9fb12e0f9f7e37bf306bad4d94aa9f062a3da984d6e2113e41bf9c96aea"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -3920,6 +3950,11 @@
    "path": "sources/natomas-unified-school-district-2024-25.pdf",
    "bytes": 334540,
    "sha256": "6042835392d614724b93f56bc7430c96d7af4dc3c397900c8ffc638eec919bc1"
+  },
+  {
+   "path": "sources/nevada-county-rtmf-2022-23.pdf",
+   "bytes": 566250,
+   "sha256": "cfe7926e76e23be1da2771b0a55bc8a855bdeb7e8310923a513075e952eec849"
   },
   {
    "path": "sources/saddleback-valley-unified-2015-16.pdf",
@@ -3954,7 +3989,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3048,
-   "sha256": "a9a28b4f4c8f60e357e3eef08124ed01652e1676c051110ec89249b53d075ea5"
+   "sha256": "fce543ab3054a8a5149a27ec7cbf58e6cd40a4cde21d2dc2d648682f6836d443"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -3969,7 +4004,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2582,
-   "sha256": "3ff5ac7800c59e254967bd618905c1b605533cbea8ba2fb609660e3d2286db00"
+   "sha256": "f61e93f5ba19c503ac1f9e38e06cd1c0209971892b76b9141064cb45af94450a"
   },
   {
    "path": "validation/validate.py",
