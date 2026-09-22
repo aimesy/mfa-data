@@ -322,6 +322,34 @@
   "published_data_rows_from_this_source": 10
  },
  {
+  "source_id": "city-of-glendale-2022-23",
+  "receiving_entity": "City of Glendale",
+  "publication_title": "City of Glendale Development Impact Fee Report, fiscal year ended June 30, 2023",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.glendaleca.gov/home/showpublisheddocument/80716/638980457794270000",
+  "retrieved_utc": "2026-09-22T06:26:31.614387+00:00",
+  "physical_page_count": 12,
+  "source_sha256": "b510041233a11929e43e4cd15d6c71482a4e938d13be39af646ea3f6f15da12f",
+  "source_bytes": 675192,
+  "source_pdf": "sources/city-of-glendale-2022-23.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
+  "source_id": "city-of-glendale-2023-24",
+  "receiving_entity": "City of Glendale",
+  "publication_title": "City of Glendale Development Impact Fee Report, fiscal year ended June 30, 2024",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.glendaleca.gov/home/showpublisheddocument/80718/638980457799170000",
+  "retrieved_utc": "2026-09-22T06:26:31.124257+00:00",
+  "physical_page_count": 11,
+  "source_sha256": "90d03d0c588d6a40ca2ee5c1834bc85d8a53c5ddf089a75e283460e76a4e0065",
+  "source_bytes": 670514,
+  "source_pdf": "sources/city-of-glendale-2023-24.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
   "source_id": "nevada-county-rtmf-2022-23",
   "receiving_entity": "City of Grass Valley",
   "publication_title": "Western Nevada County Regional Transportation Mitigation Fee Program Annual Report for FY 2022/23, Nevada County Transportation Commission",

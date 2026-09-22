@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T11:55:17.738010+00:00",
- "data_rows": 636,
- "distinct_printed_figures": 468,
- "receiving_entities": 69,
- "agency_years": 141,
- "fee_programs": 294,
- "source_reports": 109,
- "evidence_pairs": 468,
+ "built_utc": "2026-09-22T12:06:46.900391+00:00",
+ "data_rows": 642,
+ "distinct_printed_figures": 474,
+ "receiving_entities": 70,
+ "agency_years": 143,
+ "fee_programs": 297,
+ "source_reports": 111,
+ "evidence_pairs": 474,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1070,
- "total_bytes": 155157278,
+ "file_count": 1084,
+ "total_bytes": 157415260,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7938,
-   "sha256": "61a24bed9e1ca9abb5b2609f699b022041ecd2bb1b6b19f472d5e00ac23a1ef0"
+   "bytes": 7999,
+   "sha256": "ac8444768fb51bedfd3e31d9a243aa7a002b2eb3ea6d5436ef7340e86446621d"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "924e74ca91981b264c1fd52f524202d6e068ba54e5d986146a75e2600d0a44c2"
+   "sha256": "fdcdbea8fc04ff530d512f985fb421ae789d657b90d1489548aa87974f32bac3"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 252800,
-   "sha256": "24c74ad4db2969b07d85a228c5cc78d290ab91e283bbcf40022de276bb3b6f6f"
+   "bytes": 255503,
+   "sha256": "4d447c696be8f3334ed4c829742fe2b9428cb66eb878393dfe7722ed3ec121df"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1429364,
-   "sha256": "f5995496bdcc267658ad0e360473f32fbd571c4e97b40fbf1fa2889c81e1797e"
+   "bytes": 1441478,
+   "sha256": "3b968b023836fbfacc5a81722d5181fd9370704cf473c6005118f0cf330fd44f"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2087137,
-   "sha256": "c04d6f93f2793c5e75d50afe740a3b6e67d29ae34457e0cab78234ff9b7d47e5"
+   "bytes": 2105473,
+   "sha256": "f2d6f5b6456525b292a1d5166990368eff04f2febda63f408c22f614c86e7d80"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -850,6 +850,36 @@
    "path": "evidence/extracts/city-of-garden-grove-p005-e7ed9645.pdf",
    "bytes": 31861,
    "sha256": "0294b849e6c2f9297fa23e536813ad19f32b411980ab60d68133acaa2d19e9cd"
+  },
+  {
+   "path": "evidence/extracts/city-of-glendale-p006-8568b1ba.pdf",
+   "bytes": 72407,
+   "sha256": "676c43763fbf9e89213889253fc89dc34e754777a41cd2314b9af39b3a80ccde"
+  },
+  {
+   "path": "evidence/extracts/city-of-glendale-p006-a13dec39.pdf",
+   "bytes": 72664,
+   "sha256": "8f75f2d5e3bc564f0b38531fc02d7816aa6b82a1268cfdace794e31400b1ea54"
+  },
+  {
+   "path": "evidence/extracts/city-of-glendale-p006-a50c4fa8.pdf",
+   "bytes": 72407,
+   "sha256": "6e3e56185ecbdbbd25b4eab1aaa75e67663b6aadbd241a02d20d7eccb2e6f2fc"
+  },
+  {
+   "path": "evidence/extracts/city-of-glendale-p006-adea737d.pdf",
+   "bytes": 72664,
+   "sha256": "4a3ae7ba44cda3e5cfbddc7645d7d25ebb45e8411f73cbc07d4ebcb7f3c98f75"
+  },
+  {
+   "path": "evidence/extracts/city-of-glendale-p006-bdfa88d4.pdf",
+   "bytes": 72664,
+   "sha256": "e6d5de8eba9b205f12b40bf305fabb7ccbd37ace2093861b08dab64fff5cae43"
+  },
+  {
+   "path": "evidence/extracts/city-of-glendale-p006-ef71e233.pdf",
+   "bytes": 72407,
+   "sha256": "27165cf19a7db27b276a7df33b46187f0045db1993bff31bfd1160f1b5e90c55"
   },
   {
    "path": "evidence/extracts/city-of-grass-valley-p006-f425cdf3.pdf",
@@ -2438,8 +2468,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 500259,
-   "sha256": "851b7d1663b9ba00ce59fc020194751e2ff7cf988d297ee4e2edd8061b71bd11"
+   "bytes": 506381,
+   "sha256": "8ba3ac3540891808336a5005b3654d743d85d3181d4b28feaa24ab853690fac1"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -3195,6 +3225,36 @@
    "path": "evidence/outlined/city-of-garden-grove-p005-e7ed9645.pdf",
    "bytes": 31920,
    "sha256": "4614e1c00e7e3e8a97df866deed5ffb23ef34f87e2af6d12f97e9fef404a79de"
+  },
+  {
+   "path": "evidence/outlined/city-of-glendale-p006-8568b1ba.pdf",
+   "bytes": 72466,
+   "sha256": "6f3e057db781a45a961b0be2b369b46a0532a1593bc8171a80c1019321233bee"
+  },
+  {
+   "path": "evidence/outlined/city-of-glendale-p006-a13dec39.pdf",
+   "bytes": 72720,
+   "sha256": "53b4109e3d1d07959f12b8c99594ac924e874949c4df83948726836d376dc29d"
+  },
+  {
+   "path": "evidence/outlined/city-of-glendale-p006-a50c4fa8.pdf",
+   "bytes": 72467,
+   "sha256": "5b1469f582f1e6eacbf84fa236b037799c89948118c67738ab9b0c452265d0a3"
+  },
+  {
+   "path": "evidence/outlined/city-of-glendale-p006-adea737d.pdf",
+   "bytes": 72722,
+   "sha256": "8fe138142e7be85db44a80703642302c7a490a7e1a4899832e8ae6777f0029ec"
+  },
+  {
+   "path": "evidence/outlined/city-of-glendale-p006-bdfa88d4.pdf",
+   "bytes": 72721,
+   "sha256": "7c143762617339269bb25ee928e79f5346b78d14c16601693246f47cb8820fa3"
+  },
+  {
+   "path": "evidence/outlined/city-of-glendale-p006-ef71e233.pdf",
+   "bytes": 72465,
+   "sha256": "6a3bc1294d82a4bac8410a49926f1daef719c13e77b93273d45464fb5eb5d14c"
   },
   {
    "path": "evidence/outlined/city-of-grass-valley-p006-f425cdf3.pdf",
@@ -4887,6 +4947,16 @@
    "sha256": "a784240356df4c954624825b2f79e146f6b72b3775b5d568f8e30fd3d7f0453d"
   },
   {
+   "path": "sources/city-of-glendale-2022-23.pdf",
+   "bytes": 675192,
+   "sha256": "b510041233a11929e43e4cd15d6c71482a4e938d13be39af646ea3f6f15da12f"
+  },
+  {
+   "path": "sources/city-of-glendale-2023-24.pdf",
+   "bytes": 670514,
+   "sha256": "90d03d0c588d6a40ca2ee5c1834bc85d8a53c5ddf089a75e283460e76a4e0065"
+  },
+  {
    "path": "sources/city-of-hayward-2022-23.pdf",
    "bytes": 153200,
    "sha256": "2e0fe1efd69f14562bfb3e169711587cfd0c7175b038150b2813ccfe019e5f62"
@@ -5298,13 +5368,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 53867,
-   "sha256": "8e9ca39719a0217e97ac207d9532faeea0b7910841007b1f82ec5352dca458f6"
+   "bytes": 54633,
+   "sha256": "773f583835c114af06ee123dd51d97d6b7f250d612595d43212c3fb9c36dadb1"
   },
   {
    "path": "sources/index.json",
-   "bytes": 91709,
-   "sha256": "8b6682a5feb4d81023ec1a9f9cf2d1bad63fe4aa8575b79f48762752e6788619"
+   "bytes": 93109,
+   "sha256": "ec2cde99ddc29e73ebd8e2dd5a5dab14df44d23191a54bb8bbdf7e343187a1c4"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -5354,7 +5424,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "3dd2bbaba4b59844afbf099f6efc8a896e33397eed54d8d0752ec656713bbcdd"
+   "sha256": "f23b6bbe913ec01611348c2d913407c9de9078ce8b51524ef8ec12b8de7eedc4"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -5369,7 +5439,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "49f49cebb47c20979cf0e554f52f119d7e456c25b1869385fdd7e83a81b40c0b"
+   "sha256": "83980d5badab7f8aa139b11c23b2c350ed34653658bf560a0283b67ba87f9f49"
   },
   {
    "path": "validation/validate.py",
