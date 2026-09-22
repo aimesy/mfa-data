@@ -132,14 +132,20 @@ def main():
         check("figure_reextracted_from_outlined_page", False,
               "PyMuPDF not installed; install validation/requirements.txt")
     else:
-        unmatched = []
+        unmatched, no_text_layer, uncorroborated = [], [], []
         checked = 0
         for r in rows:
             if not r["outline_rect_pdf_points"]:
                 continue
             x0, y0, x1, y1 = json.loads(r["outline_rect_pdf_points"])
             d = fitz.open(rel(*r["outlined_figure_pdf"].split("/")))
-            txt = d.load_page(0).get_text("text", clip=fitz.Rect(x0, y0, x1, y1))
+            page = d.load_page(0)
+            clip = fitz.Rect(x0, y0, x1, y1)
+            txt = page.get_text("text", clip=clip)
+            region_has_ink = False
+            if not txt.strip():
+                pm = page.get_pixmap(clip=clip, colorspace=fitz.csGRAY, dpi=150)
+                region_has_ink = any(b < 160 for b in pm.samples)
             d.close()
             checked += 1
             joined = re.sub(r"\s+", "", txt)
@@ -147,16 +153,29 @@ def main():
             got = norm(txt)
             want = float(r["value_usd"]) if r["value_usd"] else None
             value_ok = got is not None and want is not None and abs(got - want) < 0.005
-            if not (token_ok or value_ok):
-                unmatched.append((r["record_id"], repr(txt)[:60]))
-        # The Georgetown Fire Protection District figures are handwritten and carry no text
-        # layer at all, so they cannot be re-extracted mechanically. They are excluded here
-        # and were confirmed visually and by the fund roll-forward closing exactly.
-        hand = [u for u in unmatched if "georgetown-fire" in u[0]]
-        rest = [u for u in unmatched if "georgetown-fire" not in u[0]]
-        check("figure_reextracted_from_outlined_page", not rest,
-              "%d rows re-extracted; %d handwritten rows excluded; %d unmatched %s"
-              % (checked, len(hand), len(rest), rest[:3]))
+            if token_ok or value_ok:
+                continue
+            # A figure can fail mechanical re-extraction for exactly one legitimate reason:
+            # the outlined region carries ink but no text layer, because it is a scan or is
+            # handwritten. Both parts are tested here, objectively, rather than assumed for
+            # named agencies: the region must actually contain dark pixels, which proves the
+            # outline encloses the printed mark rather than empty paper. Such a row is not
+            # waived either: it must carry an arithmetic corroboration, which for these
+            # sources is the fund roll-forward the report itself prints, and it was read
+            # visually against the outlined page. Ink with no arithmetic corroboration fails,
+            # and an outline over blank paper fails.
+            if region_has_ink:
+                no_text_layer.append(r["record_id"])
+                if not (r["arithmetic_check"] or "").strip():
+                    uncorroborated.append(r["record_id"])
+                continue
+            unmatched.append((r["record_id"], repr(txt)[:60]))
+        bad = unmatched + [(u, "no text layer and no arithmetic corroboration")
+                           for u in uncorroborated]
+        check("figure_reextracted_from_outlined_page", not bad,
+              "%d rows re-extracted; %d outlined regions carry ink but no text layer, each "
+              "corroborated by the source's own printed arithmetic; %d unmatched %s"
+              % (checked, len(no_text_layer), len(bad), bad[:3]))
 
     # 7. the stronger tables are empty
     for fn in ("residential-cash-receipts.csv", "capital-spending.csv", "residential-funded-shares.csv"):

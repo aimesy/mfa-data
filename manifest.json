@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T06:07:50.119069+00:00",
- "data_rows": 373,
- "distinct_printed_figures": 205,
- "receiving_entities": 44,
- "agency_years": 80,
- "fee_programs": 147,
- "source_reports": 51,
- "evidence_pairs": 205,
+ "built_utc": "2026-09-22T06:34:14.684054+00:00",
+ "data_rows": 397,
+ "distinct_printed_figures": 229,
+ "receiving_entities": 49,
+ "agency_years": 85,
+ "fee_programs": 169,
+ "source_reports": 72,
+ "evidence_pairs": 229,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 486,
- "total_bytes": 66011958,
+ "file_count": 555,
+ "total_bytes": 69876871,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 6384,
-   "sha256": "68b9d6c74fdf9812a0018768621935e89bed4f9bb7664eb90c15b6e05c21d764"
+   "bytes": 6710,
+   "sha256": "8c5481df2d0254973cfa58a004e99b5539c5a4eb61414ff1fb9e79d2807b8e85"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1263,
-   "sha256": "0cca893b3c6a5f7f187988a87ef4984af595d56076e48aa1c4af24b9ab90a508"
+   "sha256": "5c8cf9f86dbef549f24cec2a3a41cbab896d1265ba37267e05f16e219fbadcfd"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 134217,
-   "sha256": "ceb5c4a131c87f1d05080f14f5559507590081e769dee9028228ad52bdcc8bcf"
+   "bytes": 149650,
+   "sha256": "a8fefc93bf5598c3ce6b3bee80a6855545e2ed40f8bef3bf2b399a031e2e5d43"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 771214,
-   "sha256": "d9b73ded231dab2925706fe1ce738a06e4d9de90a27a440fbfc588d1ded5b641"
+   "bytes": 828692,
+   "sha256": "92bf73560c590cd363cc77c0d18f668adc62b1b58acf896c87b9e02ff2de2d6b"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1157008,
-   "sha256": "2396f51fdaae9ef1b7aacfacd209803a94ea85e0cfc25ca05b9b093018a7afc6"
+   "bytes": 1239314,
+   "sha256": "dd0ca52c6541e2c2fcf8a64f6d563441997bf09483606a43d9ded02f792eaf14"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -947,6 +947,16 @@
    "sha256": "f097d15ac30343d913eb528ed78e24d4a51df4a88dd6eb349e52ffeeb65d65ba"
   },
   {
+   "path": "evidence/extracts/cosumnes-community-services-district-p002-06e33996.pdf",
+   "bytes": 37285,
+   "sha256": "91e855c68c809679cdae72c2532f0b5b47421dbc651234be2ad8eb9879d30aa8"
+  },
+  {
+   "path": "evidence/extracts/cosumnes-community-services-district-p003-9117113d.pdf",
+   "bytes": 38139,
+   "sha256": "0b54cdf9891273f9c58b0082eb733e24496d769698b81b032533aa0b0c4bb22d"
+  },
+  {
    "path": "evidence/extracts/county-of-placer-p008-147fe979.pdf",
    "bytes": 102018,
    "sha256": "e1b7baca85d5c493c2fb2842285e7790dbfdf388cbacc34d8027bc42cc0d67cd"
@@ -1027,6 +1037,81 @@
    "sha256": "b2089e1a7250e3660c197d848fd9fb1aa54c483429b7c519fe75a2557b04f5db"
   },
   {
+   "path": "evidence/extracts/county-of-sacramento-p001-172f5c9c.pdf",
+   "bytes": 404182,
+   "sha256": "cc661b334d6f76e009f4907bbda3711f5efc228da76bb7aa77ade902a3e23cc5"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-18c3de7b.pdf",
+   "bytes": 24591,
+   "sha256": "13ee4f2a4220d3bbbd6dd99f62330cffa92be92ebf8fa1fc585dc6e5d9f2cd55"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-2436ffd0.pdf",
+   "bytes": 31701,
+   "sha256": "969fbfc219a24d4beebc0d6285c9fd28be79e11177de91fa656df76d10cf6c2f"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-46d5a012.pdf",
+   "bytes": 27623,
+   "sha256": "47f6ea587b83854164d7a78f5542e632006fa12f7463bf8c48ac0ebdaab52f99"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-4906cd33.pdf",
+   "bytes": 41555,
+   "sha256": "fca2efdf45c3c83aca1b4d9e07c9487abd550e3080d5395216e1a73a3f9c591d"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-557c49d0.pdf",
+   "bytes": 29811,
+   "sha256": "829d0f90d88a29b4b095e6d3b52f8531196fd2414f7d11fddd0ff8d016ed1310"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-57d2377b.pdf",
+   "bytes": 35929,
+   "sha256": "369174caa6b82d59035cbd44eacaf49bc42e84fa76f976478547ae159ecfe29c"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-7cc23f76.pdf",
+   "bytes": 24367,
+   "sha256": "8acf672ef55c72d8cab0b43f8b872fae7638c70dd455d03a0f3c0c22cbb030b7"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-8fdcae12.pdf",
+   "bytes": 34625,
+   "sha256": "5bcb66bb77582e169693aac2fc74c78879d8ba65fff39e3ab7272639a0be8be9"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-99c417db.pdf",
+   "bytes": 31537,
+   "sha256": "f8fb31a7193dbc4604dd067fdc9046de7bf7f7bb7d5e1ad88b15228b6a04c6d6"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-9e48c310.pdf",
+   "bytes": 37159,
+   "sha256": "878d9c1b8d23c94899a804b0be1713fd709ad7f0a32e938552bdce2c2b163abb"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-a9f9c8e5.pdf",
+   "bytes": 27399,
+   "sha256": "0d89453fc64930e8b4febee8d5af638898cb5b57392b4c36fa0dada4f4f9f8a3"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-b60cb580.pdf",
+   "bytes": 38311,
+   "sha256": "73fef044cb0ef7924afaf01ddad454a983b5e49a28c5c7c0e29ffb06b4716d93"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-d4407ad3.pdf",
+   "bytes": 24181,
+   "sha256": "bbd42298c07a4f26d89f5bbc20184b0493e53238dcdfbb85f0398f1f749deed8"
+  },
+  {
+   "path": "evidence/extracts/county-of-sacramento-p001-f6f43c8b.pdf",
+   "bytes": 24573,
+   "sha256": "a730ab9b30ca0986ccd09f511d71dd30844857fc2d56d9bf9e068b2b9cd11465"
+  },
+  {
    "path": "evidence/extracts/diamond-springs-el-dorado-fire-protectio-p015-65648205.pdf",
    "bytes": 75799,
    "sha256": "3877c22c072b1e256ab48519c1fcd96264f129d1c062843eb3bd092d4aed59e5"
@@ -1092,6 +1177,26 @@
    "sha256": "fa2d292f47332596b16bd5f719b7897ba061dafb7a356764e9ae73013e429d31"
   },
   {
+   "path": "evidence/extracts/sacramento-regional-transit-district-p001-1d2d749b.pdf",
+   "bytes": 31867,
+   "sha256": "69f7aa48e0ce25ab00eac6a259dc1bc3cc65f408ac84b9736c929776b859ff51"
+  },
+  {
+   "path": "evidence/extracts/sacramento-regional-transit-district-p001-2cb060fe.pdf",
+   "bytes": 33087,
+   "sha256": "08e86695a1dd0f075150b06623979ef8b4aeff197bd4332a5a79a4fc883b56f3"
+  },
+  {
+   "path": "evidence/extracts/sacramento-regional-transit-district-p001-bb14f1ee.pdf",
+   "bytes": 33087,
+   "sha256": "003383248f4e56ef8dd319867620dcfbf7218c9c26a4b87a46f020572c548b2c"
+  },
+  {
+   "path": "evidence/extracts/sacramento-regional-transit-district-p001-fd3d5456.pdf",
+   "bytes": 31867,
+   "sha256": "b575e404335b499998f68945d392e36e3fb2a5dac6f53efd6199fb4ce4f5cf62"
+  },
+  {
    "path": "evidence/extracts/saddleback-valley-unified-p004-12ecd88e.pdf",
    "bytes": 205209,
    "sha256": "e16660e7a37eb2170aeb8a2e6205341a825a0fe3956a100cd31ebb4de06bb0ab"
@@ -1122,9 +1227,24 @@
    "sha256": "ad08ca192def5e25703b0843344ef7cfc1a036a899e733f58c120b11123689a3"
   },
   {
+   "path": "evidence/extracts/southgate-recreation-and-park-district-p001-5e57c91e.pdf",
+   "bytes": 41107,
+   "sha256": "1a699f8986210ab3ec5e7adc2494742d0c37e3bb5b1f1cab6352808f68a663c7"
+  },
+  {
+   "path": "evidence/extracts/southgate-recreation-and-park-district-p001-751ded06.pdf",
+   "bytes": 38457,
+   "sha256": "9d9c9868cf40448c7d80f8c74c8b4d845bab484158028626453cbad4f93653e6"
+  },
+  {
+   "path": "evidence/extracts/sunrise-recreation-and-park-district-p001-62607a07.pdf",
+   "bytes": 32525,
+   "sha256": "a6cfb38f0a42f5407263c13b7232845c390037bdbfa9a9a4cfd429b26a03d1ed"
+  },
+  {
    "path": "evidence/index.json",
-   "bytes": 216570,
-   "sha256": "079706cf91e8b94a8d40b14276ce6395939c972cfe22146c4b8fb7832c443321"
+   "bytes": 243758,
+   "sha256": "74e35e3e13de36e0bf77a1dc4ff30deca18b6d3278ea08f926df453e4369de6f"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -1977,6 +2097,16 @@
    "sha256": "fec12abaf120106230f625064e039d22d9bb267d36023e068c2bd9a5c0e301a7"
   },
   {
+   "path": "evidence/outlined/cosumnes-community-services-district-p002-06e33996.pdf",
+   "bytes": 37346,
+   "sha256": "9a862c70d687437702a3956c2e191d1f0f172c39d7dc10d2a951bbbe67b47a54"
+  },
+  {
+   "path": "evidence/outlined/cosumnes-community-services-district-p003-9117113d.pdf",
+   "bytes": 38205,
+   "sha256": "84d35ee5c15c94b6a4b7e75ab99550f9a9d79b41224a4f5179968781bc546119"
+  },
+  {
    "path": "evidence/outlined/county-of-placer-p008-147fe979.pdf",
    "bytes": 102078,
    "sha256": "e3955fe6d47cf3ddae490877ef8bec25f38c35db17dbd55ff14d9b14452924d2"
@@ -2057,6 +2187,81 @@
    "sha256": "a40123eeee136a23c8730960ecbddc7aba22e10ab074eb3fdbf29e0812ebf331"
   },
   {
+   "path": "evidence/outlined/county-of-sacramento-p001-172f5c9c.pdf",
+   "bytes": 404252,
+   "sha256": "0cfd50d8e873ca5c078c2725d55635fb4934fdea71952d9709eb2a46cc4c1e04"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-18c3de7b.pdf",
+   "bytes": 24656,
+   "sha256": "202f4f4eafbcdf4db6a62913d48a3e955c1d3fb36dfabaea551debe24b68efc3"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-2436ffd0.pdf",
+   "bytes": 31767,
+   "sha256": "942212d27c634a9d0f4a26fdaeb49a1d615ffa2980fa7b44d6b95e094ba66462"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-46d5a012.pdf",
+   "bytes": 27689,
+   "sha256": "ec9c5afce8467597bff6cb488c888cb6c196413543616368391559617a8aea7c"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-4906cd33.pdf",
+   "bytes": 41616,
+   "sha256": "634343dd1325118330f0ab2c0b06951dd17b150d57c1d051ef5a80a8d5e83ed7"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-557c49d0.pdf",
+   "bytes": 29869,
+   "sha256": "f791ec624952bda98460c89866a5317b67d63f5c1a62b3af44670b99c17ca773"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-57d2377b.pdf",
+   "bytes": 35992,
+   "sha256": "63dc185ff99b97bea41dfd37e9008ca0c0750b1b67a615857078071e8a3a6806"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-7cc23f76.pdf",
+   "bytes": 24433,
+   "sha256": "ee840ec3507ddeb265b8b3d04f2219c49c80ace31457cd84c08edff479c73b0c"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-8fdcae12.pdf",
+   "bytes": 34690,
+   "sha256": "5d45070edcae7edcc0be3d7f7c26db554e005d5ba2c96b1a2d82cf979283994b"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-99c417db.pdf",
+   "bytes": 31603,
+   "sha256": "a79bcfe8aa9bb2ace234b8e049054a25f78d913c3ac06416ef664e67bb7e3b6e"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-9e48c310.pdf",
+   "bytes": 37219,
+   "sha256": "282adb74c12a0dfe4a0bd626f9db3b7010d118269629fd7146df24b6d74a151f"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-a9f9c8e5.pdf",
+   "bytes": 27463,
+   "sha256": "7d1fa9a8c4503c9187bc60f9758d130c4932435ad707b74586fe06a20ea6e687"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-b60cb580.pdf",
+   "bytes": 38378,
+   "sha256": "81d9ac023988fb493763d24e09e3fd3482232a0c103f77c046ee812573b019a6"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-d4407ad3.pdf",
+   "bytes": 24246,
+   "sha256": "98b8437fac3eb28978dfb63742a96aa38e73a655628b09646e00901c2089967f"
+  },
+  {
+   "path": "evidence/outlined/county-of-sacramento-p001-f6f43c8b.pdf",
+   "bytes": 24636,
+   "sha256": "9b5acf1b6e53c4b9bfbcd7708ad795d0f6281b47a3ee78585ecc9be1780eced7"
+  },
+  {
    "path": "evidence/outlined/diamond-springs-el-dorado-fire-protectio-p015-65648205.pdf",
    "bytes": 75859,
    "sha256": "84e02c35674ca1f659101de56a82c9ca2ef1f41236664fc6d89843f8ad490c94"
@@ -2122,6 +2327,26 @@
    "sha256": "3299857e7aebaba45872deab4336a1415862c9b6282c38ba8cfa64fd065b8805"
   },
   {
+   "path": "evidence/outlined/sacramento-regional-transit-district-p001-1d2d749b.pdf",
+   "bytes": 31922,
+   "sha256": "33b3ebc0f9c04ceadd173fdb92fd9615677f71143dfd56ae52ed715d69eb1d84"
+  },
+  {
+   "path": "evidence/outlined/sacramento-regional-transit-district-p001-2cb060fe.pdf",
+   "bytes": 33150,
+   "sha256": "7f71b4b079abb92417c00e42a53134ac7a1312619d217f277498d207e28f5402"
+  },
+  {
+   "path": "evidence/outlined/sacramento-regional-transit-district-p001-bb14f1ee.pdf",
+   "bytes": 33146,
+   "sha256": "e8ca5e20a9ead49a14830f371459a886abc413e12b92c04a65a99a7741aeafdf"
+  },
+  {
+   "path": "evidence/outlined/sacramento-regional-transit-district-p001-fd3d5456.pdf",
+   "bytes": 31933,
+   "sha256": "d037d2a3478ae95f87af1b26ac422f6933721bd98075aaf70491657d04327780"
+  },
+  {
    "path": "evidence/outlined/saddleback-valley-unified-p004-12ecd88e.pdf",
    "bytes": 205260,
    "sha256": "7d93ce22545fab9c2358bb11838d850306361a9aff74f3895bbb345311711861"
@@ -2150,6 +2375,21 @@
    "path": "evidence/outlined/saddleback-valley-unified-p004-e4eaa959.pdf",
    "bytes": 54233,
    "sha256": "256741a65cc3f4b3de75215b2f1019e51a57574d9be9ce5a2e21010e1afc215b"
+  },
+  {
+   "path": "evidence/outlined/southgate-recreation-and-park-district-p001-5e57c91e.pdf",
+   "bytes": 41171,
+   "sha256": "00a7b0160b5eb88cd3af92e3b7ef1f8c27156c4a6376f83ac15291198768fdd5"
+  },
+  {
+   "path": "evidence/outlined/southgate-recreation-and-park-district-p001-751ded06.pdf",
+   "bytes": 38522,
+   "sha256": "61219314e025b8295c3ba7b6f78215d016b85e8566315a1616065f3f72680534"
+  },
+  {
+   "path": "evidence/outlined/sunrise-recreation-and-park-district-p001-62607a07.pdf",
+   "bytes": 32592,
+   "sha256": "ef8c2ca40c8ab02366b55fbedd7d833a33813cc9cce0d9f82ab2e80e6bf279d3"
   },
   {
    "path": "sources/README.md",
@@ -2367,6 +2607,111 @@
    "sha256": "1c6abd41c46f684337f8d89e9cb6c00c39ae70d1f8e70a3ef8cb4a55457a4fb8"
   },
   {
+   "path": "sources/county-of-sacramento-2022-23-antelope-basin-a-drainage.pdf",
+   "bytes": 39681,
+   "sha256": "cbb89bf087b3ef4f01c350213b9f3984fe70229892bd2c9578d56033312ea1eb"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-antelope-major-roadway.pdf",
+   "bytes": 46570,
+   "sha256": "f3a6a214253197772eac8d247cd6191f1293c243f41d20e02d2471123f287fc3"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-antelope-water-mitigation.pdf",
+   "bytes": 407945,
+   "sha256": "51816b9d6357a1332a8b5722f30d0412e22951ed2ca27a291dce1d4a3bf7916f"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-cosumnes-fire.pdf",
+   "bytes": 168846,
+   "sha256": "30848b592e3f1fa140d9062ab2c4390124d0aca67a791ab80999965fe87c440f"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-countywide-library-administration.pdf",
+   "bytes": 28343,
+   "sha256": "6d98173e09cdaa8e3cae93338818a2eef430b0993f00998b9ab136027c975c7f"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-countywide-library-facilities.pdf",
+   "bytes": 35290,
+   "sha256": "d1553a065a558c5b00bb4a3d4b50d323175ded32e308b7a5dc7430ae67091d1c"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-east-antelope-local-roadway.pdf",
+   "bytes": 35453,
+   "sha256": "0d3817d896f9de654494d0acf3d7fb2f761b6dd01f1a3687164831b62fbe251d"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-florin-vineyard-administration.pdf",
+   "bytes": 28119,
+   "sha256": "5d235b006095aa51b2cdf75e3e7c0b3c9259d9ed4720257aae360a2c60b02776"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-florin-vineyard-roadway-frontage.pdf",
+   "bytes": 51662,
+   "sha256": "cfbec5b6468b415dddb265686c0366f76d0d3563fe014b770c891a562a8eeeb3"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-nvs-administration.pdf",
+   "bytes": 28326,
+   "sha256": "e027ba05ee292d899285adc376f88c991ac4cd784beac08e52efdd2d12c31811"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-nvs-frontage-lane.pdf",
+   "bytes": 31376,
+   "sha256": "1feefa1d53f4bb4a8509d70ab01f708a87028570dbe189948634e041570aa3db"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-nvs-library.pdf",
+   "bytes": 38377,
+   "sha256": "0f0ae08903cde6e3fd616340d2020b5d7fec4b69e5da916a10a138797ce6943b"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-nvs-roadway.pdf",
+   "bytes": 42064,
+   "sha256": "f1fd6779b8f4bdd05e11dcf122368a91e359807d460daba20cbb830ac3cdfdf6"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-nvs-transit.pdf",
+   "bytes": 36840,
+   "sha256": "0b7bd7f2fd0065d33152f934ba0775fe81c16a31edccc852d1d54081a9ced30e"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-sunrise-rpd.pdf",
+   "bytes": 36280,
+   "sha256": "1ad46275a2d6579b9adbe3fada588f3aa90902069d12bdce03d4d7952d44f9af"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-vineyard-administration.pdf",
+   "bytes": 27935,
+   "sha256": "71dc306864cad72fc45659bbce8160bc81c6edb369b99222da86a86ff50a6fcc"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-vineyard-library.pdf",
+   "bytes": 33564,
+   "sha256": "b545a90cafa426ceefa14264a03f146e1f9e36dff905bbf392a5bd07b8a0dca3"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-vineyard-roadway.pdf",
+   "bytes": 84129,
+   "sha256": "b1fba33b5d619320cfffec5f5b83ca2aa62f8e49ca891ab96660e7a9c97a84cb"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-vineyard-southgate-park-improvement.pdf",
+   "bytes": 47769,
+   "sha256": "0380b4cd8b28efa5902f909573e7a7bc6cc9cde244fdf35cf3d48e81b8614ff6"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-vineyard-springs-southgate-park-improveme.pdf",
+   "bytes": 55698,
+   "sha256": "f6273e1562e949e5684de6c35c3e5b2fe9f9ab52cde0efca7c4cac7c03127453"
+  },
+  {
+   "path": "sources/county-of-sacramento-2022-23-vineyard-transit.pdf",
+   "bytes": 35619,
+   "sha256": "c3d595984546b49941bcd321f8e540b8530b4fe2144ee0155d3994b7fe222f91"
+  },
+  {
    "path": "sources/esparto-fire-protection-district-2023-24.pdf",
    "bytes": 166584,
    "sha256": "2a1f87c27938b50b40217fee0c8350629ce72052110e19eb0ed2b845a1ed56c6"
@@ -2383,13 +2728,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 25707,
-   "sha256": "7aa429a87febd95d24d65c27eca70effbd6a68243dc4199836e1d2ef6f575375"
+   "bytes": 37151,
+   "sha256": "383e4bb997fdaf7c6ad45a9ed9f2ba8ab7e95e4e50c06ce6136afab539194a58"
   },
   {
    "path": "sources/index.json",
-   "bytes": 45157,
-   "sha256": "3b6fb751d740a2fcf29d7e91ab6960513a7dde79b2fbfc349a43caabdf9a5e11"
+   "bytes": 63258,
+   "sha256": "57c5b4b4543a707421e82f0fad1d680156306b9c5be2394776c838688720d87d"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -2433,8 +2778,8 @@
   },
   {
    "path": "validation/independent-review.json",
-   "bytes": 2887,
-   "sha256": "7eeab864d14f7fa2a3b2a6447ec9e2aea10a5f7e5657dd0f127a2a6cdc2e723e"
+   "bytes": 2944,
+   "sha256": "eb878351f7ca468fa2e434135bc5cef4f83ca8ce27e90d21b3ebe0882f9bcd0f"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -2448,13 +2793,13 @@
   },
   {
    "path": "validation/review.json",
-   "bytes": 2503,
-   "sha256": "f7e6909a62f9e4279b0c41f067fd2d31b25fd1e55b1826f7c885b38be09ecd6b"
+   "bytes": 2581,
+   "sha256": "0ab85cd58b3325907b782b8b03393115a6ea2b68ecdd20894daf9027f2ca21eb"
   },
   {
    "path": "validation/validate.py",
-   "bytes": 13765,
-   "sha256": "f8a46a13029ae6a6b5b20eb577e1ed2eaad3a47399692d2c83b45fcf26990291"
+   "bytes": 14920,
+   "sha256": "7c65ad9b94674fe763345f9b267e382a1017b8dc797c0bc4b88febd8e884e417"
   }
  ]
 }
