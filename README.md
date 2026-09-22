@@ -18,7 +18,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Stockton | 2021–22, 2022–23 | 6 | $15,719,048 |
 | City of Fremont | 2020–21 | 2 | $15,255,556 |
 | City of San Bruno | 2022–23 | 1 | $9,704,825 |
-| City of Calimesa | 2019–20 to 2021–22 | 14 | $3,392,872 |
+| City of Calimesa | 2019–20, 2020–21, 2021–22 | 14 | $3,392,872 |
 | Consolidated Fire Protection District of Los Angeles County | 2022–23 | 3 | $3,185,984 |
 | Beaumont Unified | 2024–25 | 1 | $3,171,017 |
 | City of Garden Grove | 2021–22 | 6 | $3,072,830 |
