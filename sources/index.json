@@ -672,6 +672,34 @@
   "published_data_rows_from_this_source": 4
  },
  {
+  "source_id": "city-of-encinitas-2023-24",
+  "receiving_entity": "City of Encinitas",
+  "publication_title": "City of Encinitas annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://encinitas.granicus.com/MetaViewer.php?view_id=7&clip_id=3403&meta_id=180407",
+  "retrieved_utc": "2026-09-22T12:04:37.535700+00:00",
+  "physical_page_count": 18,
+  "source_sha256": "9abc74a9206e1e8301b4f32b50c19a425e3d4de3a8001b360cfbcf70d672ca9c",
+  "source_bytes": 1383598,
+  "source_pdf": "sources/city-of-encinitas-2023-24.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-encinitas-2024-25",
+  "receiving_entity": "City of Encinitas",
+  "publication_title": "City of Encinitas annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://encinitas.granicus.com/MetaViewer.php?view_id=7&clip_id=3705&meta_id=198316",
+  "retrieved_utc": "2026-09-22T12:04:45.712302+00:00",
+  "physical_page_count": 18,
+  "source_sha256": "e5f20951b6b7f5f3b847570a92e313583ca66579a879926219d44113f5dcdb56",
+  "source_bytes": 1978418,
+  "source_pdf": "sources/city-of-encinitas-2024-25.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
   "source_id": "city-of-fontana-2024-25",
   "receiving_entity": "City of Fontana",
   "publication_title": "City of Fontana Annual Report on Development Impact Fees, fiscal year ended June 30, 2025",
@@ -936,6 +964,20 @@
   "source_bytes": 241622,
   "source_pdf": "sources/city-of-hemet-2013-14.pdf",
   "published_data_rows_from_this_source": 18
+ },
+ {
+  "source_id": "city-of-hemet-2024-25",
+  "receiving_entity": "City of Hemet",
+  "publication_title": "City of Hemet annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.hemetca.gov/DocumentCenter/View/12944/Annual-Reports-for-FY-2024-25?bidId=",
+  "retrieved_utc": "2026-09-22T06:59:45.073299+00:00",
+  "physical_page_count": 37,
+  "source_sha256": "e895fa1d5d4b99b5beec19d1cc1125cd399a85262dbb158124799cb87110e5d3",
+  "source_bytes": 521301,
+  "source_pdf": "sources/city-of-hemet-2024-25.pdf",
+  "published_data_rows_from_this_source": 2
  },
  {
   "source_id": "city-of-huntington-beach-2022-23",

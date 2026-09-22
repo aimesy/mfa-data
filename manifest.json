@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T21:24:12.374436+00:00",
- "data_rows": 1120,
- "distinct_printed_figures": 952,
- "receiving_entities": 112,
- "agency_years": 228,
- "fee_programs": 568,
- "source_reports": 205,
- "evidence_pairs": 952,
+ "built_utc": "2026-09-22T21:38:34.231344+00:00",
+ "data_rows": 1132,
+ "distinct_printed_figures": 964,
+ "receiving_entities": 113,
+ "agency_years": 231,
+ "fee_programs": 574,
+ "source_reports": 208,
+ "evidence_pairs": 964,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2134,
- "total_bytes": 501635264,
+ "file_count": 2161,
+ "total_bytes": 507522179,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 10599,
-   "sha256": "a289ef80d95e7541ca3179aa5320169a2b0a6b99ca5d3486094935e8f03c7651"
+   "bytes": 10674,
+   "sha256": "44b1c7025ff8a21f5097d3d8963c7c17fc1f5a84b4883386eb74366fcf4befa1"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1265,
-   "sha256": "676d5e1f6e7f30c9a4a41ea93f6641f31146370b3acd741ff471bb14df445c24"
+   "sha256": "61fa534068bca79a1fd02eb1e0afeb2168e9406b1809d10e4ab485ee85dadc20"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 446014,
-   "sha256": "be0765f5a9c7d4f7121e364b9e2d4b9a714e4360a2331bfe8219b35f702157ca"
+   "bytes": 450710,
+   "sha256": "9b9759ab30495dd19af4dbed292b15d3a95cc70f065cc2b476d5349ea7df2afe"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2410736,
-   "sha256": "94e1f076f8035b63c7d58aa57c2c001fba110516a24e18555b6b6c4794f23d8c"
+   "bytes": 2435352,
+   "sha256": "22975b0f7b250b9a5da837e401fa150746e2902b6a1fff8d58524bffc0bf7d28"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 3570141,
-   "sha256": "2380d7bedc40880b967729475d2b47583c9fdc7149b21468526b5b1d17cc6eb2"
+   "bytes": 3607197,
+   "sha256": "b97d2056086018c8108ee45171a884c41b8f1bc2b1e850eb46ea26cbd34a3b88"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -982,6 +982,56 @@
    "sha256": "35069094fb4586e44ab1b80a376b33c724f24c2e9d8760d6bc32c4dc956d0bb0"
   },
   {
+   "path": "evidence/extracts/city-of-encinitas-p012-01906f98.pdf",
+   "bytes": 80020,
+   "sha256": "5842cd24f86a9426d2b7d9ff05354a59fcc8401a912e8c33038d8359833695bd"
+  },
+  {
+   "path": "evidence/extracts/city-of-encinitas-p012-0e5a6084.pdf",
+   "bytes": 80020,
+   "sha256": "a27346115dff844ca6c46887225173e8a2b30e7444af9150524085bf06d6696f"
+  },
+  {
+   "path": "evidence/extracts/city-of-encinitas-p012-2639ba25.pdf",
+   "bytes": 80053,
+   "sha256": "fcd8c6322a8dd400fb5277e4f219d702175e50a2f2138a52555f433f245827aa"
+  },
+  {
+   "path": "evidence/extracts/city-of-encinitas-p012-3521ee9d.pdf",
+   "bytes": 80053,
+   "sha256": "beb03d41dba1f3cc4817a16bf0bff75f90a62f2628dbf5bfe3728a91211e87df"
+  },
+  {
+   "path": "evidence/extracts/city-of-encinitas-p012-48d89075.pdf",
+   "bytes": 80020,
+   "sha256": "d5581e426d5ac3124963e484be505d12e32b7743decc561070af08f005d7e12c"
+  },
+  {
+   "path": "evidence/extracts/city-of-encinitas-p012-5327146b.pdf",
+   "bytes": 80020,
+   "sha256": "b010a7e38593792a798e664fffb48ca6c84594787a48cdc42f65d217d5443c8f"
+  },
+  {
+   "path": "evidence/extracts/city-of-encinitas-p012-ae51bf44.pdf",
+   "bytes": 80053,
+   "sha256": "3b8aab67772fa6cff3f6e03c48d3eac1823e70ddeddd06930ac58df101691344"
+  },
+  {
+   "path": "evidence/extracts/city-of-encinitas-p012-b24f89f8.pdf",
+   "bytes": 80020,
+   "sha256": "cfc61e014f2f7840c8a4c207062d5b668ab3153de2df86aedce03efc7189d41f"
+  },
+  {
+   "path": "evidence/extracts/city-of-encinitas-p012-d21ccd20.pdf",
+   "bytes": 80053,
+   "sha256": "cfc78ef7b8e849dd0dee1ee4d0485988cd7d29cdd4ee2604ccb9577891e1abc8"
+  },
+  {
+   "path": "evidence/extracts/city-of-encinitas-p012-fe170adc.pdf",
+   "bytes": 80053,
+   "sha256": "b676ad488b0016d21ad9e49aef899c177b88d44742918ef95a9969d41fc38b18"
+  },
+  {
    "path": "evidence/extracts/city-of-fontana-p004-07638bbc.pdf",
    "bytes": 6776,
    "sha256": "a423a0c685adaadc3e75e3658442005cc54a060aad50087957850a7ba39398e2"
@@ -1715,6 +1765,16 @@
    "path": "evidence/extracts/city-of-hayward-p003-a2c13805.pdf",
    "bytes": 39999,
    "sha256": "505d08369fe6cdf6f51d7b8cd91c5fa4c9ac304505b7c6b0883382ff9872f815"
+  },
+  {
+   "path": "evidence/extracts/city-of-hemet-p006-e33d5a28.pdf",
+   "bytes": 80041,
+   "sha256": "7a089ea896c98e16c3dca6fa80999c88e64491adb6446380e82073eb164f6e06"
+  },
+  {
+   "path": "evidence/extracts/city-of-hemet-p006-f31c71c4.pdf",
+   "bytes": 80041,
+   "sha256": "99090931cff5c37f62ce954b563b25517326fa94c0559b20b377df0dbe384785"
   },
   {
    "path": "evidence/extracts/city-of-hemet-p024-07652e57.pdf",
@@ -4858,8 +4918,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 996427,
-   "sha256": "acb10e2cea0bb7514a43453245e447dffe5464013afc3cf641fac06158cc48ea"
+   "bytes": 1008641,
+   "sha256": "9001aa7a45f195e81a12a4dba40ad73c8322c68ab34bb6a2782e9aaf80860725"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -5747,6 +5807,56 @@
    "sha256": "96d7923e75ed50500226398bb080f2117674ce87d1240a8d31297bd9b3d2a88b"
   },
   {
+   "path": "evidence/outlined/city-of-encinitas-p012-01906f98.pdf",
+   "bytes": 80084,
+   "sha256": "14cdc1bedd0cd095b42d868129b362b2eb0691500b487b73a31113d7cd357582"
+  },
+  {
+   "path": "evidence/outlined/city-of-encinitas-p012-0e5a6084.pdf",
+   "bytes": 80083,
+   "sha256": "a749721fc304e29348d273bf3e7ecb7795d9755ee8c391f02f482af535a5a44e"
+  },
+  {
+   "path": "evidence/outlined/city-of-encinitas-p012-2639ba25.pdf",
+   "bytes": 80117,
+   "sha256": "9384fcd5162c9e790d7427d77ddd63c0378da6d806eb4ec2034e9050ce2c0012"
+  },
+  {
+   "path": "evidence/outlined/city-of-encinitas-p012-3521ee9d.pdf",
+   "bytes": 80117,
+   "sha256": "f0f7fc5f83757b5d5afe7f5fb686aa89a9ba8eff946486a0e8b932c772bc5c4a"
+  },
+  {
+   "path": "evidence/outlined/city-of-encinitas-p012-48d89075.pdf",
+   "bytes": 80084,
+   "sha256": "aaf025097a1004f8ae1b2933f8bef47368b4ae2677d3c956613c968b123a97ce"
+  },
+  {
+   "path": "evidence/outlined/city-of-encinitas-p012-5327146b.pdf",
+   "bytes": 80084,
+   "sha256": "b51944c0d73925947473bbefc061b64380aa294e5bd5e91709c24acafd6f6621"
+  },
+  {
+   "path": "evidence/outlined/city-of-encinitas-p012-ae51bf44.pdf",
+   "bytes": 80115,
+   "sha256": "c2d3609c9ecd0a2b5c6f338357db0b30ee601f86af74646aef428befc7cd6f06"
+  },
+  {
+   "path": "evidence/outlined/city-of-encinitas-p012-b24f89f8.pdf",
+   "bytes": 80082,
+   "sha256": "575698cef5aaf7ad2307e694674abf598e364d8f3fb41d685c907d348a4d4bd7"
+  },
+  {
+   "path": "evidence/outlined/city-of-encinitas-p012-d21ccd20.pdf",
+   "bytes": 80116,
+   "sha256": "2cc3ed505b69289bb53bca9ef97756705c3d19f88e0c826ba443679a1218abe3"
+  },
+  {
+   "path": "evidence/outlined/city-of-encinitas-p012-fe170adc.pdf",
+   "bytes": 80118,
+   "sha256": "696afc11202a3ae743fc7d28d707f7c30e2e154d8ec72c994dc8c0d6b72092f0"
+  },
+  {
    "path": "evidence/outlined/city-of-fontana-p004-07638bbc.pdf",
    "bytes": 6838,
    "sha256": "beed867a0d6c80bfc6c62815b570b41a39c54e663990ad203851bc0a64c2c2c0"
@@ -6480,6 +6590,16 @@
    "path": "evidence/outlined/city-of-hayward-p003-a2c13805.pdf",
    "bytes": 40058,
    "sha256": "251ec716b27bf87ce87a53b6574494744440c891ec7681974a1e3fe5f87d0ae0"
+  },
+  {
+   "path": "evidence/outlined/city-of-hemet-p006-e33d5a28.pdf",
+   "bytes": 80104,
+   "sha256": "16e8740de1a0e6f5a5a9292d44e9c8af8e54448a34e59f0cd8372a5c5dc0b1eb"
+  },
+  {
+   "path": "evidence/outlined/city-of-hemet-p006-f31c71c4.pdf",
+   "bytes": 80103,
+   "sha256": "401611356b9d9e6a2170b95011ff06b196d1e3e7cfe17899e4cea4feff06c941"
   },
   {
    "path": "evidence/outlined/city-of-hemet-p024-07652e57.pdf",
@@ -9852,6 +9972,16 @@
    "sha256": "9ad1f4fc39f13a3973722488f8d5495fea37879f85fddbb94b9312767c3436a2"
   },
   {
+   "path": "sources/city-of-encinitas-2023-24.pdf",
+   "bytes": 1383598,
+   "sha256": "9abc74a9206e1e8301b4f32b50c19a425e3d4de3a8001b360cfbcf70d672ca9c"
+  },
+  {
+   "path": "sources/city-of-encinitas-2024-25.pdf",
+   "bytes": 1978418,
+   "sha256": "e5f20951b6b7f5f3b847570a92e313583ca66579a879926219d44113f5dcdb56"
+  },
+  {
    "path": "sources/city-of-fontana-2024-25.pdf",
    "bytes": 202688,
    "sha256": "38d3076fbf9c62c3b48110de0ca63f5a82c4c9036796de179abd5f3d179210d7"
@@ -9940,6 +10070,11 @@
    "path": "sources/city-of-hemet-2013-14.pdf",
    "bytes": 241622,
    "sha256": "8c2ec758c2abf48cfa51c6acc8d34135eb263a9785679e6aca0f5b9689da9fd2"
+  },
+  {
+   "path": "sources/city-of-hemet-2024-25.pdf",
+   "bytes": 521301,
+   "sha256": "e895fa1d5d4b99b5beec19d1cc1125cd399a85262dbb158124799cb87110e5d3"
   },
   {
    "path": "sources/city-of-huntington-beach-2022-23.pdf",
@@ -10608,13 +10743,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 93404,
-   "sha256": "ad93161077d6d5e1a390cc3f49e1c06fee8fb2704574fc3ee01bd54df9f8c94f"
+   "bytes": 94572,
+   "sha256": "d2ea532a2c453acbf8b924ff0c38e935601f63625fb28d53dd2963e959378fd4"
   },
   {
    "path": "sources/index.json",
-   "bytes": 161730,
-   "sha256": "c884fc9129a95ad97fb1d6b7086af4863f27488c7f523d9d162953e6b0a39744"
+   "bytes": 163849,
+   "sha256": "de6ef8580e4253144a758ab66aa56fcdfdaa3325c9c0d17cc079103294a1a02f"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -10674,7 +10809,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3057,
-   "sha256": "8f8888c53d6bda50f9bf24eb4232cad89ffc56e316200f14c1f6faab78c1057a"
+   "sha256": "90160d62450a6c4d2a2eaab4d62a285008d6b4918592f651f932ba11b65a8d1d"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -10689,7 +10824,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2588,
-   "sha256": "c0ce884f18aa3637b7b5392aaee823d9253734fc00cf0b33e68b1416bbab27a0"
+   "sha256": "5d4176e4b75ea1d658b046a98460b340e875ef45b11e550ae807704a092b193b"
   },
   {
    "path": "validation/validate.py",
