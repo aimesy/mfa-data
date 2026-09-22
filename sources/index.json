@@ -2072,6 +2072,20 @@
   "published_data_rows_from_this_source": 8
  },
  {
+  "source_id": "city-of-upland-2024-25-3045978f",
+  "receiving_entity": "City of Upland",
+  "publication_title": "FY 2024-25 AB 1600 Annual Report",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.uplandca.gov/Documents/Government/Finance/AB%201600%20Development%20Impact%20Fee%20Reports/FY%202024-25%20AB%201600%20Annual%20Report.pdf",
+  "retrieved_utc": "2026-09-22T07:00:03.883454+00:00",
+  "physical_page_count": 6,
+  "source_sha256": "3045978fdbd9f1a5acc2d6c3d854e76d58e948f22ac1c5e6a0cb714f1c66dc86",
+  "source_bytes": 543960,
+  "source_pdf": "sources/city-of-upland-2024-25-3045978f.pdf",
+  "published_data_rows_from_this_source": 7
+ },
+ {
   "source_id": "city-of-victorville-2024-25",
   "receiving_entity": "City of Victorville",
   "publication_title": "City of Victorville annual development impact fee report, fiscal year 2024-25",

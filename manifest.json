@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T22:49:21.934967+00:00",
- "data_rows": 1179,
- "distinct_printed_figures": 1011,
- "receiving_entities": 119,
- "agency_years": 242,
- "fee_programs": 606,
- "source_reports": 219,
- "evidence_pairs": 1011,
+ "built_utc": "2026-09-22T23:13:03.449117+00:00",
+ "data_rows": 1186,
+ "distinct_printed_figures": 1018,
+ "receiving_entities": 120,
+ "agency_years": 243,
+ "fee_programs": 613,
+ "source_reports": 220,
+ "evidence_pairs": 1018,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2266,
- "total_bytes": 600934772,
+ "file_count": 2281,
+ "total_bytes": 602363235,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11068,
-   "sha256": "f11e2c387b0bb236a47ced10f24ac5072a685fcecacd10b7b627eb82d6115abf"
+   "bytes": 11116,
+   "sha256": "e14b9408e214ce2f89adcf04696fbc5a31a17de8a5de0e4541b9f0f984162682"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1266,
-   "sha256": "41ebb0fa6c3949c59c0eb6c6bde1aee28c3b0ae5249c6186c493b12f516f60ab"
+   "sha256": "4c7cb6493ed38c3a46d3ee75a41c1dcf5cc2df2695519abf2d9c2fc2a74504fd"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 471218,
-   "sha256": "4854420fd19f48d4477ff360452d5d76450d6ef08e3e0f646a3cd32d1363a038"
+   "bytes": 474252,
+   "sha256": "ae4e808ba605eaee32db527febcef24551a0565dc6922b3d72ce2b55289e2829"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2528691,
-   "sha256": "120b0b72a76e8306be432a5b95ca188dc3a9dfcf151ea218711943eab69b3fef"
+   "bytes": 2541743,
+   "sha256": "18423dde4e761df8692c9d4ba5830a89cfa7b1fa80a524ecd8b4d96ee3e9b481"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 3749305,
-   "sha256": "10bc3ab52cffe0935aa90b6e6d2cb6b99b1d85282e95f7000510b9bc8d4d8903"
+   "bytes": 3769630,
+   "sha256": "67604679c1b96c6863ffa0991e955b928e1a518e2e5f6cb683d0a2916b7d3c3d"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -3627,6 +3627,41 @@
    "sha256": "3b3407c3f876f5806c9b6d9af6e01a20a32c652e74007f46842db3fa0a3a1a70"
   },
   {
+   "path": "evidence/extracts/city-of-upland-p004-3bc8ef0a.pdf",
+   "bytes": 59945,
+   "sha256": "e9aca5a7a468ca0973d48a54001214292f6a0373f966066fad3df067e1d6319a"
+  },
+  {
+   "path": "evidence/extracts/city-of-upland-p004-40f25cf5.pdf",
+   "bytes": 59945,
+   "sha256": "b41885c500000586a6762d154f05e4d8615005dc8c3c867e5924a5d4cc1dce87"
+  },
+  {
+   "path": "evidence/extracts/city-of-upland-p004-7e6e55df.pdf",
+   "bytes": 59945,
+   "sha256": "fc3bceb3ba8943152ad124956e5ea33c48719a7329f1e067d631a8af8f852c63"
+  },
+  {
+   "path": "evidence/extracts/city-of-upland-p004-84f769ab.pdf",
+   "bytes": 59945,
+   "sha256": "c3e2d6374c2b510fabb01e30435578f95fe31df3d2606cb0994a5833223f42f2"
+  },
+  {
+   "path": "evidence/extracts/city-of-upland-p004-85d88371.pdf",
+   "bytes": 59945,
+   "sha256": "6180dcc6bfc8c67d99e625e883220a1ea77a058161e4d7251ee5e37abe7ba4f2"
+  },
+  {
+   "path": "evidence/extracts/city-of-upland-p004-b5b29ea6.pdf",
+   "bytes": 59945,
+   "sha256": "d782b0838036a25c4b250edece09b023287d24eda85c8f11f0813addee7c047a"
+  },
+  {
+   "path": "evidence/extracts/city-of-upland-p004-cc0bb808.pdf",
+   "bytes": 59945,
+   "sha256": "3ede8c81e455efe6f3bad1828ec4e1f80dc79012671a7e41680afcacf1802d5d"
+  },
+  {
    "path": "evidence/extracts/city-of-victorville-p010-04189855.pdf",
    "bytes": 52058,
    "sha256": "69419c0f775e05add480cfcb955cdb44ffd5cc8f578dd27d3e0608e806f221c1"
@@ -5153,8 +5188,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1057521,
-   "sha256": "8e3e6a7af69314522c844784007f801a08c80143d7f4acbda1f81916ade19703"
+   "bytes": 1064799,
+   "sha256": "50c6aa98819547a3c725fdaa9ba69ab3aa923df8dd1da2d6d57642e089906630"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -8687,6 +8722,41 @@
    "sha256": "1be1f4a7491ea642fb48db7094070e95cb163b1daee7a71618130705c7c4c3db"
   },
   {
+   "path": "evidence/outlined/city-of-upland-p004-3bc8ef0a.pdf",
+   "bytes": 60001,
+   "sha256": "53e3269ec88a296fbe2d4f2a3c115b013b1b8c8ad6342e6e06733d5bc00f92cd"
+  },
+  {
+   "path": "evidence/outlined/city-of-upland-p004-40f25cf5.pdf",
+   "bytes": 60000,
+   "sha256": "2e869f7090f6aa81aaf216ea54f55d448b1e2fee7139dcd0f2478a54dacc4c22"
+  },
+  {
+   "path": "evidence/outlined/city-of-upland-p004-7e6e55df.pdf",
+   "bytes": 59999,
+   "sha256": "5959d0471d10f269248b45acdf5bbad43a82443c668e4bee36b2d29c486bdec8"
+  },
+  {
+   "path": "evidence/outlined/city-of-upland-p004-84f769ab.pdf",
+   "bytes": 60000,
+   "sha256": "763006072f3c609e120d803c9b56e7666e023162e005339f9aac05791ef84687"
+  },
+  {
+   "path": "evidence/outlined/city-of-upland-p004-85d88371.pdf",
+   "bytes": 60000,
+   "sha256": "98eb1614681c6aeb6c9dc6343aab9c6d93873a4cd06a8aaae7ef27bf59e7adea"
+  },
+  {
+   "path": "evidence/outlined/city-of-upland-p004-b5b29ea6.pdf",
+   "bytes": 59999,
+   "sha256": "ad3e7de5dc27ee1c43fd800860e5fc6eb209f1bed0aae3b246e01d731b11e0b3"
+  },
+  {
+   "path": "evidence/outlined/city-of-upland-p004-cc0bb808.pdf",
+   "bytes": 60001,
+   "sha256": "953e158aa13c209d57343a436b0fecd89278a37471a7bc6569beabb303ed6e00"
+  },
+  {
    "path": "evidence/outlined/city-of-victorville-p010-04189855.pdf",
    "bytes": 52117,
    "sha256": "c682be98d006920d5228508f4331326d538cf787c83ece06e69f03efcc610c77"
@@ -10937,6 +11007,11 @@
    "sha256": "dc62f0303f7e6a05a3b7b18554028e82b6dd348b7aa6f7b68ace3da52e723901"
   },
   {
+   "path": "sources/city-of-upland-2024-25-3045978f.pdf",
+   "bytes": 543960,
+   "sha256": "3045978fdbd9f1a5acc2d6c3d854e76d58e948f22ac1c5e6a0cb714f1c66dc86"
+  },
+  {
    "path": "sources/city-of-victorville-2024-25.pdf",
    "bytes": 2608597,
    "sha256": "6704575218fafe2efdd15f5c6592247295bf070ffae4b40077d38ab0dfa17572"
@@ -11268,13 +11343,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 99603,
-   "sha256": "65a3f7e0c40c440680dd6881729c201aedbcab341b35c2805e96093d6a95a02a"
+   "bytes": 100019,
+   "sha256": "5b08bb86758fec17f6b8d2246c337c29fa0fd74ba6cb6ac6c346dee6b1a53d76"
   },
   {
    "path": "sources/index.json",
-   "bytes": 172375,
-   "sha256": "1e291348a677f9d08a1c2967dddc0172b40e542f5f3413b82361f8571127b343"
+   "bytes": 173110,
+   "sha256": "8be1bfacc094154864c336f3aaf362d8dd21d10af92ffd350c3776193818381c"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -11334,7 +11409,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3058,
-   "sha256": "675a5e75ca23a209be74f0f0804c9a54eb7e384d4ffea9b8f59a3291acfa9f46"
+   "sha256": "599f192ef80ad4cfbe1763e1a8f08dbfa219074a5af4ad68334b9c8751329405"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -11349,7 +11424,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2591,
-   "sha256": "ae52c375be4c745554b2dd29d661d83abe233dd34d581a9f0ae19c8b2f7c3901"
+   "sha256": "d176093e648672d4673ad4e6a9f9792d06a88a3ec8b797795eaea88205eb2d99"
   },
   {
    "path": "validation/validate.py",
