@@ -39,6 +39,14 @@ Both resolutions are disclosed on every affected row.
 
 Those closures were worked out by a reviewer reading the page, so they are prose and could in principle be wrong. `validation/validate.py` therefore parses every equation out of the `arithmetic_check` field and checks that it actually balances — 50 equations across 38 distinct claims, all of which do. If a future correction breaks one, the check fails rather than leaving a wrong sum sitting in the data.
 
+### Not every row has an arithmetic corroboration
+
+**253 of the 357 published rows carry an `arithmetic_check` statement; 104 do not.** The field is simply empty on those rows, and it is worth saying plainly what that means rather than leaving it to be inferred from a blank cell.
+
+The 104 are the City of Sacramento (46), the City of Arcadia (31), the City of Colton (18), the City of Riverbank (6) and the Consolidated Fire Protection District of Los Angeles County (3). For them the evidence is the visual review of the outlined page together with what the source itself prints — the column header the figure sits under, the fund name on its row, and the footnotes attached to that row. Sacramento's figures, for instance, were read from the "Impact Fee Revenue" column with each row's footnote markers mapped positionally, which is how the property-sale-proceeds and net-of-refund qualifications were found; but the page was not additionally reconciled as a fund roll-forward.
+
+So a row with a non-empty `arithmetic_check` has an extra, independently checkable confirmation that the figure was taken from the right row and column. A row with an empty one does not. Both were read from the page and both passed the same independent re-derivation from their own outlined PDF; the difference is the presence of a second, arithmetic corroboration. If your use is sensitive to that, filter on the field.
+
 ## Two measure grains, one printed figure
 
 The research input records some printed amounts twice: once as a total across land uses and once at a mixed or unallocated land-use grain. Both are true statements about the same printed number. Rather than silently drop one, this release publishes both, links them with `figure_group_id` and flags exactly one as `is_primary_in_figure_group`. 357 rows carry 189 distinct printed figures. **Sum primary rows only.**

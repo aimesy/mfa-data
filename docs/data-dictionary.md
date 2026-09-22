@@ -43,7 +43,7 @@
 | `accounting_basis_source_read` | `cash` where the source states it, otherwise `not_stated_in_source` |
 | `gross_or_net_source_read` | `gross_refunds_reported_separately`, `gross_no_refunds_stated`, `net_of_refunds_where_footnoted`, `not_stated_in_source` and similar, always as the source states it |
 | `measure_read_from_source` | what the reviewer read on the page to identify the measure |
-| `arithmetic_check` | the source's own arithmetic that confirms the figure was read from the right row and column |
+| `arithmetic_check` | the source's own arithmetic that confirms the figure was read from the right row and column. **Present on 253 of the 357 rows and empty on the other 104**, which rest on the visual review plus the printed column header, fund name and footnotes. See the methodology page; the validator checks that every equation in this field balances |
 | `source_limitations` | pipe-separated list of the specific defects and caveats found in that source, including where a figure is a Quimby Act in-lieu account, a section 66013 capacity charge or a development-agreement fee rather than a section 66006 impact fee |
 
 `land_use_scope` is **never** an inference from the fee's name or purpose. Where the source prints one undivided amount, the residential share is unknown and is recorded as unknown.
