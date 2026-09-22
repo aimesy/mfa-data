@@ -742,6 +742,48 @@
   "published_data_rows_from_this_source": 8
  },
  {
+  "source_id": "city-of-los-angeles-2022-23-0645385a",
+  "receiving_entity": "City of Los Angeles",
+  "publication_title": "Informational Report - Park Fee Information Board Report FY 2023 (Nov 16 2023)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://recreation.parks.lacity.gov/sites/default/files/pdf/commissioner/2023/nov16/informational-report-park-fee-info-br-fy-2023.pdf",
+  "retrieved_utc": "2026-09-22T06:23:50.596960+00:00",
+  "physical_page_count": 19,
+  "source_sha256": "0645385ab108523bf1f9d75c4433ddadcd1cd7fbc6741410c25d90b0921ecf6d",
+  "source_bytes": 762729,
+  "source_pdf": "sources/city-of-los-angeles-2022-23-0645385a.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-los-angeles-2023-24-f4f0db83",
+  "receiving_entity": "City of Los Angeles",
+  "publication_title": "Park Fee Information Board Report FY 2024 (Board of Recreation and Park Commissioners, Nov 21 2024)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://recreation.parks.lacity.gov/planning/pdf/Park%20Fee%20Info%20BR%20FY%202024.pdf",
+  "retrieved_utc": "2026-09-22T06:23:50.300323+00:00",
+  "physical_page_count": 31,
+  "source_sha256": "f4f0db8359004d71e5ce751bc5d47b0babe7a17be0b01d2efd4bac473648e444",
+  "source_bytes": 1585445,
+  "source_pdf": "sources/city-of-los-angeles-2023-24-f4f0db83.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
+  "source_id": "city-of-los-angeles-2024-25-33046598",
+  "receiving_entity": "City of Los Angeles",
+  "publication_title": "Park Fee Annual Report FY 2024-25 (Board of Recreation and Park Commissioners informational report, Nov 6 2025)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://recreation.parks.lacity.gov/sites/default/files/pdf/commissioner/2025/nov06/informational-report-fy24-25-park-fee-annual-report.pdf",
+  "retrieved_utc": "2026-09-22T06:23:49.823748+00:00",
+  "physical_page_count": 44,
+  "source_sha256": "33046598a41f26ea635f496f40b0b1544994a710fa8359b1ce363e7928e1c7b7",
+  "source_bytes": 36218853,
+  "source_pdf": "sources/city-of-los-angeles-2024-25-33046598.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
   "source_id": "city-of-manteca-2024-25",
   "receiving_entity": "City of Manteca",
   "publication_title": "City of Manteca impact fee report, fiscal year 2024-25",
