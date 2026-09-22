@@ -672,6 +672,34 @@
   "published_data_rows_from_this_source": 22
  },
  {
+  "source_id": "city-of-santa-clarita-2022-23",
+  "receiving_entity": "City of Santa Clarita",
+  "publication_title": "City of Santa Clarita Annual Impact Fee Report, fiscal year 2022-23",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://santaclarita.gov/finance/wp-content/uploads/sites/6/2023/12/Annual-Impact-Fee-Report-Exhibit-A-Merge-UPDATED.pdf",
+  "retrieved_utc": "2026-09-22T06:24:17.674378+00:00",
+  "physical_page_count": 17,
+  "source_sha256": "39c45095680d3de341a4f0165d42b4a55e31f794271f1df5f6355a05a7398d1d",
+  "source_bytes": 1318639,
+  "source_pdf": "sources/city-of-santa-clarita-2022-23.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
+  "source_id": "city-of-santa-clarita-2024-25",
+  "receiving_entity": "City of Santa Clarita",
+  "publication_title": "City of Santa Clarita Annual Impact Fee Report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://santaclarita.gov/finance/wp-content/uploads/sites/6/2025/12/Annual-Impact-Fee-Report-FY-24-25-2.pdf",
+  "retrieved_utc": "2026-09-22T06:24:16.434892+00:00",
+  "physical_page_count": 16,
+  "source_sha256": "86387890c1a4cfca28f20732a8af3adaedb9932f5738150752646c3ec66e5739",
+  "source_bytes": 2050351,
+  "source_pdf": "sources/city-of-santa-clarita-2024-25.pdf",
+  "published_data_rows_from_this_source": 9
+ },
+ {
   "source_id": "city-of-st-helena-2014-15",
   "receiving_entity": "City of St Helena",
   "publication_title": "City of St Helena impact fee report, fiscal year 2014-15",

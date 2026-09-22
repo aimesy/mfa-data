@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T12:06:46.900391+00:00",
- "data_rows": 642,
- "distinct_printed_figures": 474,
- "receiving_entities": 70,
- "agency_years": 143,
- "fee_programs": 297,
- "source_reports": 111,
- "evidence_pairs": 474,
+ "built_utc": "2026-09-22T12:19:07.594370+00:00",
+ "data_rows": 655,
+ "distinct_printed_figures": 487,
+ "receiving_entities": 71,
+ "agency_years": 145,
+ "fee_programs": 308,
+ "source_reports": 113,
+ "evidence_pairs": 487,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1084,
- "total_bytes": 157415260,
+ "file_count": 1112,
+ "total_bytes": 162634805,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7999,
-   "sha256": "ac8444768fb51bedfd3e31d9a243aa7a002b2eb3ea6d5436ef7340e86446621d"
+   "bytes": 8066,
+   "sha256": "f8d1c34d1baaeb886893478eecd2fde47434bd50056ca8b316f4acf1189c5270"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "fdcdbea8fc04ff530d512f985fb421ae789d657b90d1489548aa87974f32bac3"
+   "sha256": "7a1df13d4a62f9b2fae5ba6d296d27439d8a3ddff2badc0a1b7b8485ea639c78"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 255503,
-   "sha256": "4d447c696be8f3334ed4c829742fe2b9428cb66eb878393dfe7722ed3ec121df"
+   "bytes": 260503,
+   "sha256": "b97fa87683589cab160169cd7481dbf3bc836942b2dc5227042d2b4a13aff1b1"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1441478,
-   "sha256": "3b968b023836fbfacc5a81722d5181fd9370704cf473c6005118f0cf330fd44f"
+   "bytes": 1466394,
+   "sha256": "78af79bd58bc05a6dc28303e4b1f4c869bb8e341dc2f5aa37436fdf8c806ffb9"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2105473,
-   "sha256": "f2d6f5b6456525b292a1d5166990368eff04f2febda63f408c22f614c86e7d80"
+   "bytes": 2143832,
+   "sha256": "dbf292f189f416c25728b922a8e939d3f3d8c7f3c8de92e6c87f1674f7b805a8"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1447,6 +1447,71 @@
    "sha256": "5356e61c16fc27dbb3c81340a74f2aba1884361294d3d8ce69d4e50245b14020"
   },
   {
+   "path": "evidence/extracts/city-of-santa-clarita-p004-5814b152.pdf",
+   "bytes": 60667,
+   "sha256": "ebe30a93e70790aa47d9aace413dff0a6a702b65a14fcc92389de7b0278dd8e0"
+  },
+  {
+   "path": "evidence/extracts/city-of-santa-clarita-p004-5941101d.pdf",
+   "bytes": 69502,
+   "sha256": "e1e5a75967b49e6f9b4b7c0d664893971202c3e00e32368792365a4885a8cb6e"
+  },
+  {
+   "path": "evidence/extracts/city-of-santa-clarita-p004-5f4e18bc.pdf",
+   "bytes": 60667,
+   "sha256": "59e2f28623dfde8abe691c8313fbf283974b80a766a8d9a3cc7f17b54e850761"
+  },
+  {
+   "path": "evidence/extracts/city-of-santa-clarita-p004-665be45b.pdf",
+   "bytes": 69502,
+   "sha256": "0f32ec592d0917116099f7150f0c4195c4b3c1f6923785ed98dde6debffecda1"
+  },
+  {
+   "path": "evidence/extracts/city-of-santa-clarita-p004-69dc14ad.pdf",
+   "bytes": 69502,
+   "sha256": "e25345dea86e7d52aa3294b9443a4554da2f11c361070cc52e655b6e899758de"
+  },
+  {
+   "path": "evidence/extracts/city-of-santa-clarita-p004-7a3dff15.pdf",
+   "bytes": 69502,
+   "sha256": "5a6f210a109c592d871334e63f806edde998714fa100294468176f769260eb4c"
+  },
+  {
+   "path": "evidence/extracts/city-of-santa-clarita-p004-7a4ff46d.pdf",
+   "bytes": 60667,
+   "sha256": "42b31634dfa33df4ba605c67e086aa77914eb9f8327722f1553c661a268c7f25"
+  },
+  {
+   "path": "evidence/extracts/city-of-santa-clarita-p004-8fbe5f4f.pdf",
+   "bytes": 69502,
+   "sha256": "3e4f250ce7589ca6e5bda9b19bce604027c96afee05b88827a17834c45c67d13"
+  },
+  {
+   "path": "evidence/extracts/city-of-santa-clarita-p004-99736414.pdf",
+   "bytes": 69502,
+   "sha256": "a181d7450981bbc434f495403a576a07a1b0756a04d4bf01592f5a68bb3827d1"
+  },
+  {
+   "path": "evidence/extracts/city-of-santa-clarita-p004-b4d413b4.pdf",
+   "bytes": 60667,
+   "sha256": "53c7cb35f766f82437ba0f06a0056888f13bddb8c16158fa3caf54ae10b8d2ce"
+  },
+  {
+   "path": "evidence/extracts/city-of-santa-clarita-p004-d8a2ed48.pdf",
+   "bytes": 69502,
+   "sha256": "b74084d6f8938a13b08796dbbce9881527b13136807e5c7365fb0622de420a54"
+  },
+  {
+   "path": "evidence/extracts/city-of-santa-clarita-p004-e147b12a.pdf",
+   "bytes": 69502,
+   "sha256": "8a3521de184ab00d812a8c768dcafef890d9438f54e4403c698320bf85c9bbd2"
+  },
+  {
+   "path": "evidence/extracts/city-of-santa-clarita-p005-6479c8ce.pdf",
+   "bytes": 84094,
+   "sha256": "fcb2818483c64e8d53f659b667b631db532437984513cfd14f87eae1ee932861"
+  },
+  {
    "path": "evidence/extracts/city-of-st-helena-p001-1ee5924b.pdf",
    "bytes": 36565,
    "sha256": "2d85d72ecdf2a07b9d2cc825fe6dbc86e69941dad5a3ac76840351c8d4bb6413"
@@ -2468,8 +2533,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 506381,
-   "sha256": "8ba3ac3540891808336a5005b3654d743d85d3181d4b28feaa24ab853690fac1"
+   "bytes": 519840,
+   "sha256": "b2f68825856736f00ce776d1c75399ae9936df8d99181b5461e50d4d601abfe8"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -3822,6 +3887,71 @@
    "sha256": "14ea93b1481444de8b0254097e1491bb4dc730d3713b68595ea9b982d532ccb1"
   },
   {
+   "path": "evidence/outlined/city-of-santa-clarita-p004-5814b152.pdf",
+   "bytes": 60733,
+   "sha256": "275be05438eb34bb76f704e23b0fee68d38bcf61645517c2ff041d92acef1201"
+  },
+  {
+   "path": "evidence/outlined/city-of-santa-clarita-p004-5941101d.pdf",
+   "bytes": 69564,
+   "sha256": "2fdf56a96549a23ade5db8ab06ab5294f15f49cf24a8385f1c49d47d6b524c69"
+  },
+  {
+   "path": "evidence/outlined/city-of-santa-clarita-p004-5f4e18bc.pdf",
+   "bytes": 60735,
+   "sha256": "3e908b0974d40a13bf9746ffd9e1809e58b5fda790bad63c3fd483599f7b9af7"
+  },
+  {
+   "path": "evidence/outlined/city-of-santa-clarita-p004-665be45b.pdf",
+   "bytes": 69562,
+   "sha256": "8a8c9e61ca77252899cd55481d6ccd37d42e136249b3e81b136d643fdd82a375"
+  },
+  {
+   "path": "evidence/outlined/city-of-santa-clarita-p004-69dc14ad.pdf",
+   "bytes": 69571,
+   "sha256": "2667a0486cee551e3484d3fdbfe1f1d4bfa3571c9407c7886ae70fe4f8071304"
+  },
+  {
+   "path": "evidence/outlined/city-of-santa-clarita-p004-7a3dff15.pdf",
+   "bytes": 69568,
+   "sha256": "0881de76ccff0332ffa5cff6dd312f7101460a8a3fa0d8dd6f25afafd00841c1"
+  },
+  {
+   "path": "evidence/outlined/city-of-santa-clarita-p004-7a4ff46d.pdf",
+   "bytes": 60740,
+   "sha256": "36528b24366efb6e409a5a8f5461a63105fab180cf6be42799ef5da36545f732"
+  },
+  {
+   "path": "evidence/outlined/city-of-santa-clarita-p004-8fbe5f4f.pdf",
+   "bytes": 69565,
+   "sha256": "64cc2d6bac5ca0116a8bfc81423d133a9ddc4129010ee8ad433ecc048c8c2927"
+  },
+  {
+   "path": "evidence/outlined/city-of-santa-clarita-p004-99736414.pdf",
+   "bytes": 69567,
+   "sha256": "eef1ad414d8c06d079a5e6c8d9e6bdfe8d3a6ea75a22b39cf6b839786e74e4cd"
+  },
+  {
+   "path": "evidence/outlined/city-of-santa-clarita-p004-b4d413b4.pdf",
+   "bytes": 60735,
+   "sha256": "0cbd1bb5fb791ba8aaddcea0b4fd615f4b9b99baa9dab23d494c68025aa50267"
+  },
+  {
+   "path": "evidence/outlined/city-of-santa-clarita-p004-d8a2ed48.pdf",
+   "bytes": 69567,
+   "sha256": "63ab89c81f1bdfd5b136160b92b15c583fb635945d634bd393b22b00724f6187"
+  },
+  {
+   "path": "evidence/outlined/city-of-santa-clarita-p004-e147b12a.pdf",
+   "bytes": 69567,
+   "sha256": "09881cb32bb1c299771c54be29c249e43490b7179798836d2208d32380f17ce6"
+  },
+  {
+   "path": "evidence/outlined/city-of-santa-clarita-p005-6479c8ce.pdf",
+   "bytes": 84154,
+   "sha256": "93561c9fc3755e458b4456899d09452d4b3dc6e635c9c90fa90e475fc5d18f02"
+  },
+  {
    "path": "evidence/outlined/city-of-st-helena-p001-1ee5924b.pdf",
    "bytes": 36619,
    "sha256": "128ed624a52718584f5e55cac0cc96eb0f20c4d3616b631459d7690c63755021"
@@ -5067,6 +5197,16 @@
    "sha256": "3f5277d93f15ae9f92593b5cbde14b0ff59570f510cd8622630160c0c8aa731c"
   },
   {
+   "path": "sources/city-of-santa-clarita-2022-23.pdf",
+   "bytes": 1318639,
+   "sha256": "39c45095680d3de341a4f0165d42b4a55e31f794271f1df5f6355a05a7398d1d"
+  },
+  {
+   "path": "sources/city-of-santa-clarita-2024-25.pdf",
+   "bytes": 2050351,
+   "sha256": "86387890c1a4cfca28f20732a8af3adaedb9932f5738150752646c3ec66e5739"
+  },
+  {
    "path": "sources/city-of-st-helena-2014-15.pdf",
    "bytes": 100477,
    "sha256": "ec805a81f22b3ef83b03cf97923de4f4e75774f4fd07d51723ced522dffb7e3e"
@@ -5368,13 +5508,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 54633,
-   "sha256": "773f583835c114af06ee123dd51d97d6b7f250d612595d43212c3fb9c36dadb1"
+   "bytes": 55490,
+   "sha256": "477186d93dece6284ba48023e2ec65bc5564f896fb80b6f7374331e47d8768c8"
   },
   {
    "path": "sources/index.json",
-   "bytes": 93109,
-   "sha256": "ec2cde99ddc29e73ebd8e2dd5a5dab14df44d23191a54bb8bbdf7e343187a1c4"
+   "bytes": 94600,
+   "sha256": "201cb95cb2e644bef2bb54d2144f4adfc671f15bd9ee756147785fbd428dcbd2"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -5424,7 +5564,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "f23b6bbe913ec01611348c2d913407c9de9078ce8b51524ef8ec12b8de7eedc4"
+   "sha256": "d15d1e939b9a8c327731e065668cba84c44c37f59ebc03f45393c63fe9f5ff66"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -5439,7 +5579,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "83980d5badab7f8aa139b11c23b2c350ed34653658bf560a0283b67ba87f9f49"
+   "sha256": "c50e221c64ed1c91e78fc7e6479e00da38ad39401607d223d0d562b469d34a0e"
   },
   {
    "path": "validation/validate.py",
