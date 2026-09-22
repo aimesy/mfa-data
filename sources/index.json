@@ -1736,6 +1736,20 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "city-of-san-mateo-2024-25-09c9f2bc",
+  "receiving_entity": "City of San Mateo",
+  "publication_title": "Fiscal Year 2024-25 (Mitigation Fee Act / AB 1600 Report)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.cityofsanmateo.org/DocumentCenter/View/99437/Fiscal-Year-2024-25",
+  "retrieved_utc": "2026-09-22T06:59:35.442833+00:00",
+  "physical_page_count": 13,
+  "source_sha256": "09c9f2bc23886e5c92f7cc38289ce58a6f834bec69696d3d99f98a44df102ef9",
+  "source_bytes": 740474,
+  "source_pdf": "sources/city-of-san-mateo-2024-25-09c9f2bc.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "city-of-santa-ana-2022-23",
   "receiving_entity": "City of Santa Ana",
   "publication_title": "City of Santa Ana Assembly Bill 1600 Development Fee Report, fiscal year 2022-23",
@@ -1778,6 +1792,20 @@
   "published_data_rows_from_this_source": 22
  },
  {
+  "source_id": "city-of-santa-clara-2024-25-0cea0cb4",
+  "receiving_entity": "City of Santa Clara",
+  "publication_title": "City of Santa Clara development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.santaclaraca.gov/home/showpublisheddocument/88962/639064193106170000",
+  "retrieved_utc": "2026-09-22T13:28:41.908771+00:00",
+  "physical_page_count": 17,
+  "source_sha256": "0cea0cb44654a81668590cbdee52c09567da9b4ff95c0a680f1e6328b61eb1fd",
+  "source_bytes": 4030042,
+  "source_pdf": "sources/city-of-santa-clara-2024-25-0cea0cb4.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
   "source_id": "city-of-santa-clarita-2022-23",
   "receiving_entity": "City of Santa Clarita",
   "publication_title": "City of Santa Clarita Annual Impact Fee Report, fiscal year 2022-23",
@@ -1804,6 +1832,20 @@
   "source_bytes": 2050351,
   "source_pdf": "sources/city-of-santa-clarita-2024-25.pdf",
   "published_data_rows_from_this_source": 9
+ },
+ {
+  "source_id": "city-of-santa-cruz-2023-24-3060d267",
+  "receiving_entity": "City of Santa Cruz",
+  "publication_title": "City of Santa Cruz City Council Agenda Packet, December 10, 2024 - items 16, 17 and 29: FY 2024 Parking In-Lieu, Traffic, Childcare and Public Safety Impact Fee Annual Reports (fiscal year ended June 30, 2024)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://ecm.cityofsantacruz.com/OnBaseAgendaOnline/Documents/ViewDocument/City_Council_Regular_Meeting_2393_Agenda_Packet_12_10_2024_11_00_00_AM.pdf?meetingId=2393&documentType=AgendaPacket&itemId=0&publishId=0&isSection=false",
+  "retrieved_utc": "2026-09-22T12:07:56.585963+00:00",
+  "physical_page_count": 1378,
+  "source_sha256": "3060d2673975df1a6a66e1616293e14bba74364c9a90e6cd3a0e301b56de0c25",
+  "source_bytes": 75017879,
+  "source_pdf": "sources/city-of-santa-cruz-2023-24-3060d267.pdf",
+  "published_data_rows_from_this_source": 1
  },
  {
   "source_id": "city-of-santee-2022-23-bf341c97",
