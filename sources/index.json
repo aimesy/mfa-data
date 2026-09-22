@@ -350,6 +350,34 @@
   "published_data_rows_from_this_source": 3
  },
  {
+  "source_id": "city-of-chico-2023-24-7fd39b22",
+  "receiving_entity": "City of Chico",
+  "publication_title": "FY 2023-2024 Annual DIF Report - Final",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://d16k74nzx9emoe.cloudfront.net/cb5c282f-f8af-41fc-9cf1-976408d9561f/FY-2023-2024-Annual-DIF-Report-Final.pdf",
+  "retrieved_utc": "2026-09-22T06:59:31.372701+00:00",
+  "physical_page_count": 13,
+  "source_sha256": "7fd39b225b0b8ff6ce0122ac6883eeac96ca9f3dbd37a6f7f2559fa6fedb45e2",
+  "source_bytes": 2248417,
+  "source_pdf": "sources/city-of-chico-2023-24-7fd39b22.pdf",
+  "published_data_rows_from_this_source": 13
+ },
+ {
+  "source_id": "city-of-chico-2024-25-dc51c1fd",
+  "receiving_entity": "City of Chico",
+  "publication_title": "Ex A - FY 2024-2025 Annual DIF Report - Final",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://d16k74nzx9emoe.cloudfront.net/291e4d70-2cbb-46d7-82b5-c35d27cccdf2/Ex%20A%20-%20FY%202024-2025%20Annual%20DIF%20Report%20-%20Final.pdf",
+  "retrieved_utc": "2026-09-22T06:59:30.885524+00:00",
+  "physical_page_count": 13,
+  "source_sha256": "dc51c1fd1171e0780984d3350e4de1dd6ef789bde05dbeaf3bf81dc2daa31010",
+  "source_bytes": 2274676,
+  "source_pdf": "sources/city-of-chico-2024-25-dc51c1fd.pdf",
+  "published_data_rows_from_this_source": 13
+ },
+ {
   "source_id": "city-of-chowchilla-2022-23",
   "receiving_entity": "City of Chowchilla",
   "publication_title": "City of Chowchilla annual development impact fee report, fiscal year 2022-23",
