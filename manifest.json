@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T13:16:19.857694+00:00",
- "data_rows": 713,
- "distinct_printed_figures": 545,
- "receiving_entities": 76,
- "agency_years": 157,
- "fee_programs": 337,
- "source_reports": 125,
- "evidence_pairs": 545,
+ "built_utc": "2026-09-22T13:30:12.345229+00:00",
+ "data_rows": 742,
+ "distinct_printed_figures": 574,
+ "receiving_entities": 79,
+ "agency_years": 161,
+ "fee_programs": 357,
+ "source_reports": 129,
+ "evidence_pairs": 574,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1240,
- "total_bytes": 181110823,
+ "file_count": 1302,
+ "total_bytes": 189872808,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 8390,
-   "sha256": "d7270aa10c757d1fd1ca6cbb6b4ba346cde5b23545884743a85026f4fa8e183a"
+   "bytes": 8556,
+   "sha256": "b0c975072098ff21b04a985dfb9ba238f1d7309452a397a1b4d167b274ffe519"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "60ccb469af83bb93969bb224dfad0a8a9522edc8fc58f67de6019835e9a7bf83"
+   "sha256": "fa4da96d7e4cf5ea006ad4850cf34fa53c755d0bd35f9b31aad4015a48285f63"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 284080,
-   "sha256": "7bcb8313c8fe535c2ca7b3d6ba3eb7353f880895c830dc2f731d50b53fd83ca8"
+   "bytes": 294725,
+   "sha256": "2bc91aabbce06269cb95392de01006cc992e1aa533b94a2ee57a7ea0c4e1d3e5"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1592664,
-   "sha256": "ea7a4723bef6892103141413bd90b9cf677d540fda3d49913b85da794201b325"
+   "bytes": 1648811,
+   "sha256": "1da0a018931e7b94741b6739f3c0691a207791769be7265c8a01e95d0b7cc2bd"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2330202,
-   "sha256": "516b7608b11b7d4f28dd60e870b642ff93960cfa259406b22c79cd3795dd4c90"
+   "bytes": 2416422,
+   "sha256": "c4c9b69877d3bcc915dd8f8b687f6a9df5d11abf893f89b25c932e6aceaedf26"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -405,6 +405,106 @@
    "path": "evidence/extracts/city-of-calimesa-p005-e6849438.pdf",
    "bytes": 62679,
    "sha256": "c5c9415e70ea70474af48f68e221d24258413c2b70fcc6040199560ac9309e6c"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p006-051f474a.pdf",
+   "bytes": 99541,
+   "sha256": "ac3cf2d1daef6d6bf487acb08f93ca3638c7f42272b10d4ca83f3657e4ed4b74"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p006-118a7abe.pdf",
+   "bytes": 99541,
+   "sha256": "a3c5458391af0be0021aa85d556252ba00374f0c2e8cf3bb2f237519fa4252f6"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p006-196b5dd8.pdf",
+   "bytes": 99541,
+   "sha256": "3cbbd2bdeb72b8421985fc406743badb4ba49f26c4b357412760be20741ea6f6"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p006-24a58dcb.pdf",
+   "bytes": 99541,
+   "sha256": "b666db002d73a8462bac040ed82a4490a9877ee3b2a2bd838c64f67e5fb49447"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p006-4698e6e5.pdf",
+   "bytes": 99541,
+   "sha256": "2645f590b120060b45212a7b3f1c0bf815e0818e1bf58ccf94b50b7821d46958"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p006-540dfebf.pdf",
+   "bytes": 99541,
+   "sha256": "e6f7bd12eda845cfdbfc93084d78e07a35692fd53bb01141064b0223d8d428d5"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p006-5c04abe0.pdf",
+   "bytes": 99541,
+   "sha256": "da3c95a8b945e7e3e251a6ead3f97d721c5ea439675fe53d3ae9c3c0139865c7"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p006-5de82591.pdf",
+   "bytes": 99541,
+   "sha256": "456b09df0acc9f6a0191763e2529977c261d0b16a2d9ac09603d7425078ed7b4"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p006-72164269.pdf",
+   "bytes": 99541,
+   "sha256": "9a4dd84a2c95da53be4d370436c74e22f6b9f48f4421181b29487004af97a4af"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p006-7c5d05eb.pdf",
+   "bytes": 99541,
+   "sha256": "8b077f438741c1f14fa464300d0ab341143aac7dca4b524c5f5cf8780e62938f"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p006-9b1ec32a.pdf",
+   "bytes": 99541,
+   "sha256": "76fdb0c21a79c916258399ad29fa770042338d6d1b29c2709f3bfc3d9d100de3"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p029-4863a378.pdf",
+   "bytes": 135617,
+   "sha256": "e1043d0d22eaa5b1df4e3cd501aea411b19984d2237d1b7587b503d0a4b16957"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p029-4c9ea0be.pdf",
+   "bytes": 135617,
+   "sha256": "a16611868b12c5a8a1a64af1975ec419a956a65c12b5914e026f263bd58399a7"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p029-5b74b221.pdf",
+   "bytes": 135617,
+   "sha256": "2a1bc7895b04fdee6bd873f270334280d7eebaaeb4f440c8948d8a93c2f3ff6d"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p029-5faf5a96.pdf",
+   "bytes": 135617,
+   "sha256": "5080b917f4e1d0e6aca15dbf9973ad8a50af16c729fa50c1d875201ab99cf071"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p029-65726e26.pdf",
+   "bytes": 135617,
+   "sha256": "c9eb4f79b8bf4102875874ccbc49da62e511f5ce9ae16b01434ffc4b0d6b0724"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p029-8113fb36.pdf",
+   "bytes": 135617,
+   "sha256": "3238f31b2c0d37c9a4147c5bdf3e7f6bdf978d89d20b9937b6acb48b18a114d6"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p029-8a88c1e5.pdf",
+   "bytes": 135617,
+   "sha256": "6f5a2949cb344744c4f33cb057ec1ef57417f8578bfa23c73a17c66fa92a3090"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p029-91153caf.pdf",
+   "bytes": 135617,
+   "sha256": "2ba03d93f85955ebf67163c1ad6cd02dd5dfaad3a60cdf489bc8948d54cca5d7"
+  },
+  {
+   "path": "evidence/extracts/city-of-chowchilla-p029-fffa076a.pdf",
+   "bytes": 135617,
+   "sha256": "f0d5747ec27ba5e2a37b9bda63a8e51020e883c9d28de8ca75cf259dbdd6c840"
   },
   {
    "path": "evidence/extracts/city-of-cloverdale-p001-15e48328.pdf",
@@ -1602,6 +1702,21 @@
    "sha256": "fcb2818483c64e8d53f659b667b631db532437984513cfd14f87eae1ee932861"
   },
   {
+   "path": "evidence/extracts/city-of-signal-hill-p012-09ce6c6a.pdf",
+   "bytes": 68134,
+   "sha256": "20f54d70895cb95d196703e588fccee2afdce72b618cc3173063b793e0010953"
+  },
+  {
+   "path": "evidence/extracts/city-of-signal-hill-p012-1c15ecd5.pdf",
+   "bytes": 68134,
+   "sha256": "e0cb69fa991a02b44f7c318c0163b58d73f4d3d31e9c4e2b580ba903e3ce93ec"
+  },
+  {
+   "path": "evidence/extracts/city-of-signal-hill-p012-9c920275.pdf",
+   "bytes": 68134,
+   "sha256": "115aca0d7f1c77a0a8c985265a59a48b5c7253ffa318ab2ec592a91179644017"
+  },
+  {
    "path": "evidence/extracts/city-of-st-helena-p001-1ee5924b.pdf",
    "bytes": 36565,
    "sha256": "2d85d72ecdf2a07b9d2cc825fe6dbc86e69941dad5a3ac76840351c8d4bb6413"
@@ -1740,6 +1855,36 @@
    "path": "evidence/extracts/city-of-stockton-p060-d392dff1.pdf",
    "bytes": 74330,
    "sha256": "3743571d42eb3397dcf536d7f208705b8a0c9057b21d2027911d1f9ebd56cfeb"
+  },
+  {
+   "path": "evidence/extracts/city-of-tehachapi-p009-2b14b66e.pdf",
+   "bytes": 51341,
+   "sha256": "372f74d87fcbc6840c7cfb20ab0dfb9b18a47ed1a966d1660b36e08776f7db0f"
+  },
+  {
+   "path": "evidence/extracts/city-of-tehachapi-p009-3e1af617.pdf",
+   "bytes": 51341,
+   "sha256": "20d37ae802053efe2375144bd06fe50943e32be6f6ad078751b9968c7312ac63"
+  },
+  {
+   "path": "evidence/extracts/city-of-tehachapi-p009-5c663a34.pdf",
+   "bytes": 51341,
+   "sha256": "dbad4aba011c4f1f58ab7801151c195df674df8de8e4fe78aacad15c08142246"
+  },
+  {
+   "path": "evidence/extracts/city-of-tehachapi-p009-8d866a94.pdf",
+   "bytes": 51341,
+   "sha256": "e6de9e520a9b69262e711dbbc8b514e8c3b130a85c076890f81f3356a455ceaa"
+  },
+  {
+   "path": "evidence/extracts/city-of-tehachapi-p009-9791b4f5.pdf",
+   "bytes": 51341,
+   "sha256": "f1a952a23dc7d9365a2e8530c108a518b6488a1bf5eef9b4e102be4bf53cbb8d"
+  },
+  {
+   "path": "evidence/extracts/city-of-tehachapi-p009-e10eeecc.pdf",
+   "bytes": 51341,
+   "sha256": "4d874e7ed23b833f2edd6a564b57f25c2ec162c6ed4f3a4a630cd7923af1f1bf"
   },
   {
    "path": "evidence/extracts/city-of-temecula-p002-43725435.pdf",
@@ -2823,8 +2968,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 577749,
-   "sha256": "83747180757ff183d841b919d197ba5ba4c9ffc974c9b954ade1c95d5ecb2c51"
+   "bytes": 606556,
+   "sha256": "9f66f4dba4ea4087151719cdb5cac98e9ae22ca54960abc62efc11128f96ab65"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -3135,6 +3280,106 @@
    "path": "evidence/outlined/city-of-calimesa-p005-e6849438.pdf",
    "bytes": 62741,
    "sha256": "1cf0580a0c468ba82e39df36917be4448d959dcc0abac406efb487a08bfe2e38"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p006-051f474a.pdf",
+   "bytes": 99607,
+   "sha256": "0668de1c1100eb5d97cb4c40f2d368b04c6ecb63c87033dc9a3b4d3ee5fc8f67"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p006-118a7abe.pdf",
+   "bytes": 99609,
+   "sha256": "219e8720e85bd585b9cedaeb43d8ff063fab67e71eee9b9c5dfb3b172a748d86"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p006-196b5dd8.pdf",
+   "bytes": 99603,
+   "sha256": "311262b2ae32687c49f99b340aab855e3943749db627d2cdce4c1fc6adfa6b0f"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p006-24a58dcb.pdf",
+   "bytes": 99606,
+   "sha256": "7bb2742966b540fb6d2f3e64d3b9b888804074b892d3c7e483ce565b36c01b39"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p006-4698e6e5.pdf",
+   "bytes": 99608,
+   "sha256": "e0257a2b22dd8801cf3d6e1fc6e9d29b8077f949a1dd49ce56c0b38c18200ad9"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p006-540dfebf.pdf",
+   "bytes": 99606,
+   "sha256": "11e6e4412d3f9efefe1e541d9b9582c6b2a7aa861805f0c26dcc7569cb2a10b9"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p006-5c04abe0.pdf",
+   "bytes": 99600,
+   "sha256": "c2812a8450cfdbf4c5425cb08c2a68e1314bf83273c10f76efe0fd70275e4a94"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p006-5de82591.pdf",
+   "bytes": 99604,
+   "sha256": "36b8cab94dd333409b37170efd218b5b1cee1e88c48947895a98037b40e96d52"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p006-72164269.pdf",
+   "bytes": 99605,
+   "sha256": "ae9f5f22f96dde1eeffe7fab574922846f48a58dee07272a4ba2cec5062c9c94"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p006-7c5d05eb.pdf",
+   "bytes": 99605,
+   "sha256": "bd50466de411e92e27c8bebacf3512d4633992a34ea2eac9640de7077a7ef91f"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p006-9b1ec32a.pdf",
+   "bytes": 99605,
+   "sha256": "c6a2f26f8eac822c85df8fe842543b461fe21f853271e87c73201976b14bee1f"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p029-4863a378.pdf",
+   "bytes": 75250,
+   "sha256": "58be2c18640f1473f948e3268d562b10b7920618b127580fbb6cada2893d7dbe"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p029-4c9ea0be.pdf",
+   "bytes": 75249,
+   "sha256": "906878018f3f4b067b9c8960971160ac4b52e59bb4f2f837779066fa7055a3ce"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p029-5b74b221.pdf",
+   "bytes": 75249,
+   "sha256": "427cc448de6f9ff3600b009cbd714681d27e8ede9a8a1bb2879071d03e44fbfe"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p029-5faf5a96.pdf",
+   "bytes": 75249,
+   "sha256": "f2523b63e8dba14e71b94fb6f16ed5e1543724f8cc3706eb35ab2dd4da94d6ab"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p029-65726e26.pdf",
+   "bytes": 75249,
+   "sha256": "8d94ddb9003cfe35869305c53d0797f710f61fa0ecefae579749475f4153f0b8"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p029-8113fb36.pdf",
+   "bytes": 75250,
+   "sha256": "1707c607bdfd099515ad623e231298794bd05227907e43f490ea95e09273a937"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p029-8a88c1e5.pdf",
+   "bytes": 75250,
+   "sha256": "d7be89c85dd91b064175e2f1e1272d420d6d3ce6ee55656400c6ebd181b3de2a"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p029-91153caf.pdf",
+   "bytes": 75252,
+   "sha256": "cee1458b7dfe9d1b97692dbdb372c0476a564e0fbb7a0bb6311cdec4af6cbce5"
+  },
+  {
+   "path": "evidence/outlined/city-of-chowchilla-p029-fffa076a.pdf",
+   "bytes": 75248,
+   "sha256": "9bc8e2f5b81f09bb04c337eab73dbb76fc5c94ad0cbdf858c211b16b4172f601"
   },
   {
    "path": "evidence/outlined/city-of-cloverdale-p001-15e48328.pdf",
@@ -4332,6 +4577,21 @@
    "sha256": "93561c9fc3755e458b4456899d09452d4b3dc6e635c9c90fa90e475fc5d18f02"
   },
   {
+   "path": "evidence/outlined/city-of-signal-hill-p012-09ce6c6a.pdf",
+   "bytes": 68196,
+   "sha256": "00d814aaf83d2fd044a7b43e3a35eda75a64363ea51c00a9c378daede1747521"
+  },
+  {
+   "path": "evidence/outlined/city-of-signal-hill-p012-1c15ecd5.pdf",
+   "bytes": 68192,
+   "sha256": "62a2cc1ebef4c2f710a08993488ec794e908cd4a861e35d5927e770460381842"
+  },
+  {
+   "path": "evidence/outlined/city-of-signal-hill-p012-9c920275.pdf",
+   "bytes": 68194,
+   "sha256": "8fc13ba3a759f53dc3daf964aa6f92c9f0254c24e87d2126a8039bfeb93f9073"
+  },
+  {
    "path": "evidence/outlined/city-of-st-helena-p001-1ee5924b.pdf",
    "bytes": 36619,
    "sha256": "128ed624a52718584f5e55cac0cc96eb0f20c4d3616b631459d7690c63755021"
@@ -4470,6 +4730,36 @@
    "path": "evidence/outlined/city-of-stockton-p060-d392dff1.pdf",
    "bytes": 74387,
    "sha256": "9ab2c7d6dcdda012de263638355767ddb13111d55e8b725a54ffa74a49841b35"
+  },
+  {
+   "path": "evidence/outlined/city-of-tehachapi-p009-2b14b66e.pdf",
+   "bytes": 51399,
+   "sha256": "4bd04479cafaf35e923280364b693791bb32d356cfcdd52d2d48e7d8d7d77b80"
+  },
+  {
+   "path": "evidence/outlined/city-of-tehachapi-p009-3e1af617.pdf",
+   "bytes": 51401,
+   "sha256": "608e6485145d8f2030b470cb7e4141bb8bd000b8fb3a37bf4bf576c9c00e0346"
+  },
+  {
+   "path": "evidence/outlined/city-of-tehachapi-p009-5c663a34.pdf",
+   "bytes": 51399,
+   "sha256": "25e44465e38e2f5cde751f743be1bb45b0607d4bd92e0ae1491bdbd67e6c30b0"
+  },
+  {
+   "path": "evidence/outlined/city-of-tehachapi-p009-8d866a94.pdf",
+   "bytes": 51399,
+   "sha256": "53835f17674df1a3b31c2ce4d5716bdd6718fdff112c5da269785c8814b1c598"
+  },
+  {
+   "path": "evidence/outlined/city-of-tehachapi-p009-9791b4f5.pdf",
+   "bytes": 51398,
+   "sha256": "c478ae70c853e8d9d4dd539acd5da20e99716711bd3efb0209a2688ede78a4a6"
+  },
+  {
+   "path": "evidence/outlined/city-of-tehachapi-p009-e10eeecc.pdf",
+   "bytes": 51399,
+   "sha256": "14805a108a7e739f8578f32d504fcdf0f1b1c2a3b560792707d0fd2e0d8e7b48"
   },
   {
    "path": "evidence/outlined/city-of-temecula-p002-43725435.pdf",
@@ -5612,6 +5902,16 @@
    "sha256": "b5c09d1d4809b52300d8f09356510c6ac4eecba9204c4c800a4260371a36ac47"
   },
   {
+   "path": "sources/city-of-chowchilla-2022-23.pdf",
+   "bytes": 1253267,
+   "sha256": "604061ca345219249a8eaf5c0d734eadcf07e0b1d8afb7211df923cbe263e365"
+  },
+  {
+   "path": "sources/city-of-chowchilla-2024-25.pdf",
+   "bytes": 929705,
+   "sha256": "b271f7f0807df46647462996d6e4be0751d8139cf29952cd4fadfc83083ac5e1"
+  },
+  {
    "path": "sources/city-of-cloverdale-2024-25.pdf",
    "bytes": 84936,
    "sha256": "5d37bea292a016142269dfab32b0fad554e3a16ccfc2cce433409c9f6de7cb20"
@@ -5807,6 +6107,11 @@
    "sha256": "86387890c1a4cfca28f20732a8af3adaedb9932f5738150752646c3ec66e5739"
   },
   {
+   "path": "sources/city-of-signal-hill-2023-24.pdf",
+   "bytes": 1068026,
+   "sha256": "cbc8fbf9103207ac4c8703d7cc09335da02f8c6610f6fb73736fe96a506484cd"
+  },
+  {
    "path": "sources/city-of-st-helena-2014-15.pdf",
    "bytes": 100477,
    "sha256": "ec805a81f22b3ef83b03cf97923de4f4e75774f4fd07d51723ced522dffb7e3e"
@@ -5845,6 +6150,11 @@
    "path": "sources/city-of-stockton-2022-23.pdf",
    "bytes": 2697997,
    "sha256": "91248855f657ca85c11dd8240fea7697dc33bb1e40191d2ae9610edcc9b3a309"
+  },
+  {
+   "path": "sources/city-of-tehachapi-2022-23.pdf",
+   "bytes": 210677,
+   "sha256": "9fa089beb84bdf7e1b3a426d9e5def6bfff17466c8d0414d6df87d379374a138"
   },
   {
    "path": "sources/city-of-temecula-2023-24.pdf",
@@ -6138,13 +6448,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 60520,
-   "sha256": "4876bff1e62ab69978b4089a5e59aba98894904780869797d1d3e85090290585"
+   "bytes": 62132,
+   "sha256": "7fa1393b09957157759095e422d04e40d615cb6f7387912e4aaeda8e167869f7"
   },
   {
    "path": "sources/index.json",
-   "bytes": 103434,
-   "sha256": "6713f7cc42619b7878b4c016de7e6b0094b0f76083be5326674f812ef55bcf5f"
+   "bytes": 106314,
+   "sha256": "71311b85dc349b21999812d1b95f28f085d5ed5280284c4a027fc3a403eae913"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -6204,7 +6514,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "0bc7410c8977b8de77ed5f5fe88ef095e9482a2be4d02491c28ec5673ffcbcd4"
+   "sha256": "8b4060cd268487c5bcdf76dc94cc62c79db736875b3f2b4f30c70fc9a4afb52c"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -6219,7 +6529,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "1e0d8a33102a5079836d56b0bafef06b29728612475867f008659b4cfdb72c05"
+   "sha256": "7cc68d7ec82fca03fa0f4842244c865e6f5a26c2a751c499cc7dd8f9809e153b"
   },
   {
    "path": "validation/validate.py",

@@ -182,6 +182,34 @@
   "published_data_rows_from_this_source": 8
  },
  {
+  "source_id": "city-of-chowchilla-2022-23",
+  "receiving_entity": "City of Chowchilla",
+  "publication_title": "City of Chowchilla annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.cityofchowchilla.org/AgendaCenter/ViewFile/Agenda/_01092024-542",
+  "retrieved_utc": "2026-09-22T12:04:51.511005+00:00",
+  "physical_page_count": 48,
+  "source_sha256": "604061ca345219249a8eaf5c0d734eadcf07e0b1d8afb7211df923cbe263e365",
+  "source_bytes": 1253267,
+  "source_pdf": "sources/city-of-chowchilla-2022-23.pdf",
+  "published_data_rows_from_this_source": 9
+ },
+ {
+  "source_id": "city-of-chowchilla-2024-25",
+  "receiving_entity": "City of Chowchilla",
+  "publication_title": "City of Chowchilla annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://cityofchowchilla.org/DocumentCenter/View/3738/AB1600-Impact-Fee-Report-24-25",
+  "retrieved_utc": "2026-09-22T11:12:37.786524+00:00",
+  "physical_page_count": 29,
+  "source_sha256": "b271f7f0807df46647462996d6e4be0751d8139cf29952cd4fadfc83083ac5e1",
+  "source_bytes": 929705,
+  "source_pdf": "sources/city-of-chowchilla-2024-25.pdf",
+  "published_data_rows_from_this_source": 11
+ },
+ {
   "source_id": "city-of-cloverdale-2024-25",
   "receiving_entity": "City of Cloverdale",
   "publication_title": "City of Cloverdale impact fee report, fiscal year 2024-25",
@@ -756,6 +784,20 @@
   "published_data_rows_from_this_source": 9
  },
  {
+  "source_id": "city-of-signal-hill-2023-24",
+  "receiving_entity": "City of Signal Hill",
+  "publication_title": "City of Signal Hill annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.cityofsignalhill.org/DocumentCenter/View/19138/Annual-Impact-Fee-Report---FY-2023-24",
+  "retrieved_utc": "2026-09-22T12:04:20.234718+00:00",
+  "physical_page_count": 18,
+  "source_sha256": "cbc8fbf9103207ac4c8703d7cc09335da02f8c6610f6fb73736fe96a506484cd",
+  "source_bytes": 1068026,
+  "source_pdf": "sources/city-of-signal-hill-2023-24.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
   "source_id": "city-of-st-helena-2014-15",
   "receiving_entity": "City of St Helena",
   "publication_title": "City of St Helena impact fee report, fiscal year 2014-15",
@@ -866,6 +908,20 @@
   "source_bytes": 2697997,
   "source_pdf": "sources/city-of-stockton-2022-23.pdf",
   "published_data_rows_from_this_source": 12
+ },
+ {
+  "source_id": "city-of-tehachapi-2022-23",
+  "receiving_entity": "City of Tehachapi",
+  "publication_title": "City of Tehachapi annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.liveuptehachapi.com/DocumentCenter/View/7750/Tehachapi_Annual--5-Yr-DIF-Report-FY-2023_final",
+  "retrieved_utc": "2026-09-22T12:04:15.712639+00:00",
+  "physical_page_count": 17,
+  "source_sha256": "9fa089beb84bdf7e1b3a426d9e5def6bfff17466c8d0414d6df87d379374a138",
+  "source_bytes": 210677,
+  "source_pdf": "sources/city-of-tehachapi-2022-23.pdf",
+  "published_data_rows_from_this_source": 6
  },
  {
   "source_id": "city-of-temecula-2023-24",
