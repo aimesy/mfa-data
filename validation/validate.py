@@ -39,6 +39,10 @@ def rel(*p):
 
 def norm(s):
     s = (s or "").strip()
+    # Accounting notation puts the currency symbol outside the brackets, as $(141,424.78).
+    # Testing for a leading "(" before stripping the symbol misses that, and reads a printed
+    # negative as a positive of the same size. Strip the symbol and spaces first.
+    s = s.strip("$ \t ")
     neg = s.startswith("(") and s.endswith(")")
     s = re.sub(r"[^0-9.]", "", s)
     if not s:

@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T11:28:02.152988+00:00",
- "data_rows": 584,
- "distinct_printed_figures": 416,
- "receiving_entities": 67,
- "agency_years": 135,
- "fee_programs": 267,
- "source_reports": 100,
- "evidence_pairs": 416,
+ "built_utc": "2026-09-22T11:39:42.037972+00:00",
+ "data_rows": 590,
+ "distinct_printed_figures": 422,
+ "receiving_entities": 68,
+ "agency_years": 138,
+ "fee_programs": 269,
+ "source_reports": 106,
+ "evidence_pairs": 422,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 957,
- "total_bytes": 145653188,
+ "file_count": 975,
+ "total_bytes": 149207452,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7790,
-   "sha256": "6fec778471759c3e515e4719f35149f27fffd7fff177e50c26c147a61e18b1e8"
+   "bytes": 7863,
+   "sha256": "dcc7f7afcfee7d487c950b767f1a4f4d39ae6a8e6bf3870729c0330f4d3dd298"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "7d12fc3d8fb46ba7a921c793fdee7665be8f7f2909e96fee440f7552195c705f"
+   "sha256": "35ea6a367b757d3191c608f6227790a2ea3e3a24bc3986de239e6f501da9b042"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 232843,
-   "sha256": "5ada82952e0269676b9c3099da8dea2324927abd0a98b832c8d8920bc1362b8f"
+   "bytes": 236753,
+   "sha256": "c10a7c374b82f1632b8a7396818303cd75f19387f8d0bc85933486f2a1f18cd6"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1303470,
-   "sha256": "cb8655f3b3b6fb6394a56d0920ad1bd47f01d8f9b9f40c82dfa930a6a66059b1"
+   "bytes": 1316402,
+   "sha256": "4e77f55a6c8c7cb88bbba7b3674f453f33f865e538e68279f7bbeb141d74bf72"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1907305,
-   "sha256": "56e83b61628990d4fddb7db83218f325b4ac11fc83feeab80ef9e15edd8a6f7e"
+   "bytes": 1926439,
+   "sha256": "1ffe5b2bd9fc335dc009acba363068baad363e5533168ed765a1937c4eab8b46"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -990,6 +990,36 @@
    "path": "evidence/extracts/city-of-nevada-city-p006-6e665991.pdf",
    "bytes": 59099,
    "sha256": "f763ce912ef7e6b24f46987854b7b42e3cbf0bdcee5df983e61f8927fc13ee51"
+  },
+  {
+   "path": "evidence/extracts/city-of-pasadena-p001-24918e91.pdf",
+   "bytes": 60394,
+   "sha256": "61c2481eec684e5c1d06d644ef857daf4542ab0e8540d261f71f79f5a5fb903c"
+  },
+  {
+   "path": "evidence/extracts/city-of-pasadena-p001-3002fae0.pdf",
+   "bytes": 46421,
+   "sha256": "53ae0a86653aeea23cb293ea083d6e7e39592f24e1951883992498395d3f83aa"
+  },
+  {
+   "path": "evidence/extracts/city-of-pasadena-p001-960f6ccd.pdf",
+   "bytes": 54664,
+   "sha256": "521206802c8ce04de710b0f0096d1f42048d9b30c01f6ce792c8360d2e926468"
+  },
+  {
+   "path": "evidence/extracts/city-of-pasadena-p001-9e21a88a.pdf",
+   "bytes": 40281,
+   "sha256": "e8c5af8d47fd17198f701d04f43ab2462c0a892ee9398447367579ad52478115"
+  },
+  {
+   "path": "evidence/extracts/city-of-pasadena-p001-dd75ed07.pdf",
+   "bytes": 51577,
+   "sha256": "09a9112270ed45a3e8fe4f89c27d3f4a34f629c15efc398d6c0c5dff776661af"
+  },
+  {
+   "path": "evidence/extracts/city-of-pasadena-p001-f74f6161.pdf",
+   "bytes": 53631,
+   "sha256": "fdd955dad864db1da20d78cab49a9eaae263814bb8e6716bae6893eabca8e24d"
   },
   {
    "path": "evidence/extracts/city-of-paso-robles-p008-21cb0b1b.pdf",
@@ -2178,8 +2208,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 446448,
-   "sha256": "50663b7e9343b79038a3b3f7d5cc9ed4af8766a542795aed3781727c5139020a"
+   "bytes": 452561,
+   "sha256": "f1dd648bf7b3d63eb49713966465439702ea0280842b6bb71e4cd8f3e1da116e"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -3075,6 +3105,36 @@
    "path": "evidence/outlined/city-of-nevada-city-p006-6e665991.pdf",
    "bytes": 59156,
    "sha256": "39b7dcbacfa7142276cc7c338b3a0dd20ab3057cf399c31f1ae630a6a06b6382"
+  },
+  {
+   "path": "evidence/outlined/city-of-pasadena-p001-24918e91.pdf",
+   "bytes": 60468,
+   "sha256": "abd283ea71523132c2560a21e9eadf9b0bad946a8bad201028c0a583d61bb412"
+  },
+  {
+   "path": "evidence/outlined/city-of-pasadena-p001-3002fae0.pdf",
+   "bytes": 46491,
+   "sha256": "c268c76b95705350f1d535dfc64564c669ab962842936ddeb692cd79d9c12f1a"
+  },
+  {
+   "path": "evidence/outlined/city-of-pasadena-p001-960f6ccd.pdf",
+   "bytes": 54724,
+   "sha256": "bc89414a3dfe1baefc1ce47762725c602a9ff6da3dff5d50c44fb69ec1647da8"
+  },
+  {
+   "path": "evidence/outlined/city-of-pasadena-p001-9e21a88a.pdf",
+   "bytes": 40344,
+   "sha256": "7f2c1c2637c167c3ee2179a3141b8278ec10e0316ff9fffaf3adbb5ba2a3299f"
+  },
+  {
+   "path": "evidence/outlined/city-of-pasadena-p001-dd75ed07.pdf",
+   "bytes": 51637,
+   "sha256": "a2726ed9063b515ed3d3edf0f8e4074a93654abb88128629411f8c53af79b21a"
+  },
+  {
+   "path": "evidence/outlined/city-of-pasadena-p001-f74f6161.pdf",
+   "bytes": 53693,
+   "sha256": "1574cce476325c5de39e6d048e064d26927ccdcbf7cc3f0d4302f022a924cddd"
   },
   {
    "path": "evidence/outlined/city-of-paso-robles-p008-21cb0b1b.pdf",
@@ -4402,6 +4462,36 @@
    "sha256": "a677716f7f164794bcaf0c95bf0b2bbade05f99a99896e918e8ec12236f60fd0"
   },
   {
+   "path": "sources/city-of-pasadena-rif-2022-23.pdf",
+   "bytes": 380763,
+   "sha256": "de6f8cd682e056fec37466fa2dbbbf2647303b6dede0e3fc45dfddda7a75adb6"
+  },
+  {
+   "path": "sources/city-of-pasadena-rif-2023-24.pdf",
+   "bytes": 537880,
+   "sha256": "b056184c3ea3255b44874ca863322fd3f943e1a8a59355610dc43959f2056400"
+  },
+  {
+   "path": "sources/city-of-pasadena-rif-2024-25.pdf",
+   "bytes": 664598,
+   "sha256": "3f0828f0a5691d5cc9f62bfe6501414d4da5d0ad9e20cc9b22c4546f4315c872"
+  },
+  {
+   "path": "sources/city-of-pasadena-tif-2022-23.pdf",
+   "bytes": 516592,
+   "sha256": "c90fda4c9e184548fbe15694ffaf57db245dcc8831d1000d2d1eba5bb80cadb6"
+  },
+  {
+   "path": "sources/city-of-pasadena-tif-2023-24.pdf",
+   "bytes": 395756,
+   "sha256": "f5d38bf56b287ccbe00f558a2e3dcd07cfb2363c2ae2324fc404db23d152560c"
+  },
+  {
+   "path": "sources/city-of-pasadena-tif-2024-25.pdf",
+   "bytes": 395120,
+   "sha256": "1a6509cd7001ecb4982e4ae6431b7becc342c6f74f007259ae99d54969a7d969"
+  },
+  {
    "path": "sources/city-of-paso-robles-2020-21.pdf",
    "bytes": 181634,
    "sha256": "2e9cc9922268d6196180eb2e39894dd1f1ea7c307f243a539a484e7ce93fbc3d"
@@ -4733,13 +4823,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 50119,
-   "sha256": "03fefbcc4555f99dee077b8cbce4f000802c550306879fd56ebacd615abb9207"
+   "bytes": 52556,
+   "sha256": "77f5d85aaab869555e843b3441eb3a7b6f1973e025971af51de80aafedb7f6f7"
   },
   {
    "path": "sources/index.json",
-   "bytes": 85108,
-   "sha256": "df58b206108791e7cba8a1330c26ab32bb5eeae38e99b9e0ea49033a9db3367c"
+   "bytes": 89447,
+   "sha256": "8e1e9b84ba88feff572522f5dc8c521633c3e059e0d6c00f2af181f1a06510fa"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -4789,7 +4879,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3049,
-   "sha256": "9f24061b87d07d650e96cfcf88d6c13ebbc01a19fb802f4fd4c12ab63a4ee5af"
+   "sha256": "4949027e97f84c692219985a9b6a0e74bbb014167d3f3e123a6bb7dbc0e3858c"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -4804,12 +4894,12 @@
   {
    "path": "validation/review.json",
    "bytes": 2583,
-   "sha256": "c9dcde46091b2a710e0f6b7133c519498f1f62ae9509bdb26290f3efd422fa1d"
+   "sha256": "a3c49ba8f6ce0a9bef8f99b6ae15bb73431a5f596bf926e6144337706f841e2e"
   },
   {
    "path": "validation/validate.py",
-   "bytes": 14920,
-   "sha256": "7c65ad9b94674fe763345f9b267e382a1017b8dc797c0bc4b88febd8e884e417"
+   "bytes": 15212,
+   "sha256": "daa0e283199f0bfd93bbb918d813ac050d39032ad6a1b66dfddf6977f2e28bf8"
   }
  ]
 }
