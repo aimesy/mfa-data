@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T18:28:09.534171+00:00",
- "data_rows": 889,
- "distinct_printed_figures": 721,
- "receiving_entities": 92,
- "agency_years": 187,
- "fee_programs": 434,
- "source_reports": 164,
- "evidence_pairs": 721,
+ "built_utc": "2026-09-22T18:52:18.290754+00:00",
+ "data_rows": 898,
+ "distinct_printed_figures": 730,
+ "receiving_entities": 93,
+ "agency_years": 190,
+ "fee_programs": 438,
+ "source_reports": 167,
+ "evidence_pairs": 730,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1631,
- "total_bytes": 377122829,
+ "file_count": 1652,
+ "total_bytes": 405845808,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 9370,
-   "sha256": "061be0415787fa6e56aa4db5f3dc67a580ccd14b70e9a9508c1df5c4a7d3ca0b"
+   "bytes": 9442,
+   "sha256": "2123ca9cbe6f61db4689aae6e12c69c2596cd0170c3546189aa295c867d58c9f"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "65932660787280cc401a0adb1b5b95ebe6d32e9c943c19f169a20dc49216907e"
+   "sha256": "c8677e3bc863cdc89cca38f74824143d0e7b870adc937302e39fb35f0128c442"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 356889,
-   "sha256": "3eef847b2d6e82c3e3db05c94c35c2eb7f3a267d266fbb91b70cb26c74df151a"
+   "bytes": 361027,
+   "sha256": "78a3ea4aaf93ed082d373c1896092a6e4272c9dbaac407eaff69f96daba01c22"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1952391,
-   "sha256": "dcfa50f2d55b5e089c11ac94f4de344bf4535db7b97f742e64f0be13410c7402"
+   "bytes": 1968687,
+   "sha256": "0c4f35ea80e4d20874f6e89f182be5cca95a371dbe4ea411dabd0c9a579cc93e"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2872287,
-   "sha256": "69128f209c62809ad3b28ffb1e746acc8094caa2f60f97862576785cc0c3139b"
+   "bytes": 2897914,
+   "sha256": "7b6d1786d11282ec098b8510486fe6219362804d88eb46b67a1e8889e9c502bb"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1780,6 +1780,51 @@
    "path": "evidence/extracts/city-of-oakdale-p029-52adb96f.pdf",
    "bytes": 81813,
    "sha256": "92263c7869c898fbdc7300f5635755f455e335501605abdde6a4e192afad4daf"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakland-p007-dd1d455a.pdf",
+   "bytes": 100117,
+   "sha256": "47ca86d5a7d737a8c59ae10252d8d1266b958dbd1ec6250c90baccf68fd19b23"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakland-p008-b3c0b1b5.pdf",
+   "bytes": 112394,
+   "sha256": "f2c3ba73b2571a65b5afc1d03e35ba56381d05d66966e69b1eb7f8d80d3c72fa"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakland-p009-83b475cc.pdf",
+   "bytes": 99944,
+   "sha256": "10f0a6f8430d6dd58c8e6740ef36557649821e7ade3e2ddf58d4fb1873ed79f7"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakland-p012-29f27dbc.pdf",
+   "bytes": 91792,
+   "sha256": "75b17fbace4ff2ab2cea1b190b09dc0c3e4ba707a8e6b7c0db5ca09261c171d0"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakland-p015-b4a1f8b7.pdf",
+   "bytes": 115944,
+   "sha256": "9e4db6237fcc85661128d7c1265d1e270c61cb71338e52620ec8be4955813ea7"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakland-p016-1632c412.pdf",
+   "bytes": 90206,
+   "sha256": "a2dc4d212da5a321311b289950456cdc03254dc38f0266eedc15f71a31192b8e"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakland-p021-d8e5ac3a.pdf",
+   "bytes": 103621,
+   "sha256": "e8d0357bd9f87dc46c09c27ed4d3345b2029132fd31e1f1715626c6c989c146b"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakland-p022-0a39f16a.pdf",
+   "bytes": 102228,
+   "sha256": "379585fe964a21be832afbecc4087a047e027e0de1afd04d0f2175e362d502e4"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakland-p027-625a42f0.pdf",
+   "bytes": 102764,
+   "sha256": "7126e390d0bd1103d9da110738d5665fe745a917fa3f5c1e1a1bdf99d10facdc"
   },
   {
    "path": "evidence/extracts/city-of-pasadena-p001-24918e91.pdf",
@@ -3703,8 +3748,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 763096,
-   "sha256": "85960a0fe939f24ba34011a98c0ab603c4eacbbc68296c18e25e393c16ac0e28"
+   "bytes": 772111,
+   "sha256": "18ebc103817e8a7ba4afcb600bc5e93efd6d83fbf6b4670fec385332a7b3fb72"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -5390,6 +5435,51 @@
    "path": "evidence/outlined/city-of-oakdale-p029-52adb96f.pdf",
    "bytes": 81871,
    "sha256": "af4c7ba724dfa9bc8fbd8b127e026e35f396760a8be7e8ab4bc2555bf26db9c9"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakland-p007-dd1d455a.pdf",
+   "bytes": 100179,
+   "sha256": "29f4156560683211f0b3c246c893058f6c2ea4f124159b823aa46e758d392152"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakland-p008-b3c0b1b5.pdf",
+   "bytes": 112450,
+   "sha256": "247240ad855938718da74e5510e5b1748bfd5cbb6db76b85c81628a7c9b7bf94"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakland-p009-83b475cc.pdf",
+   "bytes": 100004,
+   "sha256": "8dc08bb58b359eeb2ca8f2694f2de6e3193e87df1e968db3c6a656aa1514c671"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakland-p012-29f27dbc.pdf",
+   "bytes": 91851,
+   "sha256": "c60149b6789b6039b2380ccc05f4ba392243bf30cdfd2c111f2575a3f1955e8a"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakland-p015-b4a1f8b7.pdf",
+   "bytes": 116007,
+   "sha256": "ba8584bd15167b2a8756162c8cd640ec6f9845d48847b050147e900cb81e96d7"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakland-p016-1632c412.pdf",
+   "bytes": 90269,
+   "sha256": "8f6c2afe35514cea437685856f572d26ba1f8455cdf52dbc866b8741c9ee83d6"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakland-p021-d8e5ac3a.pdf",
+   "bytes": 103683,
+   "sha256": "be36242f4332b9bfe58ea3881badf8dd6dd5b3a94893d7aac771ce30e817fe58"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakland-p022-0a39f16a.pdf",
+   "bytes": 102287,
+   "sha256": "73a9bb25fd997a2a9cf23558fc45a80cb92ff3239b76e36ab6ca4193d28a3489"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakland-p027-625a42f0.pdf",
+   "bytes": 102829,
+   "sha256": "bd92146bce2f259bd2e7e8e7a5b541078d0b1afc89c5bee17231bcb24889570f"
   },
   {
    "path": "evidence/outlined/city-of-pasadena-p001-24918e91.pdf",
@@ -7632,6 +7722,21 @@
    "sha256": "40ddc6372bdcf6326ddbd236bce06b24061ef66defa4d6c04a9fe615ad75cdd5"
   },
   {
+   "path": "sources/city-of-oakland-2022-23-db91edb1.pdf",
+   "bytes": 11593988,
+   "sha256": "db91edb1510fe70b5c22c7c69af8e20c9531ba91c51eddca5e78ae72b0cc2284"
+  },
+  {
+   "path": "sources/city-of-oakland-2023-24-ca6f5253.pdf",
+   "bytes": 2289727,
+   "sha256": "ca6f5253065984314d6908812df384c1174bb53c670ad604dc68e7bb1a3a213f"
+  },
+  {
+   "path": "sources/city-of-oakland-2024-25-e0f4ad4c.pdf",
+   "bytes": 12941988,
+   "sha256": "e0f4ad4c01fe6711f59426604e7de3a61b0d8b8d8ac0848dd81225355672458a"
+  },
+  {
    "path": "sources/city-of-pasadena-rif-2022-23.pdf",
    "bytes": 380763,
    "sha256": "de6f8cd682e056fec37466fa2dbbbf2647303b6dede0e3fc45dfddda7a75adb6"
@@ -8093,13 +8198,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 77505,
-   "sha256": "db6463670274de525e4a0f93f63261bcfc587aa1406a3102ed51e1685e55bc48"
+   "bytes": 78809,
+   "sha256": "c2cb576d51936638b3461253e081825d17194069f793e3772f78a9185aee8fb1"
   },
   {
    "path": "sources/index.json",
-   "bytes": 132816,
-   "sha256": "0586993c852ed1ab31d6136a5f07d3276af7f696a76533742a745f4d0d030068"
+   "bytes": 135071,
+   "sha256": "5872e451bb38ff12e688a1f9ca39d586d35243248b88c8f724c10bd6025a2593"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -8159,7 +8264,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "e75ff2accb54dc01e25fa802a6bcebdc2ec3adf605926a08b2f2b49fcac6bdad"
+   "sha256": "19cb67f056d016de993ecc266400cdc3711834aa37f953abf1036ab5e44bdeda"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -8174,7 +8279,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "b40537ea94cb1a206ccaced17f7d3e4b20b5fde0fb637f6e81e1ce68d143a0f5"
+   "sha256": "c8a3b0a828908c24b46092e4c47291e2022201cd8c351d5d75b2e1761272aba6"
   },
   {
    "path": "validation/validate.py",
