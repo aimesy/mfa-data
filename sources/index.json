@@ -1526,6 +1526,20 @@
   "published_data_rows_from_this_source": 5
  },
  {
+  "source_id": "county-of-orange-2022-23-59c7df68",
+  "receiving_entity": "County of Orange",
+  "publication_title": "Attachment A - Development Fee Deposit Report FY 2022-23 (ASR 23-000876, Board of Supervisors 12/19/2023)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "http://cams.ocgov.com/Web_Publisher/Agenda12_19_2023_files/images/O00123-000876A.PDF",
+  "retrieved_utc": "2026-09-22T12:04:47.145705+00:00",
+  "physical_page_count": 1,
+  "source_sha256": "59c7df68a1a2e0326506ff90a63334275cf275df82d5ccc1d7ebd05dce81b66d",
+  "source_bytes": 17505,
+  "source_pdf": "sources/county-of-orange-2022-23-59c7df68.pdf",
+  "published_data_rows_from_this_source": 6
+ },
+ {
   "source_id": "county-of-placer-2022-23",
   "receiving_entity": "County of Placer",
   "publication_title": "County of Placer impact fee report, fiscal year 2022-23",
