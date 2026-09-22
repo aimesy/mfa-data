@@ -896,6 +896,48 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "county-of-san-joaquin-timf-2022-23",
+  "receiving_entity": "County of San Joaquin",
+  "publication_title": "San Joaquin County Traffic Impact Mitigation Fee Program Annual Report, fiscal year 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.sjgov.org/docs/default-source/public-works-documents/transportation/timf-reports/2022_timf_finalreport.pdf?sfvrsn=955ff3ba_18",
+  "retrieved_utc": "2026-09-22T06:26:05.771547+00:00",
+  "physical_page_count": 19,
+  "source_sha256": "b9476b7b3cb4c7df3c558634e41f5301f6b61b03b5a567eb3ca3679707fcde57",
+  "source_bytes": 889556,
+  "source_pdf": "sources/county-of-san-joaquin-timf-2022-23.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
+  "source_id": "county-of-san-joaquin-timf-2023-24",
+  "receiving_entity": "County of San Joaquin",
+  "publication_title": "San Joaquin County Traffic Impact Mitigation Fee Program Annual Report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.sjgov.org/docs/default-source/public-works-documents/transportation/timf-reports/timf-annual-report-2023-final.pdf?sfvrsn=499f9f9f_3",
+  "retrieved_utc": "2026-09-22T06:26:05.200304+00:00",
+  "physical_page_count": 19,
+  "source_sha256": "aae12e6ec41ae7715a03b3eec6f8be6f5f619f913af02ae064913cd1de2d5a67",
+  "source_bytes": 778012,
+  "source_pdf": "sources/county-of-san-joaquin-timf-2023-24.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
+  "source_id": "county-of-san-joaquin-timf-2024-25",
+  "receiving_entity": "County of San Joaquin",
+  "publication_title": "San Joaquin County Traffic Impact Mitigation Fee Program Annual Report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.sjgov.org/docs/default-source/public-works-documents/transportation/timf-reports/timf-annual-report-2024-final.pdf?sfvrsn=ec5d466f_5",
+  "retrieved_utc": "2026-09-22T06:26:03.274975+00:00",
+  "physical_page_count": 19,
+  "source_sha256": "6b8f0698b3a67ce994797439d9d60aca10edea8b5e2f2c87bf7e352a32a43343",
+  "source_bytes": 981767,
+  "source_pdf": "sources/county-of-san-joaquin-timf-2024-25.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
   "source_id": "county-of-san-luis-obispo-2024-25",
   "receiving_entity": "County of San Luis Obispo",
   "publication_title": "County of San Luis Obispo Public Facility Fees Annual Report for FY 2024-25",
