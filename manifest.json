@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T14:07:15.430210+00:00",
- "data_rows": 764,
- "distinct_printed_figures": 596,
- "receiving_entities": 82,
- "agency_years": 165,
- "fee_programs": 371,
- "source_reports": 136,
- "evidence_pairs": 596,
+ "built_utc": "2026-09-22T16:14:35.243030+00:00",
+ "data_rows": 781,
+ "distinct_printed_figures": 613,
+ "receiving_entities": 83,
+ "agency_years": 170,
+ "fee_programs": 380,
+ "source_reports": 147,
+ "evidence_pairs": 613,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1353,
- "total_bytes": 215112844,
+ "file_count": 1398,
+ "total_bytes": 218550277,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 8722,
-   "sha256": "968cbea6568df349d8a658a1378ca0849eaa7d802f5c483e7635ed81f7a79bd7"
+   "bytes": 8825,
+   "sha256": "4bbf4a77116bbd191b1bf9fc9a289e3543772f3312bfe6695d8fb02df1c5cd9b"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "a9837ba618be86d4de2d8c019aa77594346a153486534371f347117c718735d9"
+   "sha256": "9a941b146e75f90eb7be74e3af8077ba03f9701ff07a6b80e2e6ce7107fb240b"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 304643,
-   "sha256": "1c681c71da6c71777ecd303b2dc9063164ca244f656c0de29b255ea319b78322"
+   "bytes": 313547,
+   "sha256": "09af89b1f17a13e8a9f923ac5bfcca6cf21f70fdd02aabc3e86c973b46e27ddf"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1693685,
-   "sha256": "48ff4a70401afbb366060d97b16528d83c0baec7f33f3e80a2f85e870f2909fa"
+   "bytes": 1725582,
+   "sha256": "718e5e29aec774f627fb2049bd33fb9a377fbfb88e7a6e300d07dc8f36ed8cc0"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2484098,
-   "sha256": "bf97a31be83aefca8aa046ded36074bace6c50ea5bb0501a5b9592b9e18266cb"
+   "bytes": 2533630,
+   "sha256": "b7bf86304d52beae9065708e273a4c133d528066dca275a521d4e4bfbb6d8d3c"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -337,6 +337,51 @@
    "sha256": "90c68657bf92038032c8b1cb8fcd6020c5ac2cf08beecd4ee4342e491d12ea94"
   },
   {
+   "path": "evidence/extracts/city-of-beverly-hills-p001-3fabf4e7.pdf",
+   "bytes": 39958,
+   "sha256": "d033be23d9deb728703d91f6140ca53164e5ec8f80245d0df5cec5476bd75d62"
+  },
+  {
+   "path": "evidence/extracts/city-of-beverly-hills-p001-e6f8c822.pdf",
+   "bytes": 39697,
+   "sha256": "ee9cfdfabc8bec598e7637cf4b338547974c41c9d543e068159b4f5039b79b06"
+  },
+  {
+   "path": "evidence/extracts/city-of-beverly-hills-p001-eb2db7ff.pdf",
+   "bytes": 40066,
+   "sha256": "3b009cd481fc9c2a9665fe1e6d70540d6cc2fb2e07505cb076f87ced22e6c53c"
+  },
+  {
+   "path": "evidence/extracts/city-of-beverly-hills-p002-64dffe98.pdf",
+   "bytes": 39539,
+   "sha256": "691b2ea8fe6a963503fcd06382fbbdc60d19183b086b6e58763e881e2b3741ed"
+  },
+  {
+   "path": "evidence/extracts/city-of-beverly-hills-p002-d42aeda1.pdf",
+   "bytes": 38634,
+   "sha256": "99dbc18c6c134281b139281ecb63e6d2c3cc8806d4266b49e477f4b26346e61f"
+  },
+  {
+   "path": "evidence/extracts/city-of-beverly-hills-p002-e67983de.pdf",
+   "bytes": 38405,
+   "sha256": "d9ac96df5775a2915e9d7105c6ca0e01febae8ef9a27599924b76e494715da95"
+  },
+  {
+   "path": "evidence/extracts/city-of-beverly-hills-p003-353a8c09.pdf",
+   "bytes": 38706,
+   "sha256": "51014faa285780c3baa73504bd7d576254950a90338bcd88f2cd2a42163a21e1"
+  },
+  {
+   "path": "evidence/extracts/city-of-beverly-hills-p003-37c0a365.pdf",
+   "bytes": 38442,
+   "sha256": "d5f212ea1368a8aef05644472f21c0d534208618fd36b4445a7c28bad62b86e2"
+  },
+  {
+   "path": "evidence/extracts/city-of-beverly-hills-p003-6a8b909f.pdf",
+   "bytes": 39750,
+   "sha256": "fcba3d21c1725a1cd4454efa0582472043b2a189313feb432d9f40772ff7e904"
+  },
+  {
    "path": "evidence/extracts/city-of-calimesa-p004-0cdfc32f.pdf",
    "bytes": 61716,
    "sha256": "a8fe16e988b1209c3363c5d0a347b0e3beee51b0b93c0f8266bbb2c34fa9e515"
@@ -607,9 +652,49 @@
    "sha256": "7b5daceb6747ddad41c552770b5437470bfc667efadd9a988ab056182cd851f3"
   },
   {
+   "path": "evidence/extracts/city-of-culver-city-p001-121e363d.pdf",
+   "bytes": 85329,
+   "sha256": "36da7342b701493747285fd21c4d4f1d41375baec30b1fb4b3758af34d8ce013"
+  },
+  {
+   "path": "evidence/extracts/city-of-culver-city-p001-67825a78.pdf",
+   "bytes": 68386,
+   "sha256": "9c7d9c1b2508dca01a1d3ca94be0c3dba68070950cc13e18e72aad3c24efe803"
+  },
+  {
+   "path": "evidence/extracts/city-of-culver-city-p001-87bd80ad.pdf",
+   "bytes": 74540,
+   "sha256": "915a6230dcc0d0da4d61cfc5fd4d1b4fa6b2c7f4418cfe240d76fb50621bc009"
+  },
+  {
+   "path": "evidence/extracts/city-of-culver-city-p001-a219c571.pdf",
+   "bytes": 81451,
+   "sha256": "be4b46e90c70cdd4eb1a3349e529a9e77cef6dc11875eb5458a364958d136bdc"
+  },
+  {
+   "path": "evidence/extracts/city-of-culver-city-p001-a8e71246.pdf",
+   "bytes": 68999,
+   "sha256": "22b1e2ec6326f860e2a31fdde38b761168a997ae65c67d1f2b18641df95c1803"
+  },
+  {
+   "path": "evidence/extracts/city-of-culver-city-p001-bcf5f577.pdf",
+   "bytes": 70334,
+   "sha256": "94728fd10242a3b6fe0927eb0ea6cf77744c0fed0cc10d1e942b56cbdcf7f414"
+  },
+  {
    "path": "evidence/extracts/city-of-culver-city-p001-c4cd0d36.pdf",
    "bytes": 8122,
    "sha256": "b7a780ef508cd0283ca9c50babf79f8bc5f3592aede6e8f256bcfae013864acb"
+  },
+  {
+   "path": "evidence/extracts/city-of-culver-city-p001-e274b3c3.pdf",
+   "bytes": 74203,
+   "sha256": "2ba9110dc3ad10bf654f66fa7be7ff74f3303e4a958b069429f37cc79577d0e4"
+  },
+  {
+   "path": "evidence/extracts/city-of-culver-city-p001-f5487260.pdf",
+   "bytes": 85636,
+   "sha256": "568eadbcfe8ca46baa0b5d65d275a9a496e188eaf9472a3a7f851ea78b69d528"
   },
   {
    "path": "evidence/extracts/city-of-east-palo-alto-p010-99837c97.pdf",
@@ -3078,8 +3163,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 629340,
-   "sha256": "aacf732e09808f2483058348c2838e538b8ed67c32f2a9d0cd40b017363e12b7"
+   "bytes": 646912,
+   "sha256": "8fe44bbad8701f0c869cef0329c814fa406e75a285622c3a1e86f991d9a8b6d9"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -3320,6 +3405,51 @@
    "path": "evidence/outlined/city-of-beaumont-p002-feb1cfee.pdf",
    "bytes": 52533,
    "sha256": "ddf17314b89e7b1ac44c752c220e95e8fb8ec2b5b01b6613def25c37f766a821"
+  },
+  {
+   "path": "evidence/outlined/city-of-beverly-hills-p001-3fabf4e7.pdf",
+   "bytes": 40019,
+   "sha256": "d63574513bebbfc6b692ba0ce17ce6aba2e6d3f67e122878b99841da57c580c9"
+  },
+  {
+   "path": "evidence/outlined/city-of-beverly-hills-p001-e6f8c822.pdf",
+   "bytes": 39757,
+   "sha256": "b9fcc54804ad9d02b8522b5ca421dfe147f9a4be00b2433fdb8dc0902870ed49"
+  },
+  {
+   "path": "evidence/outlined/city-of-beverly-hills-p001-eb2db7ff.pdf",
+   "bytes": 40123,
+   "sha256": "2a45bbf157f4623c27776dc1527b5e978a82dc3ba1cb6fd79587594ce0ad8f15"
+  },
+  {
+   "path": "evidence/outlined/city-of-beverly-hills-p002-64dffe98.pdf",
+   "bytes": 39599,
+   "sha256": "454e14ac55bc4cee5f138cbf0563cfe4da0d98e7dc97d73a5a81d7033c1a28fe"
+  },
+  {
+   "path": "evidence/outlined/city-of-beverly-hills-p002-d42aeda1.pdf",
+   "bytes": 38695,
+   "sha256": "4c14836ade82f094abe97215f67a20e41fa2666bf3cf590ed0e9ad014c44d8bf"
+  },
+  {
+   "path": "evidence/outlined/city-of-beverly-hills-p002-e67983de.pdf",
+   "bytes": 38466,
+   "sha256": "84578ab901f189a5edfd5eab7ffd3b6691cb584797368cbd74161bc2f8903a67"
+  },
+  {
+   "path": "evidence/outlined/city-of-beverly-hills-p003-353a8c09.pdf",
+   "bytes": 38766,
+   "sha256": "e005e101e2c63605089cff45afa12999c53e77e483aec4b15e2635bbe345a286"
+  },
+  {
+   "path": "evidence/outlined/city-of-beverly-hills-p003-37c0a365.pdf",
+   "bytes": 38503,
+   "sha256": "cfd1fb49243958030cdf26a786db84681a7fca0c592e241081119fb39a5deecd"
+  },
+  {
+   "path": "evidence/outlined/city-of-beverly-hills-p003-6a8b909f.pdf",
+   "bytes": 40078,
+   "sha256": "fc455f01de87e13752557d737b8f0de82c779f5ce64199908f1b15138fe34df5"
   },
   {
    "path": "evidence/outlined/city-of-calimesa-p004-0cdfc32f.pdf",
@@ -3592,9 +3722,49 @@
    "sha256": "06dd2bf85e15d5687ad3d707bfdc5119dfd2acc2e8a4bbe7b9c5ba7c7c3e8ad6"
   },
   {
+   "path": "evidence/outlined/city-of-culver-city-p001-121e363d.pdf",
+   "bytes": 85386,
+   "sha256": "bcbb344cb90a9a1e601e5afdd83a75f9bf37397817407946cd5c6bbe032d0fb3"
+  },
+  {
+   "path": "evidence/outlined/city-of-culver-city-p001-67825a78.pdf",
+   "bytes": 68444,
+   "sha256": "83f4e15552cb61c0a294725ad6beada7855bd28141842e4f90e3ef01dd764572"
+  },
+  {
+   "path": "evidence/outlined/city-of-culver-city-p001-87bd80ad.pdf",
+   "bytes": 74603,
+   "sha256": "17079a774281b4e41a7bfab44f1cecb1dad8fa54383bc2acaf7ea91f135e66a0"
+  },
+  {
+   "path": "evidence/outlined/city-of-culver-city-p001-a219c571.pdf",
+   "bytes": 81512,
+   "sha256": "c376b51fc0208c95e9cdb47006b94debe98c9545310f24815b15d033d43c8dc4"
+  },
+  {
+   "path": "evidence/outlined/city-of-culver-city-p001-a8e71246.pdf",
+   "bytes": 69054,
+   "sha256": "28047ae05fe61ebdc5eb53b4159f488709ec04fc0f282cb306b3f9ea779806b6"
+  },
+  {
+   "path": "evidence/outlined/city-of-culver-city-p001-bcf5f577.pdf",
+   "bytes": 70392,
+   "sha256": "4ab6484fcc1d122db11d0384b6aecc06764eee0e0322811cabe4fccd76fdfd2e"
+  },
+  {
    "path": "evidence/outlined/city-of-culver-city-p001-c4cd0d36.pdf",
    "bytes": 8174,
    "sha256": "49aaaacd94f8edeaa633d8fdb46ebc4b0d23d4dc86740df40301826ee80c3687"
+  },
+  {
+   "path": "evidence/outlined/city-of-culver-city-p001-e274b3c3.pdf",
+   "bytes": 74262,
+   "sha256": "dbec1d7f28f2a4139e581f60d6d5a69b47281415a31501848d1d82d3d43d9e71"
+  },
+  {
+   "path": "evidence/outlined/city-of-culver-city-p001-f5487260.pdf",
+   "bytes": 85696,
+   "sha256": "960156dc45a48648713bb5f7e1f5ed6157ce4ebe6b50bbc61dda493307acecc0"
   },
   {
    "path": "evidence/outlined/city-of-east-palo-alto-p010-99837c97.pdf",
@@ -6107,6 +6277,21 @@
    "sha256": "e0b4ec3f7b06ca7ae70b1c935b75031fa2b2c9b9141c1d4ceb552c5341996ccd"
   },
   {
+   "path": "sources/city-of-beverly-hills-2022-23-78a7735c.pdf",
+   "bytes": 118536,
+   "sha256": "78a7735cdd5e2064e98059b9f1e89e00a647c57ad162f2a8f57aa63af224e7da"
+  },
+  {
+   "path": "sources/city-of-beverly-hills-2023-24-c82c87c6.pdf",
+   "bytes": 122280,
+   "sha256": "c82c87c69fb3e6f9c1b8010d43fa41dc7dca97afe97b5d442158363911f5f4bb"
+  },
+  {
+   "path": "sources/city-of-beverly-hills-2024-25-050ffa31.pdf",
+   "bytes": 124001,
+   "sha256": "050ffa31545e55c7c56cfda6bf26d4c2d71a532cd3337587214d9154bfc92823"
+  },
+  {
    "path": "sources/city-of-calimesa-2019-20.pdf",
    "bytes": 434854,
    "sha256": "afcf1cd8531ca31fae0291a6b833c5f8e272301ce68f03074bf4b1bb3d79e3c5"
@@ -6152,9 +6337,49 @@
    "sha256": "39d385157364adc58a74e0eaf1c9768c8ad71f40df9c7d0bf47a6cf7c4027666"
   },
   {
+   "path": "sources/city-of-culver-city-2022-23-16a5a9b9.pdf",
+   "bytes": 103949,
+   "sha256": "16a5a9b9c51426ed88ecac8cb23bd264d9dc892612ef1d1a6859893646446cf0"
+  },
+  {
+   "path": "sources/city-of-culver-city-2022-23-b510c5a8.pdf",
+   "bytes": 118099,
+   "sha256": "b510c5a84cb3c370c9eceffab8bc9df00b4f62c0daf50f690740ef4b2f9c44c9"
+  },
+  {
+   "path": "sources/city-of-culver-city-2022-23-c22a643e.pdf",
+   "bytes": 126082,
+   "sha256": "c22a643e6d2be0134d238e0077d4649fa22feae9e0ca03485482b45b1a32df14"
+  },
+  {
+   "path": "sources/city-of-culver-city-2022-23-c68b44dd.pdf",
+   "bytes": 113786,
+   "sha256": "c68b44dd92bd474cefa4f906a168753eedc58b359ff92f9c9de63c3456c31a18"
+  },
+  {
    "path": "sources/city-of-culver-city-2023-24.pdf",
    "bytes": 15056,
    "sha256": "1b5c97a259e0203a867f9e3f912564779c8b9c15bb4ffb7c88dbfe2a408a7b8a"
+  },
+  {
+   "path": "sources/city-of-culver-city-2024-25-76280c55.pdf",
+   "bytes": 149499,
+   "sha256": "76280c55199ce783384cc2090933f256ca0470283bbdc6e1ca048b5bc25c1300"
+  },
+  {
+   "path": "sources/city-of-culver-city-2024-25-95ce02b6.pdf",
+   "bytes": 140762,
+   "sha256": "95ce02b6583e42cebccdd97ee85137acab82fe3f7607093992b501487eefb32c"
+  },
+  {
+   "path": "sources/city-of-culver-city-2024-25-b584ec2b.pdf",
+   "bytes": 123918,
+   "sha256": "b584ec2b0513e082d452e5f3601b96e57225791a55d2a7684ea783350a193b44"
+  },
+  {
+   "path": "sources/city-of-culver-city-2024-25-e9ba7053.pdf",
+   "bytes": 150086,
+   "sha256": "e9ba70533d0763c682bef2a46c4b764861573a618e91a756a24bfce450f315f5"
   },
   {
    "path": "sources/city-of-east-palo-alto-2018-19.pdf",
@@ -6172,24 +6397,24 @@
    "sha256": "38d3076fbf9c62c3b48110de0ca63f5a82c4c9036796de179abd5f3d179210d7"
   },
   {
-   "path": "sources/city-of-fort-bragg-2024-25-fire-impact-fees.pdf",
+   "path": "sources/city-of-fort-bragg-2024-25-0331a873.pdf",
+   "bytes": 858321,
+   "sha256": "0331a87316dae0e55e77dfd081b492b32a33c290844475e7e2756083261b10de"
+  },
+  {
+   "path": "sources/city-of-fort-bragg-2024-25-4ede9235.pdf",
    "bytes": 884645,
    "sha256": "4ede9235543bb710b3871efb4a1a8b355f94ace599fb960cb847c1117d425a74"
   },
   {
-   "path": "sources/city-of-fort-bragg-2024-25-storm-drain-impact-fees.pdf",
-   "bytes": 887829,
-   "sha256": "d48a9c9d6989175c4769a60781e0f66e886c5856fbd8f3b73f04140f8b7a1779"
-  },
-  {
-   "path": "sources/city-of-fort-bragg-2024-25-wastewater-capacity-fees.pdf",
+   "path": "sources/city-of-fort-bragg-2024-25-c1bf6da3.pdf",
    "bytes": 871859,
    "sha256": "c1bf6da35b6174651de83d165fa57b5ae224233c5742287567a79d2896d8fa6c"
   },
   {
-   "path": "sources/city-of-fort-bragg-2024-25-water-capacity-fees.pdf",
-   "bytes": 858321,
-   "sha256": "0331a87316dae0e55e77dfd081b492b32a33c290844475e7e2756083261b10de"
+   "path": "sources/city-of-fort-bragg-2024-25-d48a9c9d.pdf",
+   "bytes": 887829,
+   "sha256": "d48a9c9d6989175c4769a60781e0f66e886c5856fbd8f3b73f04140f8b7a1779"
   },
   {
    "path": "sources/city-of-fremont-2020-21.pdf",
@@ -6357,7 +6582,7 @@
    "sha256": "86387890c1a4cfca28f20732a8af3adaedb9932f5738150752646c3ec66e5739"
   },
   {
-   "path": "sources/city-of-seaside-2024-25-water-capacity-fees.pdf",
+   "path": "sources/city-of-seaside-2024-25-da127348.pdf",
    "bytes": 76955,
    "sha256": "da127348942695af779901f23f16cd80a6a04e8bcf0650b9d58ec088f7fa79fc"
   },
@@ -6703,13 +6928,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 65584,
-   "sha256": "8666d957c1328c7a3c5132a3f2f38283a55015bcd2938809720b8d9ea0d44ae1"
+   "bytes": 70336,
+   "sha256": "ce4f8ad7720a8e09b47eb9b0500a39013db3bb74fea09971b514cc4347f50563"
   },
   {
    "path": "sources/index.json",
-   "bytes": 111993,
-   "sha256": "220a2d3be0797cba752863571792e6054477016a6034129622a9732cb79b02d6"
+   "bytes": 120238,
+   "sha256": "5bac2ffc7f63d2f035c612daabcce872c0fa0293f2afc104cbc521fc934c9bcd"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -6769,7 +6994,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "26f8381ed55833a36efcbc6c27731e1cd865fcb8e73cecd34e9b5645256849ad"
+   "sha256": "a3ea5f98bc7cd5998cdf4854983ac5cf8d1456a485454f61ce08eb321e4ea4a9"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -6784,7 +7009,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "d7f98d2de3015382f7edd7e3d01480a9c7e717de1ab13677ec2901cf03770246"
+   "sha256": "51752389f5d5fec201ee5b9e91924049879a77827789ebfe985ceb99ad412e2b"
   },
   {
    "path": "validation/validate.py",
