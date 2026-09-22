@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T06:34:14.684054+00:00",
- "data_rows": 397,
- "distinct_printed_figures": 229,
- "receiving_entities": 49,
- "agency_years": 85,
- "fee_programs": 169,
- "source_reports": 72,
- "evidence_pairs": 229,
+ "built_utc": "2026-09-22T06:57:29.339530+00:00",
+ "data_rows": 416,
+ "distinct_printed_figures": 248,
+ "receiving_entities": 53,
+ "agency_years": 91,
+ "fee_programs": 186,
+ "source_reports": 78,
+ "evidence_pairs": 248,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 555,
- "total_bytes": 69876871,
+ "file_count": 599,
+ "total_bytes": 72846059,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 6710,
-   "sha256": "8c5481df2d0254973cfa58a004e99b5539c5a4eb61414ff1fb9e79d2807b8e85"
+   "bytes": 6939,
+   "sha256": "196789d0d6faf161575affdfc27be6e92f0b1e4235e2d0bd9c581a074a3c5bdf"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1263,
-   "sha256": "5c8cf9f86dbef549f24cec2a3a41cbab896d1265ba37267e05f16e219fbadcfd"
+   "sha256": "84ee00fd2d94b19a012388c7e7592365dfc67ec06be141bc115711cd31ce0e53"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 149650,
-   "sha256": "a8fefc93bf5598c3ce6b3bee80a6855545e2ed40f8bef3bf2b399a031e2e5d43"
+   "bytes": 158574,
+   "sha256": "376c358f5238f772e966487985595c1d135c06fd6c8468021b168c3fe0cea9e9"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 828692,
-   "sha256": "92bf73560c590cd363cc77c0d18f668adc62b1b58acf896c87b9e02ff2de2d6b"
+   "bytes": 866435,
+   "sha256": "e41dea83876560ee5be8cab984a94b09cb40a0bb2b6c78b52da1e5ee40ed7170"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1239314,
-   "sha256": "dd0ca52c6541e2c2fcf8a64f6d563441997bf09483606a43d9ded02f792eaf14"
+   "bytes": 1296714,
+   "sha256": "9551b4105db9009a7703d2569d595da22a478cc2409bf8621ef226500be79e19"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -957,6 +957,16 @@
    "sha256": "0b54cdf9891273f9c58b0082eb733e24496d769698b81b032533aa0b0c4bb22d"
   },
   {
+   "path": "evidence/extracts/county-of-napa-p001-2802d953.pdf",
+   "bytes": 76641,
+   "sha256": "a2b594ac624796940761983641f99cf240486ad0931297e9c42c9ee5e1a5049b"
+  },
+  {
+   "path": "evidence/extracts/county-of-napa-p001-6dac826f.pdf",
+   "bytes": 77646,
+   "sha256": "3d638a80ba5a467baa7a63a3eacadb2ca40805a8b1523fc7c6fb51eef97563da"
+  },
+  {
    "path": "evidence/extracts/county-of-placer-p008-147fe979.pdf",
    "bytes": 102018,
    "sha256": "e1b7baca85d5c493c2fb2842285e7790dbfdf388cbacc34d8027bc42cc0d67cd"
@@ -1112,6 +1122,91 @@
    "sha256": "a730ab9b30ca0986ccd09f511d71dd30844857fc2d56d9bf9e068b2b9cd11465"
   },
   {
+   "path": "evidence/extracts/county-of-san-luis-obispo-p001-136a5fe2.pdf",
+   "bytes": 53793,
+   "sha256": "b5407aa1af76a2b33a2751d7c0aa1b3cdafadfb11a7e9610f6c8ba8da273663f"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-luis-obispo-p001-52be4061.pdf",
+   "bytes": 53793,
+   "sha256": "458b7d026f81ea917328265fd50ca5de6558a18369ef788bdf0218b827e53ac8"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-luis-obispo-p001-746d6e26.pdf",
+   "bytes": 53793,
+   "sha256": "ed7047f7c770028059b6f35c3a8f1facb5717fb5d5cde534f00b9bc74981efe5"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-luis-obispo-p001-887111ce.pdf",
+   "bytes": 53793,
+   "sha256": "e49ec71a93a92ab4b9e8f1babe9f259e2b399a01185ba94b92928d489189d9a4"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-luis-obispo-p001-9077aa2b.pdf",
+   "bytes": 53793,
+   "sha256": "61f2b795bc88d32d8579d174f8b2a0bf375be871afdecbcff4a4ef01a05d4285"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-luis-obispo-p001-b126d347.pdf",
+   "bytes": 53793,
+   "sha256": "ddc7fc68fc0b38b26fa93bb0a50db7770d7d3405d7219f3d31f94345fd889c46"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-luis-obispo-p001-e11f53cd.pdf",
+   "bytes": 53793,
+   "sha256": "d663abec968ac87207d0dfdeb4635e348b7d0f3774565f42e12918f7add5c88d"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-luis-obispo-p001-e457ade8.pdf",
+   "bytes": 53793,
+   "sha256": "111a26a04f2d162ac7f32b987eeaf332fc64f647626c1047178e04e8d1993784"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-mateo-p003-0d3f520c.pdf",
+   "bytes": 71009,
+   "sha256": "0e2254a352a2bbaf6ec1afd1fd061e1122e1cff349d79b6d179e1345e6c928b2"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-mateo-p003-b48393ef.pdf",
+   "bytes": 55761,
+   "sha256": "3687bd2625999b42cf824c43dde1cedd6c40146414b739db3341d5a02410fc0a"
+  },
+  {
+   "path": "evidence/extracts/county-of-tehama-p001-58dd0d76.pdf",
+   "bytes": 38559,
+   "sha256": "cb40967ad85c9c4f839f2ee6f5bea4869aad78a79c56ed2be403b6616df77cc0"
+  },
+  {
+   "path": "evidence/extracts/county-of-tehama-p001-e2cd618e.pdf",
+   "bytes": 38559,
+   "sha256": "8ae80f9c1ef37f112b208f60fe011a882d4e8e0878d921a02085d193ee7513b1"
+  },
+  {
+   "path": "evidence/extracts/county-of-tehama-p002-b394e67c.pdf",
+   "bytes": 34618,
+   "sha256": "b160847b13fbc15875cd2604efa7cad600a942a79fcf8f4d443a7588471b43ed"
+  },
+  {
+   "path": "evidence/extracts/county-of-tehama-p002-ec55760f.pdf",
+   "bytes": 34618,
+   "sha256": "3b03595d47d60c5ac88e411fd3bbbbda333fb19a951b8b99aceb317f2536b5d0"
+  },
+  {
+   "path": "evidence/extracts/county-of-tehama-p002-f01bd08c.pdf",
+   "bytes": 34618,
+   "sha256": "1f88d8f77760152a1e4e7e2701f0e00b62064a816230af85a1b799dae733b202"
+  },
+  {
+   "path": "evidence/extracts/county-of-tehama-p003-252b334c.pdf",
+   "bytes": 34370,
+   "sha256": "8b030ca51df09c7ca471de07f3e5ed14588e17b14e28eb0ea130b14a47a19f7f"
+  },
+  {
+   "path": "evidence/extracts/county-of-tehama-p003-6e829c90.pdf",
+   "bytes": 34370,
+   "sha256": "4f315e30b33d732c76c0aa31948e8ec685457846a9dae3d4ed123ec4e3784c3c"
+  },
+  {
    "path": "evidence/extracts/diamond-springs-el-dorado-fire-protectio-p015-65648205.pdf",
    "bytes": 75799,
    "sha256": "3877c22c072b1e256ab48519c1fcd96264f129d1c062843eb3bd092d4aed59e5"
@@ -1243,8 +1338,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 243758,
-   "sha256": "74e35e3e13de36e0bf77a1dc4ff30deca18b6d3278ea08f926df453e4369de6f"
+   "bytes": 264813,
+   "sha256": "0f1411be134bd4b0e7db078ba3a89349020fdb9f7be1a4b564f7b523b3408cbe"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -2107,6 +2202,16 @@
    "sha256": "84d35ee5c15c94b6a4b7e75ab99550f9a9d79b41224a4f5179968781bc546119"
   },
   {
+   "path": "evidence/outlined/county-of-napa-p001-2802d953.pdf",
+   "bytes": 76698,
+   "sha256": "2eb116719048360490511c15c25f73f415c64675914646e9ca78a449952c0bb6"
+  },
+  {
+   "path": "evidence/outlined/county-of-napa-p001-6dac826f.pdf",
+   "bytes": 77703,
+   "sha256": "8f9c4c3b5c314faa601c3b8a779ab6daa88fcf36f80499c5e396c6dcc3f3daee"
+  },
+  {
    "path": "evidence/outlined/county-of-placer-p008-147fe979.pdf",
    "bytes": 102078,
    "sha256": "e3955fe6d47cf3ddae490877ef8bec25f38c35db17dbd55ff14d9b14452924d2"
@@ -2260,6 +2365,91 @@
    "path": "evidence/outlined/county-of-sacramento-p001-f6f43c8b.pdf",
    "bytes": 24636,
    "sha256": "9b5acf1b6e53c4b9bfbcd7708ad795d0f6281b47a3ee78585ecc9be1780eced7"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-luis-obispo-p001-136a5fe2.pdf",
+   "bytes": 53853,
+   "sha256": "5ad191223ebcc74d66194e78546e6c395c7daaed589b16a900c694080d64b1bd"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-luis-obispo-p001-52be4061.pdf",
+   "bytes": 53854,
+   "sha256": "8b000fe56cb4af0d79da827a208bdbc7c37892301a3f9238e852b958973e4d5d"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-luis-obispo-p001-746d6e26.pdf",
+   "bytes": 53859,
+   "sha256": "78005aa58cdf11298a00e1827a28b8a891e5b2ba61619dbdbac1bc25721a44cb"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-luis-obispo-p001-887111ce.pdf",
+   "bytes": 53853,
+   "sha256": "05057173d17b56b6bf884f1d34e237a1a36b9fd3fbbe590a3f3e34fe3f354c78"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-luis-obispo-p001-9077aa2b.pdf",
+   "bytes": 53853,
+   "sha256": "9f6e91a3e8042343eada7ff1e56929a334142a9724c3f91870314e13ff6110c2"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-luis-obispo-p001-b126d347.pdf",
+   "bytes": 53855,
+   "sha256": "45ada619e93b995a1db6b6afde90e3ef029a0de3ccf7fe5afea0a8c5e841363c"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-luis-obispo-p001-e11f53cd.pdf",
+   "bytes": 53858,
+   "sha256": "4448b70f39a9cc16733efbf04b996733bd5e0fe6455cc1d5bf9fe489043fe4e1"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-luis-obispo-p001-e457ade8.pdf",
+   "bytes": 53860,
+   "sha256": "1304d88542da9b935d0062a7137e7a569b703576c6e9d4af95eab1cfcd36ea30"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-mateo-p003-0d3f520c.pdf",
+   "bytes": 71069,
+   "sha256": "e13a914919b904796f33d3c478248fcb9313704c7b0f5b7706d781e49f2fc14f"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-mateo-p003-b48393ef.pdf",
+   "bytes": 55820,
+   "sha256": "16cb273706a5a62e796425386ca77aaa8304e0c5506caae9100cfd1e89af901d"
+  },
+  {
+   "path": "evidence/outlined/county-of-tehama-p001-58dd0d76.pdf",
+   "bytes": 38615,
+   "sha256": "c044daad50a936f2346aa95f7d7d492fe1eee47a4077bebeeee50a556b8b7f72"
+  },
+  {
+   "path": "evidence/outlined/county-of-tehama-p001-e2cd618e.pdf",
+   "bytes": 38610,
+   "sha256": "ac5334dc61d5246acb92cb4b7e87a239ff6d90a7d7818597fb51f5dd9e4ecb81"
+  },
+  {
+   "path": "evidence/outlined/county-of-tehama-p002-b394e67c.pdf",
+   "bytes": 34670,
+   "sha256": "64e80d0375f28d4753bd3ed451881110d44d845838c00e8d88b9d1b35a746fdd"
+  },
+  {
+   "path": "evidence/outlined/county-of-tehama-p002-ec55760f.pdf",
+   "bytes": 34677,
+   "sha256": "7b6a410d2a5f21c47536e9c15f1dc93c295d8f3812faad27590dbb758ee15145"
+  },
+  {
+   "path": "evidence/outlined/county-of-tehama-p002-f01bd08c.pdf",
+   "bytes": 34678,
+   "sha256": "efbb1d5a93fc2bc29bb5f778abcc34e028f9aea78424ab7b038aa3e6312807b4"
+  },
+  {
+   "path": "evidence/outlined/county-of-tehama-p003-252b334c.pdf",
+   "bytes": 34428,
+   "sha256": "3a543581eb4cdb0d2e09623a94c0976d1c67807bce0d6dfa331cabd5c3b36d24"
+  },
+  {
+   "path": "evidence/outlined/county-of-tehama-p003-6e829c90.pdf",
+   "bytes": 34425,
+   "sha256": "8ac717365cae98672274900fac80de07870e522edd0af61a173d1b61b194cabe"
   },
   {
    "path": "evidence/outlined/diamond-springs-el-dorado-fire-protectio-p015-65648205.pdf",
@@ -2602,6 +2792,16 @@
    "sha256": "f4e9978ec56cfe6abba60e96e995ffb0240cc082ba3714f59da0bd9090370e13"
   },
   {
+   "path": "sources/county-of-napa-2023-24.pdf",
+   "bytes": 147540,
+   "sha256": "4fff877a9a0fc8dc44f3b9d23c4c381c5e67d2d64bd41cd4c91595ba17dcdea0"
+  },
+  {
+   "path": "sources/county-of-napa-2024-25.pdf",
+   "bytes": 147408,
+   "sha256": "104cc89246397f7cd9e6a02079e3b451cd433f37e2c1767b59d8e5e70fb9be6e"
+  },
+  {
    "path": "sources/county-of-placer-2022-23.pdf",
    "bytes": 1111620,
    "sha256": "1c6abd41c46f684337f8d89e9cb6c00c39ae70d1f8e70a3ef8cb4a55457a4fb8"
@@ -2712,6 +2912,26 @@
    "sha256": "c3d595984546b49941bcd321f8e540b8530b4fe2144ee0155d3994b7fe222f91"
   },
   {
+   "path": "sources/county-of-san-luis-obispo-2024-25.pdf",
+   "bytes": 266492,
+   "sha256": "cfb2afbf91cf533e237e0cc1605269833d831cd83a3a8f1d49d6cebbb9a77e60"
+  },
+  {
+   "path": "sources/county-of-san-mateo-2023-24.pdf",
+   "bytes": 116305,
+   "sha256": "cc934bc1f7cb975e52223e5d846111a34b429d057dfa6f890d671486acae36d8"
+  },
+  {
+   "path": "sources/county-of-san-mateo-2024-25.pdf",
+   "bytes": 140219,
+   "sha256": "02655a26a6b12ac46160fd0355e871a55287b4beabf07d4fc3532a643151be2c"
+  },
+  {
+   "path": "sources/county-of-tehama-2023-24.pdf",
+   "bytes": 95537,
+   "sha256": "e492a9bd3aa9dd1d2c211724241179bbe22f754b89d5fca698059bd9906c41e1"
+  },
+  {
    "path": "sources/esparto-fire-protection-district-2023-24.pdf",
    "bytes": 166584,
    "sha256": "2a1f87c27938b50b40217fee0c8350629ce72052110e19eb0ed2b845a1ed56c6"
@@ -2728,13 +2948,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 37151,
-   "sha256": "383e4bb997fdaf7c6ad45a9ed9f2ba8ab7e95e4e50c06ce6136afab539194a58"
+   "bytes": 39640,
+   "sha256": "35a00a6f4c61880d6a50635744c2592a7830f8f16894699118611feac979fbe6"
   },
   {
    "path": "sources/index.json",
-   "bytes": 63258,
-   "sha256": "57c5b4b4543a707421e82f0fad1d680156306b9c5be2394776c838688720d87d"
+   "bytes": 67651,
+   "sha256": "8c9fef3ad9d12fe7c5ccf2e82663a65502b0cef1dbe6c154a5e92e64d3f91748"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -2778,8 +2998,8 @@
   },
   {
    "path": "validation/independent-review.json",
-   "bytes": 2944,
-   "sha256": "eb878351f7ca468fa2e434135bc5cef4f83ca8ce27e90d21b3ebe0882f9bcd0f"
+   "bytes": 3047,
+   "sha256": "44dea81f39d7cc54adcc165ebbb7a81231024e4acf1070391f2101ee8b4fcf66"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -2794,7 +3014,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2581,
-   "sha256": "0ab85cd58b3325907b782b8b03393115a6ea2b68ecdd20894daf9027f2ca21eb"
+   "sha256": "fec80b4e2240f38f88117cc948654d9c10cbd154bea4d18174a24c81e838754a"
   },
   {
    "path": "validation/validate.py",
