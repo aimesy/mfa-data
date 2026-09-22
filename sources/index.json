@@ -938,6 +938,20 @@
   "published_data_rows_from_this_source": 7
  },
  {
+  "source_id": "county-of-yuba-2024-25",
+  "receiving_entity": "County of Yuba",
+  "publication_title": "County of Yuba Annual Countywide Capital Facilities Fee Report, Fiscal Year 2024-2025",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://yuba.gov/Documents/Departments/Departments%20C%20to%20D/Community%20Development/Resources/Fee%20Schedule/Impact%20Fees/Annual%20Countywide%20Cap%20Fac%20Report%20FY%2024-25_FINAL.pdf",
+  "retrieved_utc": "2026-09-22T06:26:20.362994+00:00",
+  "physical_page_count": 15,
+  "source_sha256": "2a8aacd6ed58727e896a143bf3532e15dc6eb1fa1ad82df79536d771901212a8",
+  "source_bytes": 392782,
+  "source_pdf": "sources/county-of-yuba-2024-25.pdf",
+  "published_data_rows_from_this_source": 11
+ },
+ {
   "source_id": "combined-filing-3476ee5f6f57",
   "receiving_entity": "DIAMOND SPRINGS – EL DORADO FIRE PROTECTION DISTRICT",
   "publication_title": "DIAMOND SPRINGS – EL DORADO FIRE PROTECTION DISTRICT impact fee report, fiscal year 2024-25",

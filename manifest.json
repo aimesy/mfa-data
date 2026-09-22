@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T07:08:37.813760+00:00",
- "data_rows": 420,
- "distinct_printed_figures": 252,
- "receiving_entities": 54,
- "agency_years": 94,
- "fee_programs": 188,
- "source_reports": 81,
- "evidence_pairs": 252,
+ "built_utc": "2026-09-22T07:17:30.130055+00:00",
+ "data_rows": 431,
+ "distinct_printed_figures": 263,
+ "receiving_entities": 55,
+ "agency_years": 95,
+ "fee_programs": 199,
+ "source_reports": 82,
+ "evidence_pairs": 263,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 610,
- "total_bytes": 74841225,
+ "file_count": 633,
+ "total_bytes": 76473619,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7013,
-   "sha256": "e7e3341e148e4abb37e1cc2239d39956130bb6a1816ec3077ddcc3a6061e916b"
+   "bytes": 7063,
+   "sha256": "2b18c9d2d5f64e1906b9fbedd785f36168b899c13e3d07b4ce819950dc139f13"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1263,
-   "sha256": "9e9d6b15b3c72947e34480825d78d59f6062b43973b330b488febe3c4be36894"
+   "sha256": "e6d186001aa4716fa33a0d58029b82c409cd1f4fa48eb8c491ecaa28443ad776"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 161430,
-   "sha256": "909097f967b16299ebdb0f0aace647492ea32f5818b26ebec60956c653fa6a84"
+   "bytes": 166287,
+   "sha256": "c07e5d51e0832110d981584eb141fc1296a768fc726a025191d333c78cff9d44"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 876080,
-   "sha256": "0a2dd953ca05ef83125faad3ce7a6959809a6b4fde3bfd567bfa8c33d7eed995"
+   "bytes": 900144,
+   "sha256": "6515d5bf7b295b2df58da53afd2e8d6b94a3abef2cff85ecbdf56a69ee1d83c9"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1310491,
-   "sha256": "a08f2cd7c6bf6b3ef3e3727cfecb6ac99d54f410f99c941a654ff813785c1968"
+   "bytes": 1345924,
+   "sha256": "519aa01deb49fd2ea56fd5078dafbc9b58384e7c99e33e2c32b6bb2b4967a711"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1227,6 +1227,61 @@
    "sha256": "4f315e30b33d732c76c0aa31948e8ec685457846a9dae3d4ed123ec4e3784c3c"
   },
   {
+   "path": "evidence/extracts/county-of-yuba-p005-3ccf5c06.pdf",
+   "bytes": 53496,
+   "sha256": "04a061943c00f4dae85fcfd407257926c7fa86eccd6710c1cda1aea03e39a68a"
+  },
+  {
+   "path": "evidence/extracts/county-of-yuba-p005-3ef3ac64.pdf",
+   "bytes": 53496,
+   "sha256": "59d397dfdb22cae811fd3adf24121ae7f3c3e590ac0b8c5ebf1440bb0e849aec"
+  },
+  {
+   "path": "evidence/extracts/county-of-yuba-p005-4bc6a7f8.pdf",
+   "bytes": 53496,
+   "sha256": "148ac6537448774d5748cfaf8a8300ad5b3b0c381d85ad0d2594b86b35d50cac"
+  },
+  {
+   "path": "evidence/extracts/county-of-yuba-p005-9566e4f2.pdf",
+   "bytes": 53496,
+   "sha256": "6ff625d216d7e454948288f75a3136bf3ea6ac991c278e25cc024394fd91dbc9"
+  },
+  {
+   "path": "evidence/extracts/county-of-yuba-p006-10bacf67.pdf",
+   "bytes": 52397,
+   "sha256": "e55f7e82957ebefbeab586e823a892da431ccba079dbe71dd959c08a2f3b39d7"
+  },
+  {
+   "path": "evidence/extracts/county-of-yuba-p006-38f69e94.pdf",
+   "bytes": 52397,
+   "sha256": "376c5fa0f960575389c7dc51231702170768d0aa372e5183394a1076c9874c46"
+  },
+  {
+   "path": "evidence/extracts/county-of-yuba-p006-4fd08a26.pdf",
+   "bytes": 52397,
+   "sha256": "d6f9daf18d02402f199aed0ad7f9bfbdeb1c0499345d2472d5178728b77130f8"
+  },
+  {
+   "path": "evidence/extracts/county-of-yuba-p007-0088cb60.pdf",
+   "bytes": 52477,
+   "sha256": "aa341b4bd3ba0406645bae8626609b8ebcc471510b50015f70ebeb0042cfce78"
+  },
+  {
+   "path": "evidence/extracts/county-of-yuba-p007-2a9098f1.pdf",
+   "bytes": 52477,
+   "sha256": "61b22a3d653a3fb56b2e7c0583737376d7a6340344ae03c4aab9a2e1be83c442"
+  },
+  {
+   "path": "evidence/extracts/county-of-yuba-p007-4361e665.pdf",
+   "bytes": 52477,
+   "sha256": "11fa1e6d47257c976e8b43161ac5ead5a19fa1b0dd4d29c2f0afae5f6fb0960a"
+  },
+  {
+   "path": "evidence/extracts/county-of-yuba-p007-ecf2b29b.pdf",
+   "bytes": 52477,
+   "sha256": "1883eadf177d639b43d56dc9c44ef408337268b910196803e0256990c6b6b8b7"
+  },
+  {
    "path": "evidence/extracts/diamond-springs-el-dorado-fire-protectio-p015-65648205.pdf",
    "bytes": 75799,
    "sha256": "3877c22c072b1e256ab48519c1fcd96264f129d1c062843eb3bd092d4aed59e5"
@@ -1358,8 +1413,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 269154,
-   "sha256": "477518c89b6998ec51e449094e67c82adacc0c63d6ce2482e3ec928c4622427f"
+   "bytes": 280278,
+   "sha256": "250c9c280044701da7a5f47b6a501552248878d186b84321559735ff0295dba4"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -2492,6 +2547,61 @@
    "sha256": "8ac717365cae98672274900fac80de07870e522edd0af61a173d1b61b194cabe"
   },
   {
+   "path": "evidence/outlined/county-of-yuba-p005-3ccf5c06.pdf",
+   "bytes": 53549,
+   "sha256": "9e4ae027e5e7b8850d408928974145e37f9878d44646cfa3b8dd363c3ad08f96"
+  },
+  {
+   "path": "evidence/outlined/county-of-yuba-p005-3ef3ac64.pdf",
+   "bytes": 53550,
+   "sha256": "700b2c10babc61e8fc2539ff1b67663b64ed3d169f5264b208b0d7c3c63d5fbe"
+  },
+  {
+   "path": "evidence/outlined/county-of-yuba-p005-4bc6a7f8.pdf",
+   "bytes": 53551,
+   "sha256": "22db13fed2b4189be1d9edd26614bc3cc490f103feec5e930296c7c95d9c92a3"
+  },
+  {
+   "path": "evidence/outlined/county-of-yuba-p005-9566e4f2.pdf",
+   "bytes": 53549,
+   "sha256": "a7e6a7ccb989969cbcccd81f74ffdabdbd7e85df1dfdcbbe1d454b8e53ebc5ac"
+  },
+  {
+   "path": "evidence/outlined/county-of-yuba-p006-10bacf67.pdf",
+   "bytes": 52452,
+   "sha256": "c6d9b39fd3a1cd1a4ab89394405dc4eea4d69150ffa339243dd7aa8d415407fb"
+  },
+  {
+   "path": "evidence/outlined/county-of-yuba-p006-38f69e94.pdf",
+   "bytes": 52452,
+   "sha256": "639cf46d2e10eab5e84341a9ec83c3aeba74b3676a0a72f74fdb0667e973ad86"
+  },
+  {
+   "path": "evidence/outlined/county-of-yuba-p006-4fd08a26.pdf",
+   "bytes": 52451,
+   "sha256": "f8242ad4ae108a12ac099eeb8ddef7da99027da46dd93669d1f9e78143e948cc"
+  },
+  {
+   "path": "evidence/outlined/county-of-yuba-p007-0088cb60.pdf",
+   "bytes": 52536,
+   "sha256": "84db206c09a50210754588f1e54a7dad34345f5a402db959b680e2cea8168171"
+  },
+  {
+   "path": "evidence/outlined/county-of-yuba-p007-2a9098f1.pdf",
+   "bytes": 52533,
+   "sha256": "cad5e91e71322508e46a96f38a4b3072e757b33f8cc8110f5b3df86fe75bd05c"
+  },
+  {
+   "path": "evidence/outlined/county-of-yuba-p007-4361e665.pdf",
+   "bytes": 52536,
+   "sha256": "388f059e2b4253a98610bfc124f518a157bc7618d982d479f64e86aa3e7eb46c"
+  },
+  {
+   "path": "evidence/outlined/county-of-yuba-p007-ecf2b29b.pdf",
+   "bytes": 52532,
+   "sha256": "d8c35bbbc1c63f83e3c59dde63675e8f8f09ce6f12408bda69ce3b1ad67f9f59"
+  },
+  {
    "path": "evidence/outlined/diamond-springs-el-dorado-fire-protectio-p015-65648205.pdf",
    "bytes": 75859,
    "sha256": "84e02c35674ca1f659101de56a82c9ca2ef1f41236664fc6d89843f8ad490c94"
@@ -2987,6 +3097,11 @@
    "sha256": "e492a9bd3aa9dd1d2c211724241179bbe22f754b89d5fca698059bd9906c41e1"
   },
   {
+   "path": "sources/county-of-yuba-2024-25.pdf",
+   "bytes": 392782,
+   "sha256": "2a8aacd6ed58727e896a143bf3532e15dc6eb1fa1ad82df79536d771901212a8"
+  },
+  {
    "path": "sources/esparto-fire-protection-district-2023-24.pdf",
    "bytes": 166584,
    "sha256": "2a1f87c27938b50b40217fee0c8350629ce72052110e19eb0ed2b845a1ed56c6"
@@ -3003,13 +3118,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 41050,
-   "sha256": "623f9d82e43ffba5a6f60732ac1fe1a159b825c70f538712d6eb6650454831b8"
+   "bytes": 41546,
+   "sha256": "4f53728eca9e0e9361c007aba395340868e841cde0974631af4887213adc07a8"
   },
   {
    "path": "sources/index.json",
-   "bytes": 70012,
-   "sha256": "3ce8d4794334c3ca06788af78b2561046e61ef152d73feaaf761507ab6382a55"
+   "bytes": 70825,
+   "sha256": "942f8b9e5eb25ba9637ce96be3afa952ffe1d727b7d93dcf8217c17b767f379a"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -3054,7 +3169,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3047,
-   "sha256": "9ee55dccff0527aacd2738c8a88a9d94313d205442a28a3e7b1e75d8c407bd9e"
+   "sha256": "206be231d2a7b142f1f7ad187cbeb6671059190b14a3b034eaa774049bf821c5"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -3068,8 +3183,8 @@
   },
   {
    "path": "validation/review.json",
-   "bytes": 2581,
-   "sha256": "de4d26dd788b99420ed08a5023d69d48afc30f3e72dbda9c869f8c48c2b2838c"
+   "bytes": 2582,
+   "sha256": "0c8aaefad567046f9585759249762a715c48a6d452d4be2ab12ab3b4abceb8bd"
   },
   {
    "path": "validation/validate.py",
