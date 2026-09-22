@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T17:59:11.709185+00:00",
- "data_rows": 844,
- "distinct_printed_figures": 676,
- "receiving_entities": 91,
- "agency_years": 184,
- "fee_programs": 415,
- "source_reports": 161,
- "evidence_pairs": 676,
+ "built_utc": "2026-09-22T18:28:09.534171+00:00",
+ "data_rows": 889,
+ "distinct_printed_figures": 721,
+ "receiving_entities": 92,
+ "agency_years": 187,
+ "fee_programs": 434,
+ "source_reports": 164,
+ "evidence_pairs": 721,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1538,
- "total_bytes": 273626649,
+ "file_count": 1631,
+ "total_bytes": 377122829,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 9298,
-   "sha256": "203523d78aa4fa0254a15ab2c1ad620cbeaf134407c2a3e133e5f6cb12e85dfb"
+   "bytes": 9370,
+   "sha256": "061be0415787fa6e56aa4db5f3dc67a580ccd14b70e9a9508c1df5c4a7d3ca0b"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "451162bf501e96dcded7367b97a2c14acb69b63674d60ccc665fe71e4d228bdf"
+   "sha256": "65932660787280cc401a0adb1b5b95ebe6d32e9c943c19f169a20dc49216907e"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 340819,
-   "sha256": "218d218395afb624d3cf7a2bab8df7187a22e08fd728b37117b17311f2838b7a"
+   "bytes": 356889,
+   "sha256": "3eef847b2d6e82c3e3db05c94c35c2eb7f3a267d266fbb91b70cb26c74df151a"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1862637,
-   "sha256": "98c50c28238850d93c88109c2c59a73464d4c420524397f01fb92d21e436fc0e"
+   "bytes": 1952391,
+   "sha256": "dcfa50f2d55b5e089c11ac94f4de344bf4535db7b97f742e64f0be13410c7402"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2735866,
-   "sha256": "67d1cd6261a6ddf3bea7dd43c3a946522d10eb29bc3a7eac2f86060162f0a5d8"
+   "bytes": 2872287,
+   "sha256": "69128f209c62809ad3b28ffb1e746acc8094caa2f60f97862576785cc0c3139b"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1120,6 +1120,231 @@
    "path": "evidence/extracts/city-of-fremont-p022-5f13bbe9.pdf",
    "bytes": 97072,
    "sha256": "a38b17083fcbeb05302496a056deea2283f69f03c96a481fe98d3d9865519aab"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p041-a12c5185.pdf",
+   "bytes": 16644,
+   "sha256": "5eeea04972b14940e62fa8692fdaffae3984338cf3c44d52daab4a75b05ca0de"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p043-4484e81b.pdf",
+   "bytes": 97227,
+   "sha256": "3ffbb5ad02833c1eb812c7692b7d698b16ed21e690039526a81b81281d63f804"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p043-46bfb224.pdf",
+   "bytes": 16307,
+   "sha256": "0a5bd436ddbd70270fad86d1903124da685d0284df36b023f09505466711cb16"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p045-004ac52a.pdf",
+   "bytes": 17140,
+   "sha256": "98d413899aba498c49443f36b2ad79a6eac8badb8328092c0ca23c57c46f0eb2"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p045-290fedca.pdf",
+   "bytes": 97757,
+   "sha256": "99457576d3a6d0ef93d5700c8853f6996d773731bdd68a7fa38782dd32611816"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p045-728b5be8.pdf",
+   "bytes": 93616,
+   "sha256": "7cb35171a5e3595178a9342da5da5cb916c439fb9cc34123391b560b63858e97"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p047-a4f9ad4b.pdf",
+   "bytes": 95871,
+   "sha256": "2e6ef33c2ebee5d9f7ef393714492ab7fb9646759f96a8421f8734fe36df600e"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p049-90831341.pdf",
+   "bytes": 95886,
+   "sha256": "dead294055c81ecca9bef2f62e56f2b137a25dd55b8f7f9fd491067faa5747bc"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p049-f7cb7731.pdf",
+   "bytes": 94798,
+   "sha256": "c50b9020350b341fc0c3b81019fd10ab891adb0aca33225294b4398bae65dd16"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p051-7edf7f3f.pdf",
+   "bytes": 93652,
+   "sha256": "31112eed3e782f74b11390734b6c408585a54b6b34e364bba06e5c8a4cf7d250"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p053-e3b98f24.pdf",
+   "bytes": 108788,
+   "sha256": "8b38fdce900b7d3d2fdbdb3785065308723202bebcca2abd77b8ed24002c2daf"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p055-80838e7b.pdf",
+   "bytes": 67891,
+   "sha256": "5f5da1de617c8a7621439d32fac983ae5e0eb635686f7006033876b75d699d29"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p057-7db7a06d.pdf",
+   "bytes": 66611,
+   "sha256": "d064731a2b9e7735937865198d79f372184e6b29b39f11df619a1d9d99efed68"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p057-a342dae2.pdf",
+   "bytes": 134251,
+   "sha256": "8508782ddff8e6d0d8ec1bea9d76335a5e47f2c340ab0d27059b99350c5a0f20"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p057-d3b3e937.pdf",
+   "bytes": 99312,
+   "sha256": "aafa90e97597d95e456355b5a527b816f6758b38c5c75b0630b94298b8d7b12b"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p059-0f2eef37.pdf",
+   "bytes": 95128,
+   "sha256": "53db436dc46077aee1d83cf4809fe3240664d17213d8b49150e1593d3ccb832d"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p063-35192111.pdf",
+   "bytes": 66000,
+   "sha256": "09c66cba07a0cb92a144ae17daa14a16baeef6ac0bcd992d1c905390b8969993"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p066-1e51b4b6.pdf",
+   "bytes": 62968,
+   "sha256": "317f5bba71d24a2c7e1c981e18247a4a389a59144cad9b3988cf84131bc2c1d9"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p069-4d64d534.pdf",
+   "bytes": 50032,
+   "sha256": "2b80bc689f5d2c51dc61c6b2fa69c307f320d078595f0a4864c18df592e57238"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p071-7582c9bb.pdf",
+   "bytes": 80231,
+   "sha256": "337bdc5480325d279da0cbd532b3296eed125e27002e8115183ce800e752b60f"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p071-f6651bbd.pdf",
+   "bytes": 64575,
+   "sha256": "b47c9b75bacc9e86b4da9f9c8205a0fd4955b522f4eea91110b5bc57e92338d9"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p072-9d3c8dd6.pdf",
+   "bytes": 63500,
+   "sha256": "6be0b60de17c0938b987c29f3744d8765bdea7bdb74e860863e0f2bb9a11faa2"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p075-e54b7ab7.pdf",
+   "bytes": 50028,
+   "sha256": "c727a860823adf841dc33be6bf59fd8dc8daae8a2933b0970ffe826a4bbda490"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p076-39eebd44.pdf",
+   "bytes": 94134,
+   "sha256": "9463b648f1e0078e3ea5b8d9743720400ae2c050a9a3343fc4f16c49ed807f74"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p077-dff2d346.pdf",
+   "bytes": 64345,
+   "sha256": "d165ee175450a465cc1a92b24801d7232f9244e5f3ad86240e9e2e69ddca7963"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p121-a268b15b.pdf",
+   "bytes": 65852,
+   "sha256": "1068068a7a73052a7f8ced955e60fa126472d4c38a945613d66247f8330c4dbc"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p137-2f3e53f6.pdf",
+   "bytes": 42891,
+   "sha256": "1bd5518ec2e3c831c6a8983f3055b600b575460b4abfc485edb4b469d64e4f26"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p139-c8e70867.pdf",
+   "bytes": 42351,
+   "sha256": "f1120534f48fc532a7501ad2bc349cd7c97d30242b78930e4521779eb10aceb0"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p141-88bbdf83.pdf",
+   "bytes": 42290,
+   "sha256": "4bfe8623b5073fff1ae3fc90e80964c7b2fa080dfa3c4115608680677c9a01a4"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p143-03a795fc.pdf",
+   "bytes": 70838,
+   "sha256": "148b06c023dddad580c75d432789aef0fb70dae1020a9e37071cef120eb2f1dc"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p143-9c7f8b29.pdf",
+   "bytes": 67060,
+   "sha256": "ba7675437c4d38d0da37fbde86d0a0682979c374aa42d8a32e1eb8d1b404f156"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p143-a0d71e82.pdf",
+   "bytes": 42142,
+   "sha256": "45724439c62f49960db57f03d98c9f347c936a99319fd7d4aefbc32813cc11e7"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p145-9b291aa9.pdf",
+   "bytes": 66613,
+   "sha256": "50fd2bd238bea7c5493ff1a6a05504d168c6b5d1129a7ff7b7e8a342c28af2bc"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p145-a08982d5.pdf",
+   "bytes": 72314,
+   "sha256": "ae9f3f6f4f7967d6f8adf83ebdfb024be169edb1b02fd36777eb90fecdacf0e8"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p147-1b767df2.pdf",
+   "bytes": 42650,
+   "sha256": "e366a12aa345823a91c8a7e8e4d7655b48d94ed23b7f99f935ab1432822a2829"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p147-43d3a88a.pdf",
+   "bytes": 71083,
+   "sha256": "1fac568be8c9161af05d6bb596c925c6dd0adac46cb31b30e07bca7d1bdda8e4"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p147-fbb41e26.pdf",
+   "bytes": 66611,
+   "sha256": "c902f5ce2b3ca3ef8fae8f3f7400dfe3cfeedae9f929fa2e8614fad9398c2838"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p149-338bf051.pdf",
+   "bytes": 65334,
+   "sha256": "edb9539e308496c17f328ce144b5e11c8a9511dfd87af4e0d9c9ea6ce0534f9d"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p149-4d50f84a.pdf",
+   "bytes": 71351,
+   "sha256": "69ded927f13fb517ba1c356651f2e29462827f27ee5520c1f1808fec30909124"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p153-3d2d7baa.pdf",
+   "bytes": 66017,
+   "sha256": "02e9c9174d2dfbed3f59c5a2308de2df03f313de6df148fa087009c2a1c65537"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p153-f72eacb4.pdf",
+   "bytes": 71946,
+   "sha256": "244c27f5a826b773ab9d6ec294ae74c6c72d154f1485da2275ff7de253151284"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p173-6088a318.pdf",
+   "bytes": 46214,
+   "sha256": "06c83c7cfba325a9375ee943989fe90eaa86b9ef716312674ad56e9fb0ddcd74"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p299-f3a1548a.pdf",
+   "bytes": 66535,
+   "sha256": "72a4f587ce6ed9f7e1976f2c04ed9c2370918a4e6e7c9d5e61ea8d94e9622e8e"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p305-ef421e73.pdf",
+   "bytes": 65998,
+   "sha256": "b06b028ec7d206b4ba340ffaadea53b04ab143bca68e662f97f8a8db89a846f2"
+  },
+  {
+   "path": "evidence/extracts/city-of-fresno-p311-51efd054.pdf",
+   "bytes": 81323,
+   "sha256": "1d3f29c01609f1bbec37ce1d5e9482136eb630599e00930b0321ebb4ee033ba8"
   },
   {
    "path": "evidence/extracts/city-of-garden-grove-p005-154151d9.pdf",
@@ -3478,8 +3703,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 715448,
-   "sha256": "cce80fff0c7414349730b4ed83bd6b351d9691ec1d50769840feca5aad0d9b7b"
+   "bytes": 763096,
+   "sha256": "85960a0fe939f24ba34011a98c0ab603c4eacbbc68296c18e25e393c16ac0e28"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -4505,6 +4730,231 @@
    "path": "evidence/outlined/city-of-fremont-p022-5f13bbe9.pdf",
    "bytes": 97120,
    "sha256": "88af926b1b7105a700cefbb5a9fa55757fa8395663870e7b84788f6dfccb61a7"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p041-a12c5185.pdf",
+   "bytes": 16696,
+   "sha256": "1d173e430393e01c8bc067f3aead73b3214b3fc670afcfc97f477a462622f61e"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p043-4484e81b.pdf",
+   "bytes": 97274,
+   "sha256": "3473e2271a8f454213cdccf3744cc4cbea68df02bb95b73360074f884d2cdda9"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p043-46bfb224.pdf",
+   "bytes": 16356,
+   "sha256": "0fc21cb605d98c1ca02a8ae01c0ab099d4baf967c95b1919e674db0a87b56599"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p045-004ac52a.pdf",
+   "bytes": 17196,
+   "sha256": "d493fc66d75681bde5d8bc1636694715623454c02a73e2a845831cd4d7d0581f"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p045-290fedca.pdf",
+   "bytes": 97810,
+   "sha256": "c63f4f596131227e49ab207cc75fc69a60e64a4a88de33fe3577b1e67738ca83"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p045-728b5be8.pdf",
+   "bytes": 93663,
+   "sha256": "be46c199e29c3f8ae73952183f17215d4daeb0be195231e7553daeb4aa31051a"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p047-a4f9ad4b.pdf",
+   "bytes": 95927,
+   "sha256": "3c959ffdf65d5a38439e675568e5e7bc0506f194cf4c9cdb72eef666247ee985"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p049-90831341.pdf",
+   "bytes": 95941,
+   "sha256": "b720f27e1e793d4fd6eea67aea6555c19f1cb41bc964abdb254734730ab09cfb"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p049-f7cb7731.pdf",
+   "bytes": 94846,
+   "sha256": "0554a4465b150405987b99ae60a708de2b59a65f271f899c3a70bc57e6b60e44"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p051-7edf7f3f.pdf",
+   "bytes": 93705,
+   "sha256": "4ccf761838c33fe0dfef58a182d8a3d2c7fd7b24af74ac86d6d6444789fe1c99"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p053-e3b98f24.pdf",
+   "bytes": 108842,
+   "sha256": "100d53ffaa3b517b702ad8aa1824c2e4e993471ce3a4ea57fc6530d97ceef003"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p055-80838e7b.pdf",
+   "bytes": 67939,
+   "sha256": "d573a80958373e0462704bbd8b7e33299572160b20749c6cfee2b3829df9f32e"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p057-7db7a06d.pdf",
+   "bytes": 66660,
+   "sha256": "1824a98811be5d8aaad0b601e1754044b4abd4f8eb3fa446f248ea7c6c867030"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p057-a342dae2.pdf",
+   "bytes": 134308,
+   "sha256": "477960bea7aa99c79d973abe78b673e09e8647c1a33c9688b71a21f284c9bb6d"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p057-d3b3e937.pdf",
+   "bytes": 99362,
+   "sha256": "deaea12d203e23bf14bf96b05d6e1cae972251fd7f1a20efee4462d9c47474fb"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p059-0f2eef37.pdf",
+   "bytes": 95176,
+   "sha256": "ff07858935e9910d451395cdbda78a5205324a231a81a063f6c244c26dfe7ab1"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p063-35192111.pdf",
+   "bytes": 66054,
+   "sha256": "392bfdd263c6b27d5a93662d4ae2120f0477fa0faf202392f03c2a0192c81744"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p066-1e51b4b6.pdf",
+   "bytes": 63015,
+   "sha256": "c57125b24742b1d5d667bb75189530c3345e3702fe4e7bc5aac2154304eb2d0c"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p069-4d64d534.pdf",
+   "bytes": 50078,
+   "sha256": "45f2e458b4abd0f58129eed58c03c8dcb0a2c0b99000367ef2f040cc6bd8b09f"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p071-7582c9bb.pdf",
+   "bytes": 80281,
+   "sha256": "434e11a4097c4824c3bc1fa5ff12f00c3e5a36e827452cf393eb5e01f1ea616a"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p071-f6651bbd.pdf",
+   "bytes": 64623,
+   "sha256": "a281e8bd5b080947b015caef0d7c0730be74dbadc1c297be27fd0516f5ca0516"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p072-9d3c8dd6.pdf",
+   "bytes": 63549,
+   "sha256": "5c92b31806da53c6b5012387b013216e8e95fe7643161151d9b28a3278d3049a"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p075-e54b7ab7.pdf",
+   "bytes": 50073,
+   "sha256": "5f6f7afac73a42c36554764244dfb01473dddb1320a79a940bd3292221982af2"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p076-39eebd44.pdf",
+   "bytes": 94175,
+   "sha256": "eb26c394d022ca37ed112661d849ce1f4fd26a0a239535d23c6a160d069dbd38"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p077-dff2d346.pdf",
+   "bytes": 64395,
+   "sha256": "7e3a8aab50acbd970cfdb6b4639d72b8f4207d2f03ee30d0e0b1ff39f06608bd"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p121-a268b15b.pdf",
+   "bytes": 65899,
+   "sha256": "5f8b9708bad5931a1004b5a28511a5d9f45845883df10d8ed309691796a57bd8"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p137-2f3e53f6.pdf",
+   "bytes": 42941,
+   "sha256": "355985a3ff3e3f64b5d1835fe611809f454c692dbf5b32fce2b48395c921009b"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p139-c8e70867.pdf",
+   "bytes": 42400,
+   "sha256": "3ff1c232d90f0591a06e58cc12f9c9091648ff24370d000f4061a918276eb4ed"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p141-88bbdf83.pdf",
+   "bytes": 42341,
+   "sha256": "6e48cda6e756319104631d8c2a2fef2eee80ef641aded8c416763bf6a22f95dc"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p143-03a795fc.pdf",
+   "bytes": 70886,
+   "sha256": "b131f0a722f46cab260496cf01423eef622e39024d0e820f68e98721b3729c0e"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p143-9c7f8b29.pdf",
+   "bytes": 67109,
+   "sha256": "bf9841cffa0fb94c7d4a21aa433f630fc18cd0e1cea859a7e76e4c4830ce6a7a"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p143-a0d71e82.pdf",
+   "bytes": 42191,
+   "sha256": "030c240eeddc4340f49cf8eefb7d216c8453154b73577a9c567a58246b462c85"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p145-9b291aa9.pdf",
+   "bytes": 66660,
+   "sha256": "deb1e06bbbffb2b4714a36201b0ae8baf26c24bc76ab876fbcee45b331d6b3c7"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p145-a08982d5.pdf",
+   "bytes": 72365,
+   "sha256": "2dd384aadd74bb640eb77a1e2da20ed9f038553fd078122ea000d3a24c3576f7"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p147-1b767df2.pdf",
+   "bytes": 42699,
+   "sha256": "a9dd26831f9827220f29036c5ded792bc96bfd5595ac5b16b426b0f2edab1346"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p147-43d3a88a.pdf",
+   "bytes": 71138,
+   "sha256": "196a255c44206495fb171e83cab54b0d93394fff041353b5a7e3b53ba2a2921c"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p147-fbb41e26.pdf",
+   "bytes": 66660,
+   "sha256": "3ae09e34909e29cf5965aff6037ad5f93061e175ff8c7c62b94789eb89d13ed2"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p149-338bf051.pdf",
+   "bytes": 65377,
+   "sha256": "39be44f8323b5e7e32c70210ee44f9a36f12d68393cb5e7f7f866eef340493a2"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p149-4d50f84a.pdf",
+   "bytes": 71401,
+   "sha256": "266216e997843b80ab8a348fdd1dc0d5e3a115ac748cf721835b18c44c673bc7"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p153-3d2d7baa.pdf",
+   "bytes": 66065,
+   "sha256": "bd71fd73afde4168d670c37ff03ebe1b03f646f6d97f33f97c032204da141248"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p153-f72eacb4.pdf",
+   "bytes": 71997,
+   "sha256": "cc6c894a164a05c516c2ce7fc86b346efeb76626b86e6611b8090f5cf591ba3b"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p173-6088a318.pdf",
+   "bytes": 46263,
+   "sha256": "a3fbdc51d1549706e4e8e4b3827a11a31228c983c84c06e18d45467cf17390f7"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p299-f3a1548a.pdf",
+   "bytes": 66586,
+   "sha256": "15e7b5894646269de66b40dc42f834c4d0da9bd355bdfcc87765fcabbe7ccb2d"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p305-ef421e73.pdf",
+   "bytes": 66046,
+   "sha256": "317065333668f3b5e4197028766158f8c554920ecbd622591448cc02346fd203"
+  },
+  {
+   "path": "evidence/outlined/city-of-fresno-p311-51efd054.pdf",
+   "bytes": 81372,
+   "sha256": "e95de79504c0e95f2df0a0b272d7d42858cbddf83710a97751f7f0f6590bb92a"
   },
   {
    "path": "evidence/outlined/city-of-garden-grove-p005-154151d9.pdf",
@@ -7072,6 +7522,21 @@
    "sha256": "9a26055402b9957d4678579de4a9209b921892b2017e7741c842f2c78286c7e6"
   },
   {
+   "path": "sources/city-of-fresno-2022-23-36e1dff7.pdf",
+   "bytes": 31848304,
+   "sha256": "36e1dff73cd0b7aa9d738b7f58918d432cc2ee5cbf64fd06c90d08c9880965a6"
+  },
+  {
+   "path": "sources/city-of-fresno-2023-24-0e1bb0c7.pdf",
+   "bytes": 31942742,
+   "sha256": "0e1bb0c7fe8f856d9c21cdd8a8946101a97aed1a6815c034e431f043567c1337"
+  },
+  {
+   "path": "sources/city-of-fresno-2024-25-284382ba.pdf",
+   "bytes": 33181401,
+   "sha256": "284382ba2192f6b6383ba91a1fd3877c12609c7b74dbd5233964ddd6a0cfc664"
+  },
+  {
    "path": "sources/city-of-garden-grove-2021-22.pdf",
    "bytes": 100744,
    "sha256": "a784240356df4c954624825b2f79e146f6b72b3775b5d568f8e30fd3d7f0453d"
@@ -7628,13 +8093,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 76322,
-   "sha256": "75565c9dd9b633e8d495e2e761c6bc1759582301ebfc19bb455bdcef01ad28d1"
+   "bytes": 77505,
+   "sha256": "db6463670274de525e4a0f93f63261bcfc587aa1406a3102ed51e1685e55bc48"
   },
   {
    "path": "sources/index.json",
-   "bytes": 130676,
-   "sha256": "7bb43e6f8747b871f75750167b0f2b08c5f6fdc13746a6711706a6d782165d9a"
+   "bytes": 132816,
+   "sha256": "0586993c852ed1ab31d6136a5f07d3276af7f696a76533742a745f4d0d030068"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -7694,7 +8159,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "86bfb3393b73f42f9d26a6341582af898ab421e70fbd05e87d91b99a09545d4d"
+   "sha256": "e75ff2accb54dc01e25fa802a6bcebdc2ec3adf605926a08b2f2b49fcac6bdad"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -7709,7 +8174,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "9d6708ec01d131e0dac3b207bffc9eb2dbc0c3326fccfc35a59e549f4caa0b7e"
+   "sha256": "b40537ea94cb1a206ccaced17f7d3e4b20b5fde0fb637f6e81e1ce68d143a0f5"
   },
   {
    "path": "validation/validate.py",

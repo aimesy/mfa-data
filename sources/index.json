@@ -616,6 +616,48 @@
   "published_data_rows_from_this_source": 5
  },
  {
+  "source_id": "city-of-fresno-2022-23-36e1dff7",
+  "receiving_entity": "City of Fresno",
+  "publication_title": "FY 2023 Impact Fee Annual Report (City of Fresno UGM/Impact Fee Audit)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.fresno.gov/wp-content/uploads/2023/12/UGM-Audit-PDF-FY23-Complete.pdf",
+  "retrieved_utc": "2026-09-22T06:24:02.169213+00:00",
+  "physical_page_count": 312,
+  "source_sha256": "36e1dff73cd0b7aa9d738b7f58918d432cc2ee5cbf64fd06c90d08c9880965a6",
+  "source_bytes": 31848304,
+  "source_pdf": "sources/city-of-fresno-2022-23-36e1dff7.pdf",
+  "published_data_rows_from_this_source": 14
+ },
+ {
+  "source_id": "city-of-fresno-2023-24-0e1bb0c7",
+  "receiving_entity": "City of Fresno",
+  "publication_title": "FY 2024 Impact Fee Annual Report (City of Fresno UGM/Impact Fee Audit)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.fresno.gov/wp-content/uploads/2025/01/COMPLETED-UGM-Audit-PDF-FY24-RCR.pdf",
+  "retrieved_utc": "2026-09-22T06:23:59.370656+00:00",
+  "physical_page_count": 302,
+  "source_sha256": "0e1bb0c7fe8f856d9c21cdd8a8946101a97aed1a6815c034e431f043567c1337",
+  "source_bytes": 31942742,
+  "source_pdf": "sources/city-of-fresno-2023-24-0e1bb0c7.pdf",
+  "published_data_rows_from_this_source": 14
+ },
+ {
+  "source_id": "city-of-fresno-2024-25-284382ba",
+  "receiving_entity": "City of Fresno",
+  "publication_title": "FY 2025 Impact Fee Annual Report (City of Fresno UGM/Impact Fee Audit)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.fresno.gov/wp-content/uploads/2025/12/Completed-UGM-Audit-PDF-FY25-RCR.pdf",
+  "retrieved_utc": "2026-09-22T06:23:56.228228+00:00",
+  "physical_page_count": 308,
+  "source_sha256": "284382ba2192f6b6383ba91a1fd3877c12609c7b74dbd5233964ddd6a0cfc664",
+  "source_bytes": 33181401,
+  "source_pdf": "sources/city-of-fresno-2024-25-284382ba.pdf",
+  "published_data_rows_from_this_source": 17
+ },
+ {
   "source_id": "city-of-garden-grove-2021-22",
   "receiving_entity": "City of Garden Grove",
   "publication_title": "City of Garden Grove impact fee report, fiscal year 2021-22",
