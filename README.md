@@ -1,6 +1,6 @@
 # California impact fees
 
-1052 reviewed rows covering 884 printed figures, from 108 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
+1120 reviewed rows covering 952 printed figures, from 112 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
 
 This is a research sample, not statewide coverage. Thousands of California agencies levy these fees. Do not sum this into a statewide estimate.
 
@@ -30,6 +30,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Brentwood | 2022–23, 2023–24, 2024–25 | 15 | $10,642,387 |
 | City of San Bruno | 2022–23 | 1 | $9,704,825 |
 | County of El Dorado | 2021–22, 2022–23 | 10 | $8,997,379 |
+| City of Lodi | 2022–23, 2023–24 | 22 | $8,816,807 |
 | City of Santa Clarita | 2022–23, 2024–25 | 13 | $7,643,989 |
 | County of San Joaquin | 2013–14 to 2024–25 | 21 | $6,810,556 |
 | County of Stanislaus | 2024–25 | 15 | $6,658,645 |
@@ -63,6 +64,8 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Campbell | 2022–23 | 3 | $1,494,663 |
 | City of Temecula | 2023–24 | 4 | $1,442,741 |
 | County of Placer | 2022–23 | 16 | $1,364,236 |
+| City of Santee | 2022–23 | 4 | $1,261,361 |
+| County of Butte | 2022–23 | 28 | $1,247,669 |
 | City of Hemet | 2013–14 | 9 | $1,236,987 |
 | County of Sonoma | 2024–25 | 2 | $1,162,458 |
 | County of Monterey | 2022–23, 2023–24, 2024–25 | 4 | $1,131,548 |
@@ -83,6 +86,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | County of Nevada | 2022–23 | 1 | $510,200 |
 | City of San Leandro | 2021–22 to 2024–25 | 4 | $502,732 |
 | City of Stanton | 2022–23, 2023–24, 2024–25 | 14 | $382,542 |
+| City of Brawley | 2023–24, 2024–25 | 14 | $372,395 |
 | American Canyon Fire Protection District | 2023–24, 2024–25 | 2 | $288,678 |
 | City of Menlo Park | 2023–24 | 1 | $264,413 |
 | City of Willows | 2020–21 | 6 | $252,090 |
@@ -133,13 +137,13 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 
 ## Double counting
 
-Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 884 rows of the 1052. Summing every row counts most amounts twice.
+Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 952 rows of the 1120. Summing every row counts most amounts twice.
 
 ## Limits
 
 These are amounts the agencies reported collecting. They are not audited, not reconciled to bank receipts, and not adjusted to a common accounting basis.
 
-Residential share is unknown for almost every row. Forty-three figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 841 the source prints one undivided amount. Unknown is never recorded as zero.
+Residential share is unknown for almost every row. Forty-three figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 909 the source prints one undivided amount. Unknown is never recorded as zero.
 
 Accounting basis is usually not stated. Where it is, the row says so: Sacramento’s reports state they are prepared on the cash basis. Refund treatment varies and is recorded per row.
 
@@ -151,7 +155,7 @@ Some rows are not Mitigation Fee Act fees. Quimby Act park in lieu accounts and 
 
 ## Sources
 
-The [sources directory](sources/) holds 201 complete original reports carrying 210 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
+The [sources directory](sources/) holds 207 complete original reports carrying 216 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
 
 Read [coverage and gaps](docs/coverage.md), the [methodology](docs/methodology.md), the [data dictionary](docs/data-dictionary.md) and the [review process](docs/review-process.md). Mechanical checks do not substitute for reading the source.
 

@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T21:01:27.983455+00:00",
- "data_rows": 1052,
- "distinct_printed_figures": 884,
- "receiving_entities": 108,
- "agency_years": 222,
- "fee_programs": 518,
- "source_reports": 199,
- "evidence_pairs": 884,
+ "built_utc": "2026-09-22T21:24:12.374436+00:00",
+ "data_rows": 1120,
+ "distinct_printed_figures": 952,
+ "receiving_entities": 112,
+ "agency_years": 228,
+ "fee_programs": 568,
+ "source_reports": 205,
+ "evidence_pairs": 952,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1992,
- "total_bytes": 486869174,
+ "file_count": 2134,
+ "total_bytes": 501635264,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 10384,
-   "sha256": "312997a103ad81a6d05e0943465095bff8b6aeb50497eeda2569bf762a83abc3"
+   "bytes": 10599,
+   "sha256": "a289ef80d95e7541ca3179aa5320169a2b0a6b99ca5d3486094935e8f03c7651"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1265,
-   "sha256": "35ac5b8c4e066c4103bae7fa513165f21c9b7950b62e42b3cedd90c20a92999c"
+   "sha256": "676d5e1f6e7f30c9a4a41ea93f6641f31146370b3acd741ff471bb14df445c24"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 421166,
-   "sha256": "de271d6fcfecf4b87c45ac1be6c97984ddf14e19ac9baedd042254ac8a1fdd55"
+   "bytes": 446014,
+   "sha256": "be0765f5a9c7d4f7121e364b9e2d4b9a714e4360a2331bfe8219b35f702157ca"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2278195,
-   "sha256": "606c77a40a37e78447beb8c6dfd66d246d96ae3ef7d41e61be9b4162900c491b"
+   "bytes": 2410736,
+   "sha256": "94e1f076f8035b63c7d58aa57c2c001fba110516a24e18555b6b6c4794f23d8c"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 3367104,
-   "sha256": "17ccb8a26f9e2a6148895a2e2e6041023e0ba755b41ff66ab6d5ba26dbcc2d7a"
+   "bytes": 3570141,
+   "sha256": "2380d7bedc40880b967729475d2b47583c9fdc7149b21468526b5b1d17cc6eb2"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -390,6 +390,76 @@
    "path": "evidence/extracts/city-of-beverly-hills-p003-6a8b909f.pdf",
    "bytes": 39750,
    "sha256": "fcba3d21c1725a1cd4454efa0582472043b2a189313feb432d9f40772ff7e904"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p001-c6a9da18.pdf",
+   "bytes": 64702,
+   "sha256": "3401f3ff9bb9294ee47037499eb20803c12c1f0f3a0690db69a230b123e8b710"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p001-d738f1ac.pdf",
+   "bytes": 63909,
+   "sha256": "bd5c114e5e1eab73df97e6a57ab89422f617ec018e82b3689440f129772e426d"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p002-3a8c94b5.pdf",
+   "bytes": 61358,
+   "sha256": "c4148eb5cc679b55d2f1cbe827533110db2e4ddedbf1123b017b667c72e48ce0"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p002-fb0a7e31.pdf",
+   "bytes": 62551,
+   "sha256": "e514e7479d4ba808bb9d0fbbb21a2f7fe684423262397a2fcfb702fe8afe9501"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p003-3e6ffbc4.pdf",
+   "bytes": 61511,
+   "sha256": "41b93a5c6b80afef9c10206fb2c3d72d56de68a42368bb5f34e2ccf9f6e08796"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p003-bcbd988a.pdf",
+   "bytes": 61826,
+   "sha256": "082c26e3119282508b22c98914a5db7a390dd3493a11eb679dbb927f1228421f"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p004-27546baf.pdf",
+   "bytes": 61330,
+   "sha256": "8c7e1ecca7ee603b778100b0cf5845e82d07987284f6f21e1e35844b7b9977b9"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p004-cde49c48.pdf",
+   "bytes": 61704,
+   "sha256": "6ef4f90b0d239f6e7d49d9db0cf3eef10a6e3a063e222d8883d6fb1b47cec8f6"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p005-35dd2354.pdf",
+   "bytes": 61830,
+   "sha256": "05a50b9ef83917e92fbcb51cf1c59ba98cc90747353b0ab68e9cc63b53f0c34d"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p005-a4afff48.pdf",
+   "bytes": 62586,
+   "sha256": "83193f659366d9c5b6f46a4cf3bca0c190d74757a33e65cafeb067a85cf1e5ea"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p009-91c28406.pdf",
+   "bytes": 62729,
+   "sha256": "b6a3bf523baffafa98b21c4e1c476674acda15be62440456792a39fc77af3ece"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p009-a37357e2.pdf",
+   "bytes": 72794,
+   "sha256": "f6ff463ec358d6d4f510d47662a5fff196f59bd0f41c78b13a89b0996870834d"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p010-297d1160.pdf",
+   "bytes": 62655,
+   "sha256": "37072a78f473e634e11ca2ac25e5518d00d741c58620c6b1d78691795312a54a"
+  },
+  {
+   "path": "evidence/extracts/city-of-brawley-p010-bf3bc76a.pdf",
+   "bytes": 62937,
+   "sha256": "245892ea9f5114158c08301cca17861d33c7dc65130a5c58a997f3c29b650b7b"
   },
   {
    "path": "evidence/extracts/city-of-brentwood-p011-17416213.pdf",
@@ -1792,6 +1862,116 @@
    "sha256": "1500f03c57eed2e14175cc955771202cf61977cc2c417300521cf003e9408ea5"
   },
   {
+   "path": "evidence/extracts/city-of-lodi-p008-3d8ccabd.pdf",
+   "bytes": 70388,
+   "sha256": "2080a328af96a39986f3b190ea0fe485d23f69adbbf1017bc481544b9b605a16"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p008-c23d11b3.pdf",
+   "bytes": 70404,
+   "sha256": "dd20480a0062f508e66ede064dc74695e336c05f174c2a9381434660511e987f"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p012-21b9c448.pdf",
+   "bytes": 72182,
+   "sha256": "4a781792d09fbbd9339b37449df663c7f3bff708f5f63bea3320b610f3557d82"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p012-f30cb6ed.pdf",
+   "bytes": 72469,
+   "sha256": "f6367ce8d18774f4478130f31ef1dcc292e20502605f16ba7647c4a685efc5d1"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p015-e45f9dea.pdf",
+   "bytes": 70189,
+   "sha256": "a9d210e81b6bbfbf683e3e272467e833abbd03942322a95a193687464dbc81d0"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p016-e14c2f13.pdf",
+   "bytes": 70107,
+   "sha256": "62e530c1677c3b2302f3f2a9815a480af0fd8ee1b5108d5c817dcf8ef89f2e8e"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p018-3f88bff4.pdf",
+   "bytes": 71078,
+   "sha256": "048bfef34d3800db960921c12ecffabb0abe75678656e18bfbfc3f356a90af21"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p019-de7df606.pdf",
+   "bytes": 70778,
+   "sha256": "43f91389bda15f2f8ee6e6ba7ec276d28f02f871722966168ee14bc786fd3d67"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p021-80bc5fb3.pdf",
+   "bytes": 70396,
+   "sha256": "073edc91906ec15355b305d7139c2ba8e04bb2ac2ce1e745813fe8567a1cbead"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p022-84250c34.pdf",
+   "bytes": 70260,
+   "sha256": "1cdc237fd25596cfc9d27cd15f0c41c9d379b9a66686ed0f923fbe1e09ad6b7a"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p024-ced6c7c7.pdf",
+   "bytes": 70618,
+   "sha256": "a78d85606ddd4e66f0cbdfb82ae50487f26a4fd9ee299e00b3477a1f3f240ad3"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p025-09d51d58.pdf",
+   "bytes": 70929,
+   "sha256": "d7e12c0ab8df5eb2ea48c806497750d0527645e504cfe386b74818236b92252d"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p027-7ff7ad39.pdf",
+   "bytes": 71480,
+   "sha256": "41437784fe2511061b8f6fb1bc75f17ceb49e2f30a235efb57629b4a0b9781f9"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p028-bed9d750.pdf",
+   "bytes": 71760,
+   "sha256": "df426f329ced2fe413f6b9935765301ab19bb434e0eb78675b60638e9e838b0a"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p030-f9f8ce58.pdf",
+   "bytes": 72942,
+   "sha256": "eccc8038583e50868e154eba558cd758eaabfc81ae984aee349cadfa1d24fe12"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p031-bd72147d.pdf",
+   "bytes": 71298,
+   "sha256": "1915e9af10004ef7d3e98509729615c29a5d920c8ad69dba135628cef95281af"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p033-13746895.pdf",
+   "bytes": 70419,
+   "sha256": "198fae076bd826bd166914bb7e7fe37ccf88c6d329d4649d61de7f3356c88106"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p034-6739ec56.pdf",
+   "bytes": 70201,
+   "sha256": "5624b6384b53907af15dbee0ae0ff9ac539e16934e9719ae3eb03dc8662eda8a"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p036-f60133a3.pdf",
+   "bytes": 71909,
+   "sha256": "ec126aab78584d6df12f8c198e3323415069f3103697d387dc0eac4b2c012059"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p037-b4858dcb.pdf",
+   "bytes": 70854,
+   "sha256": "7f1c68ec6e33b49eef6524f658c6d9953d30ebe6acb38d277cfc28d00d42d54d"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p039-306cf35e.pdf",
+   "bytes": 70245,
+   "sha256": "48824d2327ae768c23336820d938b92b1dd0e64cc02ae183d7e1f78aeb68daec"
+  },
+  {
+   "path": "evidence/extracts/city-of-lodi-p040-3313bc4e.pdf",
+   "bytes": 70594,
+   "sha256": "4823c0ed07eea82672b1a58e8f5e32fd63ff837ce5813956cc675d6aeb170bef"
+  },
+  {
    "path": "evidence/extracts/city-of-los-angeles-p003-0060c3ec.pdf",
    "bytes": 57673,
    "sha256": "3455fe2f8ea28392565d1939d50f1be57f6eb1fba91fa247df6140c235821022"
@@ -2922,6 +3102,26 @@
    "sha256": "fcb2818483c64e8d53f659b667b631db532437984513cfd14f87eae1ee932861"
   },
   {
+   "path": "evidence/extracts/city-of-santee-p008-1402ff01.pdf",
+   "bytes": 62555,
+   "sha256": "b2aea52e7a22fd5ab4c0b481df66306e8fa37d8aa60d360008fbebcebae3e9c7"
+  },
+  {
+   "path": "evidence/extracts/city-of-santee-p009-75468f72.pdf",
+   "bytes": 62320,
+   "sha256": "53e223e89f3af75881223d97af0f3f53f55bfd2a873f3a0e15cf5b3901685b78"
+  },
+  {
+   "path": "evidence/extracts/city-of-santee-p010-57e43609.pdf",
+   "bytes": 62544,
+   "sha256": "44c7a2974df40160241f60a17046c8d75e2b997a601491c3ed337bbf3f28c71e"
+  },
+  {
+   "path": "evidence/extracts/city-of-santee-p011-8ad2e743.pdf",
+   "bytes": 62421,
+   "sha256": "f477316b58dedcfda8e46e97c66be4b49b2bbcfbb97430f77097dde66b532f74"
+  },
+  {
    "path": "evidence/extracts/city-of-seaside-p003-a688195d.pdf",
    "bytes": 5697,
    "sha256": "68c0d081262055865b58564565d5eaa7908409522d6714532faece5a2e60be88"
@@ -3460,6 +3660,146 @@
    "path": "evidence/extracts/cosumnes-community-services-district-p003-9117113d.pdf",
    "bytes": 38139,
    "sha256": "0b54cdf9891273f9c58b0082eb733e24496d769698b81b032533aa0b0c4bb22d"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p006-f5168e4e.pdf",
+   "bytes": 43436,
+   "sha256": "e591070c6b3bd829b035cea8709aad19c9b327cd88a44e36fa2a2e3f4bcbe91a"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p007-36f13f54.pdf",
+   "bytes": 44663,
+   "sha256": "07f64a9e46952cef39e3c21c48865fe1a42d17eb99f50e84de013411399603e1"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p008-fb0cc2b4.pdf",
+   "bytes": 44077,
+   "sha256": "25a2377249a0beee360389b566621e5c259317f4e5bd4ee2eac3075667ac774d"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p009-f8ece8fe.pdf",
+   "bytes": 43476,
+   "sha256": "8a1f95e75e8f3633c5fa5d48f0f4bd86e21b26e86948dff26d323c7e5dbc2947"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p010-50705915.pdf",
+   "bytes": 42628,
+   "sha256": "3144f57b0c3ac15f682d269a4c138f464dceba93427c1ad89d61a3ddf6796c0b"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p011-06deabd9.pdf",
+   "bytes": 42342,
+   "sha256": "3290ab53b11a274262d81c20bb49c6d5e1e5ca0721e120a65bdad4441d33dc2a"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p012-44914024.pdf",
+   "bytes": 44094,
+   "sha256": "3010ee9d40466c3e529d31e34026f930cd43b71facbd6c5a5a27246cd97ab3f9"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p014-a722ac63.pdf",
+   "bytes": 43680,
+   "sha256": "ba6e7b97470d82dcbcc9736444da4a6d8dfb41fae579dae3d1587d7c27ddcc29"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p018-1b1cf2dc.pdf",
+   "bytes": 40211,
+   "sha256": "416e0bcfccb0b4e71ea6c46c5a3d30461156f6e1dc9d407c795504ead9fb4352"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p023-c2206837.pdf",
+   "bytes": 43881,
+   "sha256": "f569652036c03428c4febe2fb8accf40615f5c63a89084efd184c9b08604fe5b"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p025-a930ed6e.pdf",
+   "bytes": 45064,
+   "sha256": "173911ce39bab5e2a8cac2aefed7ba6745aba9d4590967f1317bded6502bc94f"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p028-b1685ebc.pdf",
+   "bytes": 43973,
+   "sha256": "96c7e3d743094e8c25b25a5fddb6e8ccd06dc89e66c7762f39b084ece519f577"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p029-fe1486ef.pdf",
+   "bytes": 44160,
+   "sha256": "1663a586a1bad98c5621928c02991bc9ad3c9bfb10254eb3491f5a3c7d265462"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p030-6997048a.pdf",
+   "bytes": 45388,
+   "sha256": "b7191ca0c94443ee7bb04dc4aff313f363f29d69823ea9428555aefb5e96defa"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p031-3ed10de8.pdf",
+   "bytes": 44664,
+   "sha256": "f559594e8c1090d75f3ea5974232c0bb1f3bcd85840e07c842230e6f97ad55df"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p032-54a11fa8.pdf",
+   "bytes": 44677,
+   "sha256": "d5e710ee242f323463a4067513d0969509107f120ced52fe83e22e042692fc3b"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p033-93a511da.pdf",
+   "bytes": 44186,
+   "sha256": "3da066be39671124c57d4d7d136d7c1e1749ad9ff62a80d62cbaf8e2bfb5d813"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p043-e58f06d7.pdf",
+   "bytes": 42049,
+   "sha256": "73313ef118a4dae1fc4b40a1f11c12fbd3f998349fbcdeef0ff84ab5e28b4dfb"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p044-04270130.pdf",
+   "bytes": 42979,
+   "sha256": "7d91f30bc64294dded9155b6c859109321d9c6e43362428105e3541c120c3db0"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p045-2f748e53.pdf",
+   "bytes": 43748,
+   "sha256": "61407ccb78b4f09475480421e5520d24349e6ecbcac9f2e8a7fb91393b9b9fe8"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p046-f04c0e9e.pdf",
+   "bytes": 43799,
+   "sha256": "a7a11bfdebc0a3287d133e99c8045c4207b941915d77e509223ecf56e95e7828"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p047-0852d1c3.pdf",
+   "bytes": 43862,
+   "sha256": "8609d6325a8dd1982375b950f98716add9f73629f2d71489339e994ec0641278"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p048-14696683.pdf",
+   "bytes": 41945,
+   "sha256": "1c5d4b47eada2add040057f022138e563be3134cb470aef018e6398f5664796b"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p050-80e91f44.pdf",
+   "bytes": 43751,
+   "sha256": "a2160c167a5f963a68b721a2b3d0d2ce62f074f4dae485e88b54e04ba1ae178a"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p051-1fc4a539.pdf",
+   "bytes": 43583,
+   "sha256": "8b7d171af6bdaebb6e9d008416c162af2c08d25fb5fb2e737a69ad6e890d9b41"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p052-05d7a792.pdf",
+   "bytes": 43298,
+   "sha256": "1ae793218e243f6770752402e17ec31f213ecfcf2ea7de2a0e19e3d2692edc4e"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p053-e6a9af66.pdf",
+   "bytes": 41436,
+   "sha256": "b1b3afb7df9574ebbe45188b9c7cd993112cfb181758b55b9b286a469b7267cc"
+  },
+  {
+   "path": "evidence/extracts/county-of-butte-p054-112bd503.pdf",
+   "bytes": 41408,
+   "sha256": "f675a0774570c975f608952059b373db6d01a5037dbf6452c00af596f63d608f"
   },
   {
    "path": "evidence/extracts/county-of-el-dorado-p033-360544d4.pdf",
@@ -4518,8 +4858,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 927301,
-   "sha256": "ef7e2367732133671e6147665c725c26e09a7641fe01771433cd2317a3dc083b"
+   "bytes": 996427,
+   "sha256": "acb10e2cea0bb7514a43453245e447dffe5464013afc3cf641fac06158cc48ea"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -4815,6 +5155,76 @@
    "path": "evidence/outlined/city-of-beverly-hills-p003-6a8b909f.pdf",
    "bytes": 40078,
    "sha256": "fc455f01de87e13752557d737b8f0de82c779f5ce64199908f1b15138fe34df5"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p001-c6a9da18.pdf",
+   "bytes": 64764,
+   "sha256": "e7ac21632f24e6b16837bb4f39c3fcf1adfd8b5960ec3533d70262caf1072f0a"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p001-d738f1ac.pdf",
+   "bytes": 63973,
+   "sha256": "d9d10d1461c284819ecd88cff7217aee90351eaaf69f8ff9535675982caa79c5"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p002-3a8c94b5.pdf",
+   "bytes": 61426,
+   "sha256": "0d30dc12ef74eb7517d0027f4743d240790d779ad66fc12288793b0d3ddfab1d"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p002-fb0a7e31.pdf",
+   "bytes": 62614,
+   "sha256": "78b245af65b7f54309d9af96248ba83b6b38c3fcaa88021dfff56a9c146fc8c4"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p003-3e6ffbc4.pdf",
+   "bytes": 61582,
+   "sha256": "92c41bf7967c509e73de247ad35e7b5438806e9bd8ad3f1746b68e63a5cdfa8e"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p003-bcbd988a.pdf",
+   "bytes": 61895,
+   "sha256": "71c5cacc11f87982b2e03e478385d44061ad29ab50c60b9185649582ed6cd1f5"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p004-27546baf.pdf",
+   "bytes": 61397,
+   "sha256": "ae5ce76b0ab3696b68664b96998a0e39d08cd874486cffd1c6e44e651caec541"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p004-cde49c48.pdf",
+   "bytes": 61767,
+   "sha256": "770d606790a4f5bcfc187b5a6ac0ae7d2329631178057c5ad4af1d7e51b1cc1e"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p005-35dd2354.pdf",
+   "bytes": 61898,
+   "sha256": "31db69396e8473589ca879f17c99f688ca70d50ba0944b92dbaff78c6c503591"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p005-a4afff48.pdf",
+   "bytes": 62653,
+   "sha256": "89fca8c69aca9d02beae7e933e365549eb32a2f32e35a5e48c80a6699bb6cd6e"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p009-91c28406.pdf",
+   "bytes": 62797,
+   "sha256": "b265fc3fb10181f218d5d906cf2cdbe8884fe5b3991edaaa8bc5d485f89aae3e"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p009-a37357e2.pdf",
+   "bytes": 72860,
+   "sha256": "c40af918787cc3eeb19137ee2ba0b363020c83f779378e9faa8fbe5de2acb022"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p010-297d1160.pdf",
+   "bytes": 62720,
+   "sha256": "7132e55f0e09e90fcc80899d58f95cf68777e11088407d10206fa62d08a677a8"
+  },
+  {
+   "path": "evidence/outlined/city-of-brawley-p010-bf3bc76a.pdf",
+   "bytes": 63001,
+   "sha256": "5aee74bf888ef85aacdcd8201d4972fd7a0a253b7d75e776793b3c92e83d627a"
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-17416213.pdf",
@@ -6217,6 +6627,116 @@
    "sha256": "c15dd5270b2e1c580a3de4e4906b615c82e287d2d15a268c36650cb397d6b64e"
   },
   {
+   "path": "evidence/outlined/city-of-lodi-p008-3d8ccabd.pdf",
+   "bytes": 70447,
+   "sha256": "74a2dc288461e101ef14e5b95a98fb487ec93a1c27ffe2cae1fc4d9e54371da8"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p008-c23d11b3.pdf",
+   "bytes": 70465,
+   "sha256": "6dab5e0c591b4d2a3f40820353c45c021ff1f19668386ec3e75856cbf23405be"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p012-21b9c448.pdf",
+   "bytes": 72241,
+   "sha256": "f135b60500f729cfa82a745fc559e0749f9bf3402b599c68ed53d3e427e841f1"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p012-f30cb6ed.pdf",
+   "bytes": 72530,
+   "sha256": "bdf27acb915f09b62784a7b2cbecfa7b0d6db9e2ca95c100dd62d567c0ff97da"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p015-e45f9dea.pdf",
+   "bytes": 70248,
+   "sha256": "b65d3e2602c7e6949e0fede49bc5763fe8de3b85297c31891c125614a4fafe26"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p016-e14c2f13.pdf",
+   "bytes": 70167,
+   "sha256": "30ceaf9c5be11e3eb1a165ad630a32682a994cf18928cc7a14967aa677828346"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p018-3f88bff4.pdf",
+   "bytes": 71137,
+   "sha256": "e04fc2cbb04cb4d5b805794d3b691a67554e9b255f4d1f061ced5e16f2d718b5"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p019-de7df606.pdf",
+   "bytes": 70841,
+   "sha256": "8990a8285361ae0a248eab995bfa088734f91bcd93f59e8caac68aed8fabc581"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p021-80bc5fb3.pdf",
+   "bytes": 70454,
+   "sha256": "def7c7c7b75f0e664fe863cc6c7b568b980f58fa425f054b0fd8abe77c29b4e4"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p022-84250c34.pdf",
+   "bytes": 70318,
+   "sha256": "4dd86c5a1b9a9b6f4d40efdd95ba10bbe5797ccf1342ede644b040c279298147"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p024-ced6c7c7.pdf",
+   "bytes": 70681,
+   "sha256": "59ae76cdd4f268f1726877fe6e3bf4d25d65f49c15a42f6a8648e75a2fdbb676"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p025-09d51d58.pdf",
+   "bytes": 70992,
+   "sha256": "313579491bac257b323ebe3e1f475abc1863dcff7c8ef5a4167547a5cf8f98d5"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p027-7ff7ad39.pdf",
+   "bytes": 71542,
+   "sha256": "c054bba9916755dfe8d575fab633173b9a3213a5ba04de8792a934afe9c54f49"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p028-bed9d750.pdf",
+   "bytes": 71817,
+   "sha256": "5df9bdf72bc8d7c131756fe809b33498ad93b53a6a3e8f850a3b7ac888c9018c"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p030-f9f8ce58.pdf",
+   "bytes": 73004,
+   "sha256": "e29a487c52cb96ec5f7b027cf8c0e22945f44f1057a7a5f2de3b588fe7a9a289"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p031-bd72147d.pdf",
+   "bytes": 71359,
+   "sha256": "5eb4ceacb68981769ef63fcf2a7df4907001d41cc378c30d17db718ec90e4b01"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p033-13746895.pdf",
+   "bytes": 70478,
+   "sha256": "1c0a432da635bac326eab2f57a45497e88aae370583dbf445cf5c2ab4d2224e0"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p034-6739ec56.pdf",
+   "bytes": 70260,
+   "sha256": "29cf86c13b7c745b97a12f440f0407cd0fb8ed1ceae51d3e4367c541a77d8ffc"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p036-f60133a3.pdf",
+   "bytes": 71967,
+   "sha256": "1241228a4fc65cbd0b0b4ecce729394b63b1c7842271fe5224a1491e8c2c5efe"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p037-b4858dcb.pdf",
+   "bytes": 70915,
+   "sha256": "acfb9c074cf83e8ee5bf731eee9d6e047eb770021cc916d1d0c87d124e626034"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p039-306cf35e.pdf",
+   "bytes": 70306,
+   "sha256": "51a7356e66c7e151c0ad263f13dee89f2fc969b33ff607f20ea32c0375392d8c"
+  },
+  {
+   "path": "evidence/outlined/city-of-lodi-p040-3313bc4e.pdf",
+   "bytes": 70651,
+   "sha256": "8f4d369dda471649e6df17be5d31ab1d9441533baf8fc4cc921ea25772eca9d0"
+  },
+  {
    "path": "evidence/outlined/city-of-los-angeles-p003-0060c3ec.pdf",
    "bytes": 57729,
    "sha256": "c311c45fe60f359f9d8ec5558d9f88bf926f202a0aac97d5682fc2ec1f72ae86"
@@ -7347,6 +7867,26 @@
    "sha256": "93561c9fc3755e458b4456899d09452d4b3dc6e635c9c90fa90e475fc5d18f02"
   },
   {
+   "path": "evidence/outlined/city-of-santee-p008-1402ff01.pdf",
+   "bytes": 62612,
+   "sha256": "46a5f6a1b60485a19ea2e744dfa5ce8df4e25f46c00f31ec8ef0986b632b9e06"
+  },
+  {
+   "path": "evidence/outlined/city-of-santee-p009-75468f72.pdf",
+   "bytes": 62377,
+   "sha256": "eaad9b4c6454e87d808eca1da75e368f164e8171824894dfa4381caaf4af9d0b"
+  },
+  {
+   "path": "evidence/outlined/city-of-santee-p010-57e43609.pdf",
+   "bytes": 62601,
+   "sha256": "f9a7f3d93d695eb9e5bd13592e0bda31048623782dc4f2ab1bb59a72265c8bf3"
+  },
+  {
+   "path": "evidence/outlined/city-of-santee-p011-8ad2e743.pdf",
+   "bytes": 62476,
+   "sha256": "3060c073924397416d9046e4638c429dd5ee3e8b136048fd588eddb2d281f43f"
+  },
+  {
    "path": "evidence/outlined/city-of-seaside-p003-a688195d.pdf",
    "bytes": 5750,
    "sha256": "c48104d168b1db21e25032f75bd59f9d56a1ded857e6472a8d31c6d9af579d81"
@@ -7885,6 +8425,146 @@
    "path": "evidence/outlined/cosumnes-community-services-district-p003-9117113d.pdf",
    "bytes": 38205,
    "sha256": "84d35ee5c15c94b6a4b7e75ab99550f9a9d79b41224a4f5179968781bc546119"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p006-f5168e4e.pdf",
+   "bytes": 43492,
+   "sha256": "eda1b48dc5a19410a13512789014cecc54f8a795826f0ce0fffa48fcf80baf70"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p007-36f13f54.pdf",
+   "bytes": 44718,
+   "sha256": "345fbdabf993347a0a9655ed06446237d3d71320da1263baa40e9d984046df70"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p008-fb0cc2b4.pdf",
+   "bytes": 44133,
+   "sha256": "a8a67783fd8bd05203ff6aac6e49be25e56d9d68ff4398e78e30aed9b85e3408"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p009-f8ece8fe.pdf",
+   "bytes": 43532,
+   "sha256": "ea09382075d4fb2a1486fafe8129a5780eca28f7ea38fc62ebb1e94c9c6feabc"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p010-50705915.pdf",
+   "bytes": 42682,
+   "sha256": "9b7d45de51504427f77daa6106fe07e5bd0e21833e0a66e2f5bf99b80105c0ce"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p011-06deabd9.pdf",
+   "bytes": 42397,
+   "sha256": "cba5cec1a6aafd6abc46e5f236a192a587095d617a014e6c965cc2735daef5ff"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p012-44914024.pdf",
+   "bytes": 44151,
+   "sha256": "2d1d647319f4e487f054af1821b2876ef4e6e6a42ee06e563ebc0cab46f47832"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p014-a722ac63.pdf",
+   "bytes": 43734,
+   "sha256": "d4e984856085c404de7d1d24cbd986776ded73fa029fdcede07286282bf6bd52"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p018-1b1cf2dc.pdf",
+   "bytes": 40266,
+   "sha256": "91653fb73c3c59e2e2e2df51438436c09c49693b028e34cf1c86feff528672c9"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p023-c2206837.pdf",
+   "bytes": 43936,
+   "sha256": "8b63a39ae02cf7b23c25347dc7832c7441008ce17721f0981e35e87f42452dd3"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p025-a930ed6e.pdf",
+   "bytes": 45120,
+   "sha256": "71614257b6b173b273fd21f7a2f6cee81434098a456887cd23b6a23341b40cf5"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p028-b1685ebc.pdf",
+   "bytes": 44028,
+   "sha256": "57ce72e3986ad62c1326c23eb8308500e8e6032319618473d3d14e64ef6020ce"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p029-fe1486ef.pdf",
+   "bytes": 44219,
+   "sha256": "9ff41c3b65d5d94a502163abcd55ee614a99854a708f0a078ad48a41cf0ae236"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p030-6997048a.pdf",
+   "bytes": 45445,
+   "sha256": "d242d0c7238081c452dd65623dc7a90ddbdd8da095c51bf42de07d7d0a0e6d7f"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p031-3ed10de8.pdf",
+   "bytes": 44720,
+   "sha256": "8ef27037d2db6831712021f48dc9cbcea19c24acad068607b0eb0a5a420aac42"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p032-54a11fa8.pdf",
+   "bytes": 44737,
+   "sha256": "d29841ec4897a4a8211d647bfde2adcde31b170d6ccebd1bee53ed53a190de96"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p033-93a511da.pdf",
+   "bytes": 44245,
+   "sha256": "9ff453b51d54794dd25e759778c541d454e6460ff81c6176c21030868c582855"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p043-e58f06d7.pdf",
+   "bytes": 42103,
+   "sha256": "52866720f37f858066896236ac3bbd3f1390e93b40cf48c53735e6e0218583e9"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p044-04270130.pdf",
+   "bytes": 43033,
+   "sha256": "81fbf639e7cc8e2c5ad4bf4f572f2854d9a7c5f52f8632197a9de7f996e18585"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p045-2f748e53.pdf",
+   "bytes": 43803,
+   "sha256": "2afa94f4983dfb5e9acbd5a46d047767e6f5c2f6981fef198bb1cf4e88a96a73"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p046-f04c0e9e.pdf",
+   "bytes": 43856,
+   "sha256": "ace6738d6ad7267e7799d59e9e59fb85b85f0b02f1d015c91e3208aadf23fbf2"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p047-0852d1c3.pdf",
+   "bytes": 43918,
+   "sha256": "79da14b44911b706d78077a80f7169c90d65be09eceb1e040e627173cbddfb24"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p048-14696683.pdf",
+   "bytes": 41997,
+   "sha256": "a27e0516dc032abcf96e20e8b67e1eefca91c97f471575393f3177dc3532cb70"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p050-80e91f44.pdf",
+   "bytes": 43808,
+   "sha256": "7c0f09234d56355756a439c7bf90a345de74df70d67ca21545b68f04cdeca876"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p051-1fc4a539.pdf",
+   "bytes": 43638,
+   "sha256": "e8c72976cfa1469e3f89fe3f81577a4b060873529dd07fbb1a60cc1b14ffbbeb"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p052-05d7a792.pdf",
+   "bytes": 43354,
+   "sha256": "928f5888929405cbf39dfab084198e2c36970c18ef14ff59280e36b4a22837af"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p053-e6a9af66.pdf",
+   "bytes": 41493,
+   "sha256": "cebcefef1d1a11f676830fd59721a8df89569758df9fc960bbdee7341ec1590a"
+  },
+  {
+   "path": "evidence/outlined/county-of-butte-p054-112bd503.pdf",
+   "bytes": 41464,
+   "sha256": "69aabc5a4007fafd76aca88956c1482c996baff4779c53af8c45ddf0fa0d10a6"
   },
   {
    "path": "evidence/outlined/county-of-el-dorado-p033-360544d4.pdf",
@@ -9007,6 +9687,16 @@
    "sha256": "050ffa31545e55c7c56cfda6bf26d4c2d71a532cd3337587214d9154bfc92823"
   },
   {
+   "path": "sources/city-of-brawley-2023-24-0198bef5.pdf",
+   "bytes": 2030797,
+   "sha256": "0198bef54d3aacf44ace8db194e16f23f0815f212bf9678f8d77c2260cebed18"
+  },
+  {
+   "path": "sources/city-of-brawley-2024-25-215e0608.pdf",
+   "bytes": 2110431,
+   "sha256": "215e06087cbc0ab7d0ef1e258cdc4eff71c68244c311e45727918b698c2b4875"
+  },
+  {
    "path": "sources/city-of-brentwood-2022-23.pdf",
    "bytes": 5369899,
    "sha256": "f0ed25c11dfdf880eef32ff3b7edbd49e531498d723bbe1d73355ea5635349f3"
@@ -9267,6 +9957,16 @@
    "sha256": "7c5bdc6e688215632c314d1cd7982ca875fb9619ac945caaee9dec9fc5b0192b"
   },
   {
+   "path": "sources/city-of-lodi-2022-23-1e886606.pdf",
+   "bytes": 589206,
+   "sha256": "1e8866065bd47ca9dd3fcee4c67b4b35a400d9f9439c6b8b1416ee769875ca0b"
+  },
+  {
+   "path": "sources/city-of-lodi-2023-24-e96450e9.pdf",
+   "bytes": 612581,
+   "sha256": "e96450e9ab029b8034d736bb5ab7550ff762f942e3b8dd48b586fa26e5981016"
+  },
+  {
    "path": "sources/city-of-los-angeles-2022-23-0645385a.pdf",
    "bytes": 762729,
    "sha256": "0645385ab108523bf1f9d75c4433ddadcd1cd7fbc6741410c25d90b0921ecf6d"
@@ -9512,6 +10212,11 @@
    "sha256": "86387890c1a4cfca28f20732a8af3adaedb9932f5738150752646c3ec66e5739"
   },
   {
+   "path": "sources/city-of-santee-2022-23-bf341c97.pdf",
+   "bytes": 348054,
+   "sha256": "bf341c97dffc980fadd264da40489cee4d9cb3b70626f1b67aff23d9f74f802f"
+  },
+  {
    "path": "sources/city-of-seaside-2024-25-da127348.pdf",
    "bytes": 76955,
    "sha256": "da127348942695af779901f23f16cd80a6a04e8bcf0650b9d58ec088f7fa79fc"
@@ -9635,6 +10340,11 @@
    "path": "sources/costa-mesa-sanitary-district-2017-18.pdf",
    "bytes": 149847,
    "sha256": "f4e9978ec56cfe6abba60e96e995ffb0240cc082ba3714f59da0bd9090370e13"
+  },
+  {
+   "path": "sources/county-of-butte-2022-23-9fafb462.pdf",
+   "bytes": 810031,
+   "sha256": "9fafb4623e8eedf11fdce226c9c201511bbdf8f60e8e3e36ef7fe384bd6b71b9"
   },
   {
    "path": "sources/county-of-el-dorado-2022-23.pdf",
@@ -9898,13 +10608,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 90983,
-   "sha256": "35fb29fb95b26e20bf7b743268b4106999e36ad618c3836a5e83796bd228208c"
+   "bytes": 93404,
+   "sha256": "ad93161077d6d5e1a390cc3f49e1c06fee8fb2704574fc3ee01bd54df9f8c94f"
   },
   {
    "path": "sources/index.json",
-   "bytes": 157403,
-   "sha256": "7ade94246d707f5ea27266d58726b138c5411accb167d32f492bfc2e4b5e2221"
+   "bytes": 161730,
+   "sha256": "c884fc9129a95ad97fb1d6b7086af4863f27488c7f523d9d162953e6b0a39744"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -9964,7 +10674,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3057,
-   "sha256": "ac1f13c21d0e7101cb04a985d3cc83f1fcba6ad56cac2a7ec969ab754a1ff5a9"
+   "sha256": "8f8888c53d6bda50f9bf24eb4232cad89ffc56e316200f14c1f6faab78c1057a"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -9979,7 +10689,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2588,
-   "sha256": "822fca9f08a90aadb562928a4035a95ff06f00e467e2bb6851d3aedfe45bcfc9"
+   "sha256": "c0ce884f18aa3637b7b5392aaee823d9253734fc00cf0b33e68b1416bbab27a0"
   },
   {
    "path": "validation/validate.py",
