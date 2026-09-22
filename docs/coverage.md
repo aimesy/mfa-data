@@ -9,8 +9,11 @@
 | Receiving entities | 43 |
 | Agency-years | 79 |
 | Fee programmes | 131 |
-| Complete original reports published | 59 |
+| Original report files published | 52 |
+| Publication records they carry | 61 |
 | Fiscal years spanned | 2013–14 to 2024–25 |
+
+52 files carry 61 publication records because some agencies file inside a shared document: nine El Dorado County special districts appear in one combined county filing, and the American Canyon Fire Protection District's two years are in one document. Two of the 52 files are carried forward from an earlier release as source-only records whose own figures remain held, so 50 files sit behind published figures.
 
 By entity type, the 189 primary figures are 160 from cities, 19 from special districts and 10 from school districts. No county, community college district, joint powers authority or utility enterprise is represented at all.
 

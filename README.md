@@ -1,6 +1,8 @@
 # California development impact fee reports and reviewed data
 
-**357 reviewed data rows covering 189 distinct printed figures, from 43 receiving entities, 79 agency-years and 59 complete original reports, spanning fiscal years 2013–14 to 2024–25.** Every published figure was read from the original report, marked with its own outline on the page it appears on, checked against the source's own arithmetic, and reviewed twice before release.
+**357 reviewed data rows covering 189 distinct printed figures, from 43 receiving entities and 79 agency-years, spanning fiscal years 2013–14 to 2024–25.** Every published figure was read from the original report, marked with its own outline on the page it appears on, checked against the source's own arithmetic, and reviewed twice before release.
+
+The [sources directory](sources/) holds **52 complete original report files**. They carry 61 publication records, because some agencies file inside a shared document: nine El Dorado County special districts appear in one combined county filing, and the American Canyon Fire Protection District's two years are in one document. Two of the 52 are carried forward from an earlier release as source-only records whose own figures remain held.
 
 This is a reviewed research sample. **It is not statewide coverage, and it must not be summed into a statewide estimate.** California has thousands of fee-levying agencies; 43 are represented here.
 
