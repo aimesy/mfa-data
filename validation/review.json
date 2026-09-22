@@ -3,7 +3,7 @@
   {
    "check": "manifest_files_match",
    "passed": true,
-   "detail": "452 files checked; 0 mismatched []"
+   "detail": "453 files checked; 0 mismatched []"
   },
   {
    "check": "no_unlisted_published_files",
@@ -78,12 +78,22 @@
   {
    "check": "no_private_paths_or_identifiers_in_text_files",
    "passed": true,
-   "detail": "19 text files scanned against 10 patterns; 0 hits []"
+   "detail": "20 text files scanned against 10 patterns; 0 hits []"
   },
   {
    "check": "published_arithmetic_claims_balance",
    "passed": true,
    "detail": "50 equations parsed from 38 distinct arithmetic_check claims; 0 do not balance []"
+  },
+  {
+   "check": "cohort_accounting_reconciles",
+   "passed": true,
+   "detail": "cohort 3373 = published 357 + refused 3016; reason counts sum to 3016 across 10 codes; reconciles"
+  },
+  {
+   "check": "cohort_accounting_carries_no_amounts",
+   "passed": true,
+   "detail": "[]"
   },
   {
    "check": "markdown_links_resolve",
@@ -92,7 +102,7 @@
   }
  ],
  "passed": true,
- "n_passed": 18,
+ "n_passed": 20,
  "n_failed": 0,
  "data_rows": 357,
  "figure_groups": 189,

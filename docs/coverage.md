@@ -25,7 +25,7 @@ A discovered URL, a saved web response, a PDF file, a registry entry and a verif
 
 ## What was reviewed and refused
 
-3,373 rows were reviewed for this release. 357 were published and 3,016 were refused. Counts by reason code are in [`data/refusals-by-reason.csv`](../data/refusals-by-reason.csv). No refused amount appears anywhere in this repository.
+3,373 rows were reviewed for this release. 357 were published and 3,016 were refused, leaving none undecided. That disposition is published as counts in [`data/cohort-accounting.json`](../data/cohort-accounting.json) and broken down by reason code in [`data/refusals-by-reason.csv`](../data/refusals-by-reason.csv), and `validation/validate.py` checks that it reconciles — published plus refused equals reviewed equals the cohort total, and the reason counts sum to the refused total. You do not have to take the accounting on trust. No refused amount appears anywhere in this repository.
 
 The dominant group, 2,974 rows across 787 school districts for fiscal years 2023–24 and 2024–25, comes from a single California Department of Education SACS unaudited actuals download. Those rows have no report page, so no page extract, no outlined figure and no visual review of an original are possible; the dataset is also the state's financial reporting rather than each district's own Government Code section 66006 disclosure, and it carries no land-use split. Those figures may well be correct. They are not published because the evidence needed to publish a figure under this release's bar does not exist for them.
 

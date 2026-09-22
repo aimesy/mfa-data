@@ -79,6 +79,7 @@ Several agencies file inside one combined county document. That document is publ
 
 | File | Contents |
 |---|---|
+| `data/cohort-accounting.json` | disposition of every row in the reviewed cohort, counts only: cohort total, reviewed, published, refused, and rows left undecided (zero). The validator checks that published plus refused equals reviewed equals the total, that the refusal reason counts sum to the refused total, and that the published count equals the rows actually in the data file |
 | `data/refusals-by-reason.csv` | reason codes and counts for the 3,016 refused rows. **No amounts.** No refused figure appears anywhere in this repository |
 | `data/residential-cash-receipts.csv` | header only. Verified residential cash is not established |
 | `data/capital-spending.csv` | header only. Actual capital spending on a comparable scope is not established |

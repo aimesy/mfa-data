@@ -1,0 +1,14 @@
+{
+ "what_this_is": "Disposition of every row in the reviewed cohort. Counts only: no amount and no refused figure appears here or anywhere else in this repository.",
+ "cohort_definition": "Fee-collection observations in the frozen research input that had already passed the research project's mechanical validation checks, with measure type total_fees_collected, gross_residential_fees_collected or mixed_or_unallocated_fees_collected.",
+ "cohort_total": 3373,
+ "reviewed": 3373,
+ "published": 357,
+ "refused": 3016,
+ "published_plus_refused": 3373,
+ "remaining_undecided": 0,
+ "published_rows_in_data_file": 357,
+ "distinct_printed_figures_published": 189,
+ "refusal_reason_codes": 10,
+ "note": "Every refusal carries its own source-specific reason naming the document, the page and the defect. Those reasons are retained privately with the held rows; only the reason codes and counts are published, in refusals-by-reason.csv."
+}

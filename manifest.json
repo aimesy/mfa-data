@@ -1,6 +1,6 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T04:08:44.980557+00:00",
+ "built_utc": "2026-09-22T04:17:04.834999+00:00",
  "data_rows": 357,
  "distinct_printed_figures": 189,
  "receiving_entities": 43,
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 452,
- "total_bytes": 61852734,
+ "file_count": 453,
+ "total_bytes": 61856708,
  "files": [
   {
    "path": ".gitattributes",
@@ -42,9 +42,14 @@
    "sha256": "3ac163dcf959ea8b66b769190be776e025e48c3d0eece18cc2f6740fc4943536"
   },
   {
+   "path": "data/cohort-accounting.json",
+   "bytes": 943,
+   "sha256": "95126b38fdac57e1dc199eca52003d7940b6e815021dc75845335ffabac80b35"
+  },
+  {
    "path": "data/mfa-reviewed-collections.xlsx",
    "bytes": 131765,
-   "sha256": "14a583638ec43ef54a164f7c5c87bccabf63077a052253de27c374176fd6bb3e"
+   "sha256": "7b43f657bead5fb61e0e367452bb77eb5c4cae21c14eea7e12473121fb611725"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -73,13 +78,13 @@
   },
   {
    "path": "docs/coverage.md",
-   "bytes": 6021,
-   "sha256": "a406ba793cddd96636699ce4aaf7be8d86f50b576296d8e4ab5ded517dee4214"
+   "bytes": 6377,
+   "sha256": "f52ce8226af78f59acde223b102771e1c831d14017d1ebe8a2503c907cecadf8"
   },
   {
    "path": "docs/data-dictionary.md",
-   "bytes": 6240,
-   "sha256": "4ce15c335e0a5e693e3cafd4ae5b4890f8bb7266b700515e90d2ba9d20d9ab17"
+   "bytes": 6625,
+   "sha256": "8d8fc078a4b74bc3ee2855802932e9c961fe388328a4ebdbe5dd4494e151d12f"
   },
   {
    "path": "docs/methodology.md",
@@ -2264,7 +2269,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 2782,
-   "sha256": "8c3885aa7d2373fef22783ac4d4fcc31ed93348d15911ae3fecbe26379818a3b"
+   "sha256": "a142fb372dcac4169d4c3fd8a6e2f9ce8d53b45f56924387b7d238d91be42acd"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -2278,13 +2283,13 @@
   },
   {
    "path": "validation/review.json",
-   "bytes": 2210,
-   "sha256": "0567d6186eaa967e49e32915316b8065eb06273f8b42169d7094e739fe0c4484"
+   "bytes": 2503,
+   "sha256": "f854e664e9ff7afaa4b862665b75b47925d6fdebdd09c77f0a8d35f9bc94fc3a"
   },
   {
    "path": "validation/validate.py",
-   "bytes": 11626,
-   "sha256": "083beb112fbbda6178f24d9357ff65f91a1e2db7c8f53852989935ae32f48ecd"
+   "bytes": 13623,
+   "sha256": "8b8bf5278bde69e6f322370a95db81c52dda41b90d343761f12d7a33b205b9f8"
   }
  ]
 }

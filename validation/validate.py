@@ -240,7 +240,38 @@ def main():
           "%d equations parsed from %d distinct arithmetic_check claims; %d do not balance %s"
           % (n_eq, len(claims), len(unbalanced), unbalanced[:3]))
 
-    # 11. markdown links resolve
+    # 11. cohort accounting reconciles, so the disposition of the reviewed cohort can be
+    #     checked rather than taken on trust: published plus refused must equal reviewed must
+    #     equal the cohort total, the refusal reason counts must sum to the refused total, and
+    #     the published count must equal the number of rows actually in the data file.
+    acct = json.load(open(rel("data", "cohort-accounting.json"), encoding="utf-8"))
+    ref_rows = list(csv.DictReader(open(rel("data", "refusals-by-reason.csv"), encoding="utf-8")))
+    ref_sum = sum(int(r["rows_refused"]) for r in ref_rows)
+    problems = []
+    if acct["published"] + acct["refused"] != acct["reviewed"]:
+        problems.append("published + refused != reviewed")
+    if acct["reviewed"] != acct["cohort_total"]:
+        problems.append("reviewed != cohort_total")
+    if acct["remaining_undecided"] != 0:
+        problems.append("rows remain undecided")
+    if ref_sum != acct["refused"]:
+        problems.append("refusal reason counts sum to %d, not %d" % (ref_sum, acct["refused"]))
+    if acct["published_rows_in_data_file"] != len(rows):
+        problems.append("published count %d != %d rows in the data file"
+                        % (acct["published_rows_in_data_file"], len(rows)))
+    if len(ref_rows) != acct["refusal_reason_codes"]:
+        problems.append("reason code count disagrees")
+    check("cohort_accounting_reconciles", not problems,
+          "cohort %d = published %d + refused %d; reason counts sum to %d across %d codes; %s"
+          % (acct["cohort_total"], acct["published"], acct["refused"], ref_sum, len(ref_rows),
+             "; ".join(problems) if problems else "reconciles"))
+
+    # 12. the published accounting must not leak an amount
+    acct_text = open(rel("data", "cohort-accounting.json"), encoding="utf-8").read()
+    money_in_acct = re.findall(r"\$\s?[\d,]{4,}", acct_text)
+    check("cohort_accounting_carries_no_amounts", not money_in_acct, str(money_in_acct[:3]))
+
+    # 13. markdown links resolve
     broken = []
     for entry in files:
         if not entry["path"].endswith(".md"):

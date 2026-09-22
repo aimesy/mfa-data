@@ -1,6 +1,6 @@
 {
  "review": "independent review of mfa-data release 03",
- "performed_utc": "2026-09-22T04:08:44.618885+00:00",
+ "performed_utc": "2026-09-22T04:17:04.473713+00:00",
  "independence": "This pass re-derived every published value from the published outlined PDFs and the published source PDFs alone. It did not read the primary reviewer's recorded readings.",
  "published_rows": 357,
  "distinct_printed_figures": 189,
@@ -40,7 +40,7 @@
   {
    "check": "privacy_raw_bytes_and_pdf_page_text",
    "passed": true,
-   "detail": "451 published files scanned byte-wise, and every PDF page also scanned as rendered text, for workstation paths, private research directories, account identifiers and key material; 0 hits []"
+   "detail": "452 published files scanned byte-wise, and every PDF page also scanned as rendered text, for workstation paths, private research directories, account identifiers and key material; 0 hits []"
   },
   {
    "check": "held_tables_empty_and_refusal_summary_carries_no_amounts",
