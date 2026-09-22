@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T16:43:21.414011+00:00",
- "data_rows": 786,
- "distinct_printed_figures": 618,
- "receiving_entities": 87,
- "agency_years": 175,
- "fee_programs": 385,
- "source_reports": 152,
- "evidence_pairs": 618,
+ "built_utc": "2026-09-22T17:10:27.695618+00:00",
+ "data_rows": 803,
+ "distinct_printed_figures": 635,
+ "receiving_entities": 88,
+ "agency_years": 178,
+ "fee_programs": 391,
+ "source_reports": 155,
+ "evidence_pairs": 635,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1413,
- "total_bytes": 222370311,
+ "file_count": 1450,
+ "total_bytes": 228934177,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 9028,
-   "sha256": "8a4052ac06477d169e5af5f3abab397c4839ba9a5e0a21d6d9d540ccf4db90ca"
+   "bytes": 9100,
+   "sha256": "30553426c2b87fb23face07c366c3af2e6229fba2d720fafe2db9eda01bfe8d8"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "71201fe3ec050281be680fe2671aa13199378da987a36279822585f06d14a900"
+   "sha256": "44ce7672ff7c7310d5ff862e0f0d03096d2a3cda612a51ce57899f77881b447d"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 317887,
-   "sha256": "f6f5f9f9ae913ee4fb9ebda3b25d5c1743004e648c71c27f3811bdb5b8ab4844"
+   "bytes": 324438,
+   "sha256": "98111998b4060222e45674c08519f6682ae28e2899f6d5a011d18295009e0075"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1734283,
-   "sha256": "9123825f9fba59fc8702359b544a817e88895b9d6286b41093091afb406db090"
+   "bytes": 1766356,
+   "sha256": "574a74edd7b16cb2c3fa7967629dab6e565aba52dc0f2fd7f7a99a34198c039f"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2547526,
-   "sha256": "aae1a8bfce8267b3e7447f790dfb514d363f3ae65456c85c775ccea53ad387bf"
+   "bytes": 2597160,
+   "sha256": "0c76d1f070827a51e58dd4928a2a7e8e9e3498d27eb57fb7f56796853ee80856"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1410,6 +1410,91 @@
    "path": "evidence/extracts/city-of-nevada-city-p006-6e665991.pdf",
    "bytes": 59099,
    "sha256": "f763ce912ef7e6b24f46987854b7b42e3cbf0bdcee5df983e61f8927fc13ee51"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p015-387d783c.pdf",
+   "bytes": 80414,
+   "sha256": "35dec96220c1da49e0462b8b79493fe6b2d0336d4a6217ba42991ddb34d5fe2a"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p015-9d4b0e1a.pdf",
+   "bytes": 79951,
+   "sha256": "8bfdcc08c556bd1fbbf67b6d05bf70b5874d3ce4cfe0f85b75a8dc134ebaa46c"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p015-b3a47452.pdf",
+   "bytes": 80743,
+   "sha256": "621d9533ce6a6cbc0ec50f3168071246e49a263291c07e9cf8d6142a125c3d74"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p021-65420fcd.pdf",
+   "bytes": 82108,
+   "sha256": "7a73c047460150f9520d74f7b615fccb75ab483f39e47d37b2fa80e3041bfd67"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p021-7d3cef8a.pdf",
+   "bytes": 79562,
+   "sha256": "31be665f5ce650a64178b0296ea8a302cb76e761f149f1f3ed13de4ade29eb4b"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p021-8b1ddb1b.pdf",
+   "bytes": 79845,
+   "sha256": "e7edaedd7fa1855330f8fab5cf83300d43ec9c4338fe5e887e77fa92087f3f1d"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p023-0b34dbc9.pdf",
+   "bytes": 81347,
+   "sha256": "62775ce6dfcaf516d30db00c5ba0ceac6ef7716da96e900f46fd3930d894e445"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p023-b26513ab.pdf",
+   "bytes": 81674,
+   "sha256": "4d716b9a60757c2f952b43989d69a9a4bb486a947657a6f8381203850901d176"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p023-ce0134c4.pdf",
+   "bytes": 78061,
+   "sha256": "941f43ac0ad975dcd111d5eddbedd1d40e747d14d81f07318fdf591c84469c14"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p025-229e8eca.pdf",
+   "bytes": 78660,
+   "sha256": "de2fa8ddb22536f75b21d204b9004d6f14e3870411b649cb0b1c956eb2692f5b"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p025-562f478b.pdf",
+   "bytes": 78211,
+   "sha256": "f6b3689531ded6784acc2f26d8b9183e3f5aded91471cd2ddf4124492fe50507"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p027-494c7fc9.pdf",
+   "bytes": 80801,
+   "sha256": "2114b3df53162bed01d1f392ce0b50c9977a8e756bf0fefc3183a2c8f9339ea2"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p027-8d3df1a9.pdf",
+   "bytes": 82288,
+   "sha256": "d23e0cdd7b142108522dcc6df7b2a58a791e74820f8195bcbdcf577e17301aa1"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p027-a26ca45e.pdf",
+   "bytes": 81184,
+   "sha256": "c647949afbf1b99512c37f942538fd6d9471ba19a27452d41e30c646bface9b1"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p029-28939bd0.pdf",
+   "bytes": 81646,
+   "sha256": "d7282c024d6f12f293396c047dcae9089cbcc19d21cdd038ff5227c699d41279"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p029-2f10c76a.pdf",
+   "bytes": 79832,
+   "sha256": "7e3ce2df8ad712a2698ebbe9d97d97c032a110f61ef7e33733cfd6e0611fe4d3"
+  },
+  {
+   "path": "evidence/extracts/city-of-oakdale-p029-52adb96f.pdf",
+   "bytes": 81813,
+   "sha256": "92263c7869c898fbdc7300f5635755f455e335501605abdde6a4e192afad4daf"
   },
   {
    "path": "evidence/extracts/city-of-pasadena-p001-24918e91.pdf",
@@ -3188,8 +3273,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 651881,
-   "sha256": "60eb10d5dfcc308d5a5cf4e1d19ede928ac23e901b0dfa0138020e704525749d"
+   "bytes": 669719,
+   "sha256": "49db5a33d0d4eba5b4d91ff1942c27296fdd1b4c40059676d13fcd1a95e07044"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -4505,6 +4590,91 @@
    "path": "evidence/outlined/city-of-nevada-city-p006-6e665991.pdf",
    "bytes": 59156,
    "sha256": "39b7dcbacfa7142276cc7c338b3a0dd20ab3057cf399c31f1ae630a6a06b6382"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p015-387d783c.pdf",
+   "bytes": 80474,
+   "sha256": "6327d8815018b305ac93862df7c4c9848626ec8cd2822180db2ad84faa3b1065"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p015-9d4b0e1a.pdf",
+   "bytes": 80009,
+   "sha256": "b8aa7ed828922a1511c44f53d89465f91a002cd3ddcbabf422ec686d63c50be5"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p015-b3a47452.pdf",
+   "bytes": 80802,
+   "sha256": "5f337a04100a3d00f8469fa01965e9343683d7a1c3e9ba358e9b75ca8d0e127c"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p021-65420fcd.pdf",
+   "bytes": 82165,
+   "sha256": "e6d086661fb3ff64df3402a6dfa4ce36cb7ced6604c8a3123bb4c2205694db6e"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p021-7d3cef8a.pdf",
+   "bytes": 79620,
+   "sha256": "6132b7cdc4ad8716b4ca6600dc153a470c8541bb640d11a25c7154df3c697c3d"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p021-8b1ddb1b.pdf",
+   "bytes": 79903,
+   "sha256": "1893d80ad51fcec86e128ea0376546064508349e7b276967c635596146d297d6"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p023-0b34dbc9.pdf",
+   "bytes": 81407,
+   "sha256": "12d4e88ca34e04a7a0c420ed32697cd705a58c23db4cb4403f0fd5a1990bbcbd"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p023-b26513ab.pdf",
+   "bytes": 81731,
+   "sha256": "77e9bcfa6c2d8ee1592b73d25b32be5fe2fbf41d1d7a1498cc3e78c4cc52dc76"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p023-ce0134c4.pdf",
+   "bytes": 78120,
+   "sha256": "8beb922527c63411b75668408d43802f33e0deecdc9bc75ee17552eb4a5e4857"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p025-229e8eca.pdf",
+   "bytes": 78722,
+   "sha256": "f21db9c230933351d6efe86a1fa89b2e4fb6d126237c1e2910885a2e736657eb"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p025-562f478b.pdf",
+   "bytes": 78269,
+   "sha256": "73987a3b43833ef5da8543b59f711aeb4d3479834f84148333f8f23387f9faef"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p027-494c7fc9.pdf",
+   "bytes": 80863,
+   "sha256": "04b806f632ff49843e67353df722a6f0224b6ad1a2fca898673ca431c0542a9e"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p027-8d3df1a9.pdf",
+   "bytes": 82346,
+   "sha256": "1267e880b6869686736396087983fdf85d576ee6ecbdfdf0202f7f63f63cb359"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p027-a26ca45e.pdf",
+   "bytes": 81244,
+   "sha256": "3e7823c2c3767c561e4d23d3101029d0d917c19bb9d17094b2b9965250ec926d"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p029-28939bd0.pdf",
+   "bytes": 81705,
+   "sha256": "fddeeddd8aee6dd95b85a6ea6ec4373406f51e0c6088545ea8afa7a1b24242b5"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p029-2f10c76a.pdf",
+   "bytes": 79892,
+   "sha256": "c548a853de1b63328ca92505a2c8e052e652718ade433222aa61d2e66ae32a72"
+  },
+  {
+   "path": "evidence/outlined/city-of-oakdale-p029-52adb96f.pdf",
+   "bytes": 81871,
+   "sha256": "af4c7ba724dfa9bc8fbd8b127e026e35f396760a8be7e8ab4bc2555bf26db9c9"
   },
   {
    "path": "evidence/outlined/city-of-pasadena-p001-24918e91.pdf",
@@ -6557,6 +6727,21 @@
    "sha256": "a677716f7f164794bcaf0c95bf0b2bbade05f99a99896e918e8ec12236f60fd0"
   },
   {
+   "path": "sources/city-of-oakdale-2022-23-3f79c47c.pdf",
+   "bytes": 1241036,
+   "sha256": "3f79c47c1f5bbdd52f98fb8ca1f803112d21e759e772dd430c4a669429d0b8e9"
+  },
+  {
+   "path": "sources/city-of-oakdale-2023-24-c392b971.pdf",
+   "bytes": 1250210,
+   "sha256": "c392b971611b61fe2dba2d237c8934729d889883d732d179d50ae09bcea97e67"
+  },
+  {
+   "path": "sources/city-of-oakdale-2024-25-40ddc637.pdf",
+   "bytes": 1225740,
+   "sha256": "40ddc6372bdcf6326ddbd236bce06b24061ef66defa4d6c04a9fe615ad75cdd5"
+  },
+  {
    "path": "sources/city-of-pasadena-rif-2022-23.pdf",
    "bytes": 380763,
    "sha256": "de6f8cd682e056fec37466fa2dbbbf2647303b6dede0e3fc45dfddda7a75adb6"
@@ -7003,13 +7188,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 72337,
-   "sha256": "d2a6350ee704e2c13d3033f514f032f186bf99cf8650e21e84052d63268164b1"
+   "bytes": 73576,
+   "sha256": "d27d844a7727d35e9d6c598c9b975fab0960397159d3787973e662f34a4fd3aa"
   },
   {
    "path": "sources/index.json",
-   "bytes": 123832,
-   "sha256": "9ce411b27a3a2bf554c1dfa58d88a7b52accf6c48efe9db5a68680b03cadcc5b"
+   "bytes": 126022,
+   "sha256": "907d8289145e8cca3ffdb5841226f4df30c0f0c11019979d4cef6cb404c37eba"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -7069,7 +7254,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "42a38481de854f8f0d3e1a1db6c5744d1c0c877b394769c340d74747eb8073df"
+   "sha256": "ad02695e90a83d3c4f5c02da8c5770588e3350c8db906150cff49e29ecfdcc12"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -7084,7 +7269,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "e99447e8c1ed0e088494c7ca22309c58d94f66e266f190e8e9e2a89af8e0b1f1"
+   "sha256": "d55c3e4e848015518b95318dc3af67a395d0b5425b531cf491e5edb9fd527f0d"
   },
   {
    "path": "validation/validate.py",

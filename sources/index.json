@@ -812,6 +812,48 @@
   "published_data_rows_from_this_source": 2
  },
  {
+  "source_id": "city-of-oakdale-2022-23-3f79c47c",
+  "receiving_entity": "City of Oakdale",
+  "publication_title": "City of Oakdale annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://drive.usercontent.google.com/download?id=1I835EsLBsGdFD68b7NZQruQPJrHPbQMk&export=download",
+  "retrieved_utc": "2026-09-22T12:08:45.817759+00:00",
+  "physical_page_count": 30,
+  "source_sha256": "3f79c47c1f5bbdd52f98fb8ca1f803112d21e759e772dd430c4a669429d0b8e9",
+  "source_bytes": 1241036,
+  "source_pdf": "sources/city-of-oakdale-2022-23-3f79c47c.pdf",
+  "published_data_rows_from_this_source": 6
+ },
+ {
+  "source_id": "city-of-oakdale-2023-24-c392b971",
+  "receiving_entity": "City of Oakdale",
+  "publication_title": "City of Oakdale annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://drive.usercontent.google.com/download?id=1hP6Whq3gAJQHkqrhds5fQ7CMcvKTWUOy&export=download",
+  "retrieved_utc": "2026-09-22T12:08:43.427098+00:00",
+  "physical_page_count": 30,
+  "source_sha256": "c392b971611b61fe2dba2d237c8934729d889883d732d179d50ae09bcea97e67",
+  "source_bytes": 1250210,
+  "source_pdf": "sources/city-of-oakdale-2023-24-c392b971.pdf",
+  "published_data_rows_from_this_source": 6
+ },
+ {
+  "source_id": "city-of-oakdale-2024-25-40ddc637",
+  "receiving_entity": "City of Oakdale",
+  "publication_title": "City of Oakdale annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://drive.usercontent.google.com/download?id=152U93jODgeZdBPOJGxlSZ0ax4uBhxKSN&export=download",
+  "retrieved_utc": "2026-09-22T12:08:40.816007+00:00",
+  "physical_page_count": 30,
+  "source_sha256": "40ddc6372bdcf6326ddbd236bce06b24061ef66defa4d6c04a9fe615ad75cdd5",
+  "source_bytes": 1225740,
+  "source_pdf": "sources/city-of-oakdale-2024-25-40ddc637.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
   "source_id": "city-of-paso-robles-2020-21",
   "receiving_entity": "City of PASO ROBLES",
   "publication_title": "City of PASO ROBLES impact fee report, fiscal year 2020-21",
