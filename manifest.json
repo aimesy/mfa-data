@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T07:17:30.130055+00:00",
- "data_rows": 431,
- "distinct_printed_figures": 263,
- "receiving_entities": 55,
- "agency_years": 95,
- "fee_programs": 199,
- "source_reports": 82,
- "evidence_pairs": 263,
+ "built_utc": "2026-09-22T07:33:40.877622+00:00",
+ "data_rows": 451,
+ "distinct_printed_figures": 283,
+ "receiving_entities": 56,
+ "agency_years": 101,
+ "fee_programs": 213,
+ "source_reports": 84,
+ "evidence_pairs": 283,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 633,
- "total_bytes": 76473619,
+ "file_count": 675,
+ "total_bytes": 85266402,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7063,
-   "sha256": "2b18c9d2d5f64e1906b9fbedd785f36168b899c13e3d07b4ce819950dc139f13"
+   "bytes": 7125,
+   "sha256": "9b0321992be2720cc213da0989e83b2ad0bc30c1bb45e581a0de72f2b5da3af0"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1263,
-   "sha256": "e6d186001aa4716fa33a0d58029b82c409cd1f4fa48eb8c491ecaa28443ad776"
+   "sha256": "b32c250f5db7706f2db7420810a36a982a78412d8b47c76cdb1ad72655173934"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 166287,
-   "sha256": "c07e5d51e0832110d981584eb141fc1296a768fc726a025191d333c78cff9d44"
+   "bytes": 174135,
+   "sha256": "e37ac925fcbee6536d04828c8302e7b3b938115ec89edc3a02d8be997912c8c7"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 900144,
-   "sha256": "6515d5bf7b295b2df58da53afd2e8d6b94a3abef2cff85ecbdf56a69ee1d83c9"
+   "bytes": 940581,
+   "sha256": "31a9ec7f979c6455672b7587db3721f6f5cef194e10d4e50d0843dda72f8f5fb"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1345924,
-   "sha256": "519aa01deb49fd2ea56fd5078dafbc9b58384e7c99e33e2c32b6bb2b4967a711"
+   "bytes": 1407075,
+   "sha256": "ac477820c5f383bbf6e2c984575d7e42e8e05b8e22f9c36ae7e11b5f07a3564c"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -987,6 +987,31 @@
    "sha256": "3d638a80ba5a467baa7a63a3eacadb2ca40805a8b1523fc7c6fb51eef97563da"
   },
   {
+   "path": "evidence/extracts/county-of-napa-p002-15372665.pdf",
+   "bytes": 71767,
+   "sha256": "4adc870e9ac554f56b3b4f3a79e89761082b3814169787722d7a46e7b969fb5a"
+  },
+  {
+   "path": "evidence/extracts/county-of-napa-p002-30f1a017.pdf",
+   "bytes": 71767,
+   "sha256": "920605cbd3954f5836f1f9b305ffd4e5e6927eddf7e788b9052c966b0cc54d34"
+  },
+  {
+   "path": "evidence/extracts/county-of-napa-p002-378c6778.pdf",
+   "bytes": 71767,
+   "sha256": "04f8be9ad29d2f408f9c492a98aff3dca47a2d917baa4ba312f002e7051b2414"
+  },
+  {
+   "path": "evidence/extracts/county-of-napa-p002-7ce8cb3f.pdf",
+   "bytes": 71767,
+   "sha256": "5ab7ea1377994a3347ff10c4dd22b731b9b524a079817b083cab8080e7939d53"
+  },
+  {
+   "path": "evidence/extracts/county-of-napa-p002-d907f2da.pdf",
+   "bytes": 71767,
+   "sha256": "99441e9cc697a0a0935eb29a436e555ff397d110006a4b6ee73df7eef0ec9af5"
+  },
+  {
    "path": "evidence/extracts/county-of-placer-p008-147fe979.pdf",
    "bytes": 102018,
    "sha256": "e1b7baca85d5c493c2fb2842285e7790dbfdf388cbacc34d8027bc42cc0d67cd"
@@ -1190,6 +1215,81 @@
    "path": "evidence/extracts/county-of-san-mateo-p003-b48393ef.pdf",
    "bytes": 55761,
    "sha256": "3687bd2625999b42cf824c43dde1cedd6c40146414b739db3341d5a02410fc0a"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p007-e4d00efe.pdf",
+   "bytes": 83506,
+   "sha256": "dabb9feb30b836f16ecd352d9f129db57e97ccbd5f15a2269c73dbddcba7f046"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p009-e2568ac1.pdf",
+   "bytes": 81909,
+   "sha256": "44f540df6d0b66f5e3771e59b94bc80cdbfc77438811ac586d9fab13d1ba60d1"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p012-56b7e4f1.pdf",
+   "bytes": 81835,
+   "sha256": "7065de831f45505720f3f68dd85a5a1816d28bed9851adbebc67a2b1b2615ac8"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p016-0b16b8f5.pdf",
+   "bytes": 84527,
+   "sha256": "8c3a04f51f13a5918790309cff79b1946285595c59428c1aca8c8759db116c05"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p017-b801086e.pdf",
+   "bytes": 104041,
+   "sha256": "782715f4e486b49053346d7af52c8faa442252d03d610af779e85b920eb800a6"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p018-3ddc7de8.pdf",
+   "bytes": 103671,
+   "sha256": "3f493afefab77ac2580b504168daed10b54c7363e04dc0dcd2433a8b61489571"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p019-dd6bbd23.pdf",
+   "bytes": 102918,
+   "sha256": "8a6fe34912e287c7bb27e1621fa0160acfec08ac1e3cf447f74a58dda494a6e9"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p026-4f99ed8a.pdf",
+   "bytes": 80099,
+   "sha256": "5c6ecdc498c217ded939963ad489b13c96dca2dcc60e597db57c455a28d2e2e8"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p027-9af2ba68.pdf",
+   "bytes": 80225,
+   "sha256": "603a28d104d21a0ae51ff84d7724f03e99305427cac09d4165ff8ca8113169e6"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p030-2e7ab39c.pdf",
+   "bytes": 82218,
+   "sha256": "d5ae5a43b59db8d3726268a5ac2815e66dbc3b43dd81006a7e9adf53be9c8940"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p031-a3aa1f57.pdf",
+   "bytes": 81750,
+   "sha256": "b3879596b0a0cbd0b174c3d100dd6b117971bf4863194df8748b4d454ad90448"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p034-22d493bf.pdf",
+   "bytes": 82300,
+   "sha256": "aeae8be8c3ed716babfed0d06c22bf470860c0e6408f09c6cddd3e2dcc702808"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p035-8a84caba.pdf",
+   "bytes": 82424,
+   "sha256": "918272b19fa52eabe3854bca8213143fdc9f730a00b9f3763544f85081bf382c"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p036-bae333cc.pdf",
+   "bytes": 82747,
+   "sha256": "59217ac0b62fa13a51a4b7585f7b5b6ce466d6bfffd45f9d828684d47b0a6898"
+  },
+  {
+   "path": "evidence/extracts/county-of-santa-barbara-p037-d26693bc.pdf",
+   "bytes": 82845,
+   "sha256": "4bf0a4cc7222d5a9869ca7dc0aea319b37f2cfaabd92b950a1e58c0ed22a07da"
   },
   {
    "path": "evidence/extracts/county-of-tehama-p001-58dd0d76.pdf",
@@ -1413,8 +1513,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 280278,
-   "sha256": "250c9c280044701da7a5f47b6a501552248878d186b84321559735ff0295dba4"
+   "bytes": 302807,
+   "sha256": "ee5f3b357cd189b94f1f4fc7a99db593fa587cc376690335c42754bf4ebd91e5"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -2307,6 +2407,31 @@
    "sha256": "8f9c4c3b5c314faa601c3b8a779ab6daa88fcf36f80499c5e396c6dcc3f3daee"
   },
   {
+   "path": "evidence/outlined/county-of-napa-p002-15372665.pdf",
+   "bytes": 71828,
+   "sha256": "aed540eed928c1a68235128eb7ad52008c25f479e15ff454d2cc6421f5e154ea"
+  },
+  {
+   "path": "evidence/outlined/county-of-napa-p002-30f1a017.pdf",
+   "bytes": 71829,
+   "sha256": "80c6556e725f350147a56c285a751557e5aaad0b010bcbf282924b50d3075a30"
+  },
+  {
+   "path": "evidence/outlined/county-of-napa-p002-378c6778.pdf",
+   "bytes": 71826,
+   "sha256": "aa9969a1832bca7eae0f21a26065191fbf510a523c4724b715c644b93bb06b3b"
+  },
+  {
+   "path": "evidence/outlined/county-of-napa-p002-7ce8cb3f.pdf",
+   "bytes": 71824,
+   "sha256": "f361b900388bc2bca229f4c90d466c6a82456f2e9aa8dd9ad451fa3b944df25c"
+  },
+  {
+   "path": "evidence/outlined/county-of-napa-p002-d907f2da.pdf",
+   "bytes": 71825,
+   "sha256": "3157b2746f36c468c9eab357c5688224d8efe65c9a6d7c0625dca8fd4f628a1f"
+  },
+  {
    "path": "evidence/outlined/county-of-placer-p008-147fe979.pdf",
    "bytes": 102078,
    "sha256": "e3955fe6d47cf3ddae490877ef8bec25f38c35db17dbd55ff14d9b14452924d2"
@@ -2510,6 +2635,81 @@
    "path": "evidence/outlined/county-of-san-mateo-p003-b48393ef.pdf",
    "bytes": 55820,
    "sha256": "16cb273706a5a62e796425386ca77aaa8304e0c5506caae9100cfd1e89af901d"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p007-e4d00efe.pdf",
+   "bytes": 83572,
+   "sha256": "66cb5191a1c650daac83af5cdd42a99db86017e88b32360d9596dda1676bf9d4"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p009-e2568ac1.pdf",
+   "bytes": 81970,
+   "sha256": "fa6e3fc684bc77217018745dc385532b7a4539a87e395fdb2e90c8b26b472bcb"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p012-56b7e4f1.pdf",
+   "bytes": 81895,
+   "sha256": "c27f33fc222fadff5ef844407783c8e6be7863c72a4bda7a6a960e14978a5fc3"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p016-0b16b8f5.pdf",
+   "bytes": 84588,
+   "sha256": "8906c4c109170619634cfc2885deb6c33f6a5e134a54235294ee21762a16841d"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p017-b801086e.pdf",
+   "bytes": 104103,
+   "sha256": "15040f38a48067741510f464bf9acce60b2f6957f7369b0a4712d482be9ce6df"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p018-3ddc7de8.pdf",
+   "bytes": 103734,
+   "sha256": "677cc623495dad85460765fb2857328d4706fc407550f116a817f7e98c803481"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p019-dd6bbd23.pdf",
+   "bytes": 102979,
+   "sha256": "64b4c79a06138e2592539db8595641514f812da6470475743c1159bee7a28af1"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p026-4f99ed8a.pdf",
+   "bytes": 80160,
+   "sha256": "4c3ff2ae2726bfa2416a0bc189dd85d836baf5690dc3167073240842ef50673d"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p027-9af2ba68.pdf",
+   "bytes": 80285,
+   "sha256": "366eb86adef8a481a6e59e6a44d2c3d4ca508904b19b254ec7abf8d26dc2e616"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p030-2e7ab39c.pdf",
+   "bytes": 82278,
+   "sha256": "1c3fa29c534a61c41c6154cc34d2577849f694a867769885bc7e494d1b7d3aeb"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p031-a3aa1f57.pdf",
+   "bytes": 81809,
+   "sha256": "387b8c2fa4e2109fa001f7e3c0229c8f752ac28a3ffc974cfc870ea451971e95"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p034-22d493bf.pdf",
+   "bytes": 82361,
+   "sha256": "f3ce150fd11a49a8fc093205bf0dbe55bd19c52daa2214ad3a1a493c591cd972"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p035-8a84caba.pdf",
+   "bytes": 82488,
+   "sha256": "21d466f597da920aead553edc3a44989ef9b7e16217d8d228948716147b697d7"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p036-bae333cc.pdf",
+   "bytes": 82804,
+   "sha256": "1c85f906ad777ac5089cc57489cedae543f3224fb541e52a898d1df0aac13a29"
+  },
+  {
+   "path": "evidence/outlined/county-of-santa-barbara-p037-d26693bc.pdf",
+   "bytes": 82907,
+   "sha256": "63c2f08c6047f8eb1762be1228aa0248f9fdfda725f53d24a3f86d884d69cead"
   },
   {
    "path": "evidence/outlined/county-of-tehama-p001-58dd0d76.pdf",
@@ -2967,6 +3167,11 @@
    "sha256": "104cc89246397f7cd9e6a02079e3b451cd433f37e2c1767b59d8e5e70fb9be6e"
   },
   {
+   "path": "sources/county-of-napa-five-year-2018-19-to-2022-23.pdf",
+   "bytes": 4278815,
+   "sha256": "f25a4ce9a414806e6b7b58090f8455399d1e6a1c36eab2e1282ab08c29ff083e"
+  },
+  {
    "path": "sources/county-of-placer-2022-23.pdf",
    "bytes": 1111620,
    "sha256": "1c6abd41c46f684337f8d89e9cb6c00c39ae70d1f8e70a3ef8cb4a55457a4fb8"
@@ -3092,6 +3297,11 @@
    "sha256": "02655a26a6b12ac46160fd0355e871a55287b4beabf07d4fc3532a643151be2c"
   },
   {
+   "path": "sources/county-of-santa-barbara-2023-24.pdf",
+   "bytes": 1066540,
+   "sha256": "4b3bad7bb41ff3a4c708faf2e05b41509ae83adcd671ae590d0333aa52f4635d"
+  },
+  {
    "path": "sources/county-of-tehama-2023-24.pdf",
    "bytes": 95537,
    "sha256": "e492a9bd3aa9dd1d2c211724241179bbe22f754b89d5fca698059bd9906c41e1"
@@ -3118,13 +3328,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 41546,
-   "sha256": "4f53728eca9e0e9361c007aba395340868e841cde0974631af4887213adc07a8"
+   "bytes": 42472,
+   "sha256": "09a3213de48c99d7d80f820109dc5bf8f4f75f4b7d8868f0e9f3a0e9c1a5497f"
   },
   {
    "path": "sources/index.json",
-   "bytes": 70825,
-   "sha256": "942f8b9e5eb25ba9637ce96be3afa952ffe1d727b7d93dcf8217c17b767f379a"
+   "bytes": 72385,
+   "sha256": "e175511de037f74263911fc1efa7cf03bf198972842fa162a3fe941855106abf"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -3169,7 +3379,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3047,
-   "sha256": "206be231d2a7b142f1f7ad187cbeb6671059190b14a3b034eaa774049bf821c5"
+   "sha256": "95bc5815f65d45a2bb9933af9d70338cd2a7d924368de417c59f4ffcf65ada33"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -3184,7 +3394,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2582,
-   "sha256": "0c8aaefad567046f9585759249762a715c48a6d452d4be2ab12ab3b4abceb8bd"
+   "sha256": "2694be832e2a18a654b8565f6d779415c4430fdc13073e9cc489c311d642249c"
   },
   {
    "path": "validation/validate.py",
