@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T07:58:25.314050+00:00",
- "data_rows": 475,
- "distinct_printed_figures": 307,
- "receiving_entities": 58,
- "agency_years": 105,
- "fee_programs": 231,
- "source_reports": 88,
- "evidence_pairs": 307,
+ "built_utc": "2026-09-22T08:12:33.761198+00:00",
+ "data_rows": 480,
+ "distinct_printed_figures": 312,
+ "receiving_entities": 60,
+ "agency_years": 109,
+ "fee_programs": 234,
+ "source_reports": 91,
+ "evidence_pairs": 312,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 727,
- "total_bytes": 95199632,
+ "file_count": 740,
+ "total_bytes": 117956088,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7257,
-   "sha256": "314dba9a34943c92d378809b2660fed0fabcff164ba4e37294bafd4a6bedbd2c"
+   "bytes": 7389,
+   "sha256": "b06e7bc1e3dd2aad78b8205c6fe5cad566f9dfc82ae33d4f35c20c50a176c7f1"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "f702a7fafafd2668da73569becc04bbc3e672322b8443e7adf72b354413e4466"
+   "sha256": "df6e56bcd9f1fc6a077e6c8225272d8ff7b8209076b08af79a05cd9c134b3b90"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 184209,
-   "sha256": "363595f724489b84021db7c7106619674932043f40ec460ba23a51f88495f81f"
+   "bytes": 188028,
+   "sha256": "34fe5bbdfbabd1f9d382d5ef8461a904ce162c1b1671b10439d5847199928c09"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1002534,
-   "sha256": "45630efc5828c1f1d4d8754820e53b8d8dd13f279308f65e109515e2b810d3b5"
+   "bytes": 1014161,
+   "sha256": "b66338c8a36009ead85c0d00c575058f30394391382e1f48939f90669e5e9cd9"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1493772,
-   "sha256": "47a9a09b1779ce27de445a6225954c4d6068905ce3a2a2b7afd2ff32140f42b9"
+   "bytes": 1510556,
+   "sha256": "1d53b0e021e871604cac17137f748b20779f94c7da1ca5e3d045b42681f6989a"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1337,6 +1337,16 @@
    "sha256": "4bf0a4cc7222d5a9869ca7dc0aea319b37f2cfaabd92b950a1e58c0ed22a07da"
   },
   {
+   "path": "evidence/extracts/county-of-sonoma-p031-881e8bbe.pdf",
+   "bytes": 89508,
+   "sha256": "cf65a0466deaf14c118fecf3e965acc146499b21770ebf5b1029e60b9b6053e4"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p036-73b5e3fd.pdf",
+   "bytes": 83282,
+   "sha256": "c903827ca49d71af569a42a91230e21649c992f04208dd079b84999e16c59df1"
+  },
+  {
    "path": "evidence/extracts/county-of-stanislaus-p022-00452c26.pdf",
    "bytes": 73900,
    "sha256": "9fc6872562a9f82b58201702933a3da24594216189ad476bd9f0e578b3a8b263"
@@ -1617,6 +1627,21 @@
    "sha256": "ad08ca192def5e25703b0843344ef7cfc1a036a899e733f58c120b11123689a3"
   },
   {
+   "path": "evidence/extracts/sonoma-county-fire-district-p046-00168561.pdf",
+   "bytes": 36384,
+   "sha256": "bf6d88d84c7ab7e88efeda90a1839087f1075805429c569d57cd9d57c310e7f6"
+  },
+  {
+   "path": "evidence/extracts/sonoma-county-fire-district-p048-ea0cd881.pdf",
+   "bytes": 84368,
+   "sha256": "9f44ce35059a0df32b3a87ca54b0c71c14957f899ff967fa576a1d252981edb3"
+  },
+  {
+   "path": "evidence/extracts/sonoma-county-fire-district-p051-285394e1.pdf",
+   "bytes": 36511,
+   "sha256": "712f447cf50c04f10e535c5c541970763aace40f8a75448205b9b081b6171df0"
+  },
+  {
    "path": "evidence/extracts/southgate-recreation-and-park-district-p001-5e57c91e.pdf",
    "bytes": 41107,
    "sha256": "1a699f8986210ab3ec5e7adc2494742d0c37e3bb5b1f1cab6352808f68a663c7"
@@ -1633,8 +1658,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 328570,
-   "sha256": "6120dc1d2a646eefb25783c46c60044da7eedfff847284cdd3a55bcbd32b03be"
+   "bytes": 334000,
+   "sha256": "c3c655a7500c028c675802e4db2331309ee8c75f062d6ca1126ec091dfbe04a0"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -2877,6 +2902,16 @@
    "sha256": "63c2f08c6047f8eb1762be1228aa0248f9fdfda725f53d24a3f86d884d69cead"
   },
   {
+   "path": "evidence/outlined/county-of-sonoma-p031-881e8bbe.pdf",
+   "bytes": 87963,
+   "sha256": "cb0ef6feb8bb4626f9aec2f5f7148c306e7e1cee9714b47d46bd8bce38f1a9d5"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p036-73b5e3fd.pdf",
+   "bytes": 81742,
+   "sha256": "1667a5b15d3a3a85a3e6d337110568e761e3187b40907912564e7ed32dff8eef"
+  },
+  {
    "path": "evidence/outlined/county-of-stanislaus-p022-00452c26.pdf",
    "bytes": 73965,
    "sha256": "6dd4523b661a3d89e8e6757e965854d71e6e208cf1b78e68af293a86008060af"
@@ -3155,6 +3190,21 @@
    "path": "evidence/outlined/saddleback-valley-unified-p004-e4eaa959.pdf",
    "bytes": 54233,
    "sha256": "256741a65cc3f4b3de75215b2f1019e51a57574d9be9ce5a2e21010e1afc215b"
+  },
+  {
+   "path": "evidence/outlined/sonoma-county-fire-district-p046-00168561.pdf",
+   "bytes": 36438,
+   "sha256": "78d5530019f4da452a223962bb468a62eba7333c070c54a5d5234282d07a05fa"
+  },
+  {
+   "path": "evidence/outlined/sonoma-county-fire-district-p048-ea0cd881.pdf",
+   "bytes": 82831,
+   "sha256": "58ab2a2bcc8575c29140ceb277344a11573f902294e9e0bff84a3867bf94e169"
+  },
+  {
+   "path": "evidence/outlined/sonoma-county-fire-district-p051-285394e1.pdf",
+   "bytes": 34971,
+   "sha256": "d96afe74b2c634315202de20a5faf8fa692fd00ae50dbf9b2036b81a508b9706"
   },
   {
    "path": "evidence/outlined/southgate-recreation-and-park-district-p001-5e57c91e.pdf",
@@ -3557,6 +3607,21 @@
    "sha256": "4b3bad7bb41ff3a4c708faf2e05b41509ae83adcd671ae590d0333aa52f4635d"
   },
   {
+   "path": "sources/county-of-sonoma-2022-23.pdf",
+   "bytes": 6235000,
+   "sha256": "6be6f1b87ef52ce79468f2f63a08f0168b6b518a6e7e076d3489a0df4d2a9061"
+  },
+  {
+   "path": "sources/county-of-sonoma-2023-24.pdf",
+   "bytes": 4263257,
+   "sha256": "15fc4663b6d29c6724fc89c7c6a01e4980014137e51df3fe30513d03fca65483"
+  },
+  {
+   "path": "sources/county-of-sonoma-2024-25.pdf",
+   "bytes": 11562820,
+   "sha256": "43ed90b535f26901f9dd0126d3a6a7c4629ab94bdb44a54327ba193ee5685d9b"
+  },
+  {
    "path": "sources/county-of-stanislaus-2024-25.pdf",
    "bytes": 3988668,
    "sha256": "13806f1152761f5b06c0a97b445f9284a8e4a392f0b328a06265a7f488ae0601"
@@ -3588,13 +3653,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 44300,
-   "sha256": "1f68e74299daee795d7f31c30c815c96af26c0c86a0b9772cfd3a8c90058af5a"
+   "bytes": 45619,
+   "sha256": "2049974c7c53fac77adb136d149888e79b2ddc45d0244ee265b55b7c48198e2c"
   },
   {
    "path": "sources/index.json",
-   "bytes": 75481,
-   "sha256": "cafc32b37ac47feaab632059f66bc86dfffb763560c7c8604f9d79632445840f"
+   "bytes": 77751,
+   "sha256": "3fab169a066335916a58438117cdddd354b308dd08878c17d242193ca7b7f53b"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -3639,7 +3704,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3048,
-   "sha256": "962abfb52a299a6e34bf7bfd90d234a987c9334cb6b9b78aedd521d27a7f0f0b"
+   "sha256": "705ca43fafe33f8840de7150ac1c60414eb9ee0c74f6a90164b72b714828d151"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -3654,7 +3719,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2582,
-   "sha256": "01d8ba3b8e82832d2b9f620bcd2ea00e12ca28c8758422a6d096c1bf3ded83a8"
+   "sha256": "a32bed5c02d2b482f6208f4eff50debab0fc10710387a4f23d14bf8f205898f7"
   },
   {
    "path": "validation/validate.py",
