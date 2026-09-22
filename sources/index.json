@@ -70,6 +70,20 @@
   "published_data_rows_from_this_source": 2
  },
  {
+  "source_id": "city-of-albany-2024-25",
+  "receiving_entity": "City of Albany",
+  "publication_title": "City of Albany annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.albanyca.gov/files/assets/city/v/1/finance/documents/budget-financial-reports/albany-annual-dif-report-fy-2025-final.pdf",
+  "retrieved_utc": "2026-09-22T11:26:05.488825+00:00",
+  "physical_page_count": 12,
+  "source_sha256": "fd21ae74a09d3d5fad010c4c65a55d778eb71363389160a9969518b8db0fb7fd",
+  "source_bytes": 182402,
+  "source_pdf": "sources/city-of-albany-2024-25.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
   "source_id": "city-of-arcadia-2023-24",
   "receiving_entity": "City of Arcadia",
   "publication_title": "City of Arcadia impact fee report, fiscal year 2023-24",
@@ -798,6 +812,48 @@
   "published_data_rows_from_this_source": 2
  },
  {
+  "source_id": "city-of-stanton-2022-23",
+  "receiving_entity": "City of Stanton",
+  "publication_title": "City of Stanton annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://cms9files.revize.com/stantoncanew/Document_center/Department/Finance/City%20Finance%20Information/AB%201600/FY%202022.23%20AB%201600%20Report.pdf",
+  "retrieved_utc": "2026-09-22T08:26:42.759326+00:00",
+  "physical_page_count": 16,
+  "source_sha256": "9bb27c09f01f50d8e0a1150bdc377159d9a7ff437a28ec42bedb2af624aca12c",
+  "source_bytes": 1682830,
+  "source_pdf": "sources/city-of-stanton-2022-23.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-stanton-2023-24",
+  "receiving_entity": "City of Stanton",
+  "publication_title": "City of Stanton annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://cms9files.revize.com/stantoncanew/Document_center/Department/Finance/City%20Finance%20Information/AB%201600/FY%202023.24%20AB%201600%20Report.pdf",
+  "retrieved_utc": "2026-09-22T08:26:42.515607+00:00",
+  "physical_page_count": 16,
+  "source_sha256": "b02c65a4a30a8476b3431e535a389f7abde83001c4f2c2536ca89abe2960b7ec",
+  "source_bytes": 1054818,
+  "source_pdf": "sources/city-of-stanton-2023-24.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-stanton-2024-25",
+  "receiving_entity": "City of Stanton",
+  "publication_title": "City of Stanton annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://cms9files.revize.com/stantoncanew/Document_center/Department/Finance/City%20Finance%20Information/AB%201600/Annual%20Development%20Impact%20AB%201600%20FY%202024-25%20v2.pdf",
+  "retrieved_utc": "2026-09-22T08:26:42.283860+00:00",
+  "physical_page_count": 13,
+  "source_sha256": "87e333ab1e202830237151fc4dd7078af0bf86aaf8298d025e4c1f1707474ee0",
+  "source_bytes": 1067685,
+  "source_pdf": "sources/city-of-stanton-2024-25.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
   "source_id": "city-of-stockton-2022-23",
   "receiving_entity": "City of Stockton",
   "publication_title": "City of Stockton impact fee report, fiscal year 2022-23",
@@ -824,6 +880,48 @@
   "source_bytes": 247658,
   "source_pdf": "sources/city-of-temecula-2023-24.pdf",
   "published_data_rows_from_this_source": 8
+ },
+ {
+  "source_id": "city-of-victorville-2024-25",
+  "receiving_entity": "City of Victorville",
+  "publication_title": "City of Victorville annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.victorvilleca.gov/files/assets/city/v/1/finance/documents/city-fees/dif/ab1600-reports/annual_development_impact_fee_report__fiscal_year_ended_june_30_2025-remediated.pdf",
+  "retrieved_utc": "2026-09-22T06:26:47.057918+00:00",
+  "physical_page_count": 23,
+  "source_sha256": "6704575218fafe2efdd15f5c6592247295bf070ffae4b40077d38ab0dfa17572",
+  "source_bytes": 2608597,
+  "source_pdf": "sources/city-of-victorville-2024-25.pdf",
+  "published_data_rows_from_this_source": 8
+ },
+ {
+  "source_id": "city-of-whittier-2023-24",
+  "receiving_entity": "City of Whittier",
+  "publication_title": "City of Whittier annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.cityofwhittier.org/home/showpublisheddocument/15250/638711562485330000",
+  "retrieved_utc": "2026-09-22T07:08:43.362654+00:00",
+  "physical_page_count": 15,
+  "source_sha256": "19d643ed3a17c96c096db446ed42979adb5b6f961d2eddf0afcc600cd80d5726",
+  "source_bytes": 226119,
+  "source_pdf": "sources/city-of-whittier-2023-24.pdf",
+  "published_data_rows_from_this_source": 6
+ },
+ {
+  "source_id": "city-of-whittier-2024-25",
+  "receiving_entity": "City of Whittier",
+  "publication_title": "City of Whittier annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.cityofwhittier.org/home/showpublisheddocument/16482/639015637585600000",
+  "retrieved_utc": "2026-09-22T07:08:42.926023+00:00",
+  "physical_page_count": 17,
+  "source_sha256": "4904b54a247e8ee13c5ceb65a03bc013d982a2f15d2c609cde8a669afc8dae77",
+  "source_bytes": 218394,
+  "source_pdf": "sources/city-of-whittier-2024-25.pdf",
+  "published_data_rows_from_this_source": 4
  },
  {
   "source_id": "city-of-willows-2020-21",
@@ -1776,5 +1874,33 @@
   "source_bytes": 36280,
   "source_pdf": "sources/county-of-sacramento-2022-23-sunrise-rpd.pdf",
   "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "town-of-yucca-valley-2022-23",
+  "receiving_entity": "Town of Yucca Valley",
+  "publication_title": "Town of Yucca Valley annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.yucca-valley.org/home/showpublisheddocument/7658/638362432136000000",
+  "retrieved_utc": "2026-09-22T11:14:29.321691+00:00",
+  "physical_page_count": 16,
+  "source_sha256": "68ed2f116790cbb8d73092b5f31a5b2aa75ec72f3d24d7f09ff3ae2140441568",
+  "source_bytes": 741159,
+  "source_pdf": "sources/town-of-yucca-valley-2022-23.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
+  "source_id": "town-of-yucca-valley-2024-25",
+  "receiving_entity": "Town of Yucca Valley",
+  "publication_title": "Town of Yucca Valley annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.yucca-valley.org/home/showpublisheddocument/9382/638989824180730000",
+  "retrieved_utc": "2026-09-22T11:14:29.961252+00:00",
+  "physical_page_count": 16,
+  "source_sha256": "085c9d8d40ef926c9b00d19f0374dd037fd54860ddef84433860b39b63fe8957",
+  "source_bytes": 395467,
+  "source_pdf": "sources/town-of-yucca-valley-2024-25.pdf",
+  "published_data_rows_from_this_source": 4
  }
 ]

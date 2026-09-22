@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T12:34:38.881038+00:00",
- "data_rows": 670,
- "distinct_printed_figures": 502,
- "receiving_entities": 71,
- "agency_years": 148,
- "fee_programs": 311,
- "source_reports": 116,
- "evidence_pairs": 502,
+ "built_utc": "2026-09-22T13:06:05.338596+00:00",
+ "data_rows": 713,
+ "distinct_printed_figures": 545,
+ "receiving_entities": 76,
+ "agency_years": 157,
+ "fee_programs": 337,
+ "source_reports": 125,
+ "evidence_pairs": 545,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1145,
- "total_bytes": 167587270,
+ "file_count": 1240,
+ "total_bytes": 181110823,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 8099,
-   "sha256": "dcefb70a41e86016c01d63f4ffcd8d483bb7008c4ab0a050d44a282884ad6763"
+   "bytes": 8390,
+   "sha256": "d7270aa10c757d1fd1ca6cbb6b4ba346cde5b23545884743a85026f4fa8e183a"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "99e15792b246ac0f800e914daafdd809a25fb5c24934bda4503bb1db5c6a081f"
+   "sha256": "60ccb469af83bb93969bb224dfad0a8a9522edc8fc58f67de6019835e9a7bf83"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 266433,
-   "sha256": "dd03c8f8d57d4ee0c7473b7750c9c6991bbc3be6c58401f62e0dd702fd4247f2"
+   "bytes": 284080,
+   "sha256": "e35180c6256d5f7b646e03feec180d2ff70851f7268eafa205004c28953beb0a"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1503294,
-   "sha256": "cc6191f6bf738ba5dd3938f3d1bfd152bf17000592766ef34da0c53f9d246462"
+   "bytes": 1592664,
+   "sha256": "ea7a4723bef6892103141413bd90b9cf677d540fda3d49913b85da794201b325"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2196227,
-   "sha256": "174db175b57f8a3025811c010a0d855af52eb16bed7291c214ab367b459ae5d5"
+   "bytes": 2330202,
+   "sha256": "516b7608b11b7d4f28dd60e870b642ff93960cfa259406b22c79cd3795dd4c90"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -125,6 +125,21 @@
    "path": "evidence/extracts/cameron-park-community-service-district-p008-e19830eb.pdf",
    "bytes": 75458,
    "sha256": "0957720193df8383165d0411a2ad2a3b702859a5797125a53339b599e646c436"
+  },
+  {
+   "path": "evidence/extracts/city-of-albany-p009-32b9bb31.pdf",
+   "bytes": 48264,
+   "sha256": "61d50f1113837a710c8d3da30f82198d9b823b715417db25b5de26c3d699b020"
+  },
+  {
+   "path": "evidence/extracts/city-of-albany-p009-75ac2b0f.pdf",
+   "bytes": 48264,
+   "sha256": "64b082b66eac84c0d66c4406460b3be7699949b825e2e0452b8c5bd83f73541e"
+  },
+  {
+   "path": "evidence/extracts/city-of-albany-p009-f42278eb.pdf",
+   "bytes": 48264,
+   "sha256": "5e899604f244c2530c69466f6a7ddeda7666408b6af372e017f101bc78f66c6e"
   },
   {
    "path": "evidence/extracts/city-of-arcadia-p001-1e243abb.pdf",
@@ -1627,6 +1642,76 @@
    "sha256": "d4dd9db07075a2ae32e3ba8fa1636ad3ee5dd4574315ace0d2cba6ed69337b20"
   },
   {
+   "path": "evidence/extracts/city-of-stanton-p008-25a63e09.pdf",
+   "bytes": 56653,
+   "sha256": "fd2fc0c50565098a034d213eb6d2cfc3d85554499606e71b3b9d7a516b32f948"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-269ce29d.pdf",
+   "bytes": 57506,
+   "sha256": "aaebccc62707caf73f28d81dad561aecd35378eb2523a81f1a62890b31296612"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-426df333.pdf",
+   "bytes": 56653,
+   "sha256": "2f78837a363dff8de01ada34438ca406b2881eb113fea314e73fb079bbcbdd9b"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-427f1f2e.pdf",
+   "bytes": 47208,
+   "sha256": "6c985431a3e02b7848d80f020fe13109dcbf9021ba7d9e7bee586ea2f96e10d8"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-84a9c2f5.pdf",
+   "bytes": 56653,
+   "sha256": "82b511ed5d8573b06460ee7ed65f867d5908fb88ce6e38959c5e09383901d1f1"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-854576d5.pdf",
+   "bytes": 57506,
+   "sha256": "f496e0d6fc4bf78e381c4579c7b445e78c23910e276f237e29ce840bb9a1ea1f"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-8e93963e.pdf",
+   "bytes": 47208,
+   "sha256": "36e0e00051864887fbfc4df6e4e3ee1dd6f7a1abdebea8a7c395f1b000f92011"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-b557a335.pdf",
+   "bytes": 57506,
+   "sha256": "1503644e17b3c8fde0d89822536b9199abce0853337979df5e61e27a7629d985"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-bf13bede.pdf",
+   "bytes": 47208,
+   "sha256": "18b030ba8aedde883bb92ebc0cbd1017e11b3d53f91f17e79e3230184dd66b79"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-e456fe61.pdf",
+   "bytes": 47208,
+   "sha256": "c240d169be036298870602b759e26e7749b9be20b55bd0d5b85efa30f32abb29"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-ebe53492.pdf",
+   "bytes": 57506,
+   "sha256": "b2444e416947ba29386343e318c1342db619f9638b73aad1444e808062c99a36"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-f15d2d8c.pdf",
+   "bytes": 56653,
+   "sha256": "b0ce03c00206866bb81af2cc84a99b07fb9ecebe34bfaf9e7965cf1c689742de"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-f765192b.pdf",
+   "bytes": 57506,
+   "sha256": "b577877fdbc42a65b46dd0deb58ccba9c0ac9edf3df96ce679ab0d2fd8d98d4b"
+  },
+  {
+   "path": "evidence/extracts/city-of-stanton-p008-fb87a228.pdf",
+   "bytes": 56653,
+   "sha256": "593608d8deef46db94df4f7000e786749a49af12b4f5a2976dfa2def3f918f9b"
+  },
+  {
    "path": "evidence/extracts/city-of-stockton-p025-9c0a4933.pdf",
    "bytes": 76315,
    "sha256": "59a3c34f1da3694697080c5a19133854c293f70029d0823de5748cb6d2bcc989"
@@ -1675,6 +1760,96 @@
    "path": "evidence/extracts/city-of-temecula-p002-b5ad120c.pdf",
    "bytes": 65965,
    "sha256": "3b3407c3f876f5806c9b6d9af6e01a20a32c652e74007f46842db3fa0a3a1a70"
+  },
+  {
+   "path": "evidence/extracts/city-of-victorville-p010-04189855.pdf",
+   "bytes": 52058,
+   "sha256": "69419c0f775e05add480cfcb955cdb44ffd5cc8f578dd27d3e0608e806f221c1"
+  },
+  {
+   "path": "evidence/extracts/city-of-victorville-p010-1a45b219.pdf",
+   "bytes": 52058,
+   "sha256": "f8275e212b6bf9f17618798a9cc3bb45fbbdceb46ffbcf8ea6f726ca88b6e896"
+  },
+  {
+   "path": "evidence/extracts/city-of-victorville-p010-556008ea.pdf",
+   "bytes": 52058,
+   "sha256": "548a57783e4b111a807581bd38fe0469b1c35d4abcb039ce2ad184b77b4d0546"
+  },
+  {
+   "path": "evidence/extracts/city-of-victorville-p010-7c44a1d8.pdf",
+   "bytes": 52058,
+   "sha256": "d83b6833644a160e1ef7e5a55baa87a88c70492f9267bd45203f03203736a3ba"
+  },
+  {
+   "path": "evidence/extracts/city-of-victorville-p010-885fd398.pdf",
+   "bytes": 52058,
+   "sha256": "fbf37e7301b90dd8a286b68bceaeb700fd241c1bf5b814658536e3dac8ab5cfe"
+  },
+  {
+   "path": "evidence/extracts/city-of-victorville-p010-8eacc25b.pdf",
+   "bytes": 52058,
+   "sha256": "6b740caa9410636d1922b43a83f821f358badd0d89d1f6b2e38c9b3d68a02eb1"
+  },
+  {
+   "path": "evidence/extracts/city-of-victorville-p010-d2da5bb2.pdf",
+   "bytes": 52058,
+   "sha256": "6c599b490c51096ec8972111eb7a7f5f6268767dfacf66a423d9cd63655fd10b"
+  },
+  {
+   "path": "evidence/extracts/city-of-victorville-p010-edd0b13a.pdf",
+   "bytes": 52058,
+   "sha256": "5dbe0e41235d38829f60de8e65363dd2a0fa309afce68450bbf5e6ea759504b4"
+  },
+  {
+   "path": "evidence/extracts/city-of-whittier-p011-42eca034.pdf",
+   "bytes": 48812,
+   "sha256": "1f03033952e0a50a72813d1a1c971da313f05c1bcda1e814c6d64feb0b927305"
+  },
+  {
+   "path": "evidence/extracts/city-of-whittier-p011-44189e71.pdf",
+   "bytes": 48812,
+   "sha256": "b88eb6cfae1922a3b7b42084892e85202d5b25a38ca7d1519acebfad2befd02f"
+  },
+  {
+   "path": "evidence/extracts/city-of-whittier-p011-8c54f1b2.pdf",
+   "bytes": 48812,
+   "sha256": "db7a70d00b43b670558ce3107a673dd4a84e657d9c00339cec6498c9fa7dcb6c"
+  },
+  {
+   "path": "evidence/extracts/city-of-whittier-p011-940cf534.pdf",
+   "bytes": 48812,
+   "sha256": "9281c3ade9f647f138871cef857c5e3ca7aca6e49c113b17a23c6a49589fdfc2"
+  },
+  {
+   "path": "evidence/extracts/city-of-whittier-p011-ac71e79f.pdf",
+   "bytes": 48812,
+   "sha256": "80f22643e0b5e17ba93c7ddb2393709f38cb634f495facaf30ef9fd1776b4710"
+  },
+  {
+   "path": "evidence/extracts/city-of-whittier-p011-e9a1d9b7.pdf",
+   "bytes": 48812,
+   "sha256": "3a08035a8cf1d8fda11d01c63a0343a9a31e7c299777c8760c7e063e03c450f3"
+  },
+  {
+   "path": "evidence/extracts/city-of-whittier-p012-2e87ee98.pdf",
+   "bytes": 48577,
+   "sha256": "c3b47f0469e50613d27fe4786cb3e36ac6733048b0ab6f671771ce193c1f5403"
+  },
+  {
+   "path": "evidence/extracts/city-of-whittier-p012-319aced4.pdf",
+   "bytes": 48577,
+   "sha256": "fe24e296f358c4ea4eef80d691d4f82fe941b8acf9d371f486202385829d561e"
+  },
+  {
+   "path": "evidence/extracts/city-of-whittier-p012-3b5d46b3.pdf",
+   "bytes": 48577,
+   "sha256": "7401d585bb1b79615bb9121c28df668c387791198efa49b4ebc853cdf4d340bc"
+  },
+  {
+   "path": "evidence/extracts/city-of-whittier-p012-da486cfb.pdf",
+   "bytes": 48577,
+   "sha256": "9c83ee380677f52259384a9b4d3065b942ee16d4ba19196b31c594307eaeac39"
   },
   {
    "path": "evidence/extracts/city-of-willows-p004-e538dbc2.pdf",
@@ -2607,9 +2782,49 @@
    "sha256": "a6cfb38f0a42f5407263c13b7232845c390037bdbfa9a9a4cfd429b26a03d1ed"
   },
   {
+   "path": "evidence/extracts/town-of-yucca-valley-p009-1b5e1184.pdf",
+   "bytes": 46502,
+   "sha256": "9d5425078dcbe7775aa301a631acefff481d320141ab4dc931c9828730a983f7"
+  },
+  {
+   "path": "evidence/extracts/town-of-yucca-valley-p009-3c7a2c4b.pdf",
+   "bytes": 132567,
+   "sha256": "4fa5a78258dcbeb7b7a3bd84177ba4576e051acc5a8434f3dd95df68230a4e62"
+  },
+  {
+   "path": "evidence/extracts/town-of-yucca-valley-p009-56465778.pdf",
+   "bytes": 132567,
+   "sha256": "8a1cd5abdef98fd72c0a30c60ef56cf6259415ff7cadba7d889f7aae15a435a4"
+  },
+  {
+   "path": "evidence/extracts/town-of-yucca-valley-p009-6af581b2.pdf",
+   "bytes": 46502,
+   "sha256": "8098d4cf18873a57ae4e2cb63751cacb9179e9753f77441c3656bb00c7ec151e"
+  },
+  {
+   "path": "evidence/extracts/town-of-yucca-valley-p009-7bc70657.pdf",
+   "bytes": 132567,
+   "sha256": "b838e0c46cb22eba19f6115deaa939726e7ed120f12b604ab7a4e793e5f6c1b9"
+  },
+  {
+   "path": "evidence/extracts/town-of-yucca-valley-p009-93a27a14.pdf",
+   "bytes": 46502,
+   "sha256": "e270a998b41a714dda3683d7fb9734fecfcc29ff14a4cb4a7d23ee347e7cba95"
+  },
+  {
+   "path": "evidence/extracts/town-of-yucca-valley-p009-a57b3b4e.pdf",
+   "bytes": 132567,
+   "sha256": "9625ab2bbc0aad0cf23cc2e8afbc7b11bcdc011f52a56fc716126c2b7ca0f720"
+  },
+  {
+   "path": "evidence/extracts/town-of-yucca-valley-p009-de22dbcf.pdf",
+   "bytes": 46502,
+   "sha256": "bcaffe0fbe54ac9da47951f36178e97ae835e64eaaef00903781bf3b6f7c7a29"
+  },
+  {
    "path": "evidence/index.json",
-   "bytes": 534817,
-   "sha256": "0d7595fb19c318159bd56f0d685eb91bf32b51959a4c3e429a7daf570a35ceea"
+   "bytes": 577749,
+   "sha256": "83747180757ff183d841b919d197ba5ba4c9ffc974c9b954ade1c95d5ecb2c51"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -2640,6 +2855,21 @@
    "path": "evidence/outlined/cameron-park-community-service-district-p008-e19830eb.pdf",
    "bytes": 75519,
    "sha256": "45d6604955e65e53c7c2199227c18fbc213edc6f2d39a761bed2d10fe53dfe2f"
+  },
+  {
+   "path": "evidence/outlined/city-of-albany-p009-32b9bb31.pdf",
+   "bytes": 48326,
+   "sha256": "f9cebbf3882db89b7a812ef48fe173a372441e2f83349f81999871eef0a940cb"
+  },
+  {
+   "path": "evidence/outlined/city-of-albany-p009-75ac2b0f.pdf",
+   "bytes": 48319,
+   "sha256": "fb5f62b105ce746cc132c1331d374577995d1de4eea7724f0f8978e4dad38b55"
+  },
+  {
+   "path": "evidence/outlined/city-of-albany-p009-f42278eb.pdf",
+   "bytes": 48320,
+   "sha256": "5ef40ee456df7c05d68a8284911378dc4dbb966ebc70ca5478b57ffc3cb250fa"
   },
   {
    "path": "evidence/outlined/city-of-arcadia-p001-1e243abb.pdf",
@@ -4142,6 +4372,76 @@
    "sha256": "cab05d61d0d8b6faf5ba38b39f736c63310fffbe67651997035bb7b07151dfac"
   },
   {
+   "path": "evidence/outlined/city-of-stanton-p008-25a63e09.pdf",
+   "bytes": 56712,
+   "sha256": "56da0e29989f77fea5b6485681d7ec6c6d2be372b6abfa05f9da27ee260c7bd7"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-269ce29d.pdf",
+   "bytes": 57570,
+   "sha256": "5cb4ecb8c4af989a1df507850c5d3eb87f3c6d5c0150d7a7d496fbae2cdc93ec"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-426df333.pdf",
+   "bytes": 56712,
+   "sha256": "a2816d1e042bc090ef67557348e37e7f741bb2ca9b41eb2007aa654a60b60352"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-427f1f2e.pdf",
+   "bytes": 47271,
+   "sha256": "da2b6678200ab9ceb0d3ab26b8ff8c405ddd724445bab3b573af28a924a127a4"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-84a9c2f5.pdf",
+   "bytes": 56711,
+   "sha256": "28d605a024a200a1d1892fe79291c8b85e1dc537eb85af72ee77c4c67e72548c"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-854576d5.pdf",
+   "bytes": 57567,
+   "sha256": "13873162af32d6accd7ad4a2b5973f9f70ae6c531f1f63f256cb7d3717ad4025"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-8e93963e.pdf",
+   "bytes": 47273,
+   "sha256": "6938c50a087952f623bab720f10558109ffa5a1b46f8fe2b8098df1300b57f47"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-b557a335.pdf",
+   "bytes": 57567,
+   "sha256": "c232985ec7ab449ca36c9a0feffc8d2b3a566a26ffa169e1d258596f6ea4b671"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-bf13bede.pdf",
+   "bytes": 47271,
+   "sha256": "57b7433291cbc9360231b2bdf815a0fac2dded3e8abb05a3aa2a8b9cb90fcffb"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-e456fe61.pdf",
+   "bytes": 47272,
+   "sha256": "aa729b25db36ae3489977f54406727544955e65301d6465784f9133c796fc25d"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-ebe53492.pdf",
+   "bytes": 57570,
+   "sha256": "d91f7f1ea94bfdf72e1bbb2f2e9a77106d7d4dd6145f8edf55e4f5e16fb79fa3"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-f15d2d8c.pdf",
+   "bytes": 56711,
+   "sha256": "517225c49f3449cf218c3c8c8e990162f5d1bb4797a4521670d1b984cf2fab4a"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-f765192b.pdf",
+   "bytes": 57565,
+   "sha256": "8080722bc9cdbff043b60d39412aefa4656aa937a42157acb37dafd0067216a2"
+  },
+  {
+   "path": "evidence/outlined/city-of-stanton-p008-fb87a228.pdf",
+   "bytes": 56712,
+   "sha256": "cde9c185b11393d4d3a537c8e198e319e5aca12a5408fe21ad23d207f0b754e4"
+  },
+  {
    "path": "evidence/outlined/city-of-stockton-p025-9c0a4933.pdf",
    "bytes": 76369,
    "sha256": "3d1d2fae8b90e7c3a67dae121a5909455c5daeb282ac44982b7ddd41a1b42278"
@@ -4190,6 +4490,96 @@
    "path": "evidence/outlined/city-of-temecula-p002-b5ad120c.pdf",
    "bytes": 66026,
    "sha256": "1be1f4a7491ea642fb48db7094070e95cb163b1daee7a71618130705c7c4c3db"
+  },
+  {
+   "path": "evidence/outlined/city-of-victorville-p010-04189855.pdf",
+   "bytes": 52117,
+   "sha256": "c682be98d006920d5228508f4331326d538cf787c83ece06e69f03efcc610c77"
+  },
+  {
+   "path": "evidence/outlined/city-of-victorville-p010-1a45b219.pdf",
+   "bytes": 52117,
+   "sha256": "58849ca0016fc934688ce4b80e297bd1c1ccd4d2cf98d285912e40310a01e23d"
+  },
+  {
+   "path": "evidence/outlined/city-of-victorville-p010-556008ea.pdf",
+   "bytes": 52120,
+   "sha256": "b3b65462baa16c9c3d0a53662af5f2d17032f9a923978781e5269fbdc91dd17b"
+  },
+  {
+   "path": "evidence/outlined/city-of-victorville-p010-7c44a1d8.pdf",
+   "bytes": 52118,
+   "sha256": "174a708162ef377ad190d3f963ec7239a432266070f7487ab9cdc51131e5b74f"
+  },
+  {
+   "path": "evidence/outlined/city-of-victorville-p010-885fd398.pdf",
+   "bytes": 52116,
+   "sha256": "af265a494e8ff7991a31cdd63790af4f200b61135d5cc529345b3347c49a4d2e"
+  },
+  {
+   "path": "evidence/outlined/city-of-victorville-p010-8eacc25b.pdf",
+   "bytes": 52118,
+   "sha256": "6ee2222498384be1b43eb5eeccd99a8503f3feeae885ceb286171544aec2bc31"
+  },
+  {
+   "path": "evidence/outlined/city-of-victorville-p010-d2da5bb2.pdf",
+   "bytes": 52118,
+   "sha256": "edbe10debd36a9e14c9286fbdb9b63a40117c1833f3e7905206811238222449c"
+  },
+  {
+   "path": "evidence/outlined/city-of-victorville-p010-edd0b13a.pdf",
+   "bytes": 52117,
+   "sha256": "ccb330eb747fdea87ad81db3d824015ded106df907987ca69488acd560616215"
+  },
+  {
+   "path": "evidence/outlined/city-of-whittier-p011-42eca034.pdf",
+   "bytes": 48870,
+   "sha256": "f18cbb4f361ae84ecca11c74cc9302096fe999836b28dc10f65d650425a18e30"
+  },
+  {
+   "path": "evidence/outlined/city-of-whittier-p011-44189e71.pdf",
+   "bytes": 48869,
+   "sha256": "363bc8bf94a510ca36b8c69fa2f662085bef8012f6854dd6210e200c8f88f5ef"
+  },
+  {
+   "path": "evidence/outlined/city-of-whittier-p011-8c54f1b2.pdf",
+   "bytes": 48872,
+   "sha256": "021c73bfdd309dba9bdb249b8b7c53cb029177477b17777934db0f3150b4ddae"
+  },
+  {
+   "path": "evidence/outlined/city-of-whittier-p011-940cf534.pdf",
+   "bytes": 48871,
+   "sha256": "9cb2dbb21c266dcc7559ee9d79fd23e336b729b950b608d71a0c1962fb024bd5"
+  },
+  {
+   "path": "evidence/outlined/city-of-whittier-p011-ac71e79f.pdf",
+   "bytes": 48870,
+   "sha256": "5ac948701e0db0d6ade678ee9ba1fafe70701b06d63b7c9d852301f9698260e7"
+  },
+  {
+   "path": "evidence/outlined/city-of-whittier-p011-e9a1d9b7.pdf",
+   "bytes": 48870,
+   "sha256": "32cc4cb9d8b690fe1f287ce7b6e77e6c30fafdacdee82a35383eec3c760c4fc5"
+  },
+  {
+   "path": "evidence/outlined/city-of-whittier-p012-2e87ee98.pdf",
+   "bytes": 48635,
+   "sha256": "abe16ba00a3063020fc12e08d4891149530127ce65a0d52c70d169cde7bfcb3c"
+  },
+  {
+   "path": "evidence/outlined/city-of-whittier-p012-319aced4.pdf",
+   "bytes": 48633,
+   "sha256": "cec6e7871de19805ddda04da18c2fb27ec9ac752e28b734be5af6ebe35ba8e16"
+  },
+  {
+   "path": "evidence/outlined/city-of-whittier-p012-3b5d46b3.pdf",
+   "bytes": 48633,
+   "sha256": "13a9fd16de44c62c7ef14ff3ffc5ac2aed3df49528b98ace3ca6cfde05eb3699"
+  },
+  {
+   "path": "evidence/outlined/city-of-whittier-p012-da486cfb.pdf",
+   "bytes": 48634,
+   "sha256": "26fca6a6bcaa0c73d8c5d183bb6cf2b4e71242be1778d3b1e1741409849d5d43"
   },
   {
    "path": "evidence/outlined/city-of-willows-p004-e538dbc2.pdf",
@@ -5122,6 +5512,46 @@
    "sha256": "ef8c2ca40c8ab02366b55fbedd7d833a33813cc9cce0d9f82ab2e80e6bf279d3"
   },
   {
+   "path": "evidence/outlined/town-of-yucca-valley-p009-1b5e1184.pdf",
+   "bytes": 46549,
+   "sha256": "8c2ed6fcde94a1f21cbdf63245bd21b9cdf352cb89170dd9a1197e900e958c11"
+  },
+  {
+   "path": "evidence/outlined/town-of-yucca-valley-p009-3c7a2c4b.pdf",
+   "bytes": 132623,
+   "sha256": "23147312cff5a4d7ecaee902a48e93d29a57b1176bf66be7e8312bce45ce41d1"
+  },
+  {
+   "path": "evidence/outlined/town-of-yucca-valley-p009-56465778.pdf",
+   "bytes": 132623,
+   "sha256": "76558e1b7d9c7f20d2eb6c7c02a8bbb30604c454665c4a2fe6c70df3ab13ae08"
+  },
+  {
+   "path": "evidence/outlined/town-of-yucca-valley-p009-6af581b2.pdf",
+   "bytes": 46559,
+   "sha256": "4c23dbea3c73a7e8ab8436af1a4dead0814cf74c7baa3749d29ad24d487b6a8d"
+  },
+  {
+   "path": "evidence/outlined/town-of-yucca-valley-p009-7bc70657.pdf",
+   "bytes": 132621,
+   "sha256": "53fe79ae0a8a2999384d250105545fd7130b376d7d8e9cdc4b296327bb07c32b"
+  },
+  {
+   "path": "evidence/outlined/town-of-yucca-valley-p009-93a27a14.pdf",
+   "bytes": 46559,
+   "sha256": "23337bd3f29bda59c3a4a3c70e73a91e4a4fed938f499471a3d93815f22b7d10"
+  },
+  {
+   "path": "evidence/outlined/town-of-yucca-valley-p009-a57b3b4e.pdf",
+   "bytes": 132625,
+   "sha256": "914d74339b8fdbe07b5fd448dbaf676424712f38ba48b1b8c6b8ae02eb9ef920"
+  },
+  {
+   "path": "evidence/outlined/town-of-yucca-valley-p009-de22dbcf.pdf",
+   "bytes": 46559,
+   "sha256": "6586f679bcc22e710da498820529579ff9eb6b3b56d6d3fa66093ef692e07209"
+  },
+  {
    "path": "sources/README.md",
    "bytes": 3952,
    "sha256": "0c7975378f8646035a56f8061bcd9dbd8b1a09041a465b52c64d31d6eac7c6fa"
@@ -5140,6 +5570,11 @@
    "path": "sources/beaumont-unified-2024-25.pdf",
    "bytes": 439356,
    "sha256": "a1c9e11036ad6f97c163eef590d0fa48ff39158ad6e7d7cda94f89c006e352e8"
+  },
+  {
+   "path": "sources/city-of-albany-2024-25.pdf",
+   "bytes": 182402,
+   "sha256": "fd21ae74a09d3d5fad010c4c65a55d778eb71363389160a9969518b8db0fb7fd"
   },
   {
    "path": "sources/city-of-arcadia-2023-24.pdf",
@@ -5392,6 +5827,21 @@
    "sha256": "1a7681ab3e34b5058d446380a2da4e60f1b9867c308aa865be5cbd33d98fba0f"
   },
   {
+   "path": "sources/city-of-stanton-2022-23.pdf",
+   "bytes": 1682830,
+   "sha256": "9bb27c09f01f50d8e0a1150bdc377159d9a7ff437a28ec42bedb2af624aca12c"
+  },
+  {
+   "path": "sources/city-of-stanton-2023-24.pdf",
+   "bytes": 1054818,
+   "sha256": "b02c65a4a30a8476b3431e535a389f7abde83001c4f2c2536ca89abe2960b7ec"
+  },
+  {
+   "path": "sources/city-of-stanton-2024-25.pdf",
+   "bytes": 1067685,
+   "sha256": "87e333ab1e202830237151fc4dd7078af0bf86aaf8298d025e4c1f1707474ee0"
+  },
+  {
    "path": "sources/city-of-stockton-2022-23.pdf",
    "bytes": 2697997,
    "sha256": "91248855f657ca85c11dd8240fea7697dc33bb1e40191d2ae9610edcc9b3a309"
@@ -5400,6 +5850,21 @@
    "path": "sources/city-of-temecula-2023-24.pdf",
    "bytes": 247658,
    "sha256": "dc62f0303f7e6a05a3b7b18554028e82b6dd348b7aa6f7b68ace3da52e723901"
+  },
+  {
+   "path": "sources/city-of-victorville-2024-25.pdf",
+   "bytes": 2608597,
+   "sha256": "6704575218fafe2efdd15f5c6592247295bf070ffae4b40077d38ab0dfa17572"
+  },
+  {
+   "path": "sources/city-of-whittier-2023-24.pdf",
+   "bytes": 226119,
+   "sha256": "19d643ed3a17c96c096db446ed42979adb5b6f961d2eddf0afcc600cd80d5726"
+  },
+  {
+   "path": "sources/city-of-whittier-2024-25.pdf",
+   "bytes": 218394,
+   "sha256": "4904b54a247e8ee13c5ceb65a03bc013d982a2f15d2c609cde8a669afc8dae77"
   },
   {
    "path": "sources/city-of-willows-2020-21.pdf",
@@ -5673,13 +6138,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 56615,
-   "sha256": "d6406d3b17c90e1023c3a9ca0e73b5098ef32cb770c35125f7d5c1be23eef15f"
+   "bytes": 60520,
+   "sha256": "4876bff1e62ab69978b4089a5e59aba98894904780869797d1d3e85090290585"
   },
   {
    "path": "sources/index.json",
-   "bytes": 96676,
-   "sha256": "0d3128cd6939fc546506ab6f8d9cb575aa33331d3802412f10f4154e7948ff58"
+   "bytes": 103434,
+   "sha256": "6713f7cc42619b7878b4c016de7e6b0094b0f76083be5326674f812ef55bcf5f"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -5727,9 +6192,19 @@
    "sha256": "5ca63d46abd53ef3626789c6c64c0e1760760435985b6dbb94ee525c292e30d0"
   },
   {
+   "path": "sources/town-of-yucca-valley-2022-23.pdf",
+   "bytes": 741159,
+   "sha256": "68ed2f116790cbb8d73092b5f31a5b2aa75ec72f3d24d7f09ff3ae2140441568"
+  },
+  {
+   "path": "sources/town-of-yucca-valley-2024-25.pdf",
+   "bytes": 395467,
+   "sha256": "085c9d8d40ef926c9b00d19f0374dd037fd54860ddef84433860b39b63fe8957"
+  },
+  {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "f11cbcd0718e3a7356bc28e1aad67e354a52347322fe5c63732354f678853305"
+   "sha256": "75de984a99744aea7059166108273c9fd1cb33e994cc5b2773ff72418e3004da"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -5744,7 +6219,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "ee29b35ef0b5e7523f70f35a7cffc5ffde3155a5280b83d7cb647042ad678972"
+   "sha256": "1e0d8a33102a5079836d56b0bafef06b29728612475867f008659b4cfdb72c05"
   },
   {
    "path": "validation/validate.py",
