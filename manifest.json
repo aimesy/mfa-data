@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T22:03:13.437620+00:00",
- "data_rows": 1150,
- "distinct_printed_figures": 982,
- "receiving_entities": 115,
- "agency_years": 234,
- "fee_programs": 586,
- "source_reports": 211,
- "evidence_pairs": 982,
+ "built_utc": "2026-09-22T22:25:45.913375+00:00",
+ "data_rows": 1172,
+ "distinct_printed_figures": 1004,
+ "receiving_entities": 117,
+ "agency_years": 239,
+ "fee_programs": 599,
+ "source_reports": 216,
+ "evidence_pairs": 1004,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2200,
- "total_bytes": 512001644,
+ "file_count": 2249,
+ "total_bytes": 518053772,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 10789,
-   "sha256": "aa565127cc57135272b5594b3dc4878f75f2beaf0d3329139cbb2249e88c09e7"
+   "bytes": 10950,
+   "sha256": "3cb14b5ef8c35c30bc86a4de13420b5946a466abc9c766094d655c532e029c43"
   },
   {
    "path": "data/capital-spending.csv",
@@ -43,13 +43,13 @@
   },
   {
    "path": "data/cohort-accounting.json",
-   "bytes": 1265,
-   "sha256": "b663b92f03b7d71cd35c004eaaf7c71c779134d47e15cacb3427214a6982b7fe"
+   "bytes": 1266,
+   "sha256": "381efd0797f326eabe8e1a72a288126c7d5ff580258d45a08e62384f67cd5cb0"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 457803,
-   "sha256": "d0ab22be6af91d3882ab5d1b5dbd32e3c536ea271a827dcf1d9a98972df16474"
+   "bytes": 467192,
+   "sha256": "046100c71325fb7f6a689def27e3e3c02e76497a2bfd2525c04351bee957be5b"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2471950,
-   "sha256": "2583a66e7d3b9274822811babfd5b6f029c6fa50d4ae9c2cc78c8c6dc18356c5"
+   "bytes": 2516134,
+   "sha256": "ce7f46fd0fa4235b34d78be9faf4835af586822faf76f24d84669c58b2aa110e"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 3662461,
-   "sha256": "e56a282d00b0aa59ea136420221bb59909ea9fb600b0d3e0ddbad3e9b5c8af8f"
+   "bytes": 3729487,
+   "sha256": "b95a4136d015ec803a0974c5e7714e271660d05c170f3b24ea1477fc47018b4f"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -2117,6 +2117,21 @@
    "sha256": "56d2dd6d997a69397a46fbd1b037daa8c58edb647cadb6879ce553060786865b"
   },
   {
+   "path": "evidence/extracts/city-of-menlo-park-p009-4a9419bc.pdf",
+   "bytes": 71404,
+   "sha256": "77f3cfa41bba25df012959fc83723a7250e44d1a4f6746276af3b4fa10a2ea24"
+  },
+  {
+   "path": "evidence/extracts/city-of-menlo-park-p010-11d9cb0e.pdf",
+   "bytes": 71974,
+   "sha256": "4b5b79821ac3f2404c54dc48d89f6a237ca4d94324f026d55aa4037c33eda7d3"
+  },
+  {
+   "path": "evidence/extracts/city-of-menlo-park-p011-972382e5.pdf",
+   "bytes": 70848,
+   "sha256": "1be053784849f36570544ee1bdff355976b577b38aa0923a2ccfe3853b84c955"
+  },
+  {
    "path": "evidence/extracts/city-of-menlo-park-p013-b204a56e.pdf",
    "bytes": 69965,
    "sha256": "085f88b8ed9bf1028d985f1410b8e732f14ca452b129520adfe2ade7215f3493"
@@ -2932,6 +2947,31 @@
    "sha256": "e2cce92061f67077d8bbf59ec2abbbb9915dfc46b60857bbd9a6f3d6463d9923"
   },
   {
+   "path": "evidence/extracts/city-of-san-juan-capistrano-p004-0fa7d5e8.pdf",
+   "bytes": 69492,
+   "sha256": "70028bbf5edac7916c0124a28a6db16b17c173ea976c54f72ad7386e27b6a13a"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-juan-capistrano-p004-901efef3.pdf",
+   "bytes": 66298,
+   "sha256": "5251084c59b3689eba7e5e51834c2c78d8c9bb556eb1eb6d83db6f6e3d23629a"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-juan-capistrano-p004-932d2409.pdf",
+   "bytes": 66298,
+   "sha256": "7029f187cabe39f7443e1837cd02acce851513960f7e2c95fc19d8a4514b901f"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-juan-capistrano-p004-c31e49fa.pdf",
+   "bytes": 66298,
+   "sha256": "b2a853cab48bf253a74b308a5665f3db5f075d117469a7875858c13ceb7ceef4"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-juan-capistrano-p004-e7c4932c.pdf",
+   "bytes": 69492,
+   "sha256": "a180377b75f0fcfb88ead7ac131c444adcbb9177e56970617001a3797234e9ba"
+  },
+  {
    "path": "evidence/extracts/city-of-san-leandro-p001-0052f76b.pdf",
    "bytes": 85664,
    "sha256": "0fcb06f509d57837a9114913042a84073b209ed8c034cb64bdc70442de404625"
@@ -3290,6 +3330,76 @@
    "path": "evidence/extracts/city-of-signal-hill-p012-9c920275.pdf",
    "bytes": 68134,
    "sha256": "115aca0d7f1c77a0a8c985265a59a48b5c7253ffa318ab2ec592a91179644017"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p008-27f1241c.pdf",
+   "bytes": 75065,
+   "sha256": "5485ead226b6deeeae36df0d0dceccebfd71bb96ebb1e0078604e01e3b0a9c24"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p008-a4424805.pdf",
+   "bytes": 72624,
+   "sha256": "6ecbb801276c29bfed9b69a9419a0f1235431a546360b878ecf9dac03e5a1fac"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p008-d68ecd74.pdf",
+   "bytes": 34445,
+   "sha256": "b088a094d712b6e60bcf40af1cee32eb1afb8a60586453ea85b9c85d637f0f12"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p010-8b89b1ca.pdf",
+   "bytes": 9661,
+   "sha256": "1554dffbe9ea3e8fe269ee6d4c65d7b35bb3cab490703502510ace8c274c2536"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p012-6fd0f58b.pdf",
+   "bytes": 33694,
+   "sha256": "1aa4dfb4bc29bc38dd55f9e8952d4c267d2e9fb820d6fed9d75614229390a9e8"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p012-fc8b1ac8.pdf",
+   "bytes": 67817,
+   "sha256": "0584a609a3fa1142881ca42abf64fb60aa7bc77b576fa486e47314c699bb3360"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p014-dadea444.pdf",
+   "bytes": 68777,
+   "sha256": "cd6ef81b4f5679f7ff5c52615f59098bb0e4448120350b1b4679e230c2961089"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p022-5898355c.pdf",
+   "bytes": 34494,
+   "sha256": "43fb8ea51345599a4618abea7e36cf13ac652675ea80db87427a0757d54c251e"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p026-0e1cfcaa.pdf",
+   "bytes": 73295,
+   "sha256": "d3dc79e5e2deb8227153f8ba7f09d9b8578736cb99c9e666ded0d9e6e6f6a6e2"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p026-2c17af46.pdf",
+   "bytes": 35353,
+   "sha256": "bcf460f3f2d266d035c1e19497b926afc3993048b17a3ae8d8e7ac1211c3c0bb"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p028-197c5720.pdf",
+   "bytes": 71291,
+   "sha256": "99fd8cbe7b5da96990503237b5a16353fe7f5fb4fd2fdb829fc95ad00ffbb6c6"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p030-f71e1c29.pdf",
+   "bytes": 10190,
+   "sha256": "14c23b0a0758b277e09376ede00df6b55c5e30d08eebc10441d2c60b954f970e"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p033-e238650a.pdf",
+   "bytes": 70268,
+   "sha256": "e8ca50415c25ef51deede82238782ad92547de3cb9c9626e2dd73be3f5c5082b"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p035-2c709408.pdf",
+   "bytes": 9423,
+   "sha256": "e41a661fac94f0b9ba6bdee589acbfcf9b2c384a41a2946c69c32ca67afda7be"
   },
   {
    "path": "evidence/extracts/city-of-st-helena-p001-1ee5924b.pdf",
@@ -5008,8 +5118,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1027486,
-   "sha256": "84ae2197d9c8186b4c6852495bcadc657a78e7b76ba11aa700e31be163e11aba"
+   "bytes": 1050453,
+   "sha256": "315b3055beb9d353e514c5a79f38319ceaf7980581d88d131dae81633d936ea0"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -7032,6 +7142,21 @@
    "sha256": "d4745d0fc9f9e10f883523d69d5429579d82d350e6fa22a9c6a1e7a6421e697e"
   },
   {
+   "path": "evidence/outlined/city-of-menlo-park-p009-4a9419bc.pdf",
+   "bytes": 71459,
+   "sha256": "9b25a9519affef22c0373c7e89187dc21d388e9e9c400871d9ee2f2191ffe65b"
+  },
+  {
+   "path": "evidence/outlined/city-of-menlo-park-p010-11d9cb0e.pdf",
+   "bytes": 72030,
+   "sha256": "c5a85510416d7e1c979c1a3e6c834d3d028c88445729e3b9612ecf32c8225c29"
+  },
+  {
+   "path": "evidence/outlined/city-of-menlo-park-p011-972382e5.pdf",
+   "bytes": 70906,
+   "sha256": "ef2d9cb19b7a42130d0ead80b56c262673386d89fbc65d231ca7fef1b4e7d0b7"
+  },
+  {
    "path": "evidence/outlined/city-of-menlo-park-p013-b204a56e.pdf",
    "bytes": 70023,
    "sha256": "4e7533ff2dfa6c628c5cbe6a1255e895b129dbbbd0deb3cd74177b02cb73e585"
@@ -7847,6 +7972,31 @@
    "sha256": "61ae2f88313e556b1471f1b61fe06e6271ca42a5015a0c78bf93b09e4413ab23"
   },
   {
+   "path": "evidence/outlined/city-of-san-juan-capistrano-p004-0fa7d5e8.pdf",
+   "bytes": 69553,
+   "sha256": "e564e9ef9d711f795727c71e12d2877ed21260ab4abd6b1f3a4074c43d017db3"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-juan-capistrano-p004-901efef3.pdf",
+   "bytes": 66352,
+   "sha256": "0b8f617ca41d8d9e8faf11b80aff3fe934501b31d5a83a12bded71e9ccc95643"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-juan-capistrano-p004-932d2409.pdf",
+   "bytes": 66356,
+   "sha256": "f68d74a72ba39ceae5784ee1b27260420940490fbf4780aefcd7643928135e57"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-juan-capistrano-p004-c31e49fa.pdf",
+   "bytes": 66351,
+   "sha256": "2b2196b5cce2dc383138bc6b8557fe99bf0ea63261954b0628588ca876a30066"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-juan-capistrano-p004-e7c4932c.pdf",
+   "bytes": 69554,
+   "sha256": "18c829b2239b39b114161504e8c32bc4449038ae89246e30825b53eb90df8ace"
+  },
+  {
    "path": "evidence/outlined/city-of-san-leandro-p001-0052f76b.pdf",
    "bytes": 85736,
    "sha256": "265598ebf2803c1d768fa9ea9ac1ac27cc86be3f33fbd094f4f62c957de92758"
@@ -8205,6 +8355,76 @@
    "path": "evidence/outlined/city-of-signal-hill-p012-9c920275.pdf",
    "bytes": 68194,
    "sha256": "8fc13ba3a759f53dc3daf964aa6f92c9f0254c24e87d2126a8039bfeb93f9073"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p008-27f1241c.pdf",
+   "bytes": 75124,
+   "sha256": "6248e09126a363248408fe689740b018321f87834d80afa8e0c840ce967cb8b3"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p008-a4424805.pdf",
+   "bytes": 72679,
+   "sha256": "3c0ac7f77e8588d7e75d0234cb62104e35b89ebc448780a0811e6b6207ae41e3"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p008-d68ecd74.pdf",
+   "bytes": 34506,
+   "sha256": "bc9a044ef3ac67f261438d734b5292687e4149d89266e67daab6c0892bd4605a"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p010-8b89b1ca.pdf",
+   "bytes": 9718,
+   "sha256": "bc10e0a466876aef4ae6e09affc4a7d4782be9fd6509f3ce540df340926f5d2a"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p012-6fd0f58b.pdf",
+   "bytes": 33756,
+   "sha256": "1ab3df6bb4e823a45e9fd2be1f5ff51b90ce9d8c01734e177d4c5c39b1ff2017"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p012-fc8b1ac8.pdf",
+   "bytes": 67874,
+   "sha256": "8234b0b4687c7ae659cc82713ef6ac2d95c50a4fab79042a6bc900e565cf7782"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p014-dadea444.pdf",
+   "bytes": 68834,
+   "sha256": "20d6c3964a1b04ee6b9be6e4dc32e970c5dc3b2935e6cf53f61d7a39ee1bdf0a"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p022-5898355c.pdf",
+   "bytes": 34551,
+   "sha256": "41209f721ee1ede4498bf45ad6911d654b4e89fa57ac0134cbbf7172658521ab"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p026-0e1cfcaa.pdf",
+   "bytes": 73353,
+   "sha256": "85eb47639a7e2cf6e15f57bfc089cffed928510569747d800c2329e308df0029"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p026-2c17af46.pdf",
+   "bytes": 35411,
+   "sha256": "b5b101f46f18bbc0cc223aeaf3d23a7541601dc660eff442510ee250a0236595"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p028-197c5720.pdf",
+   "bytes": 71348,
+   "sha256": "077866c0ae870c2a222ccb65cd2540065d5444ef465ce5b59858b2f2b681ff64"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p030-f71e1c29.pdf",
+   "bytes": 10251,
+   "sha256": "5c796a86f31d24b483de8cbbe17c69351b71605891caccf398cba7169dfe6ab0"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p033-e238650a.pdf",
+   "bytes": 70324,
+   "sha256": "9417c42bd9cb3463f150249fce40ebfdb52771ac38c0ec723dfbcc3a1b24f6a9"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p035-2c709408.pdf",
+   "bytes": 9482,
+   "sha256": "b433f3983d0c9d4f889aad9888fc07e6779b6f1f60d970d796ea37aaa01eaf73"
   },
   {
    "path": "evidence/outlined/city-of-st-helena-p001-1ee5924b.pdf",
@@ -10507,6 +10727,16 @@
    "sha256": "9e872f28c29854cbcc8497c1e3b0b627252c74a3feb7ad037c358e1e13d87840"
   },
   {
+   "path": "sources/city-of-san-juan-capistrano-2022-23.pdf",
+   "bytes": 974936,
+   "sha256": "6bb220d9f5462259c8e3a7869a8268c172f34b039b6916ccb34c42bc3be07c94"
+  },
+  {
+   "path": "sources/city-of-san-juan-capistrano-2023-24.pdf",
+   "bytes": 933699,
+   "sha256": "1ee2500c94b72c6c35f115a603eb35f0b9c144b81afa6f0986f94350acc97576"
+  },
+  {
    "path": "sources/city-of-san-leandro-2024-25.pdf",
    "bytes": 401601,
    "sha256": "ae24b389e0a8e564bad849dd034257c05308d187f77614e92251b763f141ac49"
@@ -10555,6 +10785,21 @@
    "path": "sources/city-of-signal-hill-2023-24.pdf",
    "bytes": 1068026,
    "sha256": "cbc8fbf9103207ac4c8703d7cc09335da02f8c6610f6fb73736fe96a506484cd"
+  },
+  {
+   "path": "sources/city-of-south-san-francisco-2022-23-24decab8.pdf",
+   "bytes": 540881,
+   "sha256": "24decab8152c83d8d21d0e7c8553f4a57860ef203d3aeff6e7d7e636f82bdc9d"
+  },
+  {
+   "path": "sources/city-of-south-san-francisco-2023-24-d29da665.pdf",
+   "bytes": 502323,
+   "sha256": "d29da665c884286a7991e0c80bff078c9a1a25bdceff4ad0ffaffd23f35c3f57"
+  },
+  {
+   "path": "sources/city-of-south-san-francisco-2024-25-04890bd2.pdf",
+   "bytes": 512351,
+   "sha256": "04890bd29af5cb03948941e7db24912bec9508c04d2f153c617dfa7456851341"
   },
   {
    "path": "sources/city-of-st-helena-2014-15.pdf",
@@ -10938,13 +11183,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 95960,
-   "sha256": "9dfbe4e30447f68db935587d8ff7c9f3aee708a42cb9e55f5d6fabc5a996d340"
+   "bytes": 98132,
+   "sha256": "6157df52450d91dc73ded1c0c8e31e2f9d69ffbf3bafeb991b2b4f0a0334dc94"
   },
   {
    "path": "sources/index.json",
-   "bytes": 166190,
-   "sha256": "5b6e86222d33333967420d2863b4676fcc7dd443730d0161c033fd11cd2eee3c"
+   "bytes": 169951,
+   "sha256": "2fe4f3b2a0398b9d92002c318781ff6bfa78f45588301c9699285961dff37bd3"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -11003,8 +11248,8 @@
   },
   {
    "path": "validation/independent-review.json",
-   "bytes": 3057,
-   "sha256": "102c8c4a69644e2f3bd6bec03eb6469c9b09b07c08780cd8944d4892105fb3c9"
+   "bytes": 3058,
+   "sha256": "295529f9cf07958c982852be800a7ba874d17451352c7bc689b74e4384664304"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -11018,8 +11263,8 @@
   },
   {
    "path": "validation/review.json",
-   "bytes": 2588,
-   "sha256": "f485dfc7264da6fdbeffc9cf4694bff055b4f744cbf9bc38d8f6f28cd9c65076"
+   "bytes": 2591,
+   "sha256": "030afb4095c4b2cfb0382cb97e842d76d217830e70acc08613cf09a4a6daf472"
   },
   {
    "path": "validation/validate.py",

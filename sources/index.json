@@ -1117,7 +1117,7 @@
   "source_sha256": "5258a3ad149d7f84cffd1304a057934187e6fe75b6b1fcafdb61d6d6fd95f60a",
   "source_bytes": 1404592,
   "source_pdf": "sources/city-of-menlo-park-2023-24-5258a3ad.pdf",
-  "published_data_rows_from_this_source": 1
+  "published_data_rows_from_this_source": 4
  },
  {
   "source_id": "city-of-milpitas-2022-23-a79d1401",
@@ -1680,6 +1680,34 @@
   "published_data_rows_from_this_source": 4
  },
  {
+  "source_id": "city-of-san-juan-capistrano-2022-23",
+  "receiving_entity": "City of San Juan Capistrano",
+  "publication_title": "City of San Juan Capistrano annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://sjc.granicus.com/MetaViewer.php?view_id=2&clip_id=2805&meta_id=170322",
+  "retrieved_utc": "2026-09-22T12:05:10.389134+00:00",
+  "physical_page_count": 6,
+  "source_sha256": "6bb220d9f5462259c8e3a7869a8268c172f34b039b6916ccb34c42bc3be07c94",
+  "source_bytes": 974936,
+  "source_pdf": "sources/city-of-san-juan-capistrano-2022-23.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
+  "source_id": "city-of-san-juan-capistrano-2023-24",
+  "receiving_entity": "City of San Juan Capistrano",
+  "publication_title": "City of San Juan Capistrano annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://sjc.granicus.com/MetaViewer.php?view_id=2&clip_id=3009&meta_id=184163",
+  "retrieved_utc": "2026-09-22T12:05:13.517236+00:00",
+  "physical_page_count": 6,
+  "source_sha256": "1ee2500c94b72c6c35f115a603eb35f0b9c144b81afa6f0986f94350acc97576",
+  "source_bytes": 933699,
+  "source_pdf": "sources/city-of-san-juan-capistrano-2023-24.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
   "source_id": "city-of-san-leandro-2024-25",
   "receiving_entity": "City of San Leandro",
   "publication_title": "City of San Leandro impact fee report, fiscal year 2024-25",
@@ -1818,6 +1846,48 @@
   "source_bytes": 1068026,
   "source_pdf": "sources/city-of-signal-hill-2023-24.pdf",
   "published_data_rows_from_this_source": 3
+ },
+ {
+  "source_id": "city-of-south-san-francisco-2022-23-24decab8",
+  "receiving_entity": "City of South San Francisco",
+  "publication_title": "Exhibit A - Annual Impact Fee Report FY 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://ci-ssf-ca.legistar1.com/ci-ssf-ca/attachments/47cfa9ed-eb37-4bb4-8d4e-a6fa71f6fffb.pdf",
+  "retrieved_utc": "2026-09-22T07:35:03.000160+00:00",
+  "physical_page_count": 41,
+  "source_sha256": "24decab8152c83d8d21d0e7c8553f4a57860ef203d3aeff6e7d7e636f82bdc9d",
+  "source_bytes": 540881,
+  "source_pdf": "sources/city-of-south-san-francisco-2022-23-24decab8.pdf",
+  "published_data_rows_from_this_source": 7
+ },
+ {
+  "source_id": "city-of-south-san-francisco-2023-24-d29da665",
+  "receiving_entity": "City of South San Francisco",
+  "publication_title": "Exhibit A - Annual Impact Fee Report FY 2023-24 vFinal",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://ci-ssf-ca.legistar1.com/ci-ssf-ca/attachments/fee16f1e-85bf-4cf8-9cb5-1c9b56970390.pdf",
+  "retrieved_utc": "2026-09-22T07:35:01.443695+00:00",
+  "physical_page_count": 39,
+  "source_sha256": "d29da665c884286a7991e0c80bff078c9a1a25bdceff4ad0ffaffd23f35c3f57",
+  "source_bytes": 502323,
+  "source_pdf": "sources/city-of-south-san-francisco-2023-24-d29da665.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-south-san-francisco-2024-25-04890bd2",
+  "receiving_entity": "City of South San Francisco",
+  "publication_title": "City of South San Francisco development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.ssfca.gov/files/assets/public/v/1/finance/documents/impact-fee-reports/2024-2025-development-impact-fee-report.pdf",
+  "retrieved_utc": "2026-09-22T07:36:49.147812+00:00",
+  "physical_page_count": 44,
+  "source_sha256": "04890bd29af5cb03948941e7db24912bec9508c04d2f153c617dfa7456851341",
+  "source_bytes": 512351,
+  "source_pdf": "sources/city-of-south-san-francisco-2024-25-04890bd2.pdf",
+  "published_data_rows_from_this_source": 2
  },
  {
   "source_id": "city-of-st-helena-2014-15",
