@@ -1,83 +1,95 @@
-# California development impact fee reports and reviewed data
+# California impact fees
 
-**357 reviewed data rows covering 189 distinct printed figures, from 43 receiving entities and 79 agency-years, spanning fiscal years 2013–14 to 2024–25.** Every published figure was read from the original report, marked with its own outline on the page it appears on, checked against the source's own arithmetic, and reviewed twice before release.
+357 reviewed rows covering 189 printed figures, from 43 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
 
-The [sources directory](sources/) holds **52 complete original report files**. They carry 61 publication records, because some agencies file inside a shared document: nine El Dorado County special districts appear in one combined county filing, and the American Canyon Fire Protection District's two years are in one document. Two of the 52 are carried forward from an earlier release as source-only records whose own figures remain held.
-
-This is a reviewed research sample. **It is not statewide coverage, and it must not be summed into a statewide estimate.** California has thousands of fee-levying agencies; 43 are represented here.
-
-## What is in a row
-
-| | |
-|---|---|
-| Receiving entity | the legal government that received the fee |
-| Fee programme | the fund or fee **as the source names it** |
-| Measure as printed | the exact printed row or column label the number sits on |
-| Land-use scope | what the source itself says about who pays, never inferred |
-| Provenance | publication, physical page, printed page, internal identifier, source SHA-256, page extract, outlined figure |
-| Limitations | the specific defects and caveats found in that source |
+This is a research sample, not statewide coverage. Thousands of California agencies levy these fees. Do not sum this into a statewide estimate.
 
 Download the [CSV](data/reported-fee-collections.csv), [JSON](data/reported-fee-collections.json) or [spreadsheet](data/mfa-reviewed-collections.xlsx).
 
-## The largest published entities
+## Jurisdictions
 
-Amounts are the sum of that entity's **primary** rows only (see "Do not double count" below). Each is what the agency reported collecting, across the fiscal years present here.
+Amounts are the sum of each entity’s primary rows only, in the fiscal years present here. Names appear as the source prints them.
 
-| Receiving entity | Years published | Primary figures | Reported collections in this dataset |
+| Jurisdiction | Years | Figures | Reported |
 |---|---|---:|---:|
-| Saddleback Valley Unified | 2015–16 to 2020–21 | 6 | $26,166,849.63 |
-| City of Sacramento | 2022–23, 2024–25 | 23 | $21,123,530.00 |
-| City of Arcadia | 2014–15 to 2024–25 | 21 | $16,873,825.00 |
-| City of Stockton | 2021–22, 2022–23 | 6 | $15,719,048.00 |
-| City of Fremont | 2020–21 | 2 | $15,255,556.00 |
-| City of San Bruno | 2022–23 | 1 | $9,704,825.00 |
-| City of Calimesa | 2019–20 to 2021–22 | 14 | $3,392,872.00 |
-| Consolidated Fire Protection District of Los Angeles County | 2022–23 | 3 | $3,185,984.40 |
-| Beaumont Unified | 2024–25 | 1 | $3,171,016.75 |
-| City of Garden Grove | 2021–22 | 6 | $3,072,830.22 |
-| City of Costa Mesa | 2018–19 | 3 | $2,750,339.00 |
-| El Dorado Hills Community Service District | 2024–25 | 1 | $2,129,526.00 |
-| City of Manteca | 2020–21 to 2024–25 | 5 | $1,843,995.00 |
-| City of Beaumont | 2024–25 | 17 | $1,791,194.36 |
+| Saddleback Valley Unified | 2015–16 to 2020–21 | 6 | $26,166,850 |
+| City of Sacramento | 2022–23, 2024–25 | 23 | $21,123,530 |
+| City of Arcadia | 2014–15 to 2024–25 | 21 | $16,873,825 |
+| City of Stockton | 2021–22, 2022–23 | 6 | $15,719,048 |
+| City of Fremont | 2020–21 | 2 | $15,255,556 |
+| City of San Bruno | 2022–23 | 1 | $9,704,825 |
+| City of Calimesa | 2019–20, 2020–21, 2021–22 | 14 | $3,392,872 |
+| Consolidated Fire Protection District of Los Angeles County | 2022–23 | 3 | $3,185,984 |
+| Beaumont Unified | 2024–25 | 1 | $3,171,017 |
+| City of Garden Grove | 2021–22 | 6 | $3,072,830 |
+| City of Costa Mesa | 2018–19 | 3 | $2,750,339 |
+| EL DORADO HILLS COMMUNITY SERVICE DISTRICT | 2024–25 | 1 | $2,129,526 |
+| City of Manteca | 2020–21 to 2024–25 | 5 | $1,843,995 |
+| City of Beaumont | 2024–25 | 17 | $1,791,194 |
+| City of Temecula | 2023–24 | 4 | $1,442,741 |
+| City of Hemet | 2013–14 | 9 | $1,236,987 |
+| City of Cloverdale | 2024–25 | 8 | $1,119,571 |
+| Antioch Unified | 2023–24 | 1 | $1,109,795 |
+| Natomas Unified School District | 2024–25 | 1 | $1,023,800 |
+| City of Colton | 2023–24, 2024–25 | 9 | $770,851 |
+| City of Murrieta | 2014–15, 2016–17 | 3 | $721,217 |
+| City of St Helena | 2014–15 to 2017–18 | 8 | $592,094 |
+| City of San Leandro | 2021–22 to 2024–25 | 4 | $502,732 |
+| American Canyon Fire Protection District | 2023–24, 2024–25 | 2 | $288,678 |
+| City of Willows | 2020–21 | 6 | $252,090 |
+| Moorpark Unified | 2024–25 | 1 | $210,316 |
+| DIAMOND SPRINGS – EL DORADO FIRE PROTECTION DISTRICT | 2024–25 | 1 | $173,827 |
+| City of PASO ROBLES | 2020–21 | 2 | $172,897 |
+| El Dorado County Fire Protection District | 2024–25 | 1 | $167,068 |
+| City of Culver City | 2023–24 | 1 | $165,766 |
+| City of East Palo Alto | 2015–16, 2022–23 | 3 | $153,188 |
+| COSTA MESA SANITARY DISTRICT | 2017–18 | 1 | $147,335 |
+| CAMERON PARK COMMUNITY SERVICE DISTRICT | 2024–25 | 2 | $86,269 |
+| Lake Valley Fire Protection District | 2024–25 | 1 | $64,117 |
+| Esparto Fire Protection District | 2023–24, 2024–25 | 2 | $57,567 |
+| Georgetown Divide Recreation District | 2024–25 | 1 | $52,891 |
+| Pioneer Fire Protection District | 2024–25 | 1 | $20,000 |
+| Garden Valley Fire Protection District | 2024–25 | 1 | $13,363 |
+| City of Avalon | 2020–21 | 1 | $10,691 |
+| Mosquito Fire Protection District | 2024–25 | 1 | $9,547 |
+| Georgetown Fire Protection District | 2024–25 | 1 | $6,436 |
+| City of Napa | 2020–21 | 1 | $4,643 |
+| City of Riverbank | 2014–15, 2015–16, 2018–19 | 3 | $0 |
+## Each row
 
-All 43 entities, all 189 primary figures and all 131 fee programmes are in the data files. The [source index](sources/index.csv) lists every complete original report.
+| | |
+|---|---|
+| Receiving entity | the government that received the fee |
+| Fee program | the fund or fee as the source names it |
+| Measure as printed | the printed row or column label the number sits on |
+| Land use scope | what the source says about who pays, never inferred |
+| Provenance | publication, page, source hash and the outlined extract |
+| Limitations | the defects found in that source |
 
-## Do not double count
+## Double counting
 
-Each **printed figure** appears as up to two rows, because the same reported amount is recorded at two measure grains. Rows that restate one printed figure share a `figure_group_id`, and exactly one of them has `is_primary_in_figure_group = true`.
+Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 189 rows of the 357. Summing every row counts most amounts twice.
 
-**Sum only rows where `is_primary_in_figure_group` is true.** There are 189 such rows against 357 total. Summing every row would count most amounts twice.
+## Limits
 
-## What these numbers are, and are not
+These are amounts the agencies reported collecting. They are not audited, not reconciled to bank receipts, and not adjusted to a common accounting basis.
 
-These are **amounts the agencies themselves reported collecting**. They are not audited, not reconciled to bank receipts, and not adjusted to a common accounting basis.
+Residential share is unknown for almost every row. Four figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 185 the source prints one undivided amount. Unknown is never recorded as zero.
 
-- **Residential share is unknown for almost every row.** Only four published figures carry a residential or non-residential scope stated by the source: two City of Fremont park fees the report says are levied on new residential development, one Natomas Unified line the district prints as a separate "Residential Fees" subtotal, and one Culver City fee the report says applies to non-residential use only with residential printed as N/A. For the other 185 figures the source prints one undivided amount. `land_use_scope` records this honestly; **unknown is never recorded as zero**.
-- **Accounting basis is usually not stated.** Where it is, the row says so: the City of Sacramento's reports state they are prepared on the cash basis.
-- **Refund treatment varies and is recorded per row.** Some sources print refunds on a separate line, some state there were none, most say nothing.
-- **Some rows are not Mitigation Fee Act fees at all.** Quimby Act park in-lieu accounts, Government Code section 66013 capacity charges and development-agreement fees appear where the agency reported them alongside its impact fees. Each such row says so in `source_limitations`.
+Accounting basis is usually not stated. Where it is, the row says so: Sacramento’s reports state they are prepared on the cash basis. Refund treatment varies and is recorded per row.
 
-## The empty tables are empty on purpose
+Some rows are not Mitigation Fee Act fees. Quimby Act park in lieu accounts and section 66013 capacity charges appear where the agency reported them beside its impact fees, and each such row says so in `source_limitations`.
 
-[`data/residential-cash-receipts.csv`](data/residential-cash-receipts.csv), [`data/capital-spending.csv`](data/capital-spending.csv) and [`data/residential-funded-shares.csv`](data/residential-funded-shares.csv) contain headers and no rows. No figure in this release meets the stronger bar those tables require. **Empty means not established — never zero.** Do not divide collections by spending and call the result a funding share.
+## Empty tables
 
-## What was refused, and why
+[`residential-cash-receipts.csv`](data/residential-cash-receipts.csv), [`capital-spending.csv`](data/capital-spending.csv) and [`residential-funded-shares.csv`](data/residential-funded-shares.csv) carry headers and no rows. No figure here meets the stronger bar those tables require. Empty means not established, never zero. Do not divide collections by spending and call the result a funding share.
 
-3,016 of the 3,373 rows reviewed for this release were refused and are not published. Each carries its own recorded, source-specific reason. [`data/refusals-by-reason.csv`](data/refusals-by-reason.csv) publishes the reason codes and counts without publishing any held figure. The largest groups:
+## Sources
 
-- **2,974 rows** rest on a state financial dataset with no report page, so no page extract, no outlined figure and no visual review of an original are possible.
-- Figures whose printed row combines fees with other revenue, or includes property-sale proceeds.
-- A negative net-of-refund amount that is not a collection.
-- Residential amounts derived from a fee schedule rather than printed as a residential subtotal by the source.
-- A figure whose recorded fiscal year contradicts the column it is printed in.
-- A cited page that carries no readable row label.
+The [sources directory](sources/) holds 52 complete original reports carrying 61 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
 
-Read [coverage and gaps](docs/coverage.md), [methodology](docs/methodology.md), the [data dictionary](docs/data-dictionary.md) and the [review process](docs/review-process.md). Mechanical checks do not substitute for reading the source.
-
-## Reproduce the checks
-
-Install the pinned [dependencies](validation/requirements.txt) and run `python validation/validate.py` from the repository root. It re-hashes every source and evidence file against [`manifest.json`](manifest.json), re-extracts each published figure from its own outlined page, and confirms the empty tables are empty. Results from this release are in [validation/review.json](validation/review.json) and [validation/independent-review.json](validation/independent-review.json).
+Read [coverage and gaps](docs/coverage.md), the [methodology](docs/methodology.md), the [data dictionary](docs/data-dictionary.md) and the [review process](docs/review-process.md). Mechanical checks do not substitute for reading the source.
 
 ## Rights
 
-The original government reports retain their original bytes and any rights of their issuers. No open-source licence is asserted over third-party government publications. This release makes no claim of government endorsement.
+The original government reports retain their original bytes and any rights of their issuers. No open-source license is asserted over third party government publications. This release makes no claim of government endorsement.

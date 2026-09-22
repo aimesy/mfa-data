@@ -1,6 +1,6 @@
 {
  "review": "independent review of mfa-data release 03",
- "performed_utc": "2026-09-22T04:37:42.741313+00:00",
+ "performed_utc": "2026-09-22T04:58:40.895098+00:00",
  "independence": "This pass re-derived every published value from the published outlined PDFs and the published source PDFs alone. It did not read the primary reviewer's recorded readings.",
  "published_rows": 357,
  "distinct_printed_figures": 189,

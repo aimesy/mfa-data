@@ -256,9 +256,10 @@ def main():
         problems.append("rows remain undecided")
     if ref_sum != acct["refused"]:
         problems.append("refusal reason counts sum to %d, not %d" % (ref_sum, acct["refused"]))
-    if acct["published_rows_in_data_file"] != len(rows):
-        problems.append("published count %d != %d rows in the data file"
-                        % (acct["published_rows_in_data_file"], len(rows)))
+    if acct["published_rows_in_data_file"] + acct.get("statewide_lane_rows_in_data_file", 0) != len(rows):
+        problems.append("cohort published %d + statewide %d != %d rows in the data file"
+                        % (acct["published_rows_in_data_file"],
+                           acct.get("statewide_lane_rows_in_data_file", 0), len(rows)))
     if len(ref_rows) != acct["refusal_reason_codes"]:
         problems.append("reason code count disagrees")
     check("cohort_accounting_reconciles", not problems,

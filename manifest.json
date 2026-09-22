@@ -1,6 +1,6 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T04:37:43.095924+00:00",
+ "built_utc": "2026-09-22T04:58:41.327098+00:00",
  "data_rows": 357,
  "distinct_printed_figures": 189,
  "receiving_entities": 43,
@@ -24,7 +24,7 @@
  ],
  "held_rows_published": 0,
  "file_count": 453,
- "total_bytes": 61858356,
+ "total_bytes": 61857903,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7290,
-   "sha256": "156e8708bfde9b32ca13426b5cb708d5e7e013ffea229215a9d70be1e823c23f"
+   "bytes": 6375,
+   "sha256": "c63c488b974d05aa0b20f9379824b5adf93d7c3af49749488eeb794557da9b1e"
   },
   {
    "path": "data/capital-spending.csv",
@@ -43,13 +43,13 @@
   },
   {
    "path": "data/cohort-accounting.json",
-   "bytes": 943,
-   "sha256": "95126b38fdac57e1dc199eca52003d7940b6e815021dc75845335ffabac80b35"
+   "bytes": 1262,
+   "sha256": "a75d82281896425603e11426e5bccc40e5f62973cca3769ba55e784191b22143"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 131764,
-   "sha256": "8d3e62c6025fe37bb3e98b5341e8956f6e688ba73c4c7976f67d2cba10252c99"
+   "bytes": 131765,
+   "sha256": "4e1953452ff68fcb858b1e7de3f6690acfc23ca4d07c7dc3f54d4c7d05051a6f"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -2269,7 +2269,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 2782,
-   "sha256": "2f4b429efb22092340b3dde8c693301be00ab415f35a16e7dad0c7b9bf6a01db"
+   "sha256": "f7cd69d875bde5e36624f02e200d52797bbbf77973cab5daf59132d4bdd55b28"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -2288,8 +2288,8 @@
   },
   {
    "path": "validation/validate.py",
-   "bytes": 13623,
-   "sha256": "8b8bf5278bde69e6f322370a95db81c52dda41b90d343761f12d7a33b205b9f8"
+   "bytes": 13765,
+   "sha256": "f8a46a13029ae6a6b5b20eb577e1ed2eaad3a47399692d2c83b45fcf26990291"
   }
  ]
 }
