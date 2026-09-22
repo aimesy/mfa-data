@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T23:13:03.449117+00:00",
- "data_rows": 1186,
- "distinct_printed_figures": 1018,
- "receiving_entities": 120,
- "agency_years": 243,
- "fee_programs": 613,
- "source_reports": 220,
- "evidence_pairs": 1018,
+ "built_utc": "2026-09-22T23:34:12.251461+00:00",
+ "data_rows": 1200,
+ "distinct_printed_figures": 1032,
+ "receiving_entities": 121,
+ "agency_years": 245,
+ "fee_programs": 622,
+ "source_reports": 222,
+ "evidence_pairs": 1032,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2281,
- "total_bytes": 602363235,
+ "file_count": 2311,
+ "total_bytes": 604312000,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11116,
-   "sha256": "e14b9408e214ce2f89adcf04696fbc5a31a17de8a5de0e4541b9f0f984162682"
+   "bytes": 11181,
+   "sha256": "41445aed207960f586c8c549856c63e4471598825d6430b3b8713e7dc5f32c83"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1266,
-   "sha256": "4c7cb6493ed38c3a46d3ee75a41c1dcf5cc2df2695519abf2d9c2fc2a74504fd"
+   "sha256": "824da4ca947e9f501f610876a1008eebfa90441d4822bbb4327b0702e4eeda22"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 474252,
-   "sha256": "ae4e808ba605eaee32db527febcef24551a0565dc6922b3d72ce2b55289e2829"
+   "bytes": 479926,
+   "sha256": "5b8510956e829e418f3aeda6102d296025735d29a993aacd8342bfc16b779a6b"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2541743,
-   "sha256": "18423dde4e761df8692c9d4ba5830a89cfa7b1fa80a524ecd8b4d96ee3e9b481"
+   "bytes": 2569541,
+   "sha256": "43e2da0e31f592e5de32f4030de4bcf834e64c956fc9e21580bd7e0ac76b1049"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 3769630,
-   "sha256": "67604679c1b96c6863ffa0991e955b928e1a518e2e5f6cb683d0a2916b7d3c3d"
+   "bytes": 3811920,
+   "sha256": "d0b1a6b3285b8eb9fd82dd52d12378da227bc1097373c70d634032f9b407829d"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -245,6 +245,76 @@
    "path": "evidence/extracts/city-of-arcadia-p003-f2d1d143.pdf",
    "bytes": 50117,
    "sha256": "cb0de82397d3b45bb0639e04532a78c690881843ce14b077f1e257d577e30ae5"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p004-ded5aae2.pdf",
+   "bytes": 51603,
+   "sha256": "2f6d1e58af80ee4351e5c5a2a09a15d64b70ad600462044469b5d5ceb33e97df"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p004-fae09161.pdf",
+   "bytes": 41296,
+   "sha256": "3c5cb379204aa7993359dfac7e284d9cdf3e900487f548c59473c49df29b132c"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p005-e85b1fc4.pdf",
+   "bytes": 51716,
+   "sha256": "a10d5737f8cf0121dda62ac4d47027634161130e881877e2e61af92135aad21c"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p005-f6f3f2af.pdf",
+   "bytes": 40816,
+   "sha256": "ffdb200c7fbe08eb1598b790df096d75f2e7b5b7a4ed1320ec9ed2404316b995"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p006-fdeeaadf.pdf",
+   "bytes": 57967,
+   "sha256": "97d7f163e057b91f856e62e1dfa3adbe57faa256acf052bfb34bf63af87b3ed4"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p007-feda6c8b.pdf",
+   "bytes": 44959,
+   "sha256": "31f4882c33ae4b5da50ea304a8888c551475a38dca53d17308e9c867805ab436"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p008-c48abf8b.pdf",
+   "bytes": 54401,
+   "sha256": "d74a4c2fb6836285353932868c4853f699fcafc10143696fc959588d27218c6e"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p009-7c661eaf.pdf",
+   "bytes": 44579,
+   "sha256": "e54929785dbdfda2b2cb896a14d17c678e27af618562c3473dc256cf395a650b"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p010-1d1f2dba.pdf",
+   "bytes": 59875,
+   "sha256": "9925e01c8b055cb0fe42d905e353eac9975f76f5cca0838af8a8ff86d10fffb4"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p011-7970059d.pdf",
+   "bytes": 44926,
+   "sha256": "fa0e372f178db308b108c37f09340e62f3f467d24864ecc1976f46dcd429033a"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p013-f37a196f.pdf",
+   "bytes": 58121,
+   "sha256": "6a2f3f29c20dae71faba03bcf4308bf5f0efeebfce0481a439475ecc7361f110"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p014-bb7e4289.pdf",
+   "bytes": 53039,
+   "sha256": "09dc43e0b2883b1ca54ee9c23143948e1bd3f2f32cc587fd741d785c723dc2af"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p015-e6712000.pdf",
+   "bytes": 64966,
+   "sha256": "f3eded8e67a6c562dfcc4f8a83e520ad2f7f57b2f6057dab976fd8049180f836"
+  },
+  {
+   "path": "evidence/extracts/city-of-arroyo-grande-p017-c16f07b6.pdf",
+   "bytes": 39515,
+   "sha256": "794197895894b1b48615a5c1db22621b9bb422a36011ca6b286ec30c4e949a43"
   },
   {
    "path": "evidence/extracts/city-of-artesia-p007-2f2be51e.pdf",
@@ -5188,8 +5258,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1064799,
-   "sha256": "50c6aa98819547a3c725fdaa9ba69ab3aa923df8dd1da2d6d57642e089906630"
+   "bytes": 1080065,
+   "sha256": "45b005859142366945c0dfedff7fb42526b40a480f4ea4a3f49613c2e4bf459b"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -5340,6 +5410,76 @@
    "path": "evidence/outlined/city-of-arcadia-p003-f2d1d143.pdf",
    "bytes": 50174,
    "sha256": "2e28c3ddc400cc077353f6b5e8fe659362f4eb244d4b37fdf27782f19f605f4a"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p004-ded5aae2.pdf",
+   "bytes": 51660,
+   "sha256": "9f30737334a9b49373d24ebd0eda66bca3c2774c65e02419082c5ba41f2fee5f"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p004-fae09161.pdf",
+   "bytes": 41351,
+   "sha256": "fee5eea5a543f5a6e8819b486dc46a5fdef9b3a32b04695f9562ca978d852744"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p005-e85b1fc4.pdf",
+   "bytes": 51775,
+   "sha256": "339f4c6e11255096d36e24700f3bc6529ef8352f546155919feb86c8071d1d9f"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p005-f6f3f2af.pdf",
+   "bytes": 40872,
+   "sha256": "833409d158321a7360825ffec6d3b50c34a36edc071184518150a8a3a9a46da4"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p006-fdeeaadf.pdf",
+   "bytes": 58025,
+   "sha256": "014065e5bcda8e290c89b23d4129bc97686d676736d4d728a2882c105879a83a"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p007-feda6c8b.pdf",
+   "bytes": 45017,
+   "sha256": "3842973db8a61b5698941e7e205185fa27bfd655ee3e617cf7f25a2794360ad5"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p008-c48abf8b.pdf",
+   "bytes": 54465,
+   "sha256": "121546c435dc3385741baee9caea824e0e78fca9076bdfdffe2df9745e4654bd"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p009-7c661eaf.pdf",
+   "bytes": 44633,
+   "sha256": "1570f4543d428ce2150fc665529f3dcd1cbdfd60d092e688ffb0410f3f3f9012"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p010-1d1f2dba.pdf",
+   "bytes": 59938,
+   "sha256": "323874462b70d3ab2e526c584c3eebf182c4b4f37412ba11f3a16d1cc9061dd6"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p011-7970059d.pdf",
+   "bytes": 44980,
+   "sha256": "7c7999dab83475c0506bbb46d3d50f920afbf2f069378ede7f9da569b92fbc8f"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p013-f37a196f.pdf",
+   "bytes": 58179,
+   "sha256": "4b3a5f5fe9881fe3dd4e1bd41a7ee93d825262662202aeb57c2c7b775d422914"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p014-bb7e4289.pdf",
+   "bytes": 53094,
+   "sha256": "33460de9e583335b57ea558d8cb89b02fd1674cdd68c3f28ae5217c7bd988f6d"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p015-e6712000.pdf",
+   "bytes": 65027,
+   "sha256": "f413cc2835199bdb85bd2ab906a4cc20d8d2f63e55cf7b7de371fd6e29b9b082"
+  },
+  {
+   "path": "evidence/outlined/city-of-arroyo-grande-p017-c16f07b6.pdf",
+   "bytes": 39573,
+   "sha256": "3b478302c1eb52919f99e1291c525b4412e7d581df012a47d41349f8e685340b"
   },
   {
    "path": "evidence/outlined/city-of-artesia-p007-2f2be51e.pdf",
@@ -10317,6 +10457,16 @@
    "sha256": "b55e542770570a19f00abe9181985d4029536d43c39bd121508f61dcd777024c"
   },
   {
+   "path": "sources/city-of-arroyo-grande-2023-24-5383201a.pdf",
+   "bytes": 162322,
+   "sha256": "5383201afddb4e32cdb8e90f18430dc2ea622afa6550663d8b2ac5088b9b9c96"
+  },
+  {
+   "path": "sources/city-of-arroyo-grande-2024-25-128daa96.pdf",
+   "bytes": 276800,
+   "sha256": "128daa96a756149c1bf492480db8ded02db601be9972da8413b378d2b2f9109e"
+  },
+  {
    "path": "sources/city-of-artesia-2024-25-a5731cc0.pdf",
    "bytes": 529958,
    "sha256": "a5731cc0102ee2766147974ebfe02631ff7e6fd6045f9037686374485990f692"
@@ -11343,13 +11493,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 100019,
-   "sha256": "5b08bb86758fec17f6b8d2246c337c29fa0fd74ba6cb6ac6c346dee6b1a53d76"
+   "bytes": 100791,
+   "sha256": "7ec0556fcd0fd4c158e576edc7982a15b1824ebf6d3a47d600aeaea88de2e8b4"
   },
   {
    "path": "sources/index.json",
-   "bytes": 173110,
-   "sha256": "8be1bfacc094154864c336f3aaf362d8dd21d10af92ffd350c3776193818381c"
+   "bytes": 174520,
+   "sha256": "1950e2c9adc625c7afb8b65b24d7f4334124bc8df12d9e7ed66f6c0c3d3dda45"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -11409,7 +11559,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3058,
-   "sha256": "599f192ef80ad4cfbe1763e1a8f08dbfa219074a5af4ad68334b9c8751329405"
+   "sha256": "21083f4415f0524ecc54ad95c9017f47d71ebae5dddba49c6a57b51d9f21ce02"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -11424,7 +11574,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2591,
-   "sha256": "d176093e648672d4673ad4e6a9f9792d06a88a3ec8b797795eaea88205eb2d99"
+   "sha256": "d6829c17c49b6f340dc90fd877c682c4e7e3a41be75997a0df6de4c4e767c099"
   },
   {
    "path": "validation/validate.py",

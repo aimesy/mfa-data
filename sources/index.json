@@ -112,6 +112,34 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "city-of-arroyo-grande-2023-24-5383201a",
+  "receiving_entity": "City of Arroyo Grande",
+  "publication_title": "Annual DIF Report FY 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.arroyogrande.org/DocumentCenter/View/13026/Annual-DIF-Report-FY-2023-24",
+  "retrieved_utc": "2026-09-22T11:12:46.217587+00:00",
+  "physical_page_count": 11,
+  "source_sha256": "5383201afddb4e32cdb8e90f18430dc2ea622afa6550663d8b2ac5088b9b9c96",
+  "source_bytes": 162322,
+  "source_pdf": "sources/city-of-arroyo-grande-2023-24-5383201a.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-arroyo-grande-2024-25-128daa96",
+  "receiving_entity": "City of Arroyo Grande",
+  "publication_title": "Annual DIF (Development Impact Fee) Report FY 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.arroyogrande.org/DocumentCenter/View/14132/Annual-DIF-Report-FY-2024-25-PDF?bidId=",
+  "retrieved_utc": "2026-09-22T11:12:44.120271+00:00",
+  "physical_page_count": 17,
+  "source_sha256": "128daa96a756149c1bf492480db8ded02db601be9972da8413b378d2b2f9109e",
+  "source_bytes": 276800,
+  "source_pdf": "sources/city-of-arroyo-grande-2024-25-128daa96.pdf",
+  "published_data_rows_from_this_source": 9
+ },
+ {
   "source_id": "city-of-artesia-2024-25-a5731cc0",
   "receiving_entity": "City of Artesia",
   "publication_title": "FY 2025 DIF Annual Report",
