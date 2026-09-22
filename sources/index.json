@@ -1764,6 +1764,34 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "county-of-san-bernardino-2023-24-7afc1d64",
+  "receiving_entity": "County of San Bernardino",
+  "publication_title": "FY 2023-24 Regional Fee Plan Report (Regional Transportation Development Mitigation Plan Financing Funds Annual Report)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://dpw.sbcounty.gov/wp-content/uploads/sites/87/2024/12/FY-2023-24-Regional-Fee-Plan-Report.pdf",
+  "retrieved_utc": "2026-09-22T06:03:59.801006+00:00",
+  "physical_page_count": 31,
+  "source_sha256": "7afc1d647edfe3fd5d63ad78f32bdcfcccc5222213ebab7cf6cdd6a18c3547d7",
+  "source_bytes": 676506,
+  "source_pdf": "sources/county-of-san-bernardino-2023-24-7afc1d64.pdf",
+  "published_data_rows_from_this_source": 12
+ },
+ {
+  "source_id": "county-of-san-bernardino-2024-25-86b107b5",
+  "receiving_entity": "County of San Bernardino",
+  "publication_title": "FY 2024-25 Regional Fee Plan Report - Project List",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://dpw.sbcounty.gov/wp-content/uploads/sites/87/FY-2024-25-Regional-Fee-Plan-Report-Project-List.pdf",
+  "retrieved_utc": "2026-09-22T06:04:00.571993+00:00",
+  "physical_page_count": 30,
+  "source_sha256": "86b107b5dfbf53c9697af47f91b1ebc3da4232ec3cf764177e58137d0fd5685a",
+  "source_bytes": 614480,
+  "source_pdf": "sources/county-of-san-bernardino-2024-25-86b107b5.pdf",
+  "published_data_rows_from_this_source": 11
+ },
+ {
   "source_id": "county-of-san-diego-j25-2023-24",
   "receiving_entity": "County of San Diego",
   "publication_title": "County of San Diego Board Policy J-25 Comprehensive Annual Mitigation Fees Report, Fiscal Year 2023-24",

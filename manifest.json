@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T17:41:33.217428+00:00",
- "data_rows": 821,
- "distinct_printed_figures": 653,
- "receiving_entities": 90,
- "agency_years": 182,
- "fee_programs": 402,
- "source_reports": 159,
- "evidence_pairs": 653,
+ "built_utc": "2026-09-22T17:59:11.709185+00:00",
+ "data_rows": 844,
+ "distinct_printed_figures": 676,
+ "receiving_entities": 91,
+ "agency_years": 184,
+ "fee_programs": 415,
+ "source_reports": 161,
+ "evidence_pairs": 676,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1490,
- "total_bytes": 269593422,
+ "file_count": 1538,
+ "total_bytes": 273626649,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 9227,
-   "sha256": "a36bf054b04f0276ba274632552e3ebe2b90a176266d35836c4d0f2d3bb837a5"
+   "bytes": 9298,
+   "sha256": "203523d78aa4fa0254a15ab2c1ad620cbeaf134407c2a3e133e5f6cb12e85dfb"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "fd9b000a8f31777005cc7a72b13ba91e99110e54a06a5932868368ae18a78ebd"
+   "sha256": "451162bf501e96dcded7367b97a2c14acb69b63674d60ccc665fe71e4d228bdf"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 332409,
-   "sha256": "8b816e5f86ce45bb1503e3ca33537dcd12ed9b3edb6e36a5b1a10e91bb440638"
+   "bytes": 340819,
+   "sha256": "218d218395afb624d3cf7a2bab8df7187a22e08fd728b37117b17311f2838b7a"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1805445,
-   "sha256": "af4f227079c18213b8ba90cb5871b2bc7bc03dfca99f7e90f572e69aa0dbc019"
+   "bytes": 1862637,
+   "sha256": "98c50c28238850d93c88109c2c59a73464d4c420524397f01fb92d21e436fc0e"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2654915,
-   "sha256": "5a28b782b7d3d868eb6a6211818dc3a381b57e01db31d681812efce79d13cdf0"
+   "bytes": 2735866,
+   "sha256": "67d1cd6261a6ddf3bea7dd43c3a946522d10eb29bc3a7eac2f86060162f0a5d8"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -2717,6 +2717,121 @@
    "sha256": "a730ab9b30ca0986ccd09f511d71dd30844857fc2d56d9bf9e068b2b9cd11465"
   },
   {
+   "path": "evidence/extracts/county-of-san-bernardino-p008-f5b22f02.pdf",
+   "bytes": 54662,
+   "sha256": "0788738e78c6f4b98dfe3cae5885ec400ae5ed38bc79fbc62de7685c9ce24cb2"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p009-36556a2d.pdf",
+   "bytes": 55512,
+   "sha256": "b87b0cb1c2f8587667a1fbcb5a60aca5a84898f338bdba77f558f2fac935a09d"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p009-fa30d93b.pdf",
+   "bytes": 55665,
+   "sha256": "445da830bd5c06e2bcc29048c7e85ed46db7620a217630d1a141a2bb190114d1"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p010-7cea96a6.pdf",
+   "bytes": 55061,
+   "sha256": "935320803f67908c7654eeab6954dccc59a441c8a37a696d0d1bf68613c3f5b5"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p010-ca09370d.pdf",
+   "bytes": 54054,
+   "sha256": "9c30e1a4f14c19451d9e613034644fb9301fd7c2960e9c9e6cb75e4b972a3bdf"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p011-fdd6a446.pdf",
+   "bytes": 55544,
+   "sha256": "affbd99c4a0742c6fa6927719030ccc613ba7aa4b66be25ad5ae21f709a72b34"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p012-54781541.pdf",
+   "bytes": 56280,
+   "sha256": "ee69111246bc39f38253fde6c1b0d6be3fe547ab9c447265f733a27b99de7d3e"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p012-d0582e3a.pdf",
+   "bytes": 56351,
+   "sha256": "56359ddf82f9a6b938fa63a87126a9a13083f8fd860e9de63f89d6fca10dd2cf"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p013-4e90e637.pdf",
+   "bytes": 56183,
+   "sha256": "882f669807ee8b1f19fa0304970b2eaca760d8044c99ffea455325f98d1bd116"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p013-69c50c1a.pdf",
+   "bytes": 56025,
+   "sha256": "3290a5827c21466894e0122b4afc59bf9cc89285ad2f7cb1f25ff6b6077ba5ff"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p014-0bdaf653.pdf",
+   "bytes": 56372,
+   "sha256": "9fd7401f7a52628e0faaf8222747b5b814815e3b6bac60656bb65e0f1c67c6da"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p016-44950f28.pdf",
+   "bytes": 54827,
+   "sha256": "d4b35a31edecc47c5be256c837e97d46cdda8ce9461dec1490ef036d32c6c213"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p016-d2a28da9.pdf",
+   "bytes": 55739,
+   "sha256": "5e17a5d257e0b9f7e02ffcb455ae071e80baac81ec686f8197c759cc32d593c2"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p017-1cb07447.pdf",
+   "bytes": 56682,
+   "sha256": "8a9a2075183c3c1bfd7e90b5cd3b228c71f4d3dd10f24a5acba8ba1cba3e7751"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p017-93e8a2e2.pdf",
+   "bytes": 55139,
+   "sha256": "9c06a0f38704df6385718f38829cb5bf119cd39d0761cb96d4e4964cdf72b729"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p018-4a8852c0.pdf",
+   "bytes": 55291,
+   "sha256": "489551d9f8e32ffd1b53879d7bafe17e158e9acf8ba28c38c4edc46f8c2fa32b"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p018-ee0149f0.pdf",
+   "bytes": 57022,
+   "sha256": "9b88d934d233004e31098f4e70b4015e1edc0a942e75b5ca713bbb4d5f379b1d"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p019-245f1008.pdf",
+   "bytes": 57949,
+   "sha256": "d00a80e9d215d6e4c71c72d2cf332d88792cbaf7cdf60a27135cd1039295e04e"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p019-aca24045.pdf",
+   "bytes": 55420,
+   "sha256": "8f8f9161f81b51aab1d13c4dc1d17a1f8847356599e83160f3f7e70e7a524b7c"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p020-0687cf66.pdf",
+   "bytes": 57135,
+   "sha256": "f6f01d1abc68bfaa12984e62d219d52547d4472a7caf32ec13de609e89b37dc3"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p020-1d17f537.pdf",
+   "bytes": 53454,
+   "sha256": "21120a09bb181feeeb3d5fce1795d37542cf39a369d24ae9102e608ce57b5a90"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p021-136ebfa1.pdf",
+   "bytes": 56711,
+   "sha256": "5332191f89a7371f3228e66e7003aacd5303ec2075f8de75d59f33dcfdce77ce"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-bernardino-p021-cf894e7b.pdf",
+   "bytes": 55481,
+   "sha256": "d508b772df57956d577407f2382f55533a49eefca7abfb68b3f8adb297088720"
+  },
+  {
    "path": "evidence/extracts/county-of-san-diego-p011-43f5d39e.pdf",
    "bytes": 30007,
    "sha256": "de02bc8b183bb4388161ff3f570caf9bb890372d791b8c2b4926269d69a95af9"
@@ -3363,8 +3478,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 688792,
-   "sha256": "d6afd1203b07a64ceffbe8299f1311502750dc83db8cfb35235d94676c49a335"
+   "bytes": 715448,
+   "sha256": "cce80fff0c7414349730b4ed83bd6b351d9691ec1d50769840feca5aad0d9b7b"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -5987,6 +6102,121 @@
    "sha256": "9b5acf1b6e53c4b9bfbcd7708ad795d0f6281b47a3ee78585ecc9be1780eced7"
   },
   {
+   "path": "evidence/outlined/county-of-san-bernardino-p008-f5b22f02.pdf",
+   "bytes": 54727,
+   "sha256": "b75a50e013070e72ba5d02a6c017a27efa4adf5b2b0411bd976083b99140e65b"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p009-36556a2d.pdf",
+   "bytes": 55572,
+   "sha256": "8a9c85d29919c84ecf3cb5b1346694168c88e7342b98f11bed238b0b4aa80fc6"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p009-fa30d93b.pdf",
+   "bytes": 55722,
+   "sha256": "14b635d6ef91d9d36ab762ed276bcf6aaec9782c023fd8a57a0120d8595e784d"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p010-7cea96a6.pdf",
+   "bytes": 55119,
+   "sha256": "a3697e4507286596b5d476ef50bee1c1c13cadc9fdad2ef8ed2dfc5abc96ae7f"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p010-ca09370d.pdf",
+   "bytes": 54118,
+   "sha256": "9abec6aeba0e2776c70d176b71192f155bef61febb515b12ef2ffbf095318935"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p011-fdd6a446.pdf",
+   "bytes": 55607,
+   "sha256": "56802b3d3613a57ffd909aebad796d4dc0786bc6b29c3960e6eac22a16dcfe1f"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p012-54781541.pdf",
+   "bytes": 56340,
+   "sha256": "ed1dceab4a861e837d7999e197e7a4eb75baf86a6df98a8b2b0ea0bec9611990"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p012-d0582e3a.pdf",
+   "bytes": 56407,
+   "sha256": "b92b27e2e306e76e25422a65810b078fb1d0d25381f06d0e92a0d8b880e14b5e"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p013-4e90e637.pdf",
+   "bytes": 56244,
+   "sha256": "73578c189ef3c5322434edb9c54c4e21cdec7f062029935c6484860fe04ea9cd"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p013-69c50c1a.pdf",
+   "bytes": 56083,
+   "sha256": "d7429025c172f5a03aaf9b1745c62a02afb9e4737afdbd3fc43c538f012403c1"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p014-0bdaf653.pdf",
+   "bytes": 56427,
+   "sha256": "30640d99476c237846c39f16cb5bbb5b780282ae8ee32296026e905b1b1fd575"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p016-44950f28.pdf",
+   "bytes": 54893,
+   "sha256": "df3d35fb57cf3c5987ae73677ae035fc989fa6c80073deffca5a6757cba20ea0"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p016-d2a28da9.pdf",
+   "bytes": 55801,
+   "sha256": "4d1c5dfa6cf841e7623b0e77d0a63e5efc33992452e9aac267845bca72dbd3db"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p017-1cb07447.pdf",
+   "bytes": 56744,
+   "sha256": "98fb5224173ee313331f556aa1dc6ff0c7939e5958bb80e24ed83386e072f80d"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p017-93e8a2e2.pdf",
+   "bytes": 55198,
+   "sha256": "5a69132051fb6d71dbf286ebc625e963ef726d08f30f65111bf98f5e8d35253a"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p018-4a8852c0.pdf",
+   "bytes": 55348,
+   "sha256": "c997ed968a117f948ad8d35d08ae65ecafd34160743af4143330f7795c884007"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p018-ee0149f0.pdf",
+   "bytes": 57081,
+   "sha256": "4405c544728925099bf6eda84c7762fea30b7312f09d6afc4d1f4e841079a56f"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p019-245f1008.pdf",
+   "bytes": 58007,
+   "sha256": "b5722874289ccce9ee2a9e6c1dde948b79d514b5766c19cb1a5d59f662d74050"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p019-aca24045.pdf",
+   "bytes": 55480,
+   "sha256": "1ae97eba8d45831d032abc842ed0df03995cad3ea0210942d83439d83d9c9de7"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p020-0687cf66.pdf",
+   "bytes": 57198,
+   "sha256": "4b1bdaf1d4bf3c9994d7fc42d277603f0f96b007222081dafcdaeafc8b10cf7e"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p020-1d17f537.pdf",
+   "bytes": 53521,
+   "sha256": "5aab9edd37c9a1bb9c9d1ba64de35528abfc4df1248329c544cfa0564db02001"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p021-136ebfa1.pdf",
+   "bytes": 56769,
+   "sha256": "c2b9c64129890e6f37a2e290189b7ff93861bdaa5e5aa01bdce5edc3574eefd0"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-bernardino-p021-cf894e7b.pdf",
+   "bytes": 55542,
+   "sha256": "fef70339a8142a680ea1fb48f06ebe2d4d1d4f805463bb0e23aaaad006b49381"
+  },
+  {
    "path": "evidence/outlined/county-of-san-diego-p011-43f5d39e.pdf",
    "bytes": 30061,
    "sha256": "ad193615d35e2d21c7688264c4a941e4e118d6fccc8465846297f416abe4a010"
@@ -7287,6 +7517,16 @@
    "sha256": "c3d595984546b49941bcd321f8e540b8530b4fe2144ee0155d3994b7fe222f91"
   },
   {
+   "path": "sources/county-of-san-bernardino-2023-24-7afc1d64.pdf",
+   "bytes": 676506,
+   "sha256": "7afc1d647edfe3fd5d63ad78f32bdcfcccc5222213ebab7cf6cdd6a18c3547d7"
+  },
+  {
+   "path": "sources/county-of-san-bernardino-2024-25-86b107b5.pdf",
+   "bytes": 614480,
+   "sha256": "86b107b5dfbf53c9697af47f91b1ebc3da4232ec3cf764177e58137d0fd5685a"
+  },
+  {
    "path": "sources/county-of-san-diego-j25-2023-24.pdf",
    "bytes": 867410,
    "sha256": "9d178e25da26d313c15da66ea888fe7308dc641ab2cca00a368b1f6b439d40c5"
@@ -7388,13 +7628,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 75414,
-   "sha256": "fe1bbc64112c6aea2988427669154e4225cc8b3b98af526f6301b8c3912584a2"
+   "bytes": 76322,
+   "sha256": "75565c9dd9b633e8d495e2e761c6bc1759582301ebfc19bb455bdcef01ad28d1"
   },
   {
    "path": "sources/index.json",
-   "bytes": 129130,
-   "sha256": "1f488e87cfd2ac21fcded9e0cf3efe135dae46bc191484f9ebbef3c4446fe0ff"
+   "bytes": 130676,
+   "sha256": "7bb43e6f8747b871f75750167b0f2b08c5f6fdc13746a6711706a6d782165d9a"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -7454,7 +7694,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "868dddc51cd36544101732d5276d33ea714d6a904889b8f3020835aaf5dd2dc0"
+   "sha256": "86bfb3393b73f42f9d26a6341582af898ab421e70fbd05e87d91b99a09545d4d"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -7469,7 +7709,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "d868beb11047cee32795b450fea45f4cc0a3a306603fd048b640e84f64b8f220"
+   "sha256": "9d6708ec01d131e0dac3b207bffc9eb2dbc0c3326fccfc35a59e549f4caa0b7e"
   },
   {
    "path": "validation/validate.py",
