@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T06:57:29.339530+00:00",
- "data_rows": 416,
- "distinct_printed_figures": 248,
- "receiving_entities": 53,
- "agency_years": 91,
- "fee_programs": 186,
- "source_reports": 78,
- "evidence_pairs": 248,
+ "built_utc": "2026-09-22T07:08:37.813760+00:00",
+ "data_rows": 420,
+ "distinct_printed_figures": 252,
+ "receiving_entities": 54,
+ "agency_years": 94,
+ "fee_programs": 188,
+ "source_reports": 81,
+ "evidence_pairs": 252,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 599,
- "total_bytes": 72846059,
+ "file_count": 610,
+ "total_bytes": 74841225,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 6939,
-   "sha256": "196789d0d6faf161575affdfc27be6e92f0b1e4235e2d0bd9c581a074a3c5bdf"
+   "bytes": 7013,
+   "sha256": "e7e3341e148e4abb37e1cc2239d39956130bb6a1816ec3077ddcc3a6061e916b"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1263,
-   "sha256": "84ee00fd2d94b19a012388c7e7592365dfc67ec06be141bc115711cd31ce0e53"
+   "sha256": "9e9d6b15b3c72947e34480825d78d59f6062b43973b330b488febe3c4be36894"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 158574,
-   "sha256": "376c358f5238f772e966487985595c1d135c06fd6c8468021b168c3fe0cea9e9"
+   "bytes": 161430,
+   "sha256": "909097f967b16299ebdb0f0aace647492ea32f5818b26ebec60956c653fa6a84"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 866435,
-   "sha256": "e41dea83876560ee5be8cab984a94b09cb40a0bb2b6c78b52da1e5ee40ed7170"
+   "bytes": 876080,
+   "sha256": "0a2dd953ca05ef83125faad3ce7a6959809a6b4fde3bfd567bfa8c33d7eed995"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1296714,
-   "sha256": "9551b4105db9009a7703d2569d595da22a478cc2409bf8621ef226500be79e19"
+   "bytes": 1310491,
+   "sha256": "a08f2cd7c6bf6b3ef3e3727cfecb6ac99d54f410f99c941a654ff813785c1968"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -957,6 +957,26 @@
    "sha256": "0b54cdf9891273f9c58b0082eb733e24496d769698b81b032533aa0b0c4bb22d"
   },
   {
+   "path": "evidence/extracts/county-of-monterey-p006-22333157.pdf",
+   "bytes": 24746,
+   "sha256": "1dc63008d40c8e4cd158af4543226c0a9891948a8202833e80c7a3dbaaa7a777"
+  },
+  {
+   "path": "evidence/extracts/county-of-monterey-p006-3dd81b95.pdf",
+   "bytes": 81804,
+   "sha256": "6d07a4579014279c3d5eb872cd0a2ccc2b143c67486f4b773af047f9816ea4be"
+  },
+  {
+   "path": "evidence/extracts/county-of-monterey-p006-471314cb.pdf",
+   "bytes": 81804,
+   "sha256": "d573fd816ffe48a5aa2519a1bbb2684b8a90065ece73e7da450010a4c2671181"
+  },
+  {
+   "path": "evidence/extracts/county-of-monterey-p006-f9613213.pdf",
+   "bytes": 83128,
+   "sha256": "04b1c75fbc9aab0aa8251d8fc6536ce1bf8dc3e696d9910c76c637d844b36e3e"
+  },
+  {
    "path": "evidence/extracts/county-of-napa-p001-2802d953.pdf",
    "bytes": 76641,
    "sha256": "a2b594ac624796940761983641f99cf240486ad0931297e9c42c9ee5e1a5049b"
@@ -1338,8 +1358,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 264813,
-   "sha256": "0f1411be134bd4b0e7db078ba3a89349020fdb9f7be1a4b564f7b523b3408cbe"
+   "bytes": 269154,
+   "sha256": "477518c89b6998ec51e449094e67c82adacc0c63d6ce2482e3ec928c4622427f"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -2202,6 +2222,26 @@
    "sha256": "84d35ee5c15c94b6a4b7e75ab99550f9a9d79b41224a4f5179968781bc546119"
   },
   {
+   "path": "evidence/outlined/county-of-monterey-p006-22333157.pdf",
+   "bytes": 24808,
+   "sha256": "4e6c7ac25076b08de9f93fed6ed3de16fc5427e76d2af6cc774136760f47292c"
+  },
+  {
+   "path": "evidence/outlined/county-of-monterey-p006-3dd81b95.pdf",
+   "bytes": 81863,
+   "sha256": "3ab8df3dd73cf7040594eb4d219c02ac39230db62637f174b249179caaece195"
+  },
+  {
+   "path": "evidence/outlined/county-of-monterey-p006-471314cb.pdf",
+   "bytes": 81863,
+   "sha256": "74c6abb93a2fcdbd38c8732c617679e73f0be8688f5800d5f471d0fe96106d80"
+  },
+  {
+   "path": "evidence/outlined/county-of-monterey-p006-f9613213.pdf",
+   "bytes": 83188,
+   "sha256": "98a95b7b0d1fb743de0eec2624d1099c2fb44d71eaec9741ed9b464109b8e29d"
+  },
+  {
    "path": "evidence/outlined/county-of-napa-p001-2802d953.pdf",
    "bytes": 76698,
    "sha256": "2eb116719048360490511c15c25f73f415c64675914646e9ca78a449952c0bb6"
@@ -2792,6 +2832,21 @@
    "sha256": "f4e9978ec56cfe6abba60e96e995ffb0240cc082ba3714f59da0bd9090370e13"
   },
   {
+   "path": "sources/county-of-monterey-2022-23.pdf",
+   "bytes": 461392,
+   "sha256": "22098d8bc3ec100bd38b2cf92bf27ca87df32d72d9e083605e0dff799248e32f"
+  },
+  {
+   "path": "sources/county-of-monterey-2023-24.pdf",
+   "bytes": 473091,
+   "sha256": "f47fc6b97f24329ca972d9539a93722f29a9ea3b46a834d8edc93c930eebe878"
+  },
+  {
+   "path": "sources/county-of-monterey-2024-25.pdf",
+   "bytes": 483015,
+   "sha256": "f3bd102da1004ab49481f7019249d3b840f5d608b725e8a6bdabc54b57384c29"
+  },
+  {
    "path": "sources/county-of-napa-2023-24.pdf",
    "bytes": 147540,
    "sha256": "4fff877a9a0fc8dc44f3b9d23c4c381c5e67d2d64bd41cd4c91595ba17dcdea0"
@@ -2948,13 +3003,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 39640,
-   "sha256": "35a00a6f4c61880d6a50635744c2592a7830f8f16894699118611feac979fbe6"
+   "bytes": 41050,
+   "sha256": "623f9d82e43ffba5a6f60732ac1fe1a159b825c70f538712d6eb6650454831b8"
   },
   {
    "path": "sources/index.json",
-   "bytes": 67651,
-   "sha256": "8c9fef3ad9d12fe7c5ccf2e82663a65502b0cef1dbe6c154a5e92e64d3f91748"
+   "bytes": 70012,
+   "sha256": "3ce8d4794334c3ca06788af78b2561046e61ef152d73feaaf761507ab6382a55"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -2999,7 +3054,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3047,
-   "sha256": "44dea81f39d7cc54adcc165ebbb7a81231024e4acf1070391f2101ee8b4fcf66"
+   "sha256": "9ee55dccff0527aacd2738c8a88a9d94313d205442a28a3e7b1e75d8c407bd9e"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -3014,7 +3069,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2581,
-   "sha256": "fec80b4e2240f38f88117cc948654d9c10cbd154bea4d18174a24c81e838754a"
+   "sha256": "de4d26dd788b99420ed08a5023d69d48afc30f3e72dbda9c869f8c48c2b2838c"
   },
   {
    "path": "validation/validate.py",

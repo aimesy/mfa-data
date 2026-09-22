@@ -588,6 +588,48 @@
   "published_data_rows_from_this_source": 2
  },
  {
+  "source_id": "county-of-monterey-2022-23",
+  "receiving_entity": "County of Monterey",
+  "publication_title": "County of Monterey, report on the status of development traffic impact fees, fiscal year 2022-23, Attachment A draft resolution with Exhibit 1",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://legistar.granicus.com/Monterey/attachments/f63e6105-162b-4163-a4e6-1294cb78c65b.pdf",
+  "retrieved_utc": "2026-09-22T06:03:46.516647+00:00",
+  "physical_page_count": 8,
+  "source_sha256": "22098d8bc3ec100bd38b2cf92bf27ca87df32d72d9e083605e0dff799248e32f",
+  "source_bytes": 461392,
+  "source_pdf": "sources/county-of-monterey-2022-23.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "county-of-monterey-2023-24",
+  "receiving_entity": "County of Monterey",
+  "publication_title": "County of Monterey, report on the status of development traffic impact fees, fiscal year 2023-24, Attachment A draft resolution with Exhibit 1",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://legistar.granicus.com/Monterey/attachments/6cd369d4-3016-401c-a417-9ed76aba9930.pdf",
+  "retrieved_utc": "2026-09-22T06:03:47.255518+00:00",
+  "physical_page_count": 8,
+  "source_sha256": "f47fc6b97f24329ca972d9539a93722f29a9ea3b46a834d8edc93c930eebe878",
+  "source_bytes": 473091,
+  "source_pdf": "sources/county-of-monterey-2023-24.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "county-of-monterey-2024-25",
+  "receiving_entity": "County of Monterey",
+  "publication_title": "County of Monterey, report on the status of development traffic impact fees, fiscal year 2024-25, Attachment A draft resolution with Exhibit 1",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://legistar.granicus.com/Monterey/attachments/f5cea8a5-bd81-4ce2-980c-23d85458d60e.pdf",
+  "retrieved_utc": "2026-09-22T06:03:48.031955+00:00",
+  "physical_page_count": 8,
+  "source_sha256": "f3bd102da1004ab49481f7019249d3b840f5d608b725e8a6bdabc54b57384c29",
+  "source_bytes": 483015,
+  "source_pdf": "sources/county-of-monterey-2024-25.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
   "source_id": "county-of-napa-2023-24",
   "receiving_entity": "County of Napa",
   "publication_title": "County of Napa, Napa Valley Business Park Traffic Mitigation Fee Program, Fiscal Year 2023-24 Report",
