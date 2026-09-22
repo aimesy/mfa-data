@@ -336,6 +336,62 @@
   "published_data_rows_from_this_source": 60
  },
  {
+  "source_id": "city-of-fort-bragg-2024-25-fire-impact-fees",
+  "receiving_entity": "City of Fort Bragg",
+  "publication_title": "AB 1600 Report FY 2024-25 - Fire Capacity Fees (Attachment 4)",
+  "publication_type": "annual_capacity_charge_report_66013",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.fortbraggca.gov/Documents/%20Departments/Finance%20and%20Utility%20Billing/Development%20Impact%20Fee%20Reports%20AB1600/Fire%20Capacity%20Fees/Att%204%20-%20Fire%20Capacity%20Fees.pdf",
+  "retrieved_utc": "2026-09-22T12:30:32.632781+00:00",
+  "physical_page_count": 3,
+  "source_sha256": "4ede9235543bb710b3871efb4a1a8b355f94ace599fb960cb847c1117d425a74",
+  "source_bytes": 884645,
+  "source_pdf": "sources/city-of-fort-bragg-2024-25-fire-impact-fees.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-fort-bragg-2024-25-storm-drain-impact-fees",
+  "receiving_entity": "City of Fort Bragg",
+  "publication_title": "AB 1600 Report FY 2024-25 - Storm Water Capacity Fees (Attachment 3)",
+  "publication_type": "annual_capacity_charge_report_66013",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.fortbraggca.gov/Documents/%20Departments/Finance%20and%20Utility%20Billing/Development%20Impact%20Fee%20Reports%20AB1600/Storm%20Capacities%20Fees/Att%203%20-%20Storm%20Water%20Capacity%20Fees.pdf",
+  "retrieved_utc": "2026-09-22T12:30:31.375700+00:00",
+  "physical_page_count": 3,
+  "source_sha256": "d48a9c9d6989175c4769a60781e0f66e886c5856fbd8f3b73f04140f8b7a1779",
+  "source_bytes": 887829,
+  "source_pdf": "sources/city-of-fort-bragg-2024-25-storm-drain-impact-fees.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-fort-bragg-2024-25-wastewater-capacity-fees",
+  "receiving_entity": "City of Fort Bragg",
+  "publication_title": "AB 1600 Report FY 2024-25 - Wastewater Capacity Fees (Attachment 2)",
+  "publication_type": "annual_capacity_charge_report_66013",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.fortbraggca.gov/Documents/%20Departments/Finance%20and%20Utility%20Billing/Development%20Impact%20Fee%20Reports%20AB1600/Wastewater%20Capacity%20Fees/Att%202%20-%20Wastewater%20Capacity%20Fees.pdf",
+  "retrieved_utc": "2026-09-22T12:30:29.301678+00:00",
+  "physical_page_count": 3,
+  "source_sha256": "c1bf6da35b6174651de83d165fa57b5ae224233c5742287567a79d2896d8fa6c",
+  "source_bytes": 871859,
+  "source_pdf": "sources/city-of-fort-bragg-2024-25-wastewater-capacity-fees.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-fort-bragg-2024-25-water-capacity-fees",
+  "receiving_entity": "City of Fort Bragg",
+  "publication_title": "AB 1600 Report FY 2024-25 - Water Capacity Fees",
+  "publication_type": "annual_capacity_charge_report_66013",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.fortbraggca.gov/Documents/%20Departments/Finance%20and%20Utility%20Billing/Development%20Impact%20Fee%20Reports%20AB1600/Water%20Capacity%20Fees/FY%202024-25.pdf",
+  "retrieved_utc": "2026-09-22T12:30:30.347878+00:00",
+  "physical_page_count": 3,
+  "source_sha256": "0331a87316dae0e55e77dfd081b492b32a33c290844475e7e2756083261b10de",
+  "source_bytes": 858321,
+  "source_pdf": "sources/city-of-fort-bragg-2024-25-water-capacity-fees.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "city-of-fremont-2020-21",
   "receiving_entity": "City of Fremont",
   "publication_title": "City of Fremont impact fee report, fiscal year 2020-21",
@@ -488,6 +544,34 @@
   "source_bytes": 241622,
   "source_pdf": "sources/city-of-hemet-2013-14.pdf",
   "published_data_rows_from_this_source": 18
+ },
+ {
+  "source_id": "city-of-huntington-beach-2022-23",
+  "receiving_entity": "City of Huntington Beach",
+  "publication_title": "City of Huntington Beach annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://huntingtonbeach.legistar1.com/huntingtonbeach/attachments/f9a8ab17-99fc-4cc6-878b-81c791d792e3.pdf",
+  "retrieved_utc": "2026-09-22T06:24:26.542774+00:00",
+  "physical_page_count": 41,
+  "source_sha256": "3fc56cdaf6adf65b82c78cf63580873eb88021811ad3a52606cda76dd299cc43",
+  "source_bytes": 7319902,
+  "source_pdf": "sources/city-of-huntington-beach-2022-23.pdf",
+  "published_data_rows_from_this_source": 9
+ },
+ {
+  "source_id": "city-of-huntington-beach-2024-25",
+  "receiving_entity": "City of Huntington Beach",
+  "publication_title": "City of Huntington Beach annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://huntingtonbeach.legistar1.com/huntingtonbeach/attachments/eb55b362-3ca7-4f58-961b-2afc9fbaefd6.pdf",
+  "retrieved_utc": "2026-09-22T06:24:49.368079+00:00",
+  "physical_page_count": 45,
+  "source_sha256": "aae8538d647e89d3ab407a534c8d55444f36b7c34698df5da91656e3c0bb231b",
+  "source_bytes": 9225362,
+  "source_pdf": "sources/city-of-huntington-beach-2024-25.pdf",
+  "published_data_rows_from_this_source": 8
  },
  {
   "source_id": "city-of-manteca-2024-25",
@@ -782,6 +866,20 @@
   "source_bytes": 2050351,
   "source_pdf": "sources/city-of-santa-clarita-2024-25.pdf",
   "published_data_rows_from_this_source": 9
+ },
+ {
+  "source_id": "city-of-seaside-2024-25-water-capacity-fees",
+  "receiving_entity": "City of Seaside",
+  "publication_title": "Annual Impact Fees Report FY25 (fiscal year ended June 30, 2025)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.ci.seaside.ca.us/DocumentCenter/View/16485/Annual-Report-FY25",
+  "retrieved_utc": "2026-09-22T08:27:20.958866+00:00",
+  "physical_page_count": 5,
+  "source_sha256": "da127348942695af779901f23f16cd80a6a04e8bcf0650b9d58ec088f7fa79fc",
+  "source_bytes": 76955,
+  "source_pdf": "sources/city-of-seaside-2024-25-water-capacity-fees.pdf",
+  "published_data_rows_from_this_source": 1
  },
  {
   "source_id": "city-of-signal-hill-2023-24",

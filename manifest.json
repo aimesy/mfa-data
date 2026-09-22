@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T13:30:12.345229+00:00",
- "data_rows": 742,
- "distinct_printed_figures": 574,
- "receiving_entities": 79,
- "agency_years": 161,
- "fee_programs": 357,
- "source_reports": 129,
- "evidence_pairs": 574,
+ "built_utc": "2026-09-22T14:07:15.430210+00:00",
+ "data_rows": 764,
+ "distinct_printed_figures": 596,
+ "receiving_entities": 82,
+ "agency_years": 165,
+ "fee_programs": 371,
+ "source_reports": 136,
+ "evidence_pairs": 596,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1302,
- "total_bytes": 189872808,
+ "file_count": 1353,
+ "total_bytes": 215112844,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 8556,
-   "sha256": "b0c975072098ff21b04a985dfb9ba238f1d7309452a397a1b4d167b274ffe519"
+   "bytes": 8722,
+   "sha256": "968cbea6568df349d8a658a1378ca0849eaa7d802f5c483e7635ed81f7a79bd7"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "fa4da96d7e4cf5ea006ad4850cf34fa53c755d0bd35f9b31aad4015a48285f63"
+   "sha256": "a9837ba618be86d4de2d8c019aa77594346a153486534371f347117c718735d9"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 294725,
-   "sha256": "2bc91aabbce06269cb95392de01006cc992e1aa533b94a2ee57a7ea0c4e1d3e5"
+   "bytes": 304643,
+   "sha256": "1c681c71da6c71777ecd303b2dc9063164ca244f656c0de29b255ea319b78322"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1648811,
-   "sha256": "1da0a018931e7b94741b6739f3c0691a207791769be7265c8a01e95d0b7cc2bd"
+   "bytes": 1693685,
+   "sha256": "48ff4a70401afbb366060d97b16528d83c0baec7f33f3e80a2f85e870f2909fa"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2416422,
-   "sha256": "c4c9b69877d3bcc915dd8f8b687f6a9df5d11abf893f89b25c932e6aceaedf26"
+   "bytes": 2484098,
+   "sha256": "bf97a31be83aefca8aa046ded36074bace6c50ea5bb0501a5b9592b9e18266cb"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -927,6 +927,26 @@
    "sha256": "7834eb6f3d75c71412b7e973a7da479deef0af89d0023c7e8575aa780588bd70"
   },
   {
+   "path": "evidence/extracts/city-of-fort-bragg-p002-70c862a7.pdf",
+   "bytes": 263588,
+   "sha256": "39c8da9f9d01c8b16a7a8c8f62e751e0e6a7bb239d058857e4cffbb54d551050"
+  },
+  {
+   "path": "evidence/extracts/city-of-fort-bragg-p002-cd000357.pdf",
+   "bytes": 293691,
+   "sha256": "eda0d049c45ec731c2e84f7112c8ca1859554f144990a70bfbac42e1d0e02bde"
+  },
+  {
+   "path": "evidence/extracts/city-of-fort-bragg-p002-f7e2a50c.pdf",
+   "bytes": 295231,
+   "sha256": "321a45810b7041a51f3962529a9b9d1b8ccee8130a340036545ca47bbfa7e3b4"
+  },
+  {
+   "path": "evidence/extracts/city-of-fort-bragg-p002-fe598321.pdf",
+   "bytes": 264320,
+   "sha256": "b4b1661157bed7e6dde96fec66e876890ec5d7b6afd84a38d9ebace6678fc1c8"
+  },
+  {
    "path": "evidence/extracts/city-of-fremont-p004-a9b9f63c.pdf",
    "bytes": 14930,
    "sha256": "9e6bc422f6091d984ee8de147f0660c6b7f9dfee99836a2ab5cc82419a7a018f"
@@ -1160,6 +1180,91 @@
    "path": "evidence/extracts/city-of-hemet-p024-caf33287.pdf",
    "bytes": 7181,
    "sha256": "443dcc64596d022e71115c0fa6bb98efb480a9da6a7f819a71287c7f3a3ff3c5"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p024-2e7a1750.pdf",
+   "bytes": 117339,
+   "sha256": "db0d2e1917e849cb94c36a12f6b077105d1a098f9df1a9defd3fd7c2ad73c25c"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p024-5d841020.pdf",
+   "bytes": 117339,
+   "sha256": "b6d7b8c1043f8494d131d62632f2bb4b9b3445b3597f0df4e58151ba43c75d6c"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p024-6baae4a0.pdf",
+   "bytes": 117339,
+   "sha256": "166bc772191dcc9711a88bdfc8015baefc734a33f3e96245e1bbe28997fd3c18"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p024-6c8c13b6.pdf",
+   "bytes": 117339,
+   "sha256": "1ed436e421b1716a669342d2e46a771f2301daeb6c7c4b1f6614b340feaf74ca"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p024-871121b1.pdf",
+   "bytes": 117339,
+   "sha256": "8ae04d6aeb7594b530fac676111b124a08daeadbde9beeaab30b0cd119af51a1"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p024-96c289fa.pdf",
+   "bytes": 117339,
+   "sha256": "46bc83e8ecd766330c10b6427ec75f84d720cfbb5adf238a89b1ec0e2efd9bcc"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p024-a104b094.pdf",
+   "bytes": 117339,
+   "sha256": "4b2066e0c13f3fc2094361009fb4aaa5c651578981ed3de06063ba8cbd35e3ef"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p024-e59b601d.pdf",
+   "bytes": 117339,
+   "sha256": "f7544d8370a7b62e98da8f07643f704eb72616cb22dcb2e117e27b7d87c8d836"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p025-25a1974b.pdf",
+   "bytes": 46486,
+   "sha256": "9dca850b2921ecc3ad909659dbdce4c2d5d2edb24909c853248ccb93f7683700"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p025-5c69458e.pdf",
+   "bytes": 46486,
+   "sha256": "0172d3c41d002690939138b8e67db242aee3a4bd7b58e568cdaea154e13ba880"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p025-a4212249.pdf",
+   "bytes": 46486,
+   "sha256": "3231d4f68452fad48349a78083d9bcbba9036003e8a500373665f5720eb59eaf"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p025-ad224ccf.pdf",
+   "bytes": 46486,
+   "sha256": "7c5f1b668c25923dfce94e4ece94dbafde10448fd1d74765ce46318c8d623886"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p025-b9d16d5f.pdf",
+   "bytes": 46486,
+   "sha256": "af6312131596648fbc3cfa8cd27901b4d84cb7c070c75c7f1bde1684c1d96abf"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p025-c202aec6.pdf",
+   "bytes": 46486,
+   "sha256": "6975961f26b88b4bb503818b3e5b805dbe4c60c31b558375ee02bcb0a970d6f6"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p025-cf675e63.pdf",
+   "bytes": 46486,
+   "sha256": "b55013f73db989bb2382cbca380c10e10ff793b05cceb8c78fd5358fec80bb88"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p025-d1fe5aeb.pdf",
+   "bytes": 46486,
+   "sha256": "6f54a21b55d76ba8980e1b718078119581b1123618cae91cb9525640b9cdae14"
+  },
+  {
+   "path": "evidence/extracts/city-of-huntington-beach-p025-ffe014f0.pdf",
+   "bytes": 46486,
+   "sha256": "f4a645e88f64867fac8518674d960045ff755aed1534300b1a94677acce7cd09"
   },
   {
    "path": "evidence/extracts/city-of-manteca-p033-50ff2ba0.pdf",
@@ -1700,6 +1805,11 @@
    "path": "evidence/extracts/city-of-santa-clarita-p005-6479c8ce.pdf",
    "bytes": 84094,
    "sha256": "fcb2818483c64e8d53f659b667b631db532437984513cfd14f87eae1ee932861"
+  },
+  {
+   "path": "evidence/extracts/city-of-seaside-p003-a688195d.pdf",
+   "bytes": 5697,
+   "sha256": "68c0d081262055865b58564565d5eaa7908409522d6714532faece5a2e60be88"
   },
   {
    "path": "evidence/extracts/city-of-signal-hill-p012-09ce6c6a.pdf",
@@ -2968,8 +3078,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 606556,
-   "sha256": "9f66f4dba4ea4087151719cdb5cac98e9ae22ca54960abc62efc11128f96ab65"
+   "bytes": 629340,
+   "sha256": "aacf732e09808f2483058348c2838e538b8ed67c32f2a9d0cd40b017363e12b7"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -3802,6 +3912,26 @@
    "sha256": "2634bcfd052ffb34a4dae443f5d7fc600439603d0de9d733e905abfd21a1724e"
   },
   {
+   "path": "evidence/outlined/city-of-fort-bragg-p002-70c862a7.pdf",
+   "bytes": 263651,
+   "sha256": "2de8188e43d3f05f485391353a71b9937c4144de634b83ccbaa51bf116106d1e"
+  },
+  {
+   "path": "evidence/outlined/city-of-fort-bragg-p002-cd000357.pdf",
+   "bytes": 293753,
+   "sha256": "134ba101cfae3e0dd88921be2901a57c18d06a06aa244c19ad621a01967940bd"
+  },
+  {
+   "path": "evidence/outlined/city-of-fort-bragg-p002-f7e2a50c.pdf",
+   "bytes": 295297,
+   "sha256": "c484b6806190703b4faa71f7667fc4aa336be97dca885fa1b8f2a9adcc6364d0"
+  },
+  {
+   "path": "evidence/outlined/city-of-fort-bragg-p002-fe598321.pdf",
+   "bytes": 264386,
+   "sha256": "eac44cb8076d221cac302abec5a585ae5e13bb5c1fc4179f2f3f8e2ca80bf431"
+  },
+  {
    "path": "evidence/outlined/city-of-fremont-p004-a9b9f63c.pdf",
    "bytes": 14986,
    "sha256": "4e78888dcce50872fe23799843a117841242319e0987e2eb41656335713f930e"
@@ -4035,6 +4165,91 @@
    "path": "evidence/outlined/city-of-hemet-p024-caf33287.pdf",
    "bytes": 7237,
    "sha256": "30a57383affb4653e8b509ca1077e7b16e7c35e17bdeb9ee1eede0331a6e5e19"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p024-2e7a1750.pdf",
+   "bytes": 117400,
+   "sha256": "babefb758e99d0a1e9bce47577a4a57efcce91c3f306893897dd4155a63bd1ad"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p024-5d841020.pdf",
+   "bytes": 117398,
+   "sha256": "c2310ac8a005bc2e1b46568abee45613e469953d600dbd44ed5a4e6236ba5f22"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p024-6baae4a0.pdf",
+   "bytes": 117400,
+   "sha256": "9fc3d4d4a902b1a7b324db99bd522c541cd4720ec5c54e862e50dc76c2317049"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p024-6c8c13b6.pdf",
+   "bytes": 117401,
+   "sha256": "bd657a4469a729f87e9c7a532d41d46dbe03b5c652b48d0352aed4da7bf74665"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p024-871121b1.pdf",
+   "bytes": 117397,
+   "sha256": "ba1c53de837c99c448dfa4cb1885aca26916527d87eea5a4a65c0c5df34f7a65"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p024-96c289fa.pdf",
+   "bytes": 117400,
+   "sha256": "cd280ff6977c0c551c9bdb2f7c6d28a5303eb2a7b12b5510102562d6d483689a"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p024-a104b094.pdf",
+   "bytes": 117401,
+   "sha256": "f2ee249837bdf07c63e2482de73e2e89ebb71805d9cce9dc445351143efe79cc"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p024-e59b601d.pdf",
+   "bytes": 117400,
+   "sha256": "ab13a4c62dbe2ebca74a7fe92c4fcc7c90ea2437be84f91756bb5dd5e5dfdc0a"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p025-25a1974b.pdf",
+   "bytes": 46552,
+   "sha256": "97e08c493f9a3eaf25f3968a88a885308002a7a6a6af1cb98f93b838e50d32b7"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p025-5c69458e.pdf",
+   "bytes": 46552,
+   "sha256": "cad220b3551967e4c20922636cd24414b285f5bf0640ac7fdd727a99fecdd172"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p025-a4212249.pdf",
+   "bytes": 46550,
+   "sha256": "a677cc2020964fb6f4a545333fd7d4c1c1df32803d815ed0b51faf423f1f49e9"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p025-ad224ccf.pdf",
+   "bytes": 46553,
+   "sha256": "a38befaa21ef8d30d443d8f45567fdd9df5b81f07f2c517380e2920d972374fc"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p025-b9d16d5f.pdf",
+   "bytes": 46551,
+   "sha256": "66fdcd8c36ed63d1df43623aa11ef47b4b0139749941167ec5265aafa2add429"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p025-c202aec6.pdf",
+   "bytes": 46554,
+   "sha256": "952b031be37cd08ba482dada6faf0f18b21c94b65837860b73fe6a18ed1f5edd"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p025-cf675e63.pdf",
+   "bytes": 46552,
+   "sha256": "6e19439f1dc83432fe9b39af635e44b30f5c8f759d04119d4dd798588e7875d6"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p025-d1fe5aeb.pdf",
+   "bytes": 46552,
+   "sha256": "5b14c5095d7e1194b4699d689234edd75f493990f22b3ee8bb3024b44e3abb83"
+  },
+  {
+   "path": "evidence/outlined/city-of-huntington-beach-p025-ffe014f0.pdf",
+   "bytes": 46551,
+   "sha256": "cb4e1f1d4e5e135cf1f1cb5fcaa3032d2358945ba46854e92478e4dbfbebc535"
   },
   {
    "path": "evidence/outlined/city-of-manteca-p033-50ff2ba0.pdf",
@@ -4575,6 +4790,11 @@
    "path": "evidence/outlined/city-of-santa-clarita-p005-6479c8ce.pdf",
    "bytes": 84154,
    "sha256": "93561c9fc3755e458b4456899d09452d4b3dc6e635c9c90fa90e475fc5d18f02"
+  },
+  {
+   "path": "evidence/outlined/city-of-seaside-p003-a688195d.pdf",
+   "bytes": 5750,
+   "sha256": "c48104d168b1db21e25032f75bd59f9d56a1ded857e6472a8d31c6d9af579d81"
   },
   {
    "path": "evidence/outlined/city-of-signal-hill-p012-09ce6c6a.pdf",
@@ -5952,6 +6172,26 @@
    "sha256": "38d3076fbf9c62c3b48110de0ca63f5a82c4c9036796de179abd5f3d179210d7"
   },
   {
+   "path": "sources/city-of-fort-bragg-2024-25-fire-impact-fees.pdf",
+   "bytes": 884645,
+   "sha256": "4ede9235543bb710b3871efb4a1a8b355f94ace599fb960cb847c1117d425a74"
+  },
+  {
+   "path": "sources/city-of-fort-bragg-2024-25-storm-drain-impact-fees.pdf",
+   "bytes": 887829,
+   "sha256": "d48a9c9d6989175c4769a60781e0f66e886c5856fbd8f3b73f04140f8b7a1779"
+  },
+  {
+   "path": "sources/city-of-fort-bragg-2024-25-wastewater-capacity-fees.pdf",
+   "bytes": 871859,
+   "sha256": "c1bf6da35b6174651de83d165fa57b5ae224233c5742287567a79d2896d8fa6c"
+  },
+  {
+   "path": "sources/city-of-fort-bragg-2024-25-water-capacity-fees.pdf",
+   "bytes": 858321,
+   "sha256": "0331a87316dae0e55e77dfd081b492b32a33c290844475e7e2756083261b10de"
+  },
+  {
    "path": "sources/city-of-fremont-2020-21.pdf",
    "bytes": 215305,
    "sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473"
@@ -6000,6 +6240,16 @@
    "path": "sources/city-of-hemet-2013-14.pdf",
    "bytes": 241622,
    "sha256": "8c2ec758c2abf48cfa51c6acc8d34135eb263a9785679e6aca0f5b9689da9fd2"
+  },
+  {
+   "path": "sources/city-of-huntington-beach-2022-23.pdf",
+   "bytes": 7319902,
+   "sha256": "3fc56cdaf6adf65b82c78cf63580873eb88021811ad3a52606cda76dd299cc43"
+  },
+  {
+   "path": "sources/city-of-huntington-beach-2024-25.pdf",
+   "bytes": 9225362,
+   "sha256": "aae8538d647e89d3ab407a534c8d55444f36b7c34698df5da91656e3c0bb231b"
   },
   {
    "path": "sources/city-of-manteca-2024-25.pdf",
@@ -6105,6 +6355,11 @@
    "path": "sources/city-of-santa-clarita-2024-25.pdf",
    "bytes": 2050351,
    "sha256": "86387890c1a4cfca28f20732a8af3adaedb9932f5738150752646c3ec66e5739"
+  },
+  {
+   "path": "sources/city-of-seaside-2024-25-water-capacity-fees.pdf",
+   "bytes": 76955,
+   "sha256": "da127348942695af779901f23f16cd80a6a04e8bcf0650b9d58ec088f7fa79fc"
   },
   {
    "path": "sources/city-of-signal-hill-2023-24.pdf",
@@ -6448,13 +6703,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 62132,
-   "sha256": "7fa1393b09957157759095e422d04e40d615cb6f7387912e4aaeda8e167869f7"
+   "bytes": 65584,
+   "sha256": "8666d957c1328c7a3c5132a3f2f38283a55015bcd2938809720b8d9ea0d44ae1"
   },
   {
    "path": "sources/index.json",
-   "bytes": 106314,
-   "sha256": "71311b85dc349b21999812d1b95f28f085d5ed5280284c4a027fc3a403eae913"
+   "bytes": 111993,
+   "sha256": "220a2d3be0797cba752863571792e6054477016a6034129622a9732cb79b02d6"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -6514,7 +6769,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "8b4060cd268487c5bcdf76dc94cc62c79db736875b3f2b4f30c70fc9a4afb52c"
+   "sha256": "26f8381ed55833a36efcbc6c27731e1cd865fcb8e73cecd34e9b5645256849ad"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -6529,7 +6784,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "7cc68d7ec82fca03fa0f4842244c865e6f5a26c2a751c499cc7dd8f9809e153b"
+   "sha256": "d7f98d2de3015382f7edd7e3d01480a9c7e717de1ab13677ec2901cf03770246"
   },
   {
    "path": "validation/validate.py",
