@@ -3,7 +3,7 @@
   {
    "check": "manifest_files_match",
    "passed": true,
-   "detail": "451 files checked; 0 mismatched []"
+   "detail": "452 files checked; 0 mismatched []"
   },
   {
    "check": "no_unlisted_published_files",
