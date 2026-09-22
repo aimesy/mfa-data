@@ -238,6 +238,20 @@
   "published_data_rows_from_this_source": 8
  },
  {
+  "source_id": "city-of-campbell-2022-23-a5f1473a",
+  "receiving_entity": "City of Campbell",
+  "publication_title": "2023 Annual Report (Annual AB 1600 Fee Report)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.campbellca.gov/ArchiveCenter/ViewFile/Item/3066",
+  "retrieved_utc": "2026-09-22T08:26:39.765653+00:00",
+  "physical_page_count": 32,
+  "source_sha256": "a5f1473af347c0f54fde90ad091860df4b0f67a7f10fe222cdfa4cacd27c6c0e",
+  "source_bytes": 868327,
+  "source_pdf": "sources/city-of-campbell-2022-23-a5f1473a.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
   "source_id": "city-of-chowchilla-2022-23",
   "receiving_entity": "City of Chowchilla",
   "publication_title": "City of Chowchilla annual development impact fee report, fiscal year 2022-23",
@@ -854,6 +868,20 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "city-of-milpitas-2022-23-a79d1401",
+  "receiving_entity": "City of Milpitas",
+  "publication_title": "Annual Development Fees Expenditures (2023)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.milpitas.gov/ArchiveCenter/ViewFile/Item/1194",
+  "retrieved_utc": "2026-09-22T07:00:02.474332+00:00",
+  "physical_page_count": 8,
+  "source_sha256": "a79d1401321fa0914be04605f4d3f908255c206f3e496e283db77d7452fa7f1d",
+  "source_bytes": 123136,
+  "source_pdf": "sources/city-of-milpitas-2022-23-a79d1401.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "city-of-murrieta-2014-15",
   "receiving_entity": "City of Murrieta",
   "publication_title": "City of Murrieta impact fee report, fiscal year 2014-15",
@@ -994,6 +1022,20 @@
   "published_data_rows_from_this_source": 4
  },
  {
+  "source_id": "city-of-palm-springs-2024-25-b8bbc248",
+  "receiving_entity": "City of Palm Springs",
+  "publication_title": "City of Palm Springs development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.palmspringsca.gov/home/showpublisheddocument/92682/638973511512770000",
+  "retrieved_utc": "2026-09-22T08:28:37.231718+00:00",
+  "physical_page_count": 6,
+  "source_sha256": "b8bbc24863d7a6322bd4a3ff5e17a85fe9f6e67d2d4855a2741a890056ab6c2d",
+  "source_bytes": 229137,
+  "source_pdf": "sources/city-of-palm-springs-2024-25-b8bbc248.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "city-of-pasadena-rif-2022-23",
   "receiving_entity": "City of Pasadena",
   "publication_title": "City of Pasadena RIF Mitigation Fee Report, fiscal year 2022-23",
@@ -1076,6 +1118,34 @@
   "source_bytes": 395120,
   "source_pdf": "sources/city-of-pasadena-tif-2024-25.pdf",
   "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-redwood-city-2022-23-06ca4176",
+  "receiving_entity": "City of Redwood City",
+  "publication_title": "City of Redwood City annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.redwoodcity.org/home/showpublisheddocument/27449/638388512622370000",
+  "retrieved_utc": "2026-09-22T12:57:20.998461+00:00",
+  "physical_page_count": 48,
+  "source_sha256": "06ca417619a218cb627494bec4f43d5a7c547d6cac66874a4150e56623286df7",
+  "source_bytes": 641310,
+  "source_pdf": "sources/city-of-redwood-city-2022-23-06ca4176.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-redwood-city-2024-25-e51f21fe",
+  "receiving_entity": "City of Redwood City",
+  "publication_title": "City of Redwood City annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.redwoodcity.org/home/showpublisheddocument/30583/639005286087630000",
+  "retrieved_utc": "2026-09-22T12:57:19.253499+00:00",
+  "physical_page_count": 47,
+  "source_sha256": "e51f21fe7d636324b1bad98b3792e6388f0970136c71318371ddd7c8a1045a6f",
+  "source_bytes": 640494,
+  "source_pdf": "sources/city-of-redwood-city-2024-25-e51f21fe.pdf",
+  "published_data_rows_from_this_source": 3
  },
  {
   "source_id": "city-of-riverbank-2018-19",

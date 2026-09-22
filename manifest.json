@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T18:52:18.290754+00:00",
- "data_rows": 898,
- "distinct_printed_figures": 730,
- "receiving_entities": 93,
- "agency_years": 190,
- "fee_programs": 438,
- "source_reports": 167,
- "evidence_pairs": 730,
+ "built_utc": "2026-09-22T19:35:40.271436+00:00",
+ "data_rows": 911,
+ "distinct_printed_figures": 743,
+ "receiving_entities": 97,
+ "agency_years": 195,
+ "fee_programs": 450,
+ "source_reports": 172,
+ "evidence_pairs": 743,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1652,
- "total_bytes": 405845808,
+ "file_count": 1683,
+ "total_bytes": 410311770,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 9442,
-   "sha256": "2123ca9cbe6f61db4689aae6e12c69c2596cd0170c3546189aa295c867d58c9f"
+   "bytes": 9655,
+   "sha256": "bc1e9fb9ec134b118ef3845062df43564ffe5130fc0b86d94538a50049f238d0"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "c8677e3bc863cdc89cca38f74824143d0e7b870adc937302e39fb35f0128c442"
+   "sha256": "4fec4d41a6324485f70ea552aeda4281271ffe54dbf479f04d9489ce7cef2201"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 361027,
-   "sha256": "78a3ea4aaf93ed082d373c1896092a6e4272c9dbaac407eaff69f96daba01c22"
+   "bytes": 367759,
+   "sha256": "a05ebfe5f04ef9b1dedee93b869eba328ea15bb2a04f02b4d2ea1d762f18c30a"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1968687,
-   "sha256": "0c4f35ea80e4d20874f6e89f182be5cca95a371dbe4ea411dabd0c9a579cc93e"
+   "bytes": 1993751,
+   "sha256": "f84374265ecaab3a497b66b377bfaad1c8b4c5d383216ecf5b9e696272ffcaa6"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2897914,
-   "sha256": "7b6d1786d11282ec098b8510486fe6219362804d88eb46b67a1e8889e9c502bb"
+   "bytes": 2936417,
+   "sha256": "12a56f2f098516af24455f9977f1632b92d71c5887be8ea1569076554949025a"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -455,6 +455,21 @@
    "path": "evidence/extracts/city-of-calimesa-p005-e6849438.pdf",
    "bytes": 62679,
    "sha256": "c5c9415e70ea70474af48f68e221d24258413c2b70fcc6040199560ac9309e6c"
+  },
+  {
+   "path": "evidence/extracts/city-of-campbell-p010-8c2c7abb.pdf",
+   "bytes": 23000,
+   "sha256": "7c0a84be7c380f86a72859ea3f51bbb4312c351f3a37248c688eec2558f9b4e2"
+  },
+  {
+   "path": "evidence/extracts/city-of-campbell-p012-0c36c381.pdf",
+   "bytes": 23469,
+   "sha256": "1c00f8a8467bd216f61f278edb839ac8b8c4634d82576aaf532dfbaf1c8cf74a"
+  },
+  {
+   "path": "evidence/extracts/city-of-campbell-p015-90f3287e.pdf",
+   "bytes": 24174,
+   "sha256": "248cd0908a7158bd9fa952aad881f6657ba30ebfe6916536b8e6916c4049a344"
   },
   {
    "path": "evidence/extracts/city-of-chowchilla-p006-051f474a.pdf",
@@ -1672,6 +1687,11 @@
    "sha256": "085f88b8ed9bf1028d985f1410b8e732f14ca452b129520adfe2ade7215f3493"
   },
   {
+   "path": "evidence/extracts/city-of-milpitas-p002-bb73365d.pdf",
+   "bytes": 52007,
+   "sha256": "428b62c0deec4968e5caab843dade4ee188df29b8314b1c9df5d942d1e49ab6e"
+  },
+  {
    "path": "evidence/extracts/city-of-murrieta-p002-24c94829.pdf",
    "bytes": 5339,
    "sha256": "7bce18fd24c89acd82bf59e8e24811b8b1e251e1ffcd1f0fb342da748ff705cc"
@@ -1827,6 +1847,11 @@
    "sha256": "7126e390d0bd1103d9da110738d5665fe745a917fa3f5c1e1a1bdf99d10facdc"
   },
   {
+   "path": "evidence/extracts/city-of-palm-springs-p003-5b6d1d90.pdf",
+   "bytes": 121615,
+   "sha256": "80f9600dbfca2ded2dd4d664ebca79a4cca9e3e8e2a6ceea3ae1b10099414744"
+  },
+  {
    "path": "evidence/extracts/city-of-pasadena-p001-24918e91.pdf",
    "bytes": 60394,
    "sha256": "61c2481eec684e5c1d06d644ef857daf4542ab0e8540d261f71f79f5a5fb903c"
@@ -1865,6 +1890,46 @@
    "path": "evidence/extracts/city-of-paso-robles-p009-45451670.pdf",
    "bytes": 45246,
    "sha256": "c649523024851ae98a171105be0a361e69b81c7541ee96bd7c3c9339f06be5c8"
+  },
+  {
+   "path": "evidence/extracts/city-of-redwood-city-p016-1837fc49.pdf",
+   "bytes": 89035,
+   "sha256": "797e8d9a75c8b777936c78213019bc61af4939ca251a732cea88c666f0988d16"
+  },
+  {
+   "path": "evidence/extracts/city-of-redwood-city-p018-1d9e88fe.pdf",
+   "bytes": 81251,
+   "sha256": "dc45d75583e0e5e9acc5eec1402af2e914b3c76fcfbef1615d6eb7730bc8c72b"
+  },
+  {
+   "path": "evidence/extracts/city-of-redwood-city-p022-00a28070.pdf",
+   "bytes": 86643,
+   "sha256": "02660745f2ed4f435256fdfc5447f6dfea6a934ea94eaa5a7a946ceacaff8a43"
+  },
+  {
+   "path": "evidence/extracts/city-of-redwood-city-p025-64898428.pdf",
+   "bytes": 90755,
+   "sha256": "db81aa39235cbd82324a5db196944fef8959684ca2cd20f0d1e3e34a139f0755"
+  },
+  {
+   "path": "evidence/extracts/city-of-redwood-city-p026-3c0d9335.pdf",
+   "bytes": 82040,
+   "sha256": "56ce53695c6f3aeda1fa02728ea819a5914356a7ca8c3984ce26a484d3b2433e"
+  },
+  {
+   "path": "evidence/extracts/city-of-redwood-city-p026-9d7de582.pdf",
+   "bytes": 90526,
+   "sha256": "5441b1f901bf6c864608230449be8cf3b3828ca1b38cb109a5fc84dad7843324"
+  },
+  {
+   "path": "evidence/extracts/city-of-redwood-city-p027-885a163d.pdf",
+   "bytes": 91196,
+   "sha256": "71a5fe985be0580826d502250b2f749ccfd6a81bb491c4306dd3a61159bd2711"
+  },
+  {
+   "path": "evidence/extracts/city-of-redwood-city-p028-051ff6cd.pdf",
+   "bytes": 80857,
+   "sha256": "26ea6ea3479ffe3b72713e80ceb90923bf6807d607684bb0594526af9f5643e0"
   },
   {
    "path": "evidence/extracts/city-of-riverbank-p010-4bda7b35.pdf",
@@ -3748,8 +3813,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 772111,
-   "sha256": "18ebc103817e8a7ba4afcb600bc5e93efd6d83fbf6b4670fec385332a7b3fb72"
+   "bytes": 785859,
+   "sha256": "5f56a559248c3939d61e427a9e17925aaceed06f6297f23b15f91e228f357630"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -4110,6 +4175,21 @@
    "path": "evidence/outlined/city-of-calimesa-p005-e6849438.pdf",
    "bytes": 62741,
    "sha256": "1cf0580a0c468ba82e39df36917be4448d959dcc0abac406efb487a08bfe2e38"
+  },
+  {
+   "path": "evidence/outlined/city-of-campbell-p010-8c2c7abb.pdf",
+   "bytes": 23047,
+   "sha256": "ef57c466d705bd7cc82a8a9dbd855a01750c409c3d69703fb7a692c1ba776d7d"
+  },
+  {
+   "path": "evidence/outlined/city-of-campbell-p012-0c36c381.pdf",
+   "bytes": 23523,
+   "sha256": "3a442dbbfb063412e1d77d9d5b90d0e377372a3d4fbfba21114c105e8f48ac26"
+  },
+  {
+   "path": "evidence/outlined/city-of-campbell-p015-90f3287e.pdf",
+   "bytes": 24225,
+   "sha256": "177409f46215f3d02a2c0e7ba30726330be14a7bab0a91e37c6431640b22dfeb"
   },
   {
    "path": "evidence/outlined/city-of-chowchilla-p006-051f474a.pdf",
@@ -5327,6 +5407,11 @@
    "sha256": "4e7533ff2dfa6c628c5cbe6a1255e895b129dbbbd0deb3cd74177b02cb73e585"
   },
   {
+   "path": "evidence/outlined/city-of-milpitas-p002-bb73365d.pdf",
+   "bytes": 52067,
+   "sha256": "97128245003a8a7d3fcf52381084411929e2e31ab78e0e9abc6f4e05b74c8c70"
+  },
+  {
    "path": "evidence/outlined/city-of-murrieta-p002-24c94829.pdf",
    "bytes": 5397,
    "sha256": "87a89aa72dcdb3d4976cbdda0c227e32b1f738453c96f92574493596ca5cd8c8"
@@ -5482,6 +5567,11 @@
    "sha256": "bd92146bce2f259bd2e7e8e7a5b541078d0b1afc89c5bee17231bcb24889570f"
   },
   {
+   "path": "evidence/outlined/city-of-palm-springs-p003-5b6d1d90.pdf",
+   "bytes": 121676,
+   "sha256": "10590a5ebfad458cfc1c4adf9f13834dd053cb6f3e19590bee7081e40c75efc1"
+  },
+  {
    "path": "evidence/outlined/city-of-pasadena-p001-24918e91.pdf",
    "bytes": 60468,
    "sha256": "abd283ea71523132c2560a21e9eadf9b0bad946a8bad201028c0a583d61bb412"
@@ -5520,6 +5610,46 @@
    "path": "evidence/outlined/city-of-paso-robles-p009-45451670.pdf",
    "bytes": 45304,
    "sha256": "e271411fbab63c28f0a7ed4ab7da2f4680e2772fb1b2b81c38aef255584cf16a"
+  },
+  {
+   "path": "evidence/outlined/city-of-redwood-city-p016-1837fc49.pdf",
+   "bytes": 89092,
+   "sha256": "f2ffd09796bafaf64ee5af55ccfac14b7164dbd711fd386fd011758aeb9fb0b7"
+  },
+  {
+   "path": "evidence/outlined/city-of-redwood-city-p018-1d9e88fe.pdf",
+   "bytes": 81308,
+   "sha256": "fe030d852c38a4472c0b4b6c242f767afaa96313269fea17faa8f6c42170a7ea"
+  },
+  {
+   "path": "evidence/outlined/city-of-redwood-city-p022-00a28070.pdf",
+   "bytes": 86700,
+   "sha256": "3402c66c8e4ee3a7de2e033090de3a196ffec500c54b72bf8778ce0ca7a1a78e"
+  },
+  {
+   "path": "evidence/outlined/city-of-redwood-city-p025-64898428.pdf",
+   "bytes": 90811,
+   "sha256": "6bdf76fd8974043b096e9fd8b0341e59840115e5ae2663e0ca08501de809d3e3"
+  },
+  {
+   "path": "evidence/outlined/city-of-redwood-city-p026-3c0d9335.pdf",
+   "bytes": 82098,
+   "sha256": "102aad8c57783098a493ff1f9138d2a9ad88c819ba965854986c892bff70a893"
+  },
+  {
+   "path": "evidence/outlined/city-of-redwood-city-p026-9d7de582.pdf",
+   "bytes": 90583,
+   "sha256": "6f91351bcb10926e304c4c5b2ccd18d69618f4733e3467571ab8785a64546c8b"
+  },
+  {
+   "path": "evidence/outlined/city-of-redwood-city-p027-885a163d.pdf",
+   "bytes": 91253,
+   "sha256": "8f988842915111819d7856d97434067c443d63918b78e66aa54861a725b3bb3d"
+  },
+  {
+   "path": "evidence/outlined/city-of-redwood-city-p028-051ff6cd.pdf",
+   "bytes": 80916,
+   "sha256": "03496a39b10c26e403b17eba178b32235442e1b1388825a6a116796eae04ce1e"
   },
   {
    "path": "evidence/outlined/city-of-riverbank-p010-4bda7b35.pdf",
@@ -7482,6 +7612,11 @@
    "sha256": "b5c09d1d4809b52300d8f09356510c6ac4eecba9204c4c800a4260371a36ac47"
   },
   {
+   "path": "sources/city-of-campbell-2022-23-a5f1473a.pdf",
+   "bytes": 868327,
+   "sha256": "a5f1473af347c0f54fde90ad091860df4b0f67a7f10fe222cdfa4cacd27c6c0e"
+  },
+  {
    "path": "sources/city-of-chowchilla-2022-23.pdf",
    "bytes": 1253267,
    "sha256": "604061ca345219249a8eaf5c0d734eadcf07e0b1d8afb7211df923cbe263e365"
@@ -7692,6 +7827,11 @@
    "sha256": "5258a3ad149d7f84cffd1304a057934187e6fe75b6b1fcafdb61d6d6fd95f60a"
   },
   {
+   "path": "sources/city-of-milpitas-2022-23-a79d1401.pdf",
+   "bytes": 123136,
+   "sha256": "a79d1401321fa0914be04605f4d3f908255c206f3e496e283db77d7452fa7f1d"
+  },
+  {
    "path": "sources/city-of-murrieta-2014-15.pdf",
    "bytes": 141641,
    "sha256": "0c5d86eb2914368c49b24aef1eea7fb8cba3a7a53c12ad2f5f9697dca47406b5"
@@ -7737,6 +7877,11 @@
    "sha256": "e0f4ad4c01fe6711f59426604e7de3a61b0d8b8d8ac0848dd81225355672458a"
   },
   {
+   "path": "sources/city-of-palm-springs-2024-25-b8bbc248.pdf",
+   "bytes": 229137,
+   "sha256": "b8bbc24863d7a6322bd4a3ff5e17a85fe9f6e67d2d4855a2741a890056ab6c2d"
+  },
+  {
    "path": "sources/city-of-pasadena-rif-2022-23.pdf",
    "bytes": 380763,
    "sha256": "de6f8cd682e056fec37466fa2dbbbf2647303b6dede0e3fc45dfddda7a75adb6"
@@ -7770,6 +7915,16 @@
    "path": "sources/city-of-paso-robles-2020-21.pdf",
    "bytes": 181634,
    "sha256": "2e9cc9922268d6196180eb2e39894dd1f1ea7c307f243a539a484e7ce93fbc3d"
+  },
+  {
+   "path": "sources/city-of-redwood-city-2022-23-06ca4176.pdf",
+   "bytes": 641310,
+   "sha256": "06ca417619a218cb627494bec4f43d5a7c547d6cac66874a4150e56623286df7"
+  },
+  {
+   "path": "sources/city-of-redwood-city-2024-25-e51f21fe.pdf",
+   "bytes": 640494,
+   "sha256": "e51f21fe7d636324b1bad98b3792e6388f0970136c71318371ddd7c8a1045a6f"
   },
   {
    "path": "sources/city-of-riverbank-2018-19.pdf",
@@ -8198,13 +8353,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 78809,
-   "sha256": "c2cb576d51936638b3461253e081825d17194069f793e3772f78a9185aee8fb1"
+   "bytes": 80730,
+   "sha256": "57b0f8c4aabd1a5ae3dddd13ba41c0c4912b6d10e21670aed47420919c610ee6"
   },
   {
    "path": "sources/index.json",
-   "bytes": 135071,
-   "sha256": "5872e451bb38ff12e688a1f9ca39d586d35243248b88c8f724c10bd6025a2593"
+   "bytes": 138581,
+   "sha256": "1588d92c334a1763263bac0dcb03a66dca1dd2a7a646d025fa3cc0c1b5983729"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -8264,7 +8419,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "19cb67f056d016de993ecc266400cdc3711834aa37f953abf1036ab5e44bdeda"
+   "sha256": "c9de2023cc0ef84aaf59e5945383f5a07ec39ec68c1ea068bb741f74fc78a7c0"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -8279,7 +8434,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "c8a3b0a828908c24b46092e4c47291e2022201cd8c351d5d75b2e1761272aba6"
+   "sha256": "3eef17e013693994aaacb897f517f56db919e2b4e95dcfc35ef68b6c89859553"
   },
   {
    "path": "validation/validate.py",
