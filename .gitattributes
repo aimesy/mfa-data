@@ -1,0 +1,4 @@
+# This release's integrity claim is a SHA-256 per file in manifest.json. Git must therefore
+# store and check out every file byte for byte, with no line-ending translation, so that the
+# manifest verifies on any machine regardless of the reader's core.autocrlf setting.
+* -text
