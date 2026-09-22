@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T07:43:55.689623+00:00",
- "data_rows": 460,
- "distinct_printed_figures": 292,
- "receiving_entities": 57,
- "agency_years": 104,
- "fee_programs": 216,
- "source_reports": 87,
- "evidence_pairs": 292,
+ "built_utc": "2026-09-22T07:58:25.314050+00:00",
+ "data_rows": 475,
+ "distinct_printed_figures": 307,
+ "receiving_entities": 58,
+ "agency_years": 105,
+ "fee_programs": 231,
+ "source_reports": 88,
+ "evidence_pairs": 307,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 696,
- "total_bytes": 88881611,
+ "file_count": 727,
+ "total_bytes": 95199632,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7202,
-   "sha256": "1b8b4cb690318f4fb1cf65bbe2fda27f0561378af0d2a17d6dfd3abccfc2f53d"
+   "bytes": 7257,
+   "sha256": "314dba9a34943c92d378809b2660fed0fabcff164ba4e37294bafd4a6bedbd2c"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "0165afaab7029d561ff18e3a348db0bbdc2822d8382e5d3fc72076f4349c5cdc"
+   "sha256": "f702a7fafafd2668da73569becc04bbc3e672322b8443e7adf72b354413e4466"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 178647,
-   "sha256": "1e492149dd55baaa90903e9334404f560a92d4726a9695892128ff20e95aabfe"
+   "bytes": 184209,
+   "sha256": "363595f724489b84021db7c7106619674932043f40ec460ba23a51f88495f81f"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 966123,
-   "sha256": "ae05d4ca7df630b7d56fc71bed9e3e208f538a62c7483601e8fdee312976ca4c"
+   "bytes": 1002534,
+   "sha256": "45630efc5828c1f1d4d8754820e53b8d8dd13f279308f65e109515e2b810d3b5"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1441896,
-   "sha256": "e1114c3ce594a83ea7a3e93937f67ecc9d38f14b949e83aa62478694a1a71f92"
+   "bytes": 1493772,
+   "sha256": "47a9a09b1779ce27de445a6225954c4d6068905ce3a2a2b7afd2ff32140f42b9"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1337,6 +1337,81 @@
    "sha256": "4bf0a4cc7222d5a9869ca7dc0aea319b37f2cfaabd92b950a1e58c0ed22a07da"
   },
   {
+   "path": "evidence/extracts/county-of-stanislaus-p022-00452c26.pdf",
+   "bytes": 73900,
+   "sha256": "9fc6872562a9f82b58201702933a3da24594216189ad476bd9f0e578b3a8b263"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-12410d20.pdf",
+   "bytes": 73900,
+   "sha256": "3f70ed1dca76f92d6144c87a033501626ee8f50768c109deedbe0fbb9296a976"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-14a55383.pdf",
+   "bytes": 73900,
+   "sha256": "18de3bd893191474532dbc5bd4102dc96505f60001e7f151097788320ec71da0"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-2f23f569.pdf",
+   "bytes": 73900,
+   "sha256": "a6ad44a751fad04df75133c7637706f306d8b6a1b153bfd4d3d7fceed4edd3aa"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-4454df9a.pdf",
+   "bytes": 73900,
+   "sha256": "dcd94a4fdce83ff0ff115263116d098396447f5bc1879da8de9359dfd55bbd77"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-5ba5547c.pdf",
+   "bytes": 73900,
+   "sha256": "dea40341597a96e89fe408f4a69b7b5b99b2a188bc2890c7dd96e68861ba1a71"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-5be69250.pdf",
+   "bytes": 73900,
+   "sha256": "6615f5603e7eda74ed2589f6bf7de3751cebef1ffe1463498c7781cddd0bee2c"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-5c463ea8.pdf",
+   "bytes": 73900,
+   "sha256": "8aba01ed480c959daa71f8a022820d4f9a6f2a001990890402c7b618f9c45181"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-8812a500.pdf",
+   "bytes": 73900,
+   "sha256": "db1104c15900f67f14c39d1abb597799c17541d2e1460966e65b23a5343c6044"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-968459f6.pdf",
+   "bytes": 73900,
+   "sha256": "bc3420e1578f83128890ffd0534fe0e849d1302e451ddd761c3eda5dcdede2f8"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-9b8afb3b.pdf",
+   "bytes": 73900,
+   "sha256": "cb545c2253847ae4601f99e3d6872511b19fea64645e6065f68052bec540d354"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-ad18a2d9.pdf",
+   "bytes": 73900,
+   "sha256": "c83beb1ff229a61fbcb8b11870f7533acaed3c0d978d791bdb68da7fc86aa719"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-e6296070.pdf",
+   "bytes": 73900,
+   "sha256": "f268d4e29b8bb137e4146e525b0e240a2c5d2ffe168961704b7a99245d3194d1"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-ea327dec.pdf",
+   "bytes": 73900,
+   "sha256": "e43b500c101bc4dbed6ff421ec0605f5afb5a280962e4ca46bc775f9f4f48417"
+  },
+  {
+   "path": "evidence/extracts/county-of-stanislaus-p022-edf76fe3.pdf",
+   "bytes": 73900,
+   "sha256": "1fd2d4278536824e6a8750a53859e467bd32eabc03f1fbc59d2d68ac4c339442"
+  },
+  {
    "path": "evidence/extracts/county-of-tehama-p001-58dd0d76.pdf",
    "bytes": 38559,
    "sha256": "cb40967ad85c9c4f839f2ee6f5bea4869aad78a79c56ed2be403b6616df77cc0"
@@ -1558,8 +1633,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 312160,
-   "sha256": "09144f5c2f17b2e1230965680a1771e0cce08442ae18b6831781ba1f288ad6ea"
+   "bytes": 328570,
+   "sha256": "6120dc1d2a646eefb25783c46c60044da7eedfff847284cdd3a55bcbd32b03be"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -2802,6 +2877,81 @@
    "sha256": "63c2f08c6047f8eb1762be1228aa0248f9fdfda725f53d24a3f86d884d69cead"
   },
   {
+   "path": "evidence/outlined/county-of-stanislaus-p022-00452c26.pdf",
+   "bytes": 73965,
+   "sha256": "6dd4523b661a3d89e8e6757e965854d71e6e208cf1b78e68af293a86008060af"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-12410d20.pdf",
+   "bytes": 73965,
+   "sha256": "8794521ce06bb18865966a0cfedb0cce5b0320f45fbee24434b93a50a8a088a2"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-14a55383.pdf",
+   "bytes": 73963,
+   "sha256": "bebe89fedbb2945c9aaf66511e59a7c2f03d5908812fa1bd1b31f0bd17e2dcbf"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-2f23f569.pdf",
+   "bytes": 73965,
+   "sha256": "8ef81f507313b275095910a44e57224cbff61ff2aa67bf2a2f271ea1252a760f"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-4454df9a.pdf",
+   "bytes": 73964,
+   "sha256": "30f93949da88becc40efc87c2e2b74d2648c1ff0fc21b4aecfcb05575e09c6e9"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-5ba5547c.pdf",
+   "bytes": 73964,
+   "sha256": "ef1ab351590e6062223a33959b9dd69c6032999719bb7470384cfaf2c8927fc3"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-5be69250.pdf",
+   "bytes": 73964,
+   "sha256": "d4afa7a264ff8955d1b58896ca7c77d53a9e7d3eac625d04453bd5df3ca14635"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-5c463ea8.pdf",
+   "bytes": 73966,
+   "sha256": "4066c07ec2dc40d74bbcb06fa839e56ec289f77d73f08835a7ddbe849ccf4e58"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-8812a500.pdf",
+   "bytes": 73965,
+   "sha256": "cef21216a69791e3ab4bc4ce50ed671d3866594d98af6f05284dcc56ba236255"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-968459f6.pdf",
+   "bytes": 73965,
+   "sha256": "f3ef43a2d982a461ce08ab900b3fcdb05ddd80408ef9918e0332415d1738fd2f"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-9b8afb3b.pdf",
+   "bytes": 73965,
+   "sha256": "38e062d2dbf2680f1d3f3d737bf8c92b0c3ab8e31ba8a6849c9141a2aaba579f"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-ad18a2d9.pdf",
+   "bytes": 73965,
+   "sha256": "0cc3e884be5a17a90702c2ce96ed7578bf3033fc361120510edd0aaf83af0c29"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-e6296070.pdf",
+   "bytes": 73964,
+   "sha256": "a3d717cb51a96a5ea63e8dd3746725cf390df1f46401368fd58c13057441eaa3"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-ea327dec.pdf",
+   "bytes": 73964,
+   "sha256": "ea9327b75a6b6fd1a1b8f53c3baf3fb76d1b7aefdb74c0c9a18b3722173b11f1"
+  },
+  {
+   "path": "evidence/outlined/county-of-stanislaus-p022-edf76fe3.pdf",
+   "bytes": 73964,
+   "sha256": "7bc74fb94d3c9fcb18b7c627bd3773f0ff9804f3839868ffa4afe288fe611922"
+  },
+  {
    "path": "evidence/outlined/county-of-tehama-p001-58dd0d76.pdf",
    "bytes": 38615,
    "sha256": "c044daad50a936f2346aa95f7d7d492fe1eee47a4077bebeeee50a556b8b7f72"
@@ -3407,6 +3557,11 @@
    "sha256": "4b3bad7bb41ff3a4c708faf2e05b41509ae83adcd671ae590d0333aa52f4635d"
   },
   {
+   "path": "sources/county-of-stanislaus-2024-25.pdf",
+   "bytes": 3988668,
+   "sha256": "13806f1152761f5b06c0a97b445f9284a8e4a392f0b328a06265a7f488ae0601"
+  },
+  {
    "path": "sources/county-of-tehama-2023-24.pdf",
    "bytes": 95537,
    "sha256": "e492a9bd3aa9dd1d2c211724241179bbe22f754b89d5fca698059bd9906c41e1"
@@ -3433,13 +3588,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 43923,
-   "sha256": "cd2edbb4d61fe9e34aff25997d5a8615c30635d38b1e7651f0c6de2ca496bb75"
+   "bytes": 44300,
+   "sha256": "1f68e74299daee795d7f31c30c815c96af26c0c86a0b9772cfd3a8c90058af5a"
   },
   {
    "path": "sources/index.json",
-   "bytes": 74787,
-   "sha256": "a6cea8f5a5e5bdacc70010ee1daa0ab72dfa4f4e0eafb3b9d0e9c74b55a8813b"
+   "bytes": 75481,
+   "sha256": "cafc32b37ac47feaab632059f66bc86dfffb763560c7c8604f9d79632445840f"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -3484,7 +3639,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3048,
-   "sha256": "9a24ac2872a533bb092a00a37753b7d515cfffe8dc96afcb59a0b3c9b45f9365"
+   "sha256": "962abfb52a299a6e34bf7bfd90d234a987c9334cb6b9b78aedd521d27a7f0f0b"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -3499,7 +3654,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2582,
-   "sha256": "51e50b26f2c665b8a4ff0c4402efec29d889f994f7a83d771d2828bc43b6050c"
+   "sha256": "01d8ba3b8e82832d2b9f620bcd2ea00e12ca28c8758422a6d096c1bf3ded83a8"
   },
   {
    "path": "validation/validate.py",

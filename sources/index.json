@@ -994,6 +994,20 @@
   "published_data_rows_from_this_source": 15
  },
  {
+  "source_id": "county-of-stanislaus-2024-25",
+  "receiving_entity": "County of Stanislaus",
+  "publication_title": "Stanislaus County Public Facilities Fees Annual Report for the year ended June 30, 2025",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.stancounty.com/auditor/pdf/pff2025.pdf",
+  "retrieved_utc": "2026-09-22T06:26:19.074381+00:00",
+  "physical_page_count": 27,
+  "source_sha256": "13806f1152761f5b06c0a97b445f9284a8e4a392f0b328a06265a7f488ae0601",
+  "source_bytes": 3988668,
+  "source_pdf": "sources/county-of-stanislaus-2024-25.pdf",
+  "published_data_rows_from_this_source": 15
+ },
+ {
   "source_id": "county-of-tehama-2023-24",
   "receiving_entity": "County of Tehama",
   "publication_title": "County of Tehama Development Impact Fee Annual Report, Fiscal Year 2023-24",
