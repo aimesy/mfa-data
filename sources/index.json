@@ -896,6 +896,34 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "county-of-san-diego-j25-2023-24",
+  "receiving_entity": "County of San Diego",
+  "publication_title": "County of San Diego Board Policy J-25 Comprehensive Annual Mitigation Fees Report, Fiscal Year 2023-24",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.sandiegocounty.gov/content/dam/sdc/dpw/ENGINEERING_SERVICES/projects/board-policy-j-25/Intersection%20Improvement%20Fee%20Program%20(Board%20Policy%20J-25)%20Comprehensive%20Annual%20Mitigation%20Fees%20Report%202023-24.pdf",
+  "retrieved_utc": "2026-09-22T06:26:02.368224+00:00",
+  "physical_page_count": 29,
+  "source_sha256": "9d178e25da26d313c15da66ea888fe7308dc641ab2cca00a368b1f6b439d40c5",
+  "source_bytes": 867410,
+  "source_pdf": "sources/county-of-san-diego-j25-2023-24.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "county-of-san-diego-tif-rtcip-2024-25",
+  "receiving_entity": "County of San Diego",
+  "publication_title": "County of San Diego Transportation Impact Fee and Regional Transportation Congestion Improvement Program Comprehensive Annual Mitigation Fees Report, Fiscal Year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2020-21",
+  "official_source_url": "https://www.sandiegocounty.gov/content/dam/sdc/dpw/LAND_DEVELOPMENT_DIVISION/tif/TIF%20Annual%20Report%20FY%2024-25.pdf",
+  "retrieved_utc": "2026-09-22T06:26:02.022926+00:00",
+  "physical_page_count": 56,
+  "source_sha256": "7d5d94ba8b7addbe59774a7342e0e7f19654dc2b5e381ec99d2deb80234dfe48",
+  "source_bytes": 802941,
+  "source_pdf": "sources/county-of-san-diego-tif-rtcip-2024-25.pdf",
+  "published_data_rows_from_this_source": 10
+ },
+ {
   "source_id": "county-of-san-joaquin-timf-2022-23",
   "receiving_entity": "County of San Joaquin",
   "publication_title": "San Joaquin County Traffic Impact Mitigation Fee Program Annual Report, fiscal year 2022-23",
