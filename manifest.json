@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T16:14:35.243030+00:00",
- "data_rows": 781,
- "distinct_printed_figures": 613,
- "receiving_entities": 83,
- "agency_years": 170,
- "fee_programs": 380,
- "source_reports": 147,
- "evidence_pairs": 613,
+ "built_utc": "2026-09-22T16:43:21.414011+00:00",
+ "data_rows": 786,
+ "distinct_printed_figures": 618,
+ "receiving_entities": 87,
+ "agency_years": 175,
+ "fee_programs": 385,
+ "source_reports": 152,
+ "evidence_pairs": 618,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 1398,
- "total_bytes": 218550277,
+ "file_count": 1413,
+ "total_bytes": 222370311,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 8825,
-   "sha256": "4bbf4a77116bbd191b1bf9fc9a289e3543772f3312bfe6695d8fb02df1c5cd9b"
+   "bytes": 9028,
+   "sha256": "8a4052ac06477d169e5af5f3abab397c4839ba9a5e0a21d6d9d540ccf4db90ca"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "9a941b146e75f90eb7be74e3af8077ba03f9701ff07a6b80e2e6ce7107fb240b"
+   "sha256": "71201fe3ec050281be680fe2671aa13199378da987a36279822585f06d14a900"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 313547,
-   "sha256": "09af89b1f17a13e8a9f923ac5bfcca6cf21f70fdd02aabc3e86c973b46e27ddf"
+   "bytes": 317887,
+   "sha256": "f6f5f9f9ae913ee4fb9ebda3b25d5c1743004e648c71c27f3811bdb5b8ab4844"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1725582,
-   "sha256": "718e5e29aec774f627fb2049bd33fb9a377fbfb88e7a6e300d07dc8f36ed8cc0"
+   "bytes": 1734283,
+   "sha256": "9123825f9fba59fc8702359b544a817e88895b9d6286b41093091afb406db090"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 2533630,
-   "sha256": "b7bf86304d52beae9065708e273a4c133d528066dca275a521d4e4bfbb6d8d3c"
+   "bytes": 2547526,
+   "sha256": "aae1a8bfce8267b3e7447f790dfb514d363f3ae65456c85c775ccea53ad387bf"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -245,6 +245,11 @@
    "path": "evidence/extracts/city-of-arcadia-p003-f2d1d143.pdf",
    "bytes": 50117,
    "sha256": "cb0de82397d3b45bb0639e04532a78c690881843ce14b077f1e257d577e30ae5"
+  },
+  {
+   "path": "evidence/extracts/city-of-artesia-p007-2f2be51e.pdf",
+   "bytes": 122112,
+   "sha256": "927c0e08c5ab8f2bc22e80a730270a25b1d0486602ce27f8cb0505de55c01594"
   },
   {
    "path": "evidence/extracts/city-of-avalon-p005-46e0698d.pdf",
@@ -1377,6 +1382,11 @@
    "sha256": "56d2dd6d997a69397a46fbd1b037daa8c58edb647cadb6879ce553060786865b"
   },
   {
+   "path": "evidence/extracts/city-of-menlo-park-p013-b204a56e.pdf",
+   "bytes": 69965,
+   "sha256": "085f88b8ed9bf1028d985f1410b8e732f14ca452b129520adfe2ade7215f3493"
+  },
+  {
    "path": "evidence/extracts/city-of-murrieta-p002-24c94829.pdf",
    "bytes": 5339,
    "sha256": "7bce18fd24c89acd82bf59e8e24811b8b1e251e1ffcd1f0fb342da748ff705cc"
@@ -1595,6 +1605,11 @@
    "path": "evidence/extracts/city-of-san-leandro-p001-1d736519.pdf",
    "bytes": 85664,
    "sha256": "6f064b6d74374b2cab40118d32db3c21ba68f1f2796cf5400d00f9b633b0f84f"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-mateo-p006-254b2e6b.pdf",
+   "bytes": 42410,
+   "sha256": "cb30a7c2603d1aaa5fa38559d3588c0cb7dc86df0ad840bc2245393f0e6502ed"
   },
   {
    "path": "evidence/extracts/city-of-santa-ana-p004-03ba5081.pdf",
@@ -2220,6 +2235,16 @@
    "path": "evidence/extracts/city-of-willows-p010-81a491be.pdf",
    "bytes": 38528,
    "sha256": "0d60b5fece8429cf3dbb8f1d8e7b870af7d133a1fb4ec0d511fb57f5444f774b"
+  },
+  {
+   "path": "evidence/extracts/city-of-yorba-linda-p002-b7b89cae.pdf",
+   "bytes": 93152,
+   "sha256": "d19ee4455ccdb8636b6aaa3d1a38d6564fe4b993bd57369460c88bafcdc2dd46"
+  },
+  {
+   "path": "evidence/extracts/city-of-yorba-linda-p002-e54ae952.pdf",
+   "bytes": 85591,
+   "sha256": "e7f778ce794791887f9856c9e24a942c628f5a4dfb1f5a824f3d68e212f50c71"
   },
   {
    "path": "evidence/extracts/consolidated-fire-protection-district-of-p064-a831158b.pdf",
@@ -3163,8 +3188,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 646912,
-   "sha256": "8fe44bbad8701f0c869cef0329c814fa406e75a285622c3a1e86f991d9a8b6d9"
+   "bytes": 651881,
+   "sha256": "60eb10d5dfcc308d5a5cf4e1d19ede928ac23e901b0dfa0138020e704525749d"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -3315,6 +3340,11 @@
    "path": "evidence/outlined/city-of-arcadia-p003-f2d1d143.pdf",
    "bytes": 50174,
    "sha256": "2e28c3ddc400cc077353f6b5e8fe659362f4eb244d4b37fdf27782f19f605f4a"
+  },
+  {
+   "path": "evidence/outlined/city-of-artesia-p007-2f2be51e.pdf",
+   "bytes": 122170,
+   "sha256": "8ae050cdf92e60b99772fee0794718483f7cfeeeb5708d80fa5bf07e0d22dc04"
   },
   {
    "path": "evidence/outlined/city-of-avalon-p005-46e0698d.pdf",
@@ -4447,6 +4477,11 @@
    "sha256": "d4745d0fc9f9e10f883523d69d5429579d82d350e6fa22a9c6a1e7a6421e697e"
   },
   {
+   "path": "evidence/outlined/city-of-menlo-park-p013-b204a56e.pdf",
+   "bytes": 70023,
+   "sha256": "4e7533ff2dfa6c628c5cbe6a1255e895b129dbbbd0deb3cd74177b02cb73e585"
+  },
+  {
    "path": "evidence/outlined/city-of-murrieta-p002-24c94829.pdf",
    "bytes": 5397,
    "sha256": "87a89aa72dcdb3d4976cbdda0c227e32b1f738453c96f92574493596ca5cd8c8"
@@ -4665,6 +4700,11 @@
    "path": "evidence/outlined/city-of-san-leandro-p001-1d736519.pdf",
    "bytes": 85734,
    "sha256": "6cf6a5c3c18803154f9e4b799e8b2ed382a531f6118cb138ef091dfa72383362"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-mateo-p006-254b2e6b.pdf",
+   "bytes": 42467,
+   "sha256": "891f8b431b3aac6da99c84f3f50eaa181609d67d39a5619b6df1086c10477175"
   },
   {
    "path": "evidence/outlined/city-of-santa-ana-p004-03ba5081.pdf",
@@ -5290,6 +5330,16 @@
    "path": "evidence/outlined/city-of-willows-p010-81a491be.pdf",
    "bytes": 38582,
    "sha256": "70afb4f1ef49d1a7ff2df13e6c4f08dd12d4e969f66f2d88e4b54f9cf9f84844"
+  },
+  {
+   "path": "evidence/outlined/city-of-yorba-linda-p002-b7b89cae.pdf",
+   "bytes": 93219,
+   "sha256": "07c27bfe9a8f4a20bd9cffc4806b0111ddf5293151d1fa7ad390e2e71781c674"
+  },
+  {
+   "path": "evidence/outlined/city-of-yorba-linda-p002-e54ae952.pdf",
+   "bytes": 85649,
+   "sha256": "c9477fab8d3160ebd0cdb37b0a3dfda21f882d301ccf336cc696b4dd3788461e"
   },
   {
    "path": "evidence/outlined/consolidated-fire-protection-district-of-p064-a831158b.pdf",
@@ -6267,6 +6317,11 @@
    "sha256": "b55e542770570a19f00abe9181985d4029536d43c39bd121508f61dcd777024c"
   },
   {
+   "path": "sources/city-of-artesia-2024-25-a5731cc0.pdf",
+   "bytes": 529958,
+   "sha256": "a5731cc0102ee2766147974ebfe02631ff7e6fd6045f9037686374485990f692"
+  },
+  {
    "path": "sources/city-of-avalon-2020-21.pdf",
    "bytes": 181009,
    "sha256": "ad2e9c890bd5777e68c0333e7b6ae1b45da7453a231775425ebbaf0dbb6f52b8"
@@ -6482,6 +6537,11 @@
    "sha256": "75415a9d347347aa5c511c9989eec55cfb023b6868371c6bef4440d58bf6c3cf"
   },
   {
+   "path": "sources/city-of-menlo-park-2023-24-5258a3ad.pdf",
+   "bytes": 1404592,
+   "sha256": "5258a3ad149d7f84cffd1304a057934187e6fe75b6b1fcafdb61d6d6fd95f60a"
+  },
+  {
    "path": "sources/city-of-murrieta-2014-15.pdf",
    "bytes": 141641,
    "sha256": "0c5d86eb2914368c49b24aef1eea7fb8cba3a7a53c12ad2f5f9697dca47406b5"
@@ -6555,6 +6615,11 @@
    "path": "sources/city-of-san-leandro-2024-25.pdf",
    "bytes": 401601,
    "sha256": "ae24b389e0a8e564bad849dd034257c05308d187f77614e92251b763f141ac49"
+  },
+  {
+   "path": "sources/city-of-san-mateo-2022-23-59d04fa1.pdf",
+   "bytes": 180140,
+   "sha256": "59d04fa1bf309c1ef5c6f314ebdda7dd2f7970adc5619220fb168083f7eca133"
   },
   {
    "path": "sources/city-of-santa-ana-2022-23.pdf",
@@ -6660,6 +6725,16 @@
    "path": "sources/city-of-willows-2020-21.pdf",
    "bytes": 417037,
    "sha256": "e236073aeddc0758d657fd16c85c0e2c7f89f3904025e98ba320ac6ec4ff197e"
+  },
+  {
+   "path": "sources/city-of-yorba-linda-2023-24-d6bef53b.pdf",
+   "bytes": 207467,
+   "sha256": "d6bef53ba0f4d2e52046119c490416c29f8ea66697420085d2ff32ae60ed4d68"
+  },
+  {
+   "path": "sources/city-of-yorba-linda-2024-25-d01848ef.pdf",
+   "bytes": 633415,
+   "sha256": "d01848ef57e2ac67136964bd82d6f594e90e138e6d9eaf2556bf0b2aec00ec28"
   },
   {
    "path": "sources/combined-filing-3476ee5f6f57.pdf",
@@ -6928,13 +7003,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 70336,
-   "sha256": "ce4f8ad7720a8e09b47eb9b0500a39013db3bb74fea09971b514cc4347f50563"
+   "bytes": 72337,
+   "sha256": "d2a6350ee704e2c13d3033f514f032f186bf99cf8650e21e84052d63268164b1"
   },
   {
    "path": "sources/index.json",
-   "bytes": 120238,
-   "sha256": "5bac2ffc7f63d2f035c612daabcce872c0fa0293f2afc104cbc521fc934c9bcd"
+   "bytes": 123832,
+   "sha256": "9ce411b27a3a2bf554c1dfa58d88a7b52accf6c48efe9db5a68680b03cadcc5b"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -6994,7 +7069,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3050,
-   "sha256": "a3ea5f98bc7cd5998cdf4854983ac5cf8d1456a485454f61ce08eb321e4ea4a9"
+   "sha256": "42a38481de854f8f0d3e1a1db6c5744d1c0c877b394769c340d74747eb8073df"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -7009,7 +7084,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2584,
-   "sha256": "51752389f5d5fec201ee5b9e91924049879a77827789ebfe985ceb99ad412e2b"
+   "sha256": "e99447e8c1ed0e088494c7ca22309c58d94f66e266f190e8e9e2a89af8e0b1f1"
   },
   {
    "path": "validation/validate.py",

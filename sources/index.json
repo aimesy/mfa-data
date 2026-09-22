@@ -112,6 +112,20 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "city-of-artesia-2024-25-a5731cc0",
+  "receiving_entity": "City of Artesia",
+  "publication_title": "FY 2025 DIF Annual Report",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.cityofartesia.us/DocumentCenter/View/8643/FY2025---DIF-Annual-Report?bidId=",
+  "retrieved_utc": "2026-09-22T11:25:49.877548+00:00",
+  "physical_page_count": 20,
+  "source_sha256": "a5731cc0102ee2766147974ebfe02631ff7e6fd6045f9037686374485990f692",
+  "source_bytes": 529958,
+  "source_pdf": "sources/city-of-artesia-2024-25-a5731cc0.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "city-of-avalon-2020-21",
   "receiving_entity": "City of Avalon",
   "publication_title": "City of Avalon impact fee report, fiscal year 2020-21",
@@ -742,6 +756,20 @@
   "published_data_rows_from_this_source": 10
  },
  {
+  "source_id": "city-of-menlo-park-2023-24-5258a3ad",
+  "receiving_entity": "City of Menlo Park",
+  "publication_title": "City of Menlo Park development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/city-council/2025-meetings/20250114/g3-20250114-cc-impact-fees-ab-1600.pdf",
+  "retrieved_utc": "2026-09-22T08:28:33.283279+00:00",
+  "physical_page_count": 14,
+  "source_sha256": "5258a3ad149d7f84cffd1304a057934187e6fe75b6b1fcafdb61d6d6fd95f60a",
+  "source_bytes": 1404592,
+  "source_pdf": "sources/city-of-menlo-park-2023-24-5258a3ad.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "city-of-murrieta-2014-15",
   "receiving_entity": "City of Murrieta",
   "publication_title": "City of Murrieta impact fee report, fiscal year 2014-15",
@@ -950,6 +978,20 @@
   "source_bytes": 401601,
   "source_pdf": "sources/city-of-san-leandro-2024-25.pdf",
   "published_data_rows_from_this_source": 8
+ },
+ {
+  "source_id": "city-of-san-mateo-2022-23-59d04fa1",
+  "receiving_entity": "City of San Mateo",
+  "publication_title": "Fiscal Year 2022-23 (Mitigation Fee Act / AB 1600 Report)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.cityofsanmateo.org/DocumentCenter/View/93757/2022-23-AB-1600?bidId=",
+  "retrieved_utc": "2026-09-22T06:59:37.556547+00:00",
+  "physical_page_count": 14,
+  "source_sha256": "59d04fa1bf309c1ef5c6f314ebdda7dd2f7970adc5619220fb168083f7eca133",
+  "source_bytes": 180140,
+  "source_pdf": "sources/city-of-san-mateo-2022-23-59d04fa1.pdf",
+  "published_data_rows_from_this_source": 1
  },
  {
   "source_id": "city-of-santa-ana-2022-23",
@@ -1244,6 +1286,34 @@
   "source_bytes": 417037,
   "source_pdf": "sources/city-of-willows-2020-21.pdf",
   "published_data_rows_from_this_source": 12
+ },
+ {
+  "source_id": "city-of-yorba-linda-2023-24-d6bef53b",
+  "receiving_entity": "City of Yorba Linda",
+  "publication_title": "Traffic Development Impact Fees Annual Report For FY 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.yorbalindaca.gov/ArchiveCenter/ViewFile/Item/414",
+  "retrieved_utc": "2026-09-22T07:34:56.482702+00:00",
+  "physical_page_count": 4,
+  "source_sha256": "d6bef53ba0f4d2e52046119c490416c29f8ea66697420085d2ff32ae60ed4d68",
+  "source_bytes": 207467,
+  "source_pdf": "sources/city-of-yorba-linda-2023-24-d6bef53b.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-yorba-linda-2024-25-d01848ef",
+  "receiving_entity": "City of Yorba Linda",
+  "publication_title": "Traffic Impact Fees 2024-25 Annual and Five-Year Report (staff report)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.yorbalindaca.gov/DocumentCenter/View/9189/Traffic-Impact-Fees-2024-25-and-Five-Year-Report-SR-PDF",
+  "retrieved_utc": "2026-09-22T07:34:56.131556+00:00",
+  "physical_page_count": 3,
+  "source_sha256": "d01848ef57e2ac67136964bd82d6f594e90e138e6d9eaf2556bf0b2aec00ec28",
+  "source_bytes": 633415,
+  "source_pdf": "sources/city-of-yorba-linda-2024-25-d01848ef.pdf",
+  "published_data_rows_from_this_source": 1
  },
  {
   "source_id": "consolidated-fire-protection-district-of-los-angeles-county-2022-23",

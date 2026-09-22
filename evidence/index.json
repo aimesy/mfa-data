@@ -3072,6 +3072,22 @@
   "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
  },
  {
+  "evidence_id": "2f2be51eaaddc483",
+  "receiving_entity": "City of Artesia",
+  "source_id": "city-of-artesia-2024-25-a5731cc0",
+  "physical_pdf_page": 7,
+  "printed_page": "",
+  "internal_identifier": "Traffic Facilities Fee / line Fees Collected",
+  "quoted_label": "Fees Collected",
+  "quoted_value_text": "141,816.46",
+  "page_extract_pdf": "evidence/extracts/city-of-artesia-p007-2f2be51e.pdf",
+  "page_extract_sha256": "927c0e08c5ab8f2bc22e80a730270a25b1d0486602ce27f8cb0505de55c01594",
+  "outlined_figure_pdf": "evidence/outlined/city-of-artesia-p007-2f2be51e.pdf",
+  "outlined_figure_sha256": "8ae050cdf92e60b99772fee0794718483f7cfeeeb5708d80fa5bf07e0d22dc04",
+  "outline_rect_pdf_points": "[393.3999938964844, 159.1129608154297, 450.0550231933594, 177.8844757080078]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
   "evidence_id": "37c0a3657b84cdfb",
   "receiving_entity": "City of Beverly Hills",
   "source_id": "city-of-beverly-hills-2022-23-78a7735c",
@@ -5440,6 +5456,22 @@
   "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
  },
  {
+  "evidence_id": "b204a56efd05f44e",
+  "receiving_entity": "City of Menlo Park",
+  "source_id": "city-of-menlo-park-2023-24-5258a3ad",
+  "physical_pdf_page": 13,
+  "printed_page": "",
+  "internal_identifier": "Heritage Tree In-Lieu Fee / line Fees",
+  "quoted_label": "Fees",
+  "quoted_value_text": "264,413",
+  "page_extract_pdf": "evidence/extracts/city-of-menlo-park-p013-b204a56e.pdf",
+  "page_extract_sha256": "085f88b8ed9bf1028d985f1410b8e732f14ca452b129520adfe2ade7215f3493",
+  "outlined_figure_pdf": "evidence/outlined/city-of-menlo-park-p013-b204a56e.pdf",
+  "outlined_figure_sha256": "4e7533ff2dfa6c628c5cbe6a1255e895b129dbbbd0deb3cd74177b02cb73e585",
+  "outline_rect_pdf_points": "[428.822998046875, 204.51583862304688, 472.57684326171875, 223.55322265625]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
   "evidence_id": "6e6659917c2230b0",
   "receiving_entity": "City of Nevada City",
   "source_id": "nevada-county-rtmf-2022-23",
@@ -5549,6 +5581,22 @@
   "outlined_figure_pdf": "evidence/outlined/city-of-pasadena-p001-9e21a88a.pdf",
   "outlined_figure_sha256": "7f2c1c2637c167c3ee2179a3141b8278ec10e0316ff9fffaf3adbb5ba2a3299f",
   "outline_rect_pdf_points": "[187.86000061035156, 536.6432000350952, 250.03912353515625, 552.55359998703]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
+  "evidence_id": "254b2e6b56244ca9",
+  "receiving_entity": "City of San Mateo",
+  "source_id": "city-of-san-mateo-2022-23-59d04fa1",
+  "physical_pdf_page": 6,
+  "printed_page": "",
+  "internal_identifier": "Below Market Rate Housing Fee / line Developer Fees",
+  "quoted_label": "Developer Fees",
+  "quoted_value_text": "461",
+  "page_extract_pdf": "evidence/extracts/city-of-san-mateo-p006-254b2e6b.pdf",
+  "page_extract_sha256": "cb30a7c2603d1aaa5fa38559d3588c0cb7dc86df0ad840bc2245393f0e6502ed",
+  "outlined_figure_pdf": "evidence/outlined/city-of-san-mateo-p006-254b2e6b.pdf",
+  "outlined_figure_sha256": "891f8b431b3aac6da99c84f3f50eaa181609d67d39a5619b6df1086c10477175",
+  "outline_rect_pdf_points": "[347.6000061035156, 564.4810180664062, 428.6109924316406, 581.9119873046875]",
   "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
  },
  {
@@ -7165,6 +7213,38 @@
   "outlined_figure_pdf": "evidence/outlined/city-of-whittier-p012-2e87ee98.pdf",
   "outlined_figure_sha256": "abe16ba00a3063020fc12e08d4891149530127ce65a0d52c70d169cde7bfcb3c",
   "outline_rect_pdf_points": "[266.0036926269531, 303.32537841796875, 280.8079833984375, 331.40179443359375]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
+  "evidence_id": "e54ae952102a0eed",
+  "receiving_entity": "City of Yorba Linda",
+  "source_id": "city-of-yorba-linda-2023-24-d6bef53b",
+  "physical_pdf_page": 2,
+  "printed_page": "",
+  "internal_identifier": "Traffic Impact Fees / line Fees Received",
+  "quoted_label": "Fees Received",
+  "quoted_value_text": "13,917.20",
+  "page_extract_pdf": "evidence/extracts/city-of-yorba-linda-p002-e54ae952.pdf",
+  "page_extract_sha256": "e7f778ce794791887f9856c9e24a942c628f5a4dfb1f5a824f3d68e212f50c71",
+  "outlined_figure_pdf": "evidence/outlined/city-of-yorba-linda-p002-e54ae952.pdf",
+  "outlined_figure_sha256": "c9477fab8d3160ebd0cdb37b0a3dfda21f882d301ccf336cc696b4dd3788461e",
+  "outline_rect_pdf_points": "[449.64642333984375, 497.5600280761719, 510.3583984375, 514.9520263671875]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
+  "evidence_id": "b7b89cae7d553c32",
+  "receiving_entity": "City of Yorba Linda",
+  "source_id": "city-of-yorba-linda-2024-25-d01848ef",
+  "physical_pdf_page": 2,
+  "printed_page": "",
+  "internal_identifier": "Traffic Development Impact Fees / line Fees Received",
+  "quoted_label": "Fees Received",
+  "quoted_value_text": "5,297.94",
+  "page_extract_pdf": "evidence/extracts/city-of-yorba-linda-p002-b7b89cae.pdf",
+  "page_extract_sha256": "d19ee4455ccdb8636b6aaa3d1a38d6564fe4b993bd57369460c88bafcdc2dd46",
+  "outlined_figure_pdf": "evidence/outlined/city-of-yorba-linda-p002-b7b89cae.pdf",
+  "outlined_figure_sha256": "07c27bfe9a8f4a20bd9cffc4806b0111ddf5293151d1fa7ad390e2e71781c674",
+  "outline_rect_pdf_points": "[461.91998291015625, 429.7205505371094, 512.6328125, 447.0871887207031]",
   "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
  },
  {
