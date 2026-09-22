@@ -966,6 +966,34 @@
   "published_data_rows_from_this_source": 3
  },
  {
+  "source_id": "county-of-san-joaquin-water-2023",
+  "receiving_entity": "County of San Joaquin",
+  "publication_title": "San Joaquin County Water Supply Facilities Impact Mitigation Fee Program Annual Report for fiscal year ending June 2023",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2013-14",
+  "official_source_url": "https://www.sjgov.org/docs/default-source/public-works-documents/news-and-updates/water-impact-mitigation-fee-updates/draft-2022-23-wimf-annual-report.pdf?sfvrsn=85698330_3",
+  "retrieved_utc": "2026-09-22T06:26:07.141952+00:00",
+  "physical_page_count": 8,
+  "source_sha256": "1ba25736ab2fa31c76ca2d56ffcab7ccc9a4273f4d4d5af63ba36172cb59998a",
+  "source_bytes": 2875329,
+  "source_pdf": "sources/county-of-san-joaquin-water-2023.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
+  "source_id": "county-of-san-joaquin-water-2025",
+  "receiving_entity": "County of San Joaquin",
+  "publication_title": "San Joaquin County Water Supply Facilities Impact Mitigation Fee Program Annual Report for fiscal year ending June 2025",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2015-16",
+  "official_source_url": "https://www.sjgov.org/docs/default-source/public-works-documents/news-and-updates/2024-25-water-impact-mitigation-fee-annual-report/2024-25-wimf-annual-report---final.pdf?sfvrsn=bf676db3_3",
+  "retrieved_utc": "2026-09-22T06:26:04.732059+00:00",
+  "physical_page_count": 8,
+  "source_sha256": "a55655e945b6c89418d306db5e6f2654b937dc3cc0bc7e5eae3051bcc363e056",
+  "source_bytes": 3498910,
+  "source_pdf": "sources/county-of-san-joaquin-water-2025.pdf",
+  "published_data_rows_from_this_source": 10
+ },
+ {
   "source_id": "county-of-san-luis-obispo-2024-25",
   "receiving_entity": "County of San Luis Obispo",
   "publication_title": "County of San Luis Obispo Public Facility Fees Annual Report for FY 2024-25",

@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T08:20:51.039863+00:00",
- "data_rows": 491,
- "distinct_printed_figures": 323,
+ "built_utc": "2026-09-22T08:29:50.231873+00:00",
+ "data_rows": 503,
+ "distinct_printed_figures": 335,
  "receiving_entities": 61,
- "agency_years": 114,
- "fee_programs": 237,
- "source_reports": 93,
- "evidence_pairs": 323,
+ "agency_years": 123,
+ "fee_programs": 238,
+ "source_reports": 95,
+ "evidence_pairs": 335,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 764,
- "total_bytes": 121400206,
+ "file_count": 790,
+ "total_bytes": 129003585,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7457,
-   "sha256": "fd20f6a686e1d3d09db072a11774f260e77edb2116c06f0f13acafcc422a7a01"
+   "bytes": 7449,
+   "sha256": "c3c22a9de2a6844a9ee2103d1054d32549ac02278442bafcc3dac427988753f0"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "fe87f846f329c2084df26ec9542a9f61802f67d85416025dea4b36de085540e6"
+   "sha256": "425e2df97ca3bfe0d60d10c7aad9ebf9c6db4225688806b6d5aeb6f67cb10198"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 192665,
-   "sha256": "87a06a26206a674683d5c38ed37a569dab17ca23ee6ac8187e071794b5696a76"
+   "bytes": 197757,
+   "sha256": "0b8e84f81cdbd3c78259ed271c7b0df923621dc2c08b2bcb4bebb72bc24f5467"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1038000,
-   "sha256": "4c70f34f95a1f311b2aeca491772f77bababa9313100720a45a6701e6dce2012"
+   "bytes": 1072897,
+   "sha256": "2c98c886c602754786118402fb08c1f72e4454a33380cba539ee932ef22ec2ea"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1545760,
-   "sha256": "a6650279a60fc20a2dc5eb0bd864f4b083295aa50944f8e211191187512ae87c"
+   "bytes": 1593077,
+   "sha256": "f6f11d8c90f26eafd2683df61d5bfb99ac9640f462ffaa1e509925ea0a3241c2"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1222,6 +1222,66 @@
    "sha256": "677e57a4460f0fb68794c8727a16cbae267094c66cf0d3111dcbbfe61be3f19e"
   },
   {
+   "path": "evidence/extracts/county-of-san-joaquin-p007-023d04e7.pdf",
+   "bytes": 45408,
+   "sha256": "77853a510dbcdaeee876b936538a91ddaecc565e17e35d36b52bf690560793f9"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-joaquin-p007-1258bd53.pdf",
+   "bytes": 47166,
+   "sha256": "38ef4c3019e3946412eeea36607d97b633bba8a055de3b916223825acf3a908b"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-joaquin-p007-245b839b.pdf",
+   "bytes": 47166,
+   "sha256": "1cce01f9923c82e66fabadfc6ef47c356cbddcffe208667ca664da991e928045"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-joaquin-p007-62cba48d.pdf",
+   "bytes": 45408,
+   "sha256": "07e9ef05a18f2ff01c46c9efd0d1db55d93cafbf1fe38f79e0d120ffff2b0a08"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-joaquin-p007-6bd98407.pdf",
+   "bytes": 47166,
+   "sha256": "ac68dd14af391c4d2a962cba8af58212e579d183a85387724be4674d6f2226ab"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-joaquin-p007-884ec89a.pdf",
+   "bytes": 47166,
+   "sha256": "53ade708e9245270f4b84f72c1b5c557505583d1231fe5f62b7aaef43d6f18a3"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-joaquin-p007-88ea5ac6.pdf",
+   "bytes": 47166,
+   "sha256": "07355f7f624081536b1603014ba860405f3541a91598a410bb2990860ced2e2c"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-joaquin-p007-a131b9f2.pdf",
+   "bytes": 47166,
+   "sha256": "f1bbe5420b1c67e9b4e26a76f853d050c5edb547c0db2a14ed4c2ddf086972d5"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-joaquin-p007-a156ac2a.pdf",
+   "bytes": 47166,
+   "sha256": "03ad373c5b3864ce14da722cdfbaa7d2fc4c88719b5c479d87efa54cdcfd393e"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-joaquin-p007-a21d81ce.pdf",
+   "bytes": 47166,
+   "sha256": "cda5a9f5e4e1acf920ae1f2cf0ad97e0b3a9d799e0271110dbf4767ffdadf672"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-joaquin-p007-c851946d.pdf",
+   "bytes": 47166,
+   "sha256": "ab4cf2f407baa4db5a15a9061a5044e8081ea6bdf7833a509221b32309419a74"
+  },
+  {
+   "path": "evidence/extracts/county-of-san-joaquin-p007-e7d13883.pdf",
+   "bytes": 47166,
+   "sha256": "94054ccd51bd5a226f7a5bc758fe2d78610d44c180a8ee8c45cf721584ee6896"
+  },
+  {
    "path": "evidence/extracts/county-of-san-joaquin-p013-08a04f03.pdf",
    "bytes": 62335,
    "sha256": "9bab0f5ddeaa0633028da4474317cc708bba89ee32e50fab23cc2b723236e13e"
@@ -1713,8 +1773,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 346145,
-   "sha256": "3d4195e2b9784ae923766494f3eba67ecdafbcf076aafd97a7344f1c18af3a40"
+   "bytes": 359450,
+   "sha256": "fb7032a4701fa82fe350a336df823efdc7683d595fea2496c59fadb4a9ed4bab"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -2842,6 +2902,66 @@
    "sha256": "8496f00f9da2bc69a9d1d3ce6c268bfe1a34086551d8bc17ea9b0178a3e6bf81"
   },
   {
+   "path": "evidence/outlined/county-of-san-joaquin-p007-023d04e7.pdf",
+   "bytes": 45469,
+   "sha256": "2c911396862aa03f75f418931cef3358ff9dad668862487d2c25c3afb220bc97"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-joaquin-p007-1258bd53.pdf",
+   "bytes": 47228,
+   "sha256": "ff8d5e4c96bc46b0dd79a2d24ce63ac5c1659ad30100d6dc0a6fdb8b97561f87"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-joaquin-p007-245b839b.pdf",
+   "bytes": 47227,
+   "sha256": "4e90d8853d69fb4363ceab0610e833dd39ebab45de423b14dac359ef5d5ce81b"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-joaquin-p007-62cba48d.pdf",
+   "bytes": 45468,
+   "sha256": "190bbb201a69f672ed73df2e55f5d11a9bca091b8dcc899c31533fb47997e9e3"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-joaquin-p007-6bd98407.pdf",
+   "bytes": 47230,
+   "sha256": "b51ce0784de96532fd7d879d5011080b41f2ef425a3fa40f495cbfba7de4a791"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-joaquin-p007-884ec89a.pdf",
+   "bytes": 47228,
+   "sha256": "ccba1be75101b285d48bbf734b666a28ab4910754c29cfbf8625c297417cb676"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-joaquin-p007-88ea5ac6.pdf",
+   "bytes": 47228,
+   "sha256": "91f1c162156a82601972f79ae279accb9c0063c767610b4fd412872e810f6bce"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-joaquin-p007-a131b9f2.pdf",
+   "bytes": 47228,
+   "sha256": "f9cc33372ec5665e3b02121c8649489f763d0e5060d27fb633df10da47ad1a17"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-joaquin-p007-a156ac2a.pdf",
+   "bytes": 47229,
+   "sha256": "058d9302410433d28288cc22a13f9ac146738b2082dc0bdbfe4318247dab764b"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-joaquin-p007-a21d81ce.pdf",
+   "bytes": 47229,
+   "sha256": "7df1265b25adcb3134537179aa83754662837c4d071880e60156a7f5fb335196"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-joaquin-p007-c851946d.pdf",
+   "bytes": 47228,
+   "sha256": "d6df896f88ef072c85078ca9c2b2d90761afeccf6a3f1fcf64cf41236763f015"
+  },
+  {
+   "path": "evidence/outlined/county-of-san-joaquin-p007-e7d13883.pdf",
+   "bytes": 47229,
+   "sha256": "e899c787c420d9b5a48a7423c67ddb0e8703388ef2107e4bc7e619fe277b0780"
+  },
+  {
    "path": "evidence/outlined/county-of-san-joaquin-p013-08a04f03.pdf",
    "bytes": 62396,
    "sha256": "fdee80e2160b1cb778ce7ca68ccea3f739b4316f56098123592706c70573b93b"
@@ -3707,6 +3827,16 @@
    "sha256": "6b8f0698b3a67ce994797439d9d60aca10edea8b5e2f2c87bf7e352a32a43343"
   },
   {
+   "path": "sources/county-of-san-joaquin-water-2023.pdf",
+   "bytes": 2875329,
+   "sha256": "1ba25736ab2fa31c76ca2d56ffcab7ccc9a4273f4d4d5af63ba36172cb59998a"
+  },
+  {
+   "path": "sources/county-of-san-joaquin-water-2025.pdf",
+   "bytes": 3498910,
+   "sha256": "a55655e945b6c89418d306db5e6f2654b937dc3cc0bc7e5eae3051bcc363e056"
+  },
+  {
    "path": "sources/county-of-san-luis-obispo-2024-25.pdf",
    "bytes": 266492,
    "sha256": "cfb2afbf91cf533e237e0cc1605269833d831cd83a3a8f1d49d6cebbb9a77e60"
@@ -3773,13 +3903,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 46755,
-   "sha256": "bf2d90c1b96a4eeaa9ffc2f011a60ec61ad393ed7d223b05eedfba91eb31c059"
+   "bytes": 47856,
+   "sha256": "d007a98f741f900e32ce11e42fad2f6d2f9fe97c9b10a18b517c77af2126aa3e"
   },
   {
    "path": "sources/index.json",
-   "bytes": 79521,
-   "sha256": "1a79799bc7507f759f506135309ca1a33276270556dfd09de4584d61202e91a3"
+   "bytes": 81260,
+   "sha256": "5466e11011d890cf7f33535946ae72462fad7d80aafd4d4cd069686525af5f13"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -3824,7 +3954,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3048,
-   "sha256": "a315944523e26eceb5601fc5235dafc281a05e25d74234581167db9b01339d7c"
+   "sha256": "a9a28b4f4c8f60e357e3eef08124ed01652e1676c051110ec89249b53d075ea5"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -3839,7 +3969,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2582,
-   "sha256": "371ed6751d530626c58c799df1dd961ab13aee6bdbc2413a749b37b5d64e5d31"
+   "sha256": "3ff5ac7800c59e254967bd618905c1b605533cbea8ba2fb609660e3d2286db00"
   },
   {
    "path": "validation/validate.py",
