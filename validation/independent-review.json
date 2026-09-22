@@ -1,21 +1,21 @@
 {
  "review": "independent review of mfa-data release 03",
- "performed_utc": "2026-09-22T19:35:38.488470+00:00",
+ "performed_utc": "2026-09-22T20:09:20.805602+00:00",
  "independence": "This pass re-derived every published value from the published outlined PDFs and the published source PDFs alone. It did not read the primary reviewer's recorded readings.",
- "published_rows": 911,
- "distinct_printed_figures": 743,
- "receiving_entities": 97,
- "source_reports": 172,
+ "published_rows": 982,
+ "distinct_printed_figures": 814,
+ "receiving_entities": 104,
+ "source_reports": 189,
  "checks": [
   {
    "check": "independent_value_rederivation",
    "passed": true,
-   "detail": "886 rows re-derived from their own outlined page; 25 rows sit on scanned or handwritten figures with no text layer, each confirmed to enclose ink and to carry the source's own printed arithmetic; 0 disagreements []"
+   "detail": "957 rows re-derived from their own outlined page; 25 rows sit on scanned or handwritten figures with no text layer, each confirmed to enclose ink and to carry the source's own printed arithmetic; 0 disagreements []"
   },
   {
    "check": "outlined_and_extract_pages_are_the_cited_source_page",
    "passed": true,
-   "detail": "911 rows; 0 pages did not match the cited page of the cited source []"
+   "detail": "982 rows; 0 pages did not match the cited page of the cited source []"
   },
   {
    "check": "published_pdf_derivatives_have_no_duplicate_destinations_javascript_or_embedded_files",
@@ -25,7 +25,7 @@
   {
    "check": "observation_accounting",
    "passed": true,
-   "detail": "cohort 3373, decided 3373, published 357, refused 3016, orphan decisions 0; public rows 911 = 357 cohort + 554 statewide lane"
+   "detail": "cohort 3373, decided 3373, published 357, refused 3016, orphan decisions 0; public rows 982 = 357 cohort + 625 statewide lane"
   },
   {
    "check": "every_refusal_carries_its_own_source_specific_reason",
@@ -40,7 +40,7 @@
   {
    "check": "privacy_raw_bytes_and_pdf_page_text",
    "passed": true,
-   "detail": "1682 published files scanned byte-wise, and every PDF page also scanned as rendered text, for workstation paths, private research directories, account identifiers and key material; 0 hits []"
+   "detail": "1841 published files scanned byte-wise, and every PDF page also scanned as rendered text, for workstation paths, private research directories, account identifiers and key material; 0 hits []"
   },
   {
    "check": "held_tables_empty_and_refusal_summary_carries_no_amounts",
@@ -50,12 +50,12 @@
   {
    "check": "provenance_links_complete_on_every_published_row",
    "passed": true,
-   "detail": "911 rows x 14 required provenance fields; 0 blank []"
+   "detail": "982 rows x 14 required provenance fields; 0 blank []"
   },
   {
    "check": "source_semantics",
    "passed": true,
-   "detail": "911 rows checked for a printed measure label; 46 of them claim a land use scope, and each of those was confirmed against the wording of its own published source rather than against the reviewer's phrasing; 0 problems []"
+   "detail": "982 rows checked for a printed measure label; 46 of them claim a land use scope, and each of those was confirmed against the wording of its own published source rather than against the reviewer's phrasing; 0 problems []"
   },
   {
    "check": "parent_inputs_unchanged",

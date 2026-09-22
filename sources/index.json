@@ -196,6 +196,48 @@
   "published_data_rows_from_this_source": 3
  },
  {
+  "source_id": "city-of-brentwood-2022-23",
+  "receiving_entity": "City of Brentwood",
+  "publication_title": "City of Brentwood annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.brentwoodca.gov/home/showpublisheddocument/8364/638366943687000000",
+  "retrieved_utc": "2026-09-22T07:36:18.811254+00:00",
+  "physical_page_count": 26,
+  "source_sha256": "f0ed25c11dfdf880eef32ff3b7edbd49e531498d723bbe1d73355ea5635349f3",
+  "source_bytes": 5369899,
+  "source_pdf": "sources/city-of-brentwood-2022-23.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-brentwood-2023-24",
+  "receiving_entity": "City of Brentwood",
+  "publication_title": "City of Brentwood annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.brentwoodca.gov/home/showpublisheddocument/10113/638695322726000000",
+  "retrieved_utc": "2026-09-22T07:36:17.894159+00:00",
+  "physical_page_count": 26,
+  "source_sha256": "b3f06ab6140b0403be69d7f26eff3abac3d2a19fc105caae8427f70401fc4656",
+  "source_bytes": 2993076,
+  "source_pdf": "sources/city-of-brentwood-2023-24.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-brentwood-2024-25",
+  "receiving_entity": "City of Brentwood",
+  "publication_title": "City of Brentwood annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.brentwoodca.gov/home/showpublisheddocument/11684/639009740299830000",
+  "retrieved_utc": "2026-09-22T07:36:17.262473+00:00",
+  "physical_page_count": 27,
+  "source_sha256": "fef7f661a5af007298fddb7f5b452b250b7c1bb9d8fcfc0f1a86ba6dfe304d10",
+  "source_bytes": 7135069,
+  "source_pdf": "sources/city-of-brentwood-2024-25.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
   "source_id": "city-of-calimesa-2019-20",
   "receiving_entity": "City of Calimesa",
   "publication_title": "City of Calimesa impact fee report, fiscal year 2019-20",
@@ -322,6 +364,34 @@
   "published_data_rows_from_this_source": 8
  },
  {
+  "source_id": "city-of-concord-2023-24-b4f1417f",
+  "receiving_entity": "City of Concord",
+  "publication_title": "2024 AB 1600 - Full Report",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.cityofconcord.org/ArchiveCenter/ViewFile/Item/1905",
+  "retrieved_utc": "2026-09-22T06:59:19.358206+00:00",
+  "physical_page_count": 60,
+  "source_sha256": "b4f1417ffa54cefbf09dd1706fabdd8c339e2cc1d434853282b36c4385a0d5a8",
+  "source_bytes": 507244,
+  "source_pdf": "sources/city-of-concord-2023-24-b4f1417f.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-concord-2024-25-61feb1fe",
+  "receiving_entity": "City of Concord",
+  "publication_title": "2025 AB 1600 - Full Report",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.cityofconcord.org/ArchiveCenter/ViewFile/Item/1948",
+  "retrieved_utc": "2026-09-22T06:59:19.103592+00:00",
+  "physical_page_count": 52,
+  "source_sha256": "61feb1fe11cc6b2a1d3fe12c1ea01aea5ef069be93133ad44ee66843ea789a73",
+  "source_bytes": 714835,
+  "source_pdf": "sources/city-of-concord-2024-25-61feb1fe.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "corona-2024-25",
   "receiving_entity": "City of Corona",
   "publication_title": "City of Corona, AB1600 Development Impact Fees Annual Report - Capital Improvement Projects Funded by Developer Fees, Fiscal Year Ended June 30, 2025",
@@ -348,6 +418,48 @@
   "source_bytes": 711058,
   "source_pdf": "sources/city-of-costa-mesa-2018-19.pdf",
   "published_data_rows_from_this_source": 6
+ },
+ {
+  "source_id": "city-of-costa-mesa-2022-23",
+  "receiving_entity": "City of Costa Mesa",
+  "publication_title": "City of Costa Mesa annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://costamesa.legistar1.com/costamesa/attachments/b69c3480-93ea-4601-b792-83775c93de9b.pdf",
+  "retrieved_utc": "2026-09-22T06:59:28.624116+00:00",
+  "physical_page_count": 19,
+  "source_sha256": "52726d2b6792417401d5e46e2e0018193a92a60c22d05e38e70229b8fefee410",
+  "source_bytes": 1339544,
+  "source_pdf": "sources/city-of-costa-mesa-2022-23.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
+  "source_id": "city-of-costa-mesa-2023-24",
+  "receiving_entity": "City of Costa Mesa",
+  "publication_title": "City of Costa Mesa annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://costamesa.legistar1.com/costamesa/attachments/d44fb8c7-2d4a-4eb7-8870-a221fcb9471b.pdf",
+  "retrieved_utc": "2026-09-22T06:59:27.203162+00:00",
+  "physical_page_count": 19,
+  "source_sha256": "6b6f54b5161dc6b35215224d3a5811a7bf3975600f42932e9ece7d19456737e4",
+  "source_bytes": 1025394,
+  "source_pdf": "sources/city-of-costa-mesa-2023-24.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
+  "source_id": "city-of-costa-mesa-2024-25",
+  "receiving_entity": "City of Costa Mesa",
+  "publication_title": "City of Costa Mesa annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://costamesa.legistar1.com/costamesa/attachments/75335daa-207d-4e52-82cd-021de92b96ea.pdf",
+  "retrieved_utc": "2026-09-22T06:59:26.243833+00:00",
+  "physical_page_count": 19,
+  "source_sha256": "6905208930868f8344e0a0aedd2c03097c64d26db8fc912e0f1be3a759cc4a45",
+  "source_bytes": 826046,
+  "source_pdf": "sources/city-of-costa-mesa-2024-25.pdf",
+  "published_data_rows_from_this_source": 4
  },
  {
   "source_id": "city-of-culver-city-2022-23-16a5a9b9",
@@ -798,6 +910,20 @@
   "published_data_rows_from_this_source": 8
  },
  {
+  "source_id": "city-of-lafayette-2023-24",
+  "receiving_entity": "City of Lafayette",
+  "publication_title": "City of Lafayette annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://lafayette.granicus.com/MetaViewer.php?view_id=&clip_id=7503&meta_id=190431",
+  "retrieved_utc": "2026-09-22T11:25:35.689520+00:00",
+  "physical_page_count": 16,
+  "source_sha256": "7c5bdc6e688215632c314d1cd7982ca875fb9619ac945caaee9dec9fc5b0192b",
+  "source_bytes": 502964,
+  "source_pdf": "sources/city-of-lafayette-2023-24.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
   "source_id": "city-of-los-angeles-2022-23-0645385a",
   "receiving_entity": "City of Los Angeles",
   "publication_title": "Informational Report - Park Fee Information Board Report FY 2023 (Nov 16 2023)",
@@ -1120,6 +1246,34 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "city-of-pomona-2023-24",
+  "receiving_entity": "City of Pomona",
+  "publication_title": "City of Pomona annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://pomona.legistar1.com/pomona/attachments/62847a53-f768-499f-ba62-10fa963bb85d.pdf",
+  "retrieved_utc": "2026-09-22T06:25:37.377011+00:00",
+  "physical_page_count": 92,
+  "source_sha256": "f58045de293eba942533fc137c292422767de97ad1e912909196e076fd0861a9",
+  "source_bytes": 7385213,
+  "source_pdf": "sources/city-of-pomona-2023-24.pdf",
+  "published_data_rows_from_this_source": 7
+ },
+ {
+  "source_id": "city-of-pomona-2024-25",
+  "receiving_entity": "City of Pomona",
+  "publication_title": "City of Pomona annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://pomona.legistar1.com/pomona/attachments/605d8fcb-ca3d-4ec5-957e-6fe81cb9a5fe.pdf",
+  "retrieved_utc": "2026-09-22T06:25:56.497478+00:00",
+  "physical_page_count": 90,
+  "source_sha256": "695fd59ae4cf40bc36e37b01de38f27a7b0287f7d816788bc416f8a2b40eae9d",
+  "source_bytes": 7243106,
+  "source_pdf": "sources/city-of-pomona-2024-25.pdf",
+  "published_data_rows_from_this_source": 8
+ },
+ {
   "source_id": "city-of-redwood-city-2022-23-06ca4176",
   "receiving_entity": "City of Redwood City",
   "publication_title": "City of Redwood City annual development impact fee report, fiscal year 2022-23",
@@ -1145,6 +1299,48 @@
   "source_sha256": "e51f21fe7d636324b1bad98b3792e6388f0970136c71318371ddd7c8a1045a6f",
   "source_bytes": 640494,
   "source_pdf": "sources/city-of-redwood-city-2024-25-e51f21fe.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
+  "source_id": "city-of-rio-vista-2022-23",
+  "receiving_entity": "City of Rio Vista",
+  "publication_title": "City of Rio Vista annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.riovistacity.com/media/7986",
+  "retrieved_utc": "2026-09-22T12:08:52.253343+00:00",
+  "physical_page_count": 16,
+  "source_sha256": "1a5ed7d8d559c253bc3a2e59ea89c1ab4b04fd4f2f6502fb7a356e75639cf8fa",
+  "source_bytes": 1015225,
+  "source_pdf": "sources/city-of-rio-vista-2022-23.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
+  "source_id": "city-of-rio-vista-2023-24",
+  "receiving_entity": "City of Rio Vista",
+  "publication_title": "City of Rio Vista annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.riovistacity.com/media/9021",
+  "retrieved_utc": "2026-09-22T12:08:51.536029+00:00",
+  "physical_page_count": 18,
+  "source_sha256": "86b1f034522b312ad09174a93b1aad60ebd13853f414a756716d53e8d817a769",
+  "source_bytes": 373114,
+  "source_pdf": "sources/city-of-rio-vista-2023-24.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
+  "source_id": "city-of-rio-vista-2024-25",
+  "receiving_entity": "City of Rio Vista",
+  "publication_title": "City of Rio Vista annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.riovistacity.com/media/9211",
+  "retrieved_utc": "2026-09-22T12:08:50.807339+00:00",
+  "physical_page_count": 18,
+  "source_sha256": "07f44a7651d8728543ea912de831fccc82e0009ad354c1c6d4ddc51914c88a2d",
+  "source_bytes": 368808,
+  "source_pdf": "sources/city-of-rio-vista-2024-25.pdf",
   "published_data_rows_from_this_source": 3
  },
  {
@@ -1202,6 +1398,34 @@
   "source_bytes": 782924,
   "source_pdf": "sources/city-of-san-bruno-2023-24.pdf",
   "published_data_rows_from_this_source": 2
+ },
+ {
+  "source_id": "city-of-san-jacinto-2023-24",
+  "receiving_entity": "City of San Jacinto",
+  "publication_title": "City of San Jacinto annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_10384345/File/City%20Government/Finance/Financial%20Reports/AB%201600%20Report%2023-24.pdf",
+  "retrieved_utc": "2026-09-22T07:35:59.394775+00:00",
+  "physical_page_count": 16,
+  "source_sha256": "4994afdd5cd29b89a4c87bade6e1927d0eb2bddf0f4cfaf57e0d752ef307ef2f",
+  "source_bytes": 329325,
+  "source_pdf": "sources/city-of-san-jacinto-2023-24.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
+  "source_id": "city-of-san-jacinto-2024-25",
+  "receiving_entity": "City of San Jacinto",
+  "publication_title": "City of San Jacinto annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_10384345/File/City%20Government/Finance/Financial%20Reports/AB%201600%20Report%2024-25.pdf",
+  "retrieved_utc": "2026-09-22T07:35:59.174689+00:00",
+  "physical_page_count": 16,
+  "source_sha256": "9e872f28c29854cbcc8497c1e3b0b627252c74a3feb7ad037c358e1e13d87840",
+  "source_bytes": 472243,
+  "source_pdf": "sources/city-of-san-jacinto-2024-25.pdf",
+  "published_data_rows_from_this_source": 4
  },
  {
   "source_id": "city-of-san-leandro-2024-25",
@@ -1524,6 +1748,20 @@
   "source_bytes": 417037,
   "source_pdf": "sources/city-of-willows-2020-21.pdf",
   "published_data_rows_from_this_source": 12
+ },
+ {
+  "source_id": "city-of-winters-2024-25",
+  "receiving_entity": "City of Winters",
+  "publication_title": "City of Winters annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://cityofwinters.org/DocumentCenter/View/1544/Impact-Fee-Annual-Report_2024-2025",
+  "retrieved_utc": "2026-09-22T12:30:21.397414+00:00",
+  "physical_page_count": 20,
+  "source_sha256": "896985bea13510311fff7d45b7d1d9c3a0ad2d77e5196804d6ea8111c77d2066",
+  "source_bytes": 206267,
+  "source_pdf": "sources/city-of-winters-2024-25.pdf",
+  "published_data_rows_from_this_source": 8
  },
  {
   "source_id": "city-of-yorba-linda-2023-24-d6bef53b",
