@@ -190,7 +190,57 @@ def main():
     check("no_private_paths_or_identifiers_in_text_files", not hits,
           "%d text files scanned against %d patterns; %d hits %s" % (scanned, len(patterns), len(hits), hits[:5]))
 
-    # 10. markdown links resolve
+    # 10. the arithmetic claims in arithmetic_check actually balance.
+    #     Each published row records the source's own arithmetic that confirms the figure was
+    #     read from the right row and column, for example a fund roll-forward closing to the
+    #     printed ending balance. Those claims are prose written by the reviewer, so this
+    #     parses every equation out of them and checks it. A claim that does not balance is a
+    #     defect in the review, not in the source.
+    NUMPAT = r"\(?-?\$?\s?\d[\d,]*(?:\.\d+)?\)?"
+    eq_re = re.compile(r"(%s(?:\s*[+\-]\s*%s)+)\s*=\s*(%s)" % (NUMPAT, NUMPAT, NUMPAT))
+    tok_re = re.compile(r"([+\-])?\s*(\(?-?\$?\s?\d[\d,]*(?:\.\d+)?\)?)")
+
+    def money(tok):
+        tok = tok.strip()
+        neg = tok.startswith("(") and tok.endswith(")")
+        t = re.sub(r"[^0-9.]", "", tok)
+        if not t or t.count(".") > 1:
+            return None
+        return -float(t) if neg else float(t)
+
+    def fold(expr):
+        total, sign, pos = None, 1, 0
+        while pos < len(expr):
+            m = tok_re.match(expr, pos)
+            if not m:
+                break
+            v = money(m.group(2))
+            if v is None:
+                return None
+            total = v if total is None else total + sign * v
+            pos = m.end()
+            nxt = re.match(r"\s*([+\-])\s*", expr[pos:])
+            if not nxt:
+                break
+            sign = 1 if nxt.group(1) == "+" else -1
+            pos += nxt.end()
+        return total
+
+    claims = {r["arithmetic_check"] for r in rows if r.get("arithmetic_check")}
+    n_eq, unbalanced = 0, []
+    for txt in claims:
+        for lhs, rhs in eq_re.findall(txt):
+            got, want = fold(lhs), money(rhs)
+            if got is None or want is None:
+                continue
+            n_eq += 1
+            if abs(got - want) > max(1.0, abs(want) * 1e-9):
+                unbalanced.append((lhs.strip(), rhs.strip(), round(got, 2)))
+    check("published_arithmetic_claims_balance", not unbalanced,
+          "%d equations parsed from %d distinct arithmetic_check claims; %d do not balance %s"
+          % (n_eq, len(claims), len(unbalanced), unbalanced[:3]))
+
+    # 11. markdown links resolve
     broken = []
     for entry in files:
         if not entry["path"].endswith(".md"):

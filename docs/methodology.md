@@ -37,6 +37,8 @@ This closure test resolved two source defects that would otherwise have forced a
 
 Both resolutions are disclosed on every affected row.
 
+Those closures were worked out by a reviewer reading the page, so they are prose and could in principle be wrong. `validation/validate.py` therefore parses every equation out of the `arithmetic_check` field and checks that it actually balances — 50 equations across 38 distinct claims, all of which do. If a future correction breaks one, the check fails rather than leaving a wrong sum sitting in the data.
+
 ## Two measure grains, one printed figure
 
 The research input records some printed amounts twice: once as a total across land uses and once at a mixed or unallocated land-use grain. Both are true statements about the same printed number. Rather than silently drop one, this release publishes both, links them with `figure_group_id` and flags exactly one as `is_primary_in_figure_group`. 357 rows carry 189 distinct printed figures. **Sum primary rows only.**

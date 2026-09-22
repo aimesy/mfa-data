@@ -81,13 +81,18 @@
    "detail": "19 text files scanned against 10 patterns; 0 hits []"
   },
   {
+   "check": "published_arithmetic_claims_balance",
+   "passed": true,
+   "detail": "50 equations parsed from 38 distinct arithmetic_check claims; 0 do not balance []"
+  },
+  {
    "check": "markdown_links_resolve",
    "passed": true,
    "detail": "[]"
   }
  ],
  "passed": true,
- "n_passed": 17,
+ "n_passed": 18,
  "n_failed": 0,
  "data_rows": 357,
  "figure_groups": 189,

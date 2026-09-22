@@ -1,6 +1,6 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T04:01:11.641641+00:00",
+ "built_utc": "2026-09-22T04:08:44.980557+00:00",
  "data_rows": 357,
  "distinct_printed_figures": 189,
  "receiving_entities": 43,
@@ -24,7 +24,7 @@
  ],
  "held_rows_published": 0,
  "file_count": 452,
- "total_bytes": 61849955,
+ "total_bytes": 61852734,
  "files": [
   {
    "path": ".gitattributes",
@@ -43,8 +43,8 @@
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 131764,
-   "sha256": "e9f5c992cc1e90ec23d3cf660d392bf26fb2b24f4ef5da121094efe84b1f2727"
+   "bytes": 131765,
+   "sha256": "14a583638ec43ef54a164f7c5c87bccabf63077a052253de27c374176fd6bb3e"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -83,8 +83,8 @@
   },
   {
    "path": "docs/methodology.md",
-   "bytes": 8209,
-   "sha256": "71ceb6b5383922af35bf800ad87af126ed267f7d04849c5849237df2b9bbf7e9"
+   "bytes": 8619,
+   "sha256": "6e24447b7a4ccb45746609be52e871770dee57d12c59b0187f378ff5c291057c"
   },
   {
    "path": "docs/review-process.md",
@@ -2264,7 +2264,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 2782,
-   "sha256": "c6d212f8f4e19f21a85048e2b7a630dbf593486590d219d3834c7dcf3b4e897b"
+   "sha256": "8c3885aa7d2373fef22783ac4d4fcc31ed93348d15911ae3fecbe26379818a3b"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -2278,13 +2278,13 @@
   },
   {
    "path": "validation/review.json",
-   "bytes": 2029,
-   "sha256": "8d69a1fe166c0f7e00a7923f1ec24786ecdb27fee102badc075037793664014c"
+   "bytes": 2210,
+   "sha256": "0567d6186eaa967e49e32915316b8065eb06273f8b42169d7094e739fe0c4484"
   },
   {
    "path": "validation/validate.py",
-   "bytes": 9439,
-   "sha256": "c356520d748f13f06169f52f614c1ff8ce75886c9da40ed6512a88249803d53a"
+   "bytes": 11626,
+   "sha256": "083beb112fbbda6178f24d9357ff65f91a1e2db7c8f53852989935ae32f48ecd"
   }
  ]
 }
