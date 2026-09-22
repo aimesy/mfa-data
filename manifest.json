@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T04:58:41.327098+00:00",
- "data_rows": 357,
- "distinct_printed_figures": 189,
- "receiving_entities": 43,
- "agency_years": 79,
- "fee_programs": 131,
- "source_reports": 50,
- "evidence_pairs": 189,
+ "built_utc": "2026-09-22T05:10:23.220502+00:00",
+ "data_rows": 373,
+ "distinct_printed_figures": 205,
+ "receiving_entities": 44,
+ "agency_years": 80,
+ "fee_programs": 147,
+ "source_reports": 51,
+ "evidence_pairs": 205,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 453,
- "total_bytes": 61857903,
+ "file_count": 486,
+ "total_bytes": 66011949,
  "files": [
   {
    "path": ".gitattributes",
@@ -34,7 +34,7 @@
   {
    "path": "README.md",
    "bytes": 6375,
-   "sha256": "c63c488b974d05aa0b20f9379824b5adf93d7c3af49749488eeb794557da9b1e"
+   "sha256": "e85800aa9dfb15017fc260af70a11dd4d59cb70fc9ec926e6cd077f01d2466b4"
   },
   {
    "path": "data/capital-spending.csv",
@@ -43,13 +43,13 @@
   },
   {
    "path": "data/cohort-accounting.json",
-   "bytes": 1262,
-   "sha256": "a75d82281896425603e11426e5bccc40e5f62973cca3769ba55e784191b22143"
+   "bytes": 1263,
+   "sha256": "0cca893b3c6a5f7f187988a87ef4984af595d56076e48aa1c4af24b9ab90a508"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 131765,
-   "sha256": "4e1953452ff68fcb858b1e7de3f6690acfc23ca4d07c7dc3f54d4c7d05051a6f"
+   "bytes": 134217,
+   "sha256": "5e6beab4cc2a03b2790dcdb7d4bc60c168136da57fce852bc2098d087d2fa9e2"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 721248,
-   "sha256": "36c0d266ac5bef28e951e94a542d901b04abc139226838f246866bd2c7cb4df7"
+   "bytes": 771214,
+   "sha256": "d9b73ded231dab2925706fe1ce738a06e4d9de90a27a440fbfc588d1ded5b641"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1090578,
-   "sha256": "660d8744ff8affa7aea33504ca60b1baaa432378e184ab35b4fbe0e1038ac02d"
+   "bytes": 1157008,
+   "sha256": "2396f51fdaae9ef1b7aacfacd209803a94ea85e0cfc25ca05b9b093018a7afc6"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -947,6 +947,86 @@
    "sha256": "f097d15ac30343d913eb528ed78e24d4a51df4a88dd6eb349e52ffeeb65d65ba"
   },
   {
+   "path": "evidence/extracts/county-of-placer-p008-147fe979.pdf",
+   "bytes": 102018,
+   "sha256": "e1b7baca85d5c493c2fb2842285e7790dbfdf388cbacc34d8027bc42cc0d67cd"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p008-14a3cc21.pdf",
+   "bytes": 102018,
+   "sha256": "f0c8aa3cd31a40f93efdea9204d963a59595273b9640201e81df9ad03913fd25"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p009-2ae160cf.pdf",
+   "bytes": 89068,
+   "sha256": "fd60867e426450ae20555ad7b7e265a53c1425da6ee8f8f45ba714114bf9bc93"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p009-a9c1ffa2.pdf",
+   "bytes": 89068,
+   "sha256": "824a64f5b40f24f51eced14d1c252ac9a56fbe72e510135b0b261de08685faae"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p010-8137db09.pdf",
+   "bytes": 88808,
+   "sha256": "9e5f996200cca1a3ec236b435ae37f091912b87eafffafb687df3f68e6a24820"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p010-c75e71d3.pdf",
+   "bytes": 88808,
+   "sha256": "2b60bab09c42165a4b09c2ee93c18771200efea24db90f7a7248b3a51286248d"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p011-ba28dc7e.pdf",
+   "bytes": 88512,
+   "sha256": "8da66382fcf1a8db13668f1d4f2327b5c2a885cbd74415d27fe1d756c16b20fe"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p011-f7f02d2b.pdf",
+   "bytes": 88512,
+   "sha256": "931d17d8a1baeeab4aecf0c1c93746c78fbe623187ac7929f108e63854cc145c"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p012-2a88d871.pdf",
+   "bytes": 89758,
+   "sha256": "b71ca4aa647d075b75bd42b6518bc9bd0c34db1e41a333738c706afcfeb029c1"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p012-cee77424.pdf",
+   "bytes": 89758,
+   "sha256": "4fd7bb12e4375f8e19d08297caef11e514ab3364db42b6abe2313c69ec769552"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p013-1a5d75ae.pdf",
+   "bytes": 88271,
+   "sha256": "21db53b5448d7b9dca208844f5e4178117985f9c6095ed48560ec7bf5df428cc"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p013-d19691f1.pdf",
+   "bytes": 88271,
+   "sha256": "b150e4c36273ad81bffce62fa83de43f5e322b6852bcd20c8927f4f8ab17dec9"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p014-2effe233.pdf",
+   "bytes": 90196,
+   "sha256": "b0ace7bf75ff0ca91494a65007bb0f2b278f5f418b56bc60661c7ffdeb0bc9b9"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p014-aa08fc2c.pdf",
+   "bytes": 90196,
+   "sha256": "dfc4ea5c790051a9f9c1a50c707927c60c2f7942ce61001af02a2f027024c078"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p015-10851c43.pdf",
+   "bytes": 89266,
+   "sha256": "2f1f673b6a00acc078bd9857c5ed88022b74e1b427c1892e91a5c9dad05757d8"
+  },
+  {
+   "path": "evidence/extracts/county-of-placer-p015-9b6a7ab9.pdf",
+   "bytes": 89266,
+   "sha256": "b2089e1a7250e3660c197d848fd9fb1aa54c483429b7c519fe75a2557b04f5db"
+  },
+  {
    "path": "evidence/extracts/diamond-springs-el-dorado-fire-protectio-p015-65648205.pdf",
    "bytes": 75799,
    "sha256": "3877c22c072b1e256ab48519c1fcd96264f129d1c062843eb3bd092d4aed59e5"
@@ -1043,8 +1123,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 198701,
-   "sha256": "8270ef6bfdd0538f55903652de38eff7d2e3a37454014f362c94f8f16638adae"
+   "bytes": 216570,
+   "sha256": "079706cf91e8b94a8d40b14276ce6395939c972cfe22146c4b8fb7832c443321"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -1897,6 +1977,86 @@
    "sha256": "fec12abaf120106230f625064e039d22d9bb267d36023e068c2bd9a5c0e301a7"
   },
   {
+   "path": "evidence/outlined/county-of-placer-p008-147fe979.pdf",
+   "bytes": 102078,
+   "sha256": "e3955fe6d47cf3ddae490877ef8bec25f38c35db17dbd55ff14d9b14452924d2"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p008-14a3cc21.pdf",
+   "bytes": 102075,
+   "sha256": "18d41944229439250cdd7c7be767bbc0be1e490952556238b2a680d64faee5d6"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p009-2ae160cf.pdf",
+   "bytes": 89135,
+   "sha256": "1403ac772b2ababcf4b194ea9485c09912de2b732d3c300c5826df5225f2761f"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p009-a9c1ffa2.pdf",
+   "bytes": 89134,
+   "sha256": "70ae39bb4ef1e72cbb78791f45d1acb5446c634df17f67873c0fceada75967da"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p010-8137db09.pdf",
+   "bytes": 88875,
+   "sha256": "862cf70efec4b7bbee7a2057f200b3997fd198d091005868aaf74804d4cbeee8"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p010-c75e71d3.pdf",
+   "bytes": 88870,
+   "sha256": "7423af3359b44898c111e54068f620571d48387e10105f4d38f81632389d65aa"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p011-ba28dc7e.pdf",
+   "bytes": 88578,
+   "sha256": "cfae4985ec9199d26bd466a10fa3846c78ee478b7d03808b9d5b5c1f06130ab8"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p011-f7f02d2b.pdf",
+   "bytes": 88579,
+   "sha256": "6818814fea99a34f627f916933ce8210dfdc8c61c0ce6ca51217caab14c91d70"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p012-2a88d871.pdf",
+   "bytes": 89825,
+   "sha256": "f3c153a99c9291398591585c3fb5fbeda0c1ee178f4016fdcbbce908e8a36b75"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p012-cee77424.pdf",
+   "bytes": 89823,
+   "sha256": "a2d820551305f6645fc28998e40a72646edd08e175f01df537bdfde36620cac6"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p013-1a5d75ae.pdf",
+   "bytes": 88333,
+   "sha256": "b483ac0c7e38d33e225f461a415687c71e8505f812d1b12c06e444298ae28828"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p013-d19691f1.pdf",
+   "bytes": 88338,
+   "sha256": "e91a824736a58ddb853ef19744c1e41149da7b743cf689c84ad40e9434d230f6"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p014-2effe233.pdf",
+   "bytes": 90253,
+   "sha256": "8dc4b6c00563d75a0d7406468deab56f5d96643cfe40e397d821b9c376870f2b"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p014-aa08fc2c.pdf",
+   "bytes": 90256,
+   "sha256": "ab107cad6f27e915a21e31885ce9170a2c8bf586095aae55613587d3b58d3f26"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p015-10851c43.pdf",
+   "bytes": 89332,
+   "sha256": "6a9f4d4029d123ff90a4cc98c2565850190482c8a5acb612bd588639d934fef7"
+  },
+  {
+   "path": "evidence/outlined/county-of-placer-p015-9b6a7ab9.pdf",
+   "bytes": 89332,
+   "sha256": "a40123eeee136a23c8730960ecbddc7aba22e10ab074eb3fdbf29e0812ebf331"
+  },
+  {
    "path": "evidence/outlined/diamond-springs-el-dorado-fire-protectio-p015-65648205.pdf",
    "bytes": 75859,
    "sha256": "84e02c35674ca1f659101de56a82c9ca2ef1f41236664fc6d89843f8ad490c94"
@@ -2202,6 +2362,11 @@
    "sha256": "f4e9978ec56cfe6abba60e96e995ffb0240cc082ba3714f59da0bd9090370e13"
   },
   {
+   "path": "sources/county-of-placer-2022-23.pdf",
+   "bytes": 1111620,
+   "sha256": "1c6abd41c46f684337f8d89e9cb6c00c39ae70d1f8e70a3ef8cb4a55457a4fb8"
+  },
+  {
    "path": "sources/esparto-fire-protection-district-2023-24.pdf",
    "bytes": 166584,
    "sha256": "2a1f87c27938b50b40217fee0c8350629ce72052110e19eb0ed2b845a1ed56c6"
@@ -2218,13 +2383,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 25369,
-   "sha256": "63f86ddf867e4034db451471375ed51145a6ad3e2be6c41fe74f099df92a94af"
+   "bytes": 25707,
+   "sha256": "7aa429a87febd95d24d65c27eca70effbd6a68243dc4199836e1d2ef6f575375"
   },
   {
    "path": "sources/index.json",
-   "bytes": 44502,
-   "sha256": "2113d5c0b34223e98352e8062c251b166032863412e067f667edd42128360eb3"
+   "bytes": 45157,
+   "sha256": "3b6fb751d740a2fcf29d7e91ab6960513a7dde79b2fbfc349a43caabdf9a5e11"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -2268,8 +2433,8 @@
   },
   {
    "path": "validation/independent-review.json",
-   "bytes": 2782,
-   "sha256": "f7cd69d875bde5e36624f02e200d52797bbbf77973cab5daf59132d4bdd55b28"
+   "bytes": 2887,
+   "sha256": "f267121667ef637df9652fd2cb6aefa0502e3ac0535484bd871e40a8a3c7dba0"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -2284,7 +2449,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2503,
-   "sha256": "f854e664e9ff7afaa4b862665b75b47925d6fdebdd09c77f0a8d35f9bc94fc3a"
+   "sha256": "f7e6909a62f9e4279b0c41f067fd2d31b25fd1e55b1826f7c885b38be09ecd6b"
   },
   {
    "path": "validation/validate.py",

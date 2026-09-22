@@ -574,6 +574,20 @@
   "published_data_rows_from_this_source": 3
  },
  {
+  "source_id": "county-of-placer-2022-23",
+  "receiving_entity": "County of Placer",
+  "publication_title": "County of Placer impact fee report, fiscal year 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.placer.ca.gov/DocumentCenter/View/75873/13C",
+  "retrieved_utc": "2026-09-14T22:57:24.421685+00:00",
+  "physical_page_count": 18,
+  "source_sha256": "1c6abd41c46f684337f8d89e9cb6c00c39ae70d1f8e70a3ef8cb4a55457a4fb8",
+  "source_bytes": 1111620,
+  "source_pdf": "sources/county-of-placer-2022-23.pdf",
+  "published_data_rows_from_this_source": 16
+ },
+ {
   "source_id": "combined-filing-3476ee5f6f57",
   "receiving_entity": "DIAMOND SPRINGS – EL DORADO FIRE PROTECTION DISTRICT",
   "publication_title": "DIAMOND SPRINGS – EL DORADO FIRE PROTECTION DISTRICT impact fee report, fiscal year 2024-25",

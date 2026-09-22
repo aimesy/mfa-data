@@ -1,21 +1,21 @@
 {
  "review": "independent review of mfa-data release 03",
- "performed_utc": "2026-09-22T04:58:40.895098+00:00",
+ "performed_utc": "2026-09-22T05:10:22.703512+00:00",
  "independence": "This pass re-derived every published value from the published outlined PDFs and the published source PDFs alone. It did not read the primary reviewer's recorded readings.",
- "published_rows": 357,
- "distinct_printed_figures": 189,
- "receiving_entities": 43,
- "source_reports": 50,
+ "published_rows": 373,
+ "distinct_printed_figures": 205,
+ "receiving_entities": 44,
+ "source_reports": 51,
  "checks": [
   {
    "check": "independent_value_rederivation",
    "passed": true,
-   "detail": "356 rows re-derived from their own outlined page; 1 handwritten rows read visually instead and confirmed by the printed fund roll-forward; 0 disagreements []"
+   "detail": "372 rows re-derived from their own outlined page; 1 handwritten rows read visually instead and confirmed by the printed fund roll-forward; 0 disagreements []"
   },
   {
    "check": "outlined_and_extract_pages_are_the_cited_source_page",
    "passed": true,
-   "detail": "357 rows; 0 pages did not match the cited page of the cited source []"
+   "detail": "373 rows; 0 pages did not match the cited page of the cited source []"
   },
   {
    "check": "published_pdf_derivatives_have_no_duplicate_destinations_javascript_or_embedded_files",
@@ -25,7 +25,7 @@
   {
    "check": "observation_accounting",
    "passed": true,
-   "detail": "cohort 3373, decided 3373, published 357, refused 3016, orphan decisions 0, public rows 357"
+   "detail": "cohort 3373, decided 3373, published 357, refused 3016, orphan decisions 0; public rows 373 = 357 cohort + 16 statewide lane"
   },
   {
    "check": "every_refusal_carries_its_own_source_specific_reason",
@@ -35,12 +35,12 @@
   {
    "check": "privacy_no_held_row_leaked_into_the_public_tree",
    "passed": true,
-   "detail": "3016 refused observation ids and 1510 refused amounts checked against the whole public tree; 0 ids and 0 amounts found []"
+   "detail": "3016 refused observation ids and 1510 refused amounts checked as whole numbers against every published text file; 0 ids and 0 amounts found. Offending values are recorded privately, never here."
   },
   {
    "check": "privacy_raw_bytes_and_pdf_page_text",
    "passed": true,
-   "detail": "452 published files scanned byte-wise, and every PDF page also scanned as rendered text, for workstation paths, private research directories, account identifiers and key material; 0 hits []"
+   "detail": "486 published files scanned byte-wise, and every PDF page also scanned as rendered text, for workstation paths, private research directories, account identifiers and key material; 0 hits []"
   },
   {
    "check": "held_tables_empty_and_refusal_summary_carries_no_amounts",
@@ -50,12 +50,12 @@
   {
    "check": "provenance_links_complete_on_every_published_row",
    "passed": true,
-   "detail": "357 rows x 14 required provenance fields; 0 blank []"
+   "detail": "373 rows x 14 required provenance fields; 0 blank []"
   },
   {
    "check": "source_semantics",
    "passed": true,
-   "detail": "357 rows checked for printed measure label and for residential scope resting on a stated source basis; 0 problems []"
+   "detail": "373 rows checked for printed measure label and for residential scope resting on a stated source basis; 0 problems []"
   },
   {
    "check": "parent_inputs_unchanged",
