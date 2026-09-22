@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T11:17:30.519504+00:00",
- "data_rows": 524,
- "distinct_printed_figures": 356,
- "receiving_entities": 66,
- "agency_years": 130,
- "fee_programs": 255,
- "source_reports": 99,
- "evidence_pairs": 356,
+ "built_utc": "2026-09-22T11:28:02.152988+00:00",
+ "data_rows": 584,
+ "distinct_printed_figures": 416,
+ "receiving_entities": 67,
+ "agency_years": 135,
+ "fee_programs": 267,
+ "source_reports": 100,
+ "evidence_pairs": 416,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 836,
- "total_bytes": 144116512,
+ "file_count": 957,
+ "total_bytes": 145653188,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7725,
-   "sha256": "1fc2bf14ce162f9526ab8c8a711462de7703b355c9e5aafd3562b1a82d519aae"
+   "bytes": 7790,
+   "sha256": "6fec778471759c3e515e4719f35149f27fffd7fff177e50c26c147a61e18b1e8"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "0d038703dd1a2e954f0b198cea8609a126d6d4d6b71382801b419f721da60bb0"
+   "sha256": "7d12fc3d8fb46ba7a921c793fdee7665be8f7f2909e96fee440f7552195c705f"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 210397,
-   "sha256": "c40269cfa15dbf5277d52b418fda7b1c1add740f09c55613e4b88c827af47ffb"
+   "bytes": 232843,
+   "sha256": "5ada82952e0269676b9c3099da8dea2324927abd0a98b832c8d8920bc1362b8f"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1128902,
-   "sha256": "d421bddee25f8e4d64463dc852625f28946b468f3d981a7fa65f0c24333bbc6b"
+   "bytes": 1303470,
+   "sha256": "cb8655f3b3b6fb6394a56d0920ad1bd47f01d8f9b9f40c82dfa930a6a66059b1"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1670747,
-   "sha256": "89d83bc65608ec4db22ffa66a13cdcfdc52cc3ae7697c7f8572c12ebf3924c16"
+   "bytes": 1907305,
+   "sha256": "56e83b61628990d4fddb7db83218f325b4ac11fc83feeab80ef9e15edd8a6f7e"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -510,6 +510,306 @@
    "path": "evidence/extracts/city-of-east-palo-alto-p017-a2d48e43.pdf",
    "bytes": 57163,
    "sha256": "b6cd6bdb81b5bb6fa073a0cfe3851f69f2a674cc7f1be389165d8a23ca4f36cd"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-07638bbc.pdf",
+   "bytes": 6776,
+   "sha256": "a423a0c685adaadc3e75e3658442005cc54a060aad50087957850a7ba39398e2"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-203fe24e.pdf",
+   "bytes": 6776,
+   "sha256": "884bf62a0e9a46c5120a0d71fa695e12613a05cd299c1d9116e03ee8e2f2e099"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-224563de.pdf",
+   "bytes": 6776,
+   "sha256": "3e3e9151be7a8ffb41ce2e31d5d090c8ce0cfd4c53a6d6c027906017369ffdb1"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-2a1d6980.pdf",
+   "bytes": 6776,
+   "sha256": "3eb47df6698e8e53d39eb8da396e7cf9dcab3324f768d8051213f4da3d28ee3d"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-35300705.pdf",
+   "bytes": 6776,
+   "sha256": "867418dc3a15a8a7c5aee022894f7ab638eb578a688a1067037186099ce0b2ab"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-4e32b1c9.pdf",
+   "bytes": 6776,
+   "sha256": "ec08c8392139106f54b9f00bc21a56680352ebecc076aa75f0abfc3393e10f4c"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-4fe78923.pdf",
+   "bytes": 6776,
+   "sha256": "bfe9a5cb7684765cd7abc325909d73ca72e52484902beee22a37a93c3cd720c7"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-634f9167.pdf",
+   "bytes": 6776,
+   "sha256": "d3aa8961b26a7086351936ad5d09dbfbeb5b7856dc8a55c7448e2e0f992e7ab2"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-890cfae6.pdf",
+   "bytes": 6776,
+   "sha256": "ab4d420f599456f3e207cfcfcbb7d9dc98e679e14ff48a6746b8e14967420e26"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-920d6dd7.pdf",
+   "bytes": 6776,
+   "sha256": "000e317e4ac6e67912f0ae4d19e19411e2d2a703999c69da069408cf0e1834c2"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-a5b18b25.pdf",
+   "bytes": 6776,
+   "sha256": "c0ac4bf447cf8a18d3b9cb58cf69dee7fecc67aad99d9b2f74dd08c7ac296dd1"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-a6df746c.pdf",
+   "bytes": 6776,
+   "sha256": "da3e0def44b79c3c1927fb85aa2b76488c6eb62df028dd4baf28c49ca24e1e2e"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-bd768149.pdf",
+   "bytes": 6768,
+   "sha256": "af46e27fe00a492e5f6a790c95d03209641d1727262501a00afad2eec7395096"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-bf18c5e1.pdf",
+   "bytes": 6776,
+   "sha256": "2296e69f070221e6e522867531ea2d6d12af4c9220647c9f091c57b86193ff39"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-cbbd8df4.pdf",
+   "bytes": 6776,
+   "sha256": "162465db14578b63789f2890b6e7c32c4e6896ff044a7c078ad5b5c58cedddbc"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-d70042c6.pdf",
+   "bytes": 6776,
+   "sha256": "bf9ef5ad8473da92caa6838fd784620c27da7012dc8d0a752b01b9d47033dd54"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-e590c89d.pdf",
+   "bytes": 6776,
+   "sha256": "5b5ca0d11fdaaac660a7245fa74f33a0617acf2a580fb6323d6927158337910d"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-e9f5aa54.pdf",
+   "bytes": 6776,
+   "sha256": "b144950ef5e568ece9e96c6e1ac5786e414cd88819ad868e56e5d40ada9e98a4"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-fd6b7765.pdf",
+   "bytes": 6776,
+   "sha256": "a8d2a503892e90fe985f666a2ae7a1940326140cfbb2863ff83aa4aa3727b44d"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p004-fe969e6e.pdf",
+   "bytes": 6776,
+   "sha256": "fc69afe6da5435fc9db7e137320e0c87e7a16f4875fe0755993c6d410cc4bac1"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-0b5fa989.pdf",
+   "bytes": 6777,
+   "sha256": "bda4493677f696e61254f8b019c6d197c927bed53b5d91f0c07fc1d2dca08b46"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-1007f6ad.pdf",
+   "bytes": 6777,
+   "sha256": "a71cfc4a93a5b036098b996c41a5b735b01c2467a9fe833b7d19d3f2d29a5916"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-351abcca.pdf",
+   "bytes": 6777,
+   "sha256": "32920f52bd53d6721436910a65313c47874023080b4c5c1ffb3b2a3e1d247589"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-36d139ea.pdf",
+   "bytes": 6777,
+   "sha256": "69e9d5e7161e2db1deb5c9facc877ecd77cbbb929ede0addb99c842f2179f21f"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-58d39e10.pdf",
+   "bytes": 6777,
+   "sha256": "37c4d96e59a70bf22b89339994a40ff56283d5e77d9679fc1ae294163c9ac810"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-5a71fb94.pdf",
+   "bytes": 6777,
+   "sha256": "1c138e5f1265232328e9f1b29fa9087aac68937281626bf4b6cbf759480e38f7"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-5c5b1ef2.pdf",
+   "bytes": 6777,
+   "sha256": "8f51680ab75526c78e63839ab7e995dd84b802e6ddb99cdb7277587477e8d9a9"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-6432d95b.pdf",
+   "bytes": 6777,
+   "sha256": "45d9ec87df05f8f5007be6581e3dd02c338e8449d2069d8340f4a31c221ccdf3"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-65180e36.pdf",
+   "bytes": 6777,
+   "sha256": "f04ff3b90112858291d08708bfa4259b893019475477697e8f34d94029beaac6"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-726781c6.pdf",
+   "bytes": 6777,
+   "sha256": "839a7565677750537b6f04418bab3e4d74353fa2dde9bfe56c786bc1b0b21915"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-7aa398b4.pdf",
+   "bytes": 6777,
+   "sha256": "e018424a8c98b681f97da87eee88bf2a92395cbeb708d9adc701b17b35140571"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-978dab18.pdf",
+   "bytes": 6777,
+   "sha256": "97577e120f2b523ced26bc7ac34f67e4e8da95ee1f9c469e22f9d211cc93e0b1"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-97966c17.pdf",
+   "bytes": 6777,
+   "sha256": "08fbb167c6a1cc23e93db805bfffc1b9e0668acaaf40b8977106bf634cec6730"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-9d0d618f.pdf",
+   "bytes": 6777,
+   "sha256": "98f9f5c8d4c5d82ec7028438a9e050262c062434a4e2ef3feb6ec4f2a4f8a5e1"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-ad9e8ac8.pdf",
+   "bytes": 6777,
+   "sha256": "6b0652ef232dd1b03dc91c1d17696e5e9e36fa28b07d756c358bf71572aff304"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-ae7eadf8.pdf",
+   "bytes": 6777,
+   "sha256": "66ec7fde5e8d7a0fd58933b40e382bce5fc7fa304485e83ff964dd1d0f0db554"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-ba14a333.pdf",
+   "bytes": 6777,
+   "sha256": "f9964b392aa7a53567b6829a3b71062e795bd39337add890a66936188767024c"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-bdfc3fa1.pdf",
+   "bytes": 6777,
+   "sha256": "ab2483154d9de0417176d92c02085d84caf5fafe653bec791c2ece63f2ee1695"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-f328912e.pdf",
+   "bytes": 6777,
+   "sha256": "c7f728bec16505ee93369ded83d111de85aac2d352f3b4430bf29ab70f19dfac"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p005-fb3361b0.pdf",
+   "bytes": 6777,
+   "sha256": "aa79d0fcdf37809ed75f98ef7be12b7b14869c14a223cf3cbe797819c618a3d3"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-0183bad7.pdf",
+   "bytes": 7221,
+   "sha256": "5b91b1bedd90c2e3cde65d04e2dc9377a168a7290b177fcbb3a78f84765bab15"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-1130f16c.pdf",
+   "bytes": 7221,
+   "sha256": "a3dcaf13bd10db2faecbe956915d83a242603c0869254485a11d7fd5d17dc913"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-1d28a5cc.pdf",
+   "bytes": 7221,
+   "sha256": "1414f10870c9e86c6e35a44e23d490e4b525c3101a7d893b8aeabdf7160590bf"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-27bcd48e.pdf",
+   "bytes": 7221,
+   "sha256": "33dfdf78f48f02d9c3117a338945ce731a8742ef3fb58e2c8700934566ac09f4"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-5a60b7c6.pdf",
+   "bytes": 7221,
+   "sha256": "e39fe8bebe8cecf9567606ddb1bc44f6ee234432ed4279f109704df1fadc6b3e"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-6ccac7e2.pdf",
+   "bytes": 7221,
+   "sha256": "cc8b9ae5c554fc040eb5ff8aa8dda53b1d811607ee33976067f9ff0a0e7e17b4"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-83e641a5.pdf",
+   "bytes": 7221,
+   "sha256": "308e3965a691a4fa0edbd9fa3b8d66f1f12c9d4ddb46612cce2024e200fcffde"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-8e24ceec.pdf",
+   "bytes": 7221,
+   "sha256": "84cd51167c151f90bf8a25f66421db750a2745839d057d3ad56d6c5eedb85a4d"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-946acd0e.pdf",
+   "bytes": 7221,
+   "sha256": "b8e309dec03840dbcf2df5596697da37db57daade6a16808042aaec523163bdb"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-9571f3b8.pdf",
+   "bytes": 7221,
+   "sha256": "14d93e3559c8adf9553eb4395abdeb7863b312cfab2f1f91fe4b37dd682d5697"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-9d6a8bb1.pdf",
+   "bytes": 7221,
+   "sha256": "9920181ef7105f08dcfdca5cfd8f09120e787b4623edcf68538cd2a9f1834c54"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-9dbedcc9.pdf",
+   "bytes": 7221,
+   "sha256": "6e6793952f66e2ff6441904d5532b26b1d9a5677782f2890ad823673c3662af9"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-ac6788ec.pdf",
+   "bytes": 7221,
+   "sha256": "284ec16bb3e1543bac422f27aa88d40228e7acae4def7668d1e7d66d959c71fb"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-cd9fb581.pdf",
+   "bytes": 7221,
+   "sha256": "ffdf65b21de83da77a6c405fcee4b4e596cc4fd3118a5ddd2969757546be9acc"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-d3eb8e92.pdf",
+   "bytes": 7221,
+   "sha256": "a9ad64069e854b3fa077fec7c0b23693f66e3a7fe47a02871ea10cac8b184f8a"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-e3e117a8.pdf",
+   "bytes": 7221,
+   "sha256": "074930c0266134a55edf5feb273776d274fca96bbed4284fd9a872297ad58fb0"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-e71ad4b9.pdf",
+   "bytes": 7221,
+   "sha256": "5c3835e44d0cfeffb16700fdd236131d86d53eea8f6a208e13291ed8a22b3ebd"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-e88f735b.pdf",
+   "bytes": 7221,
+   "sha256": "dff1356793111604afc33bd6ed5ecff95c38ffdf84b488571cca6e59375f36c6"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-f7c4770e.pdf",
+   "bytes": 7221,
+   "sha256": "de7da26d8f3490cef02493d35d2afd553d1461d26d5872718ca3ce6525944e3a"
+  },
+  {
+   "path": "evidence/extracts/city-of-fontana-p006-fea51044.pdf",
+   "bytes": 7221,
+   "sha256": "7834eb6f3d75c71412b7e973a7da479deef0af89d0023c7e8575aa780588bd70"
   },
   {
    "path": "evidence/extracts/city-of-fremont-p004-a9b9f63c.pdf",
@@ -1878,8 +2178,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 381980,
-   "sha256": "7c821b8bbeb65744b3a8af4d051427b2b5aa10838d641fda8a5777edbab503db"
+   "bytes": 446448,
+   "sha256": "50663b7e9343b79038a3b3f7d5cc9ed4af8766a542795aed3781727c5139020a"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -2295,6 +2595,306 @@
    "path": "evidence/outlined/city-of-east-palo-alto-p017-a2d48e43.pdf",
    "bytes": 57218,
    "sha256": "de50c53f510482201d18467a7ebba5a716f6009d51658555fe6c2e8308c05717"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-07638bbc.pdf",
+   "bytes": 6838,
+   "sha256": "beed867a0d6c80bfc6c62815b570b41a39c54e663990ad203851bc0a64c2c2c0"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-203fe24e.pdf",
+   "bytes": 6837,
+   "sha256": "2e9c146ae578a984647e2a7f1c4b0099e3bd3c2f106fca4776a9c359de8b1c7c"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-224563de.pdf",
+   "bytes": 6842,
+   "sha256": "bf99e6b4b7d5c181646aa6cbc0fe88698ee1173ae2a4090946f91dc6885d98a5"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-2a1d6980.pdf",
+   "bytes": 6839,
+   "sha256": "1bd2cc76f3b7026012f67718d95f077f7ce545f0702aecc469ba82230b069b51"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-35300705.pdf",
+   "bytes": 6837,
+   "sha256": "fde6c827885d7e33ab5dc4a965940f6cdb3a0058789da80b66635e71b25ba068"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-4e32b1c9.pdf",
+   "bytes": 6837,
+   "sha256": "cfca3f52a5c80bfa688f588976740cd9ca55a0cc0d02e9183a65743d73f7c8f5"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-4fe78923.pdf",
+   "bytes": 6839,
+   "sha256": "87517c5997b0f5b0f0e057fb423c750067fc7606d51be41a1e9ef077c100bacc"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-634f9167.pdf",
+   "bytes": 6837,
+   "sha256": "296fc8b9cf115e7a259357345c7b43dbcc4da60b014ce801d83e95c987770486"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-890cfae6.pdf",
+   "bytes": 6838,
+   "sha256": "98e256c08ebceda35c35afafc75224322b98bd9e83a9f1b99da3a14501915641"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-920d6dd7.pdf",
+   "bytes": 6839,
+   "sha256": "cf54eb91304046d048f6d75c6ad7b31f0cb32ed4a86f741b508b600195318e41"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-a5b18b25.pdf",
+   "bytes": 6836,
+   "sha256": "84ade17d6d1e3bc78a1d6ede09cd5c0b67b7be9f4f32c773a889a439e77a0856"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-a6df746c.pdf",
+   "bytes": 6837,
+   "sha256": "5d7afd13844cf46b0066c1476d512c6b3946dd6d3b6653c946146cf16005ec90"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-bd768149.pdf",
+   "bytes": 6843,
+   "sha256": "44af49c4236d8f14dcf2a2db7c21495e6fd765462495d5e8e05850d38319ce75"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-bf18c5e1.pdf",
+   "bytes": 6838,
+   "sha256": "c673829d647d6b351599433ecdb8723b9528d8143d23415437d88d722ca8b464"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-cbbd8df4.pdf",
+   "bytes": 6822,
+   "sha256": "a49e93e5dc7bc7f764a998c56c078656c2fdf36985c8b996045700edf1effd1d"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-d70042c6.pdf",
+   "bytes": 6840,
+   "sha256": "a31e8efe8734cf2ec073f9403542b35d8d304f022242dd015c29722da0783093"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-e590c89d.pdf",
+   "bytes": 6839,
+   "sha256": "f904a6d0e0058a279b177a6495cfc410b8e98e656d9ec10b5047717c95340204"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-e9f5aa54.pdf",
+   "bytes": 6838,
+   "sha256": "4e595449029f7e9c80704f4517cd698610dc10e477a18d0d6445d93c237764a9"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-fd6b7765.pdf",
+   "bytes": 6836,
+   "sha256": "642a862c22a84ced8aeb467afe437c438452d5380f876b870a3246717c5fcaf1"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p004-fe969e6e.pdf",
+   "bytes": 6838,
+   "sha256": "668f9817cffca6b5300ee377046f0e87f9263e5c23e67fb584b792f3ceb5326f"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-0b5fa989.pdf",
+   "bytes": 6840,
+   "sha256": "84f44cd56f48db1ecc96bb91605e187ae79d4a5c41464c6760ae9243dd562618"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-1007f6ad.pdf",
+   "bytes": 6840,
+   "sha256": "ddcc8b23a45c0326e9f972b0bc98195f285c5f50e78a6b03b243a198f04785ed"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-351abcca.pdf",
+   "bytes": 6841,
+   "sha256": "902c899e832b73469c1f1297b4fb51cbda4fe1b69da9c27cd0c1ddcc40e1e23b"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-36d139ea.pdf",
+   "bytes": 6841,
+   "sha256": "c5b4ab61ca397e25dee27f01785a4744dbd10d9c76a8da90ae09286fd3076603"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-58d39e10.pdf",
+   "bytes": 6841,
+   "sha256": "758c4d865fac685e6fce0a8060c3c325b61c9890eec3d8b4dddecc20d36556c7"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-5a71fb94.pdf",
+   "bytes": 6837,
+   "sha256": "ba492b25783e883c10334f990b082a3ad7a276b3103aa82b5a082492db1c9b92"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-5c5b1ef2.pdf",
+   "bytes": 6837,
+   "sha256": "d89b0d6cfc19a5cd0406aaaba6e5e7cdb417ba7bf4aef75d8b892cf0b31274bc"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-6432d95b.pdf",
+   "bytes": 6841,
+   "sha256": "5c4f9994ec5be63716b80ea61d87ab33e8362ca1253d940d6fb5eb893336a71f"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-65180e36.pdf",
+   "bytes": 6840,
+   "sha256": "8bb92b8086b52618d5d8919e8d7f0e2f60ada8af0fe459c279580668fbd16e48"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-726781c6.pdf",
+   "bytes": 6837,
+   "sha256": "bcf4d9f950d89d5640e500721e983bd1c852525d4a7ad14e2e635038a5d1b24a"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-7aa398b4.pdf",
+   "bytes": 6842,
+   "sha256": "3468d01eb3d587d784571f89ec967011cdeb0ac772556f32fae8edf6f9fb9ff3"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-978dab18.pdf",
+   "bytes": 6841,
+   "sha256": "f1ceb5c63ee04423795e322b82b787f2d48794a60119866c24fe7e1a72950146"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-97966c17.pdf",
+   "bytes": 6839,
+   "sha256": "c8ec49e87a7437b139ba8b49ccd1d56d87fa8e3595e36e5ba7d54897e9f7b324"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-9d0d618f.pdf",
+   "bytes": 6841,
+   "sha256": "18690099fb8c4d25b625e5acccf1fb0ee165b23091eb21b19405c35aa69d7d31"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-ad9e8ac8.pdf",
+   "bytes": 6840,
+   "sha256": "a44102f4ebf6cc8392f3cd6d1637cc9b4179dfc89b0d159aeafdc1b52f670e6b"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-ae7eadf8.pdf",
+   "bytes": 6841,
+   "sha256": "417e3ae9d7379c046d73c218443054e0faf6d36642b34407bb1b156cce43308f"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-ba14a333.pdf",
+   "bytes": 6841,
+   "sha256": "2c088c2d7bbca079c10349aa53a8edbf9f60ba8f2ad2cd3a3c5c0d6f7dec4fc0"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-bdfc3fa1.pdf",
+   "bytes": 6841,
+   "sha256": "e313e3953a6c102bb2abc6fa90052ed5ff26b961c2d307c3cdeb1991593e1241"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-f328912e.pdf",
+   "bytes": 6841,
+   "sha256": "567388a299e03b1a067bf1832a604e5bf02d45d5fbefe67cd3c8e78fe54c0f4d"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p005-fb3361b0.pdf",
+   "bytes": 6841,
+   "sha256": "eea91fe170a55990cf610248b38e0026d8ac92919a2accec8c236be06abee2d4"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-0183bad7.pdf",
+   "bytes": 7284,
+   "sha256": "ccef1f8d942619a572b2666dd1c0a32e5a3b89fadf6ad904ae18210c23bfb846"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-1130f16c.pdf",
+   "bytes": 7282,
+   "sha256": "b6d34c7f118ede6eb4f5db41e9b3b0389695c16f8110cad1af114f0d63538713"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-1d28a5cc.pdf",
+   "bytes": 7284,
+   "sha256": "56ee0b740dec11ebd6faed69b820b6bc5cd837e896b0421f236bf1cea1221e64"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-27bcd48e.pdf",
+   "bytes": 7283,
+   "sha256": "94ea1a5dd9500e7aa70e7925d60d597a7eec950c954addc19d1b66b62eb4a1f2"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-5a60b7c6.pdf",
+   "bytes": 7286,
+   "sha256": "d6c76360f4f958503a9feb5138b1b4001acf3a720c74be290cf5f499225f163a"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-6ccac7e2.pdf",
+   "bytes": 7280,
+   "sha256": "3ba59ad99efbd53ee4bb0985e9209db35cd67fa5ac65f655eac54d8ce79f2a5b"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-83e641a5.pdf",
+   "bytes": 7284,
+   "sha256": "3979e8349fa6d9ca644e4d697b723c174bea18f995b5578804b3558bf04b5e75"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-8e24ceec.pdf",
+   "bytes": 7283,
+   "sha256": "f667a7d1788e2219a5c34b453844cb3c1eb16bf7351d214456d50a0be8f0766f"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-946acd0e.pdf",
+   "bytes": 7282,
+   "sha256": "5534fe3f827cf9c43da7fb35d87935e1d5586102d698361b79a4d6dadb289eb7"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-9571f3b8.pdf",
+   "bytes": 7283,
+   "sha256": "1a4f46f2c07b86b0214136d462904c7dc6f69b987ed17f0c0568fb993d200808"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-9d6a8bb1.pdf",
+   "bytes": 7282,
+   "sha256": "6c61d6d93a1e38a174266a25a29747ce4c9fff45b24c95d0abf3117cf5050483"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-9dbedcc9.pdf",
+   "bytes": 7283,
+   "sha256": "7a01513f27fac5996b47e099cd73e6bf38ff9086b95fe19bfce4366c13c2e354"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-ac6788ec.pdf",
+   "bytes": 7285,
+   "sha256": "702573e23823e1c5022cdaf1285ba98fd1a29db4a67001e059204ffb67da561e"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-cd9fb581.pdf",
+   "bytes": 7284,
+   "sha256": "9e62dc3b75933742bb07756ae5a9e01b0fae0ecefdab9281364dbd7b8c289de8"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-d3eb8e92.pdf",
+   "bytes": 7283,
+   "sha256": "4f9ccd77c0f4d10bd35a740a3b3f4852bf5c7d70acd24e7a44cac3aec0214e9c"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-e3e117a8.pdf",
+   "bytes": 7286,
+   "sha256": "a52c79d151b4aff263e142afbb2995234568b60a8a4fd69cc56a7f5283e2794e"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-e71ad4b9.pdf",
+   "bytes": 7286,
+   "sha256": "f682391d9aa8c4e3f6226606e6ff96a4765a2a112c3dd54a046ce67428f975a3"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-e88f735b.pdf",
+   "bytes": 7284,
+   "sha256": "d1634f8a6c8fe117f844a6232dac769bf9fae458d47e4e38d75aa0ea8d09d673"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-f7c4770e.pdf",
+   "bytes": 7284,
+   "sha256": "a3e1023b0b9eb4b5c3a085c2810fb437dacc9363196d5c8d04a138b69c209ec0"
+  },
+  {
+   "path": "evidence/outlined/city-of-fontana-p006-fea51044.pdf",
+   "bytes": 7285,
+   "sha256": "2634bcfd052ffb34a4dae443f5d7fc600439603d0de9d733e905abfd21a1724e"
   },
   {
    "path": "evidence/outlined/city-of-fremont-p004-a9b9f63c.pdf",
@@ -3752,6 +4352,11 @@
    "sha256": "c6cf1819517f55468ea45d5d8db59c10076255cf1e91ace72b3dce52a3c664ab"
   },
   {
+   "path": "sources/city-of-fontana-2024-25.pdf",
+   "bytes": 202688,
+   "sha256": "38d3076fbf9c62c3b48110de0ca63f5a82c4c9036796de179abd5f3d179210d7"
+  },
+  {
    "path": "sources/city-of-fremont-2020-21.pdf",
    "bytes": 215305,
    "sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473"
@@ -4128,13 +4733,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 49686,
-   "sha256": "617edd12c944440a571491ae2cb82e25a280ec864ed848b7ac12729bc52bd78a"
+   "bytes": 50119,
+   "sha256": "03fefbcc4555f99dee077b8cbce4f000802c550306879fd56ebacd615abb9207"
   },
   {
    "path": "sources/index.json",
-   "bytes": 84358,
-   "sha256": "8e632eb70dd007f133643cdea778b8424b94c29c99a0d43b4c703212f067b10e"
+   "bytes": 85108,
+   "sha256": "df58b206108791e7cba8a1330c26ab32bb5eeae38e99b9e0ea49033a9db3367c"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -4183,8 +4788,8 @@
   },
   {
    "path": "validation/independent-review.json",
-   "bytes": 3048,
-   "sha256": "6c12abd26c2cb2d2bcd3242366b2b80394f0e2c7a4eae8c64d29e0a43793e8ea"
+   "bytes": 3049,
+   "sha256": "9f24061b87d07d650e96cfcf88d6c13ebbc01a19fb802f4fd4c12ab63a4ee5af"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -4198,8 +4803,8 @@
   },
   {
    "path": "validation/review.json",
-   "bytes": 2582,
-   "sha256": "7d8c148c6de6944122266ebdb26231c1a848606307f5da8707dae73393629c7a"
+   "bytes": 2583,
+   "sha256": "c9dcde46091b2a710e0f6b7133c519498f1f62ae9509bdb26290f3efd422fa1d"
   },
   {
    "path": "validation/validate.py",
