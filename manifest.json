@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T08:41:40.999271+00:00",
- "data_rows": 516,
- "distinct_printed_figures": 348,
- "receiving_entities": 65,
- "agency_years": 128,
- "fee_programs": 251,
- "source_reports": 97,
- "evidence_pairs": 348,
+ "built_utc": "2026-09-22T11:17:30.519504+00:00",
+ "data_rows": 524,
+ "distinct_printed_figures": 356,
+ "receiving_entities": 66,
+ "agency_years": 130,
+ "fee_programs": 255,
+ "source_reports": 99,
+ "evidence_pairs": 356,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 818,
- "total_bytes": 142783978,
+ "file_count": 836,
+ "total_bytes": 144116512,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7663,
-   "sha256": "72d4a9d102fe38e95799d60c3ee9ee4ab9e7e61bbe3f1e3d990c3b70cc730878"
+   "bytes": 7725,
+   "sha256": "1fc2bf14ce162f9526ab8c8a711462de7703b355c9e5aafd3562b1a82d519aae"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1264,
-   "sha256": "868e79921d8857f373c096d62f58a46492545239abc01b5cc37ed8c342eb415a"
+   "sha256": "0d038703dd1a2e954f0b198cea8609a126d6d4d6b71382801b419f721da60bb0"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 206444,
-   "sha256": "5a38645685e0948b7e022398bcd7c771b728db7ab30f2b88b9a03a6e4df7a845"
+   "bytes": 210397,
+   "sha256": "c40269cfa15dbf5277d52b418fda7b1c1add740f09c55613e4b88c827af47ffb"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 1111257,
-   "sha256": "9a0c6262239ef11681670a77f94087aa6f1d98eaea2f9f156db5f51bf82de036"
+   "bytes": 1128902,
+   "sha256": "d421bddee25f8e4d64463dc852625f28946b468f3d981a7fa65f0c24333bbc6b"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 1644850,
-   "sha256": "af07f4dc3c5f6019cd1948266791a6b763aa60130a9397d784008f455aad9d85"
+   "bytes": 1670747,
+   "sha256": "89d83bc65608ec4db22ffa66a13cdcfdc52cc3ae7697c7f8572c12ebf3924c16"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -555,6 +555,46 @@
    "path": "evidence/extracts/city-of-grass-valley-p006-f425cdf3.pdf",
    "bytes": 59099,
    "sha256": "2e685537220d6356abf4c399b26773554d0cb45654743db38ca3d03f926d585a"
+  },
+  {
+   "path": "evidence/extracts/city-of-hayward-p001-78a8560c.pdf",
+   "bytes": 47029,
+   "sha256": "d49075b83382f0cb2588deeffabc5f406224d553edd940d4ec72dbf83ab6b780"
+  },
+  {
+   "path": "evidence/extracts/city-of-hayward-p001-8a6d0ac7.pdf",
+   "bytes": 46566,
+   "sha256": "da1248f2529fe8ca77b690ba827f64fda5d0485c00f8c4cc96b1d9bb82b4fbbc"
+  },
+  {
+   "path": "evidence/extracts/city-of-hayward-p002-29c11ee4.pdf",
+   "bytes": 46586,
+   "sha256": "1696e29c1798dae639d52beab6de349a04c66ee4e56ee20feed5f0e4dbcb68cc"
+  },
+  {
+   "path": "evidence/extracts/city-of-hayward-p002-a1f7379c.pdf",
+   "bytes": 86838,
+   "sha256": "271e96ae9c898bd8482f89b3217c66b7dfc157d1d6a8ff2dccf6d9dd1b94a665"
+  },
+  {
+   "path": "evidence/extracts/city-of-hayward-p003-32eee19e.pdf",
+   "bytes": 87497,
+   "sha256": "3ac1c9d3537570e20bb054e891dbf1e47fe277ba80578c5db979fab38b0ca345"
+  },
+  {
+   "path": "evidence/extracts/city-of-hayward-p003-57628bc6.pdf",
+   "bytes": 87499,
+   "sha256": "f51d8d8cbe3736273afb8a2776ce8f8f2f8f1ef91759e700ffb854f74ef21e2f"
+  },
+  {
+   "path": "evidence/extracts/city-of-hayward-p003-5f72c6d6.pdf",
+   "bytes": 39999,
+   "sha256": "6bbc564331f3d2fe82ab5c055b6ad099dd83dfe4f1d7235e22a528cd9674a3d7"
+  },
+  {
+   "path": "evidence/extracts/city-of-hayward-p003-a2c13805.pdf",
+   "bytes": 39999,
+   "sha256": "505d08369fe6cdf6f51d7b8cd91c5fa4c9ac304505b7c6b0883382ff9872f815"
   },
   {
    "path": "evidence/extracts/city-of-hemet-p024-07652e57.pdf",
@@ -1838,8 +1878,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 373782,
-   "sha256": "85cd8a14e4374a6a6c810581b062dd7ff0530a4600f50deada5f6e7a60295b83"
+   "bytes": 381980,
+   "sha256": "7c821b8bbeb65744b3a8af4d051427b2b5aa10838d641fda8a5777edbab503db"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -2300,6 +2340,46 @@
    "path": "evidence/outlined/city-of-grass-valley-p006-f425cdf3.pdf",
    "bytes": 59156,
    "sha256": "21327b6e797c370ca9beb9812e7c72c207ab4b92912a79219343c509712be293"
+  },
+  {
+   "path": "evidence/outlined/city-of-hayward-p001-78a8560c.pdf",
+   "bytes": 47087,
+   "sha256": "540a4d5d2cb56a5619711e8b3f71585ff908f05ea8e267b2a1593ce152907825"
+  },
+  {
+   "path": "evidence/outlined/city-of-hayward-p001-8a6d0ac7.pdf",
+   "bytes": 46626,
+   "sha256": "92ceed111413c7816a3cd64dd0fba7705a07bd279f32a5ed7e3e7c59ac5fd1de"
+  },
+  {
+   "path": "evidence/outlined/city-of-hayward-p002-29c11ee4.pdf",
+   "bytes": 46645,
+   "sha256": "36e36013607346c8854299663074859c07ff9f97acdf7693a87cd956ec5cb845"
+  },
+  {
+   "path": "evidence/outlined/city-of-hayward-p002-a1f7379c.pdf",
+   "bytes": 86897,
+   "sha256": "8dbe789ec8edb827e2d88a6391d8d3a29c708a6fd133e6bf3283494033c30ff0"
+  },
+  {
+   "path": "evidence/outlined/city-of-hayward-p003-32eee19e.pdf",
+   "bytes": 87558,
+   "sha256": "85bdf07dcdaa0f523382907e73b5685631dea9c07631978743235482a73098b5"
+  },
+  {
+   "path": "evidence/outlined/city-of-hayward-p003-57628bc6.pdf",
+   "bytes": 87556,
+   "sha256": "4ed6eedd1c54b9f5739f18f4dbe2164f0d2b2abd9554f468927e2a1b24c1f843"
+  },
+  {
+   "path": "evidence/outlined/city-of-hayward-p003-5f72c6d6.pdf",
+   "bytes": 40057,
+   "sha256": "3997d9c543e6deb093bf190ddcdb6f4676bf6bc082f28fc7013af8460b1af981"
+  },
+  {
+   "path": "evidence/outlined/city-of-hayward-p003-a2c13805.pdf",
+   "bytes": 40058,
+   "sha256": "251ec716b27bf87ce87a53b6574494744440c891ec7681974a1e3fe5f87d0ae0"
   },
   {
    "path": "evidence/outlined/city-of-hemet-p024-07652e57.pdf",
@@ -3682,6 +3762,16 @@
    "sha256": "a784240356df4c954624825b2f79e146f6b72b3775b5d568f8e30fd3d7f0453d"
   },
   {
+   "path": "sources/city-of-hayward-2022-23.pdf",
+   "bytes": 153200,
+   "sha256": "2e0fe1efd69f14562bfb3e169711587cfd0c7175b038150b2813ccfe019e5f62"
+  },
+  {
+   "path": "sources/city-of-hayward-2023-24.pdf",
+   "bytes": 156708,
+   "sha256": "d51493e407ee3a7265254ca24f8ca73bfef367c7c1ccc35147e585b7de32bbca"
+  },
+  {
    "path": "sources/city-of-hemet-2013-14.pdf",
    "bytes": 241622,
    "sha256": "8c2ec758c2abf48cfa51c6acc8d34135eb263a9785679e6aca0f5b9689da9fd2"
@@ -4038,13 +4128,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 48816,
-   "sha256": "765659b53bd508934144286e44531ae8d6f7caf0ef6639a414d10214e538bdae"
+   "bytes": 49686,
+   "sha256": "617edd12c944440a571491ae2cb82e25a280ec864ed848b7ac12729bc52bd78a"
   },
   {
    "path": "sources/index.json",
-   "bytes": 82854,
-   "sha256": "b943dc17e7785a7acdc068016f61c40a92c545e6dd2fe5d8fc5947d98e9fd79f"
+   "bytes": 84358,
+   "sha256": "8e632eb70dd007f133643cdea778b8424b94c29c99a0d43b4c703212f067b10e"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -4094,7 +4184,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3048,
-   "sha256": "9e549e43c6aaf6541a77fff47995baa85097788c682ddfaa713ab116c127de79"
+   "sha256": "6c12abd26c2cb2d2bcd3242366b2b80394f0e2c7a4eae8c64d29e0a43793e8ea"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -4109,7 +4199,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2582,
-   "sha256": "c7d9f6209043ad3185ff052e5fc1c89cfd820e161073430614f63d50d7035563"
+   "sha256": "7d8c148c6de6944122266ebdb26231c1a848606307f5da8707dae73393629c7a"
   },
   {
    "path": "validation/validate.py",
