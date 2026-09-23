@@ -2296,6 +2296,48 @@
   "published_data_rows_from_this_source": 8
  },
  {
+  "source_id": "city-of-san-luis-obispo-2022-23-f0fad89e",
+  "receiving_entity": "City of San Luis Obispo",
+  "publication_title": "City of San Luis Obispo development impact fee report, fiscal year 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.slocity.org/home/showpublisheddocument/35098/638410021556600000",
+  "retrieved_utc": "2026-09-22T13:28:40.424812+00:00",
+  "physical_page_count": 39,
+  "source_sha256": "f0fad89e83d46f408a183f73f0bb03157ba9aa905a5d103300749c911bc7d701",
+  "source_bytes": 1228543,
+  "source_pdf": "sources/city-of-san-luis-obispo-2022-23-f0fad89e.pdf",
+  "published_data_rows_from_this_source": 6
+ },
+ {
+  "source_id": "city-of-san-luis-obispo-2023-24-0f15e90d",
+  "receiving_entity": "City of San Luis Obispo",
+  "publication_title": "City of San Luis Obispo development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.slocity.org/home/showpublisheddocument/36859/638695179292330000",
+  "retrieved_utc": "2026-09-22T13:28:39.930471+00:00",
+  "physical_page_count": 54,
+  "source_sha256": "0f15e90d8d3930ad950d774c6faabfcd699fc0eec7d106c7991381974178e519",
+  "source_bytes": 1443519,
+  "source_pdf": "sources/city-of-san-luis-obispo-2023-24-0f15e90d.pdf",
+  "published_data_rows_from_this_source": 9
+ },
+ {
+  "source_id": "city-of-san-luis-obispo-2024-25-6b54848e",
+  "receiving_entity": "City of San Luis Obispo",
+  "publication_title": "City of San Luis Obispo development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.slocity.org/home/showpublisheddocument/38352/638992254647270000",
+  "retrieved_utc": "2026-09-22T13:28:39.474166+00:00",
+  "physical_page_count": 53,
+  "source_sha256": "6b54848e27356f6342e493b99948ea3d1d02226e9d1e651308348579f5f4f046",
+  "source_bytes": 2877155,
+  "source_pdf": "sources/city-of-san-luis-obispo-2024-25-6b54848e.pdf",
+  "published_data_rows_from_this_source": 8
+ },
+ {
   "source_id": "city-of-san-mateo-2022-23-59d04fa1",
   "receiving_entity": "City of San Mateo",
   "publication_title": "Fiscal Year 2022-23 (Mitigation Fee Act / AB 1600 Report)",

@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T13:42:42.642740+00:00",
- "data_rows": 1607,
- "distinct_printed_figures": 1439,
- "receiving_entities": 153,
- "agency_years": 305,
- "fee_programs": 882,
- "source_reports": 284,
- "evidence_pairs": 1439,
+ "built_utc": "2026-09-23T14:10:56.142719+00:00",
+ "data_rows": 1630,
+ "distinct_printed_figures": 1462,
+ "receiving_entities": 154,
+ "agency_years": 308,
+ "fee_programs": 892,
+ "source_reports": 287,
+ "evidence_pairs": 1462,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3187,
- "total_bytes": 800179919,
+ "file_count": 3236,
+ "total_bytes": 808977044,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13148,
-   "sha256": "933ca31a811a1eb6adf81373fb1dfac5667779c92c9c19c4b87a339a9fe48918"
+   "bytes": 13229,
+   "sha256": "95e42bdc6f49533a50af5d9e41feb81b0aa3384650cd0d1eddcb16520067c068"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "b554a45828b3c351e80d6a3ab6191b2075182e4032100df05ae8149c3cca5d24"
+   "sha256": "dc0a85127c3ab4dc63a7550c180621db704ca12b37fd55174a8262fd55689111"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 636881,
-   "sha256": "aa20d07743e0b44897862743e0d5cef2bb1e9ada49293b2d88f4548c019a3799"
+   "bytes": 645222,
+   "sha256": "4a7e132735a4a3a1ab625e19cd3d78fdc9b24ac07aa3eea7cff15a2fee7e1e75"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3370686,
-   "sha256": "80df33a2ef3051bfec9727fb6035734ca0c670e2d33eb9d382c17f2149aa1de1"
+   "bytes": 3420148,
+   "sha256": "de21a2216a8d637c04d02cf73a740897de3562d69ecad73fa66e08165fbe56b6"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5035288,
-   "sha256": "86bf4178c8cc931fa17e0f337bdd49a871cd1d33c75efed8fdf05732a0c1fd49"
+   "bytes": 5108555,
+   "sha256": "b747f6b9869b9c93144e0f7dbc066419201339ee07bafd232b37c04eb89a3e05"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -4002,6 +4002,121 @@
    "sha256": "6f064b6d74374b2cab40118d32db3c21ba68f1f2796cf5400d00f9b633b0f84f"
   },
   {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p007-d07d77b7.pdf",
+   "bytes": 63811,
+   "sha256": "f1cc1b2c727ed7a3baeb0d2addcc563181da5493f4331541bb8064478afc93cd"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p008-26490e61.pdf",
+   "bytes": 63752,
+   "sha256": "c8596511a786216c55a6b58c3836d13878566391a2c290a204a0d5777d40d297"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p010-06f72f1b.pdf",
+   "bytes": 66701,
+   "sha256": "bcb4a03c208e696f1f90ed0f3ba4bfb2e980a787b544198d9a6179a047e88dc2"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p010-6c46037d.pdf",
+   "bytes": 72979,
+   "sha256": "5ad00401629b7fb9d53c315bae42b45fc8e5440924e2336712da1c34f4d15b0c"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p011-6237f310.pdf",
+   "bytes": 69314,
+   "sha256": "a55894abe0f3b75849a5669fbec436f5049578ee9e1485508143fa2cef30464c"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p011-cea2b60b.pdf",
+   "bytes": 75437,
+   "sha256": "710da14d602e2e104a623c1fdfe2309c1c81e63a413c747be1f6d9d93514cbc7"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p020-ad731aa1.pdf",
+   "bytes": 60559,
+   "sha256": "bc7ef390da53d1f1adc007fbf1c5e899fc1eced01be9add67568fdeeec4ad8a9"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p023-31a932b0.pdf",
+   "bytes": 61088,
+   "sha256": "85816ef3fc456f39ad52a642a26dfd3b9768dac227705a5e5c9a459b3f42886a"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p024-14e8dd56.pdf",
+   "bytes": 67697,
+   "sha256": "f2fd8e7e346a0cc9a4c8018105a2b8d3915b420c452920dce6f5f7129c00236d"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p026-695c89ae.pdf",
+   "bytes": 64728,
+   "sha256": "0e593b6b6bb2efeaed3b2df0ea422f0b491fc226249f0fbd52cf19f71a6f1ffc"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p027-ecd236f3.pdf",
+   "bytes": 66585,
+   "sha256": "86acd5ad93cb67bca0a6b41bf2999d03920babcf74ddcb494f2fc8894770d17a"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p028-461b9bc2.pdf",
+   "bytes": 73644,
+   "sha256": "2a9f24275b50c93d377a7b08e0345146a58bd5fbf86e7b9b4373209673b55cbf"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p028-a57087b7.pdf",
+   "bytes": 61951,
+   "sha256": "7a6663bc0dad386dede136bac72a6ee0021436d4faded7331c2a3c81f4a151f7"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p028-ca20304f.pdf",
+   "bytes": 66637,
+   "sha256": "86769b90b5889d534d36cda3a885527b2d62d20487fd3c2dde7793dbc0ee070b"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p029-4ef45dcc.pdf",
+   "bytes": 73182,
+   "sha256": "148ea9120f69732f12432fe47f987a244d627b92b56a4137bca2a7c31af0071c"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p030-f4bb41f2.pdf",
+   "bytes": 64807,
+   "sha256": "a9b5b5f8b1acc9cc537c2182ccf4a4030545bfde2af47bd953b085114819dfcd"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p031-5181c35e.pdf",
+   "bytes": 64088,
+   "sha256": "8530fc24ddc2d7646910c2eb0a5827161e618cdeb8aa130218bb1327077d856a"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p031-6930ec7e.pdf",
+   "bytes": 65756,
+   "sha256": "669f3b0fb61ebb5606a4679f4e8e667ca25ec3f7843df2a2cdd7c35c3c68f0c2"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p031-c0de952f.pdf",
+   "bytes": 71618,
+   "sha256": "2dad70c5f818f0f85c9505b0dd7f3f778c4f08b30878cbf3925f62750c5b756d"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p032-26e66ea8.pdf",
+   "bytes": 72524,
+   "sha256": "de8a10d8567c43d91eead4c049cbc768b4943e5261ef618ae00d923baf394383"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p033-232846f1.pdf",
+   "bytes": 66945,
+   "sha256": "361e8ed51e5fe67cbee317e452abf009f499d0f1ff62aea98e2529dec3c26408"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p039-7283b2b4.pdf",
+   "bytes": 61944,
+   "sha256": "44a84849c8ee3351e545c8701360461170a35b0d853fc20e4e7221ab1e23e4db"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p039-b1eda4fc.pdf",
+   "bytes": 68045,
+   "sha256": "46ca80fa4befc303c9573113d16786d09618c0dde6117a4f0668e94074baffb3"
+  },
+  {
    "path": "evidence/extracts/city-of-san-mateo-p006-254b2e6b.pdf",
    "bytes": 42410,
    "sha256": "cb30a7c2603d1aaa5fa38559d3588c0cb7dc86df0ad840bc2245393f0e6502ed"
@@ -7293,8 +7408,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1497214,
-   "sha256": "a0c63468c38b40b5df2cb8bc65d431da659f96e9c6fbbd40ba70ab82378285e8"
+   "bytes": 1521586,
+   "sha256": "6caa5fdee37c7fa3a2252c10a4f24f73f270fd0ad2da853f55beaaa1a5db00de"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -11200,6 +11315,121 @@
    "path": "evidence/outlined/city-of-san-leandro-p001-1d736519.pdf",
    "bytes": 85734,
    "sha256": "6cf6a5c3c18803154f9e4b799e8b2ed382a531f6118cb138ef091dfa72383362"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p007-d07d77b7.pdf",
+   "bytes": 63866,
+   "sha256": "e9afa7ef7e7a001e6ca5aab99be0cac13515b61ffeb0d7928a4b66fc7524ce5e"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p008-26490e61.pdf",
+   "bytes": 63809,
+   "sha256": "97f33bce98423b36da0e0b62a666d1717dfd1debda9bf24314c2979706263b7f"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p010-06f72f1b.pdf",
+   "bytes": 66761,
+   "sha256": "d1ca1204a0cf31fff59f392c21d87830d0f3113b273e591e5a5688eb9a2df57d"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p010-6c46037d.pdf",
+   "bytes": 73036,
+   "sha256": "2ae58300590385ce9d42f7cf86ca2fdbff18cef40c68541b7fefe084c6580388"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p011-6237f310.pdf",
+   "bytes": 69375,
+   "sha256": "22da675e39be8fb8908c42d7a5717610c0f61e08732aab3c17296b73154c91bc"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p011-cea2b60b.pdf",
+   "bytes": 75494,
+   "sha256": "57aec61e0b37f787047d70523679743df785aa49b14f1056a7b8d00708592dc4"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p020-ad731aa1.pdf",
+   "bytes": 60618,
+   "sha256": "4daaffd58d7e98a198299a855cc8fb7f2f1c04f8140fa62b987a339908d57523"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p023-31a932b0.pdf",
+   "bytes": 61147,
+   "sha256": "5c1b1953c72d94f0ceabcb426921c61d4a222963f3569e79b376351273dcfe37"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p024-14e8dd56.pdf",
+   "bytes": 67757,
+   "sha256": "309ed34bff11456d20889248c3c9e240aaa85dbb37bb7c657a9ed2f81ae4fd60"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p026-695c89ae.pdf",
+   "bytes": 64792,
+   "sha256": "5aa1810e2a8d30c4967ff60bd130de9ce313a8fa2033dcd80cbcfeda415b3234"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p027-ecd236f3.pdf",
+   "bytes": 66644,
+   "sha256": "fa404dc9d3fd5a0dc8b61e50d959f823c4b9798da6c17515f9b003d3fd609510"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p028-461b9bc2.pdf",
+   "bytes": 73708,
+   "sha256": "72a0b1a307382f57be803a192cdafeedabbd6e24d5d2e00accab8ce490bc7f2f"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p028-a57087b7.pdf",
+   "bytes": 62004,
+   "sha256": "2cbd8843bd3dafe6efd802937cbf41f55b869b185a7499bffe6aeb9ce6b95a85"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p028-ca20304f.pdf",
+   "bytes": 66693,
+   "sha256": "3deadf65f8b9977ea29d0865344a48f9d19f82f0270ea530c010cc5fe5b30e0e"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p029-4ef45dcc.pdf",
+   "bytes": 73242,
+   "sha256": "4ef843449bbe63ab5e3b56105ff8a15de249842cadfa6bb1aadf474bddc0cddf"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p030-f4bb41f2.pdf",
+   "bytes": 64868,
+   "sha256": "b7a8abeac4b18b67cf4056653f7cdedaea756c1ea78cd3805924509789eceb4d"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p031-5181c35e.pdf",
+   "bytes": 64146,
+   "sha256": "49f40303113a0d32850cf47fe644f2bc70cefba8e0f8feb07fce013c8759a75d"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p031-6930ec7e.pdf",
+   "bytes": 65815,
+   "sha256": "36ab436bc6c9a32cfa25dff341a290bbfe0dccab706eadc4b6a058bd6483d4c3"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p031-c0de952f.pdf",
+   "bytes": 71679,
+   "sha256": "9a04945012bdef79eb785dbb76096bcb8ff278dba2eb86510ab922be838b9072"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p032-26e66ea8.pdf",
+   "bytes": 72586,
+   "sha256": "25c6d7f9b621b032be303dcbcb1dc63cbbfc699d745d087e40dacbdaadceb93f"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p033-232846f1.pdf",
+   "bytes": 67002,
+   "sha256": "01cc71272d55a029178534f428af66e91e190380526e7415ff4040c360bff600"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p039-7283b2b4.pdf",
+   "bytes": 62002,
+   "sha256": "e728c4f4854ca4802f475251bd72e0a004c0ef3f82f7da3750546ef48d4d84cf"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p039-b1eda4fc.pdf",
+   "bytes": 68108,
+   "sha256": "65d29cc691282ca0d639569347642a5d323e850deb9194bd4114bd2568420e89"
   },
   {
    "path": "evidence/outlined/city-of-san-mateo-p006-254b2e6b.pdf",
@@ -15297,6 +15527,21 @@
    "sha256": "ae24b389e0a8e564bad849dd034257c05308d187f77614e92251b763f141ac49"
   },
   {
+   "path": "sources/city-of-san-luis-obispo-2022-23-f0fad89e.pdf",
+   "bytes": 1228543,
+   "sha256": "f0fad89e83d46f408a183f73f0bb03157ba9aa905a5d103300749c911bc7d701"
+  },
+  {
+   "path": "sources/city-of-san-luis-obispo-2023-24-0f15e90d.pdf",
+   "bytes": 1443519,
+   "sha256": "0f15e90d8d3930ad950d774c6faabfcd699fc0eec7d106c7991381974178e519"
+  },
+  {
+   "path": "sources/city-of-san-luis-obispo-2024-25-6b54848e.pdf",
+   "bytes": 2877155,
+   "sha256": "6b54848e27356f6342e493b99948ea3d1d02226e9d1e651308348579f5f4f046"
+  },
+  {
    "path": "sources/city-of-san-mateo-2022-23-59d04fa1.pdf",
    "bytes": 180140,
    "sha256": "59d04fa1bf309c1ef5c6f314ebdda7dd2f7970adc5619220fb168083f7eca133"
@@ -15858,13 +16103,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 126976,
-   "sha256": "31599ffecef4f009bf414f51ab408e34685a24c77a51f4b2bfead983209f1894"
+   "bytes": 128221,
+   "sha256": "b5c70aa31014d9b5e8fe5b494fa51396969ba9fb36359bc600b78cfab26f8535"
   },
   {
    "path": "sources/index.json",
-   "bytes": 220415,
-   "sha256": "604a19b33cd43b11d3d9908e369a98347710600a96e0c2b913aeb001ae30b011"
+   "bytes": 222611,
+   "sha256": "62ea7d605a6424c18e98758304c96ba8ff1257d1712c8d38f9bc93ca38b219f5"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -15939,7 +16184,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "f03dc308b7ece2d3e653b8cadaeea3bccf570887ee7c6ff0088b1cd1d0afca18"
+   "sha256": "d607ff00c6f429be20e345aaedc344f8a3cb52037727458ecfe119d30c720bf4"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -15954,7 +16199,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "7d77556c0aad7821dcf953006db62a025be0e3bafe44dc6777e81ebb76e88728"
+   "sha256": "027b186f24bf656224ae47721ef085b12b9feeadbe9637b157601157770b7e77"
   },
   {
    "path": "validation/validate.py",
