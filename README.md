@@ -1,6 +1,6 @@
 # California impact fees
 
-1644 reviewed rows covering 1476 printed figures, from 156 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
+1655 reviewed rows covering 1487 printed figures, from 156 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
 
 This is a research sample, not statewide coverage. Thousands of California agencies levy these fees. Do not sum this into a statewide estimate.
 
@@ -18,7 +18,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Fremont | 2020–21, 2022–23, 2023–24, 2024–25 | 17 | $49,659,014 |
 | City of Tracy | 2022–23, 2023–24, 2024–25 | 61 | $44,931,485 |
 | Saddleback Valley Unified | 2015–16 to 2020–21 | 6 | $26,166,850 |
-| City of San Luis Obispo | 2022–23, 2023–24, 2024–25 | 23 | $23,698,800 |
+| City of San Luis Obispo | 2022–23, 2023–24, 2024–25 | 25 | $23,629,554 |
 | City of Sacramento | 2022–23, 2024–25 | 23 | $21,123,530 |
 | City of Stockton | 2021–22, 2022–23, 2023–24 | 14 | $20,505,687 |
 | City of West Sacramento | 2022–23, 2023–24, 2024–25 | 27 | $20,499,381 |
@@ -33,6 +33,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Huntington Beach | 2022–23, 2024–25 | 17 | $12,539,740 |
 | City of Oceanside | 2024–25 | 4 | $12,153,674 |
 | County of San Bernardino | 2023–24, 2024–25 | 23 | $11,993,578 |
+| City of Beaumont | 2022–23, 2024–25 | 26 | $11,678,928 |
 | City of Santa Ana | 2022–23, 2023–24, 2024–25 | 46 | $11,302,926 |
 | City of Brentwood | 2022–23, 2023–24, 2024–25 | 15 | $10,642,387 |
 | City of San Bruno | 2022–23 | 1 | $9,704,825 |
@@ -81,7 +82,6 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Manteca | 2020–21 to 2024–25 | 5 | $1,843,995 |
 | City of Novato | 2022–23, 2023–24, 2024–25 | 24 | $1,835,851 |
 | City of Menlo Park | 2023–24 | 4 | $1,834,196 |
-| City of Beaumont | 2024–25 | 17 | $1,791,194 |
 | City of Culver City | 2022–23, 2023–24, 2024–25 | 9 | $1,783,275 |
 | County of Santa Barbara | 2023–24 | 15 | $1,690,598 |
 | City of Rio Vista | 2022–23, 2023–24, 2024–25 | 10 | $1,647,965 |
@@ -181,13 +181,13 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 
 ## Double counting
 
-Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 1476 rows of the 1644. Summing every row counts most amounts twice.
+Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 1487 rows of the 1655. Summing every row counts most amounts twice.
 
 ## Limits
 
 These are amounts the agencies reported collecting. They are not audited, not reconciled to bank receipts, and not adjusted to a common accounting basis.
 
-Residential share is unknown for almost every row. Forty-three figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 1433 the source prints one undivided amount. Unknown is never recorded as zero.
+Residential share is unknown for almost every row. Forty-three figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 1444 the source prints one undivided amount. Unknown is never recorded as zero.
 
 Accounting basis is usually not stated. Where it is, the row says so: Sacramento’s reports state they are prepared on the cash basis. Refund treatment varies and is recorded per row.
 
@@ -199,7 +199,7 @@ Some rows are not Mitigation Fee Act fees. Quimby Act park in lieu accounts and 
 
 ## Sources
 
-The [sources directory](sources/) holds 291 complete original reports carrying 300 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
+The [sources directory](sources/) holds 292 complete original reports carrying 301 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
 
 Read [coverage and gaps](docs/coverage.md), the [methodology](docs/methodology.md), the [data dictionary](docs/data-dictionary.md) and the [review process](docs/review-process.md). Mechanical checks do not substitute for reading the source.
 

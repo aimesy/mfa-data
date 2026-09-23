@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T15:01:55.081140+00:00",
- "data_rows": 1644,
- "distinct_printed_figures": 1476,
+ "built_utc": "2026-09-23T15:28:55.259487+00:00",
+ "data_rows": 1655,
+ "distinct_printed_figures": 1487,
  "receiving_entities": 156,
- "agency_years": 310,
- "fee_programs": 906,
- "source_reports": 289,
- "evidence_pairs": 1476,
+ "agency_years": 311,
+ "fee_programs": 916,
+ "source_reports": 290,
+ "evidence_pairs": 1487,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3266,
- "total_bytes": 819965182,
+ "file_count": 3289,
+ "total_bytes": 821137044,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13321,
-   "sha256": "86afd0f0c669ec8e66f1acfe89277d2ca814ad9ec5245ce8bf42d3b0bfd7d571"
+   "bytes": 13333,
+   "sha256": "ec9cabd5a52e3733283970d40d6bd5088ab006639a56b2584f6658a708d60864"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "88334f8ff02eb5ad3ea6440a3d4fdb076164f262b827774e8d9d14c1bbe11822"
+   "sha256": "d899b1ada7306ae87b90936b0490e6b2da60c71890843c74baf0510e4491fb1b"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 651044,
-   "sha256": "1afb03a81dc255b423f4d02958d6e1cc43cee5ebebf04fcd19fc9d0bfa8dce99"
+   "bytes": 655000,
+   "sha256": "6639362ad26b489267475faa71dcc6046e207680fb6516816a7e4061e5c364a3"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3446936,
-   "sha256": "13080ca8546819064826f1d9f89fec65f4d60700f55c4e1115021b183816b18e"
+   "bytes": 3467136,
+   "sha256": "2f57fc5fd0509eac828d30f7565ee9f47e33648dba5e5609076e64613568f7f3"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5149881,
-   "sha256": "790dc291bf6a12ceb96ed72d5374f6dc2fb5718dc6aad729d863840016eebf79"
+   "bytes": 5181482,
+   "sha256": "5d8e31af189c2ee7ce027762a02ea09dd0258d6bbeeb628daaca2b19372aee83"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -535,6 +535,51 @@
    "path": "evidence/extracts/city-of-beaumont-p002-feb1cfee.pdf",
    "bytes": 52473,
    "sha256": "90c68657bf92038032c8b1cb8fcd6020c5ac2cf08beecd4ee4342e491d12ea94"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p005-a6500757.pdf",
+   "bytes": 20840,
+   "sha256": "78c058c1891c7c41c118e4a83fc03d34ebe42968b05f4a1f9741b280b95ef2be"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p007-553de5ec.pdf",
+   "bytes": 20923,
+   "sha256": "26db2f9ff9d4650b3fd629d04e7d4b891b544738eb26f10a48c443ff49085eea"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p009-d896d37f.pdf",
+   "bytes": 30155,
+   "sha256": "581dc6efd2f455e31d9b0a409a0441bc922f01a7b808c12729e489436c8b6994"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p013-f68d9659.pdf",
+   "bytes": 27528,
+   "sha256": "e411628a223b2b6eeb3d55356161b47e4abded8bb5d5e55d4860043edaa33825"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p019-7d191a22.pdf",
+   "bytes": 19951,
+   "sha256": "5e272026ca58d5bc7e93d7c1c1d5565f9f548e11b31d02914ed3bb6a46d4ffbd"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p021-e508f71b.pdf",
+   "bytes": 19723,
+   "sha256": "01941a24e5bd31a1fbe06446d507f47914566a406e60b2312679eddfef7aad2b"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p023-e72ec4fe.pdf",
+   "bytes": 19156,
+   "sha256": "9d97f08abd367ed58b6b72abd3ec3ec4c74a8967d49c6bcad64f517bff42f32d"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p025-c4f87a89.pdf",
+   "bytes": 21030,
+   "sha256": "5d222dedc93ad240cdeeb6e421a52220b4f083f70524c8e3b2ffe7814d4b8880"
+  },
+  {
+   "path": "evidence/extracts/city-of-beaumont-p029-78952cfc.pdf",
+   "bytes": 39713,
+   "sha256": "b263c74885ba34faa3a593b2cc8bb87ba61763c8b6a72a07679c3374dacf009b"
   },
   {
    "path": "evidence/extracts/city-of-bellflower-p005-184a1d49.pdf",
@@ -4102,6 +4147,11 @@
    "sha256": "710da14d602e2e104a623c1fdfe2309c1c81e63a413c747be1f6d9d93514cbc7"
   },
   {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p019-d3acd838.pdf",
+   "bytes": 59990,
+   "sha256": "bbe8b80922b369d65537c4659b525e3af6f2c2a8e2685d967ac457cb08feb0fe"
+  },
+  {
    "path": "evidence/extracts/city-of-san-luis-obispo-p020-ad731aa1.pdf",
    "bytes": 60559,
    "sha256": "bc7ef390da53d1f1adc007fbf1c5e899fc1eced01be9add67568fdeeec4ad8a9"
@@ -4145,6 +4195,11 @@
    "path": "evidence/extracts/city-of-san-luis-obispo-p029-4ef45dcc.pdf",
    "bytes": 73182,
    "sha256": "148ea9120f69732f12432fe47f987a244d627b92b56a4137bca2a7c31af0071c"
+  },
+  {
+   "path": "evidence/extracts/city-of-san-luis-obispo-p029-6dc7ce0d.pdf",
+   "bytes": 62358,
+   "sha256": "56851818cea20ff446e6d3498c3c220a5f67879705d1db8e7a5102a1c8d2b686"
   },
   {
    "path": "evidence/extracts/city-of-san-luis-obispo-p030-f4bb41f2.pdf",
@@ -7478,8 +7533,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1535690,
-   "sha256": "2e0ed6510f9fa1c87e50e07c65ed60ca8885168f1f10db1b81a5334184cdefb2"
+   "bytes": 1546806,
+   "sha256": "c65582c274077db0731d4a1f87e194d0c8c5d77397d7db7b8ef42215e6636993"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -7920,6 +7975,51 @@
    "path": "evidence/outlined/city-of-beaumont-p002-feb1cfee.pdf",
    "bytes": 52533,
    "sha256": "ddf17314b89e7b1ac44c752c220e95e8fb8ec2b5b01b6613def25c37f766a821"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p005-a6500757.pdf",
+   "bytes": 20895,
+   "sha256": "73b035557eea7e5e230ef273dd0d12aed9a2b279d26f4bd7e5ba090e81f5b16a"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p007-553de5ec.pdf",
+   "bytes": 20983,
+   "sha256": "a532fc07a159249617c82b04e18102e99738a3718365108ff8a831c6638c8b42"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p009-d896d37f.pdf",
+   "bytes": 30216,
+   "sha256": "9bee6da8da2a1a5c0776eb9e54aeaf7c46c48074e257d15636491da8eb66b6f5"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p013-f68d9659.pdf",
+   "bytes": 27588,
+   "sha256": "1f57063364eea54b98277ea6783db386cf389b0bfde07aa3e3dd3705f3559608"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p019-7d191a22.pdf",
+   "bytes": 20009,
+   "sha256": "bee5535618e27863535736655e1d58e0646d60978715382766ac0fcd7c4abe57"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p021-e508f71b.pdf",
+   "bytes": 19783,
+   "sha256": "ba461edf47ee1c0ded7d8cd752bd650a909495febbe0d4c4f7ae6915e08086e3"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p023-e72ec4fe.pdf",
+   "bytes": 19215,
+   "sha256": "c5b952bef0bb6c9e1707721846aa70992cfbcf0f717faa8a959c76cef1dc2ff8"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p025-c4f87a89.pdf",
+   "bytes": 21089,
+   "sha256": "c9b68fe5ff17f7893b82bca113cbf79d7e62cff395ad4ff4fdb7cef4030c8a95"
+  },
+  {
+   "path": "evidence/outlined/city-of-beaumont-p029-78952cfc.pdf",
+   "bytes": 39777,
+   "sha256": "442f316847e403b5c698308d0c1e72b2a5f718a394ac5bc36b4608e6c1bf823e"
   },
   {
    "path": "evidence/outlined/city-of-bellflower-p005-184a1d49.pdf",
@@ -11487,6 +11587,11 @@
    "sha256": "57aec61e0b37f787047d70523679743df785aa49b14f1056a7b8d00708592dc4"
   },
   {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p019-d3acd838.pdf",
+   "bytes": 60050,
+   "sha256": "0caff7cb65b325ac50428c435908a77919ab3dac58946374184816fc4981e4e8"
+  },
+  {
    "path": "evidence/outlined/city-of-san-luis-obispo-p020-ad731aa1.pdf",
    "bytes": 60618,
    "sha256": "4daaffd58d7e98a198299a855cc8fb7f2f1c04f8140fa62b987a339908d57523"
@@ -11530,6 +11635,11 @@
    "path": "evidence/outlined/city-of-san-luis-obispo-p029-4ef45dcc.pdf",
    "bytes": 73242,
    "sha256": "4ef843449bbe63ab5e3b56105ff8a15de249842cadfa6bb1aadf474bddc0cddf"
+  },
+  {
+   "path": "evidence/outlined/city-of-san-luis-obispo-p029-6dc7ce0d.pdf",
+   "bytes": 62415,
+   "sha256": "499d0109885800ba1011cd9f4fa5a26e5fa554efae2decf8f0cc2e6ded5b4225"
   },
   {
    "path": "evidence/outlined/city-of-san-luis-obispo-p030-f4bb41f2.pdf",
@@ -14937,6 +15047,11 @@
    "sha256": "d45f68c3530141e443cfb7decbd887bd765a61b932502b3ef47cb41de4c7bd24"
   },
   {
+   "path": "sources/city-of-beaumont-2022-23-36fc3e2c.pdf",
+   "bytes": 420487,
+   "sha256": "36fc3e2c455c9b798aa11e774b1f60b3a68087417a3cbb842390803dcae00104"
+  },
+  {
    "path": "sources/city-of-beaumont-2024-25.pdf",
    "bytes": 284825,
    "sha256": "e0b4ec3f7b06ca7ae70b1c935b75031fa2b2c9b9141c1d4ceb552c5341996ccd"
@@ -16253,13 +16368,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 128974,
-   "sha256": "39395cbced8bd0c5fb0be744280d3c35b0aa143e58384f687de37e562d4cc579"
+   "bytes": 129367,
+   "sha256": "511533e9f16864362fdfc7484a72e27d80b036e218b89edd51289ff14363b8ad"
   },
   {
    "path": "sources/index.json",
-   "bytes": 224000,
-   "sha256": "43bfd11085e96107ffb485895ae16cdb49827f768c0a91df54003b763ac46355"
+   "bytes": 224710,
+   "sha256": "27598ca617310777c77dd3c67733bd2ef12112fe1cfca02131c37a0b4dcf1c1d"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -16334,7 +16449,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "3cd5d8c943873777595c48f5a2968518997a7a105976e0a954bab56bd12c0e8f"
+   "sha256": "e8cc5bfc0a90b8938f54fc82bb346fb82f8a7b20163ce57565ae8646c19f2fae"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -16349,7 +16464,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "2565abdc322cf25b33ee6646a62d5c33d3cb4516c0661b62fec4f776049816ad"
+   "sha256": "22cb9bd437846b223eb992ad9d0121599cb639a58d477f83206ea3680c452664"
   },
   {
    "path": "validation/validate.py",

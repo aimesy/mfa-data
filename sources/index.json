@@ -224,6 +224,20 @@
   "published_data_rows_from_this_source": 6
  },
  {
+  "source_id": "city-of-beaumont-2022-23-36fc3e2c",
+  "receiving_entity": "City of Beaumont",
+  "publication_title": "City of Beaumont Annual Compliance Report for AB 1600, Fiscal Year Ending June 30, 2023",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://beaumontca.gov/DocumentCenter/View/38639/AB1600-Report",
+  "retrieved_utc": "2026-09-22T07:35:50.373987+00:00",
+  "physical_page_count": 44,
+  "source_sha256": "36fc3e2c455c9b798aa11e774b1f60b3a68087417a3cbb842390803dcae00104",
+  "source_bytes": 420487,
+  "source_pdf": "sources/city-of-beaumont-2022-23-36fc3e2c.pdf",
+  "published_data_rows_from_this_source": 9
+ },
+ {
   "source_id": "city-of-beaumont-2024-25",
   "receiving_entity": "City of Beaumont",
   "publication_title": "City of Beaumont impact fee report, fiscal year 2024-25",
@@ -2335,7 +2349,7 @@
   "source_sha256": "f0fad89e83d46f408a183f73f0bb03157ba9aa905a5d103300749c911bc7d701",
   "source_bytes": 1228543,
   "source_pdf": "sources/city-of-san-luis-obispo-2022-23-f0fad89e.pdf",
-  "published_data_rows_from_this_source": 6
+  "published_data_rows_from_this_source": 8
  },
  {
   "source_id": "city-of-san-luis-obispo-2023-24-0f15e90d",
