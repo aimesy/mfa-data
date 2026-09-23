@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T01:16:07.958703+00:00",
- "data_rows": 1266,
- "distinct_printed_figures": 1098,
- "receiving_entities": 125,
- "agency_years": 253,
- "fee_programs": 661,
- "source_reports": 232,
- "evidence_pairs": 1098,
+ "built_utc": "2026-09-23T01:38:31.967901+00:00",
+ "data_rows": 1293,
+ "distinct_printed_figures": 1125,
+ "receiving_entities": 126,
+ "agency_years": 255,
+ "fee_programs": 674,
+ "source_reports": 234,
+ "evidence_pairs": 1125,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2453,
- "total_bytes": 619441459,
+ "file_count": 2509,
+ "total_bytes": 623454906,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11430,
-   "sha256": "66bb05fc6d8207636d56f6def3a380e6f7f4a8f79170be1a810ff382f9d9e82b"
+   "bytes": 11491,
+   "sha256": "78912690a544c7eb258dc862de9170baad69e63f8c7a630da38e3248039581ec"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1266,
-   "sha256": "68302d7ffc1bd91df15dd83d0c34fdf787253d1ace86b23f2c5df502111919e6"
+   "sha256": "ec7902950ec4fd2f51c12091cc4f7a82a0762ba6e553682e68e4da219094f284"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 505500,
-   "sha256": "57fef76719233e2a17598d55fcea184056e81ca88c17a038b7d0455f3db49a58"
+   "bytes": 515487,
+   "sha256": "97e9c935c434f0b9eb22352e6956b060af8ccf4666dd78b03c81ef1616f777da"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2701116,
-   "sha256": "4ce5a44e09e18cc4634d267945184dcf240a9748fe74cf5f96c5cb3b3e69a4bf"
+   "bytes": 2754457,
+   "sha256": "d49a335893081789e0ffde9c2e90b2a2b4bc570dc946e3c0b4f95d06e506341c"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4012063,
-   "sha256": "44118e746251c85adbc67664fe2ecb82aa7e4e8a1b859cb88748cf598c928649"
+   "bytes": 4093457,
+   "sha256": "56a60fb28a50ab8ad4c4c76b2d3e82d2c0708d0b5c2cc8b9b2af5ab35eda0de3"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -2872,6 +2872,126 @@
    "sha256": "7126e390d0bd1103d9da110738d5665fe745a917fa3f5c1e1a1bdf99d10facdc"
   },
   {
+   "path": "evidence/extracts/city-of-oxnard-p006-cc3766ba.pdf",
+   "bytes": 35209,
+   "sha256": "e5e72fa3bd3afecc40e4cbfc0858e3710b4d31b8e73e1f80dd08e22529efb078"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p007-20ec7db0.pdf",
+   "bytes": 35242,
+   "sha256": "838a2b88462c264fb024358a80917a42d6ed0c5131e3ca61f0f20fb4faa08648"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p009-852206c3.pdf",
+   "bytes": 61397,
+   "sha256": "061b8bff271f213c9d0d522e1e757ff788163ce4deb6f099a2f8654a1e826fd0"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p012-2c8a3255.pdf",
+   "bytes": 35611,
+   "sha256": "2e4a4b93153d60a6e2e518dbce68d8b7bc23a1324ddcbcf599e3feb3e1e79d03"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p012-8f88afc6.pdf",
+   "bytes": 35906,
+   "sha256": "4aa22acff5689a20dfb911c65efcdb71d2c3f4b54ffed4e59ac73c8c20ed813f"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p015-3482f76e.pdf",
+   "bytes": 35523,
+   "sha256": "f8082afff6de9d141bf48dbf09606763402472f8be6e680d78d19b539d4b6e4e"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p016-21a5e8c2.pdf",
+   "bytes": 35643,
+   "sha256": "9b8a06ba567d3beed1af0e4e9370813d6933753542c4095b5779f6e094a53376"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p017-32b9c247.pdf",
+   "bytes": 35640,
+   "sha256": "98f7c647eb7f0555a5f9428c77fc063380bbe23e9a51572afc96606b9c6a4058"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p020-acddd1c9.pdf",
+   "bytes": 35276,
+   "sha256": "e80940910487b59de3dedccfdc519fb8f2f87caa84c1eada82f058bf320afb89"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p022-ef63eff1.pdf",
+   "bytes": 35345,
+   "sha256": "b67119452e87573dc97b3e6f6eee6285b5928a435b5ed7700bc680f1875bba96"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p023-074693ea.pdf",
+   "bytes": 34889,
+   "sha256": "07d11560eafb7d5c6cd507870e2a1224a4dfa973c333139f81f18874658d2054"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p023-8788ca8e.pdf",
+   "bytes": 35327,
+   "sha256": "9e23efcadd4885f6a1e78adbe1a6f7fa629366fe867c6592761af1019b8f87de"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p026-6bb198c4.pdf",
+   "bytes": 35623,
+   "sha256": "28e650fbdca23dc7352f4e9a47766218c7ec7add8cd2d7a4a9ab67048b736e62"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p027-70752596.pdf",
+   "bytes": 35752,
+   "sha256": "4609e0236830bfab3fc63c48d5e986e552f903432dd18dbdb7a2caa27f542669"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p028-f4eee7c1.pdf",
+   "bytes": 36048,
+   "sha256": "443397b571311bc167635055d29ec1e6f22084195428529850bd7295b203155f"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p030-779b7b63.pdf",
+   "bytes": 36518,
+   "sha256": "5dead92a04f6b497c01e2bf8ffc33e0d730ad1b772fe0486b540bb1911e312c7"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p032-c945b3dd.pdf",
+   "bytes": 35697,
+   "sha256": "5f716c270e59553f0304b6a7f4c34f807584cab3c16f2e69c584cc10fa4d4565"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p033-e2326ea2.pdf",
+   "bytes": 34986,
+   "sha256": "7250b8a74d79bb4b13cb78420b745c108ff9919c5394d4579651378e9968cc62"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p036-77c29232.pdf",
+   "bytes": 59149,
+   "sha256": "e8b8d8e684a3321b1af91990a8829f9e528364b192ca31d57b2c592357920861"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p037-84cd357c.pdf",
+   "bytes": 35636,
+   "sha256": "402c567c2bb9739130489871667da5f70634ab37ed03012813dc666a6774c61d"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p038-dc5c8995.pdf",
+   "bytes": 35891,
+   "sha256": "1a505f37538af58965c3169680bac01c5094103fbfe271af800e839b69ecce09"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p043-44f03153.pdf",
+   "bytes": 36192,
+   "sha256": "03ed1152f4a0547896a16a648f43bf5dc7e0456b600a838ab2afafb699892397"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p048-0bd6c3b7.pdf",
+   "bytes": 35811,
+   "sha256": "750502720537a45b1bd4c514fc6c4695554389663785b937ba56d8f11cbf3323"
+  },
+  {
+   "path": "evidence/extracts/city-of-oxnard-p053-9e13cab2.pdf",
+   "bytes": 35965,
+   "sha256": "253f64310d1fedacac494fe596e9179200ec62985b1801c6e4185bcb4f83c931"
+  },
+  {
    "path": "evidence/extracts/city-of-palm-springs-p003-5b6d1d90.pdf",
    "bytes": 121615,
    "sha256": "80f9600dbfca2ded2dd4d664ebca79a4cca9e3e8e2a6ceea3ae1b10099414744"
@@ -3822,14 +3942,29 @@
    "sha256": "99fd8cbe7b5da96990503237b5a16353fe7f5fb4fd2fdb829fc95ad00ffbb6c6"
   },
   {
+   "path": "evidence/extracts/city-of-south-san-francisco-p030-ae08d689.pdf",
+   "bytes": 75963,
+   "sha256": "872d986e7bc71cfa1b2c97deed68009f4f2cb902551a9b74610f706b07de5fe4"
+  },
+  {
    "path": "evidence/extracts/city-of-south-san-francisco-p030-f71e1c29.pdf",
    "bytes": 10190,
    "sha256": "14c23b0a0758b277e09376ede00df6b55c5e30d08eebc10441d2c60b954f970e"
   },
   {
+   "path": "evidence/extracts/city-of-south-san-francisco-p032-ca2aee74.pdf",
+   "bytes": 10109,
+   "sha256": "1a19e0716bd4b4a793224939df7534869e9d297e39a5a3a88838be3274cb2cea"
+  },
+  {
    "path": "evidence/extracts/city-of-south-san-francisco-p033-e238650a.pdf",
    "bytes": 70268,
    "sha256": "e8ca50415c25ef51deede82238782ad92547de3cb9c9626e2dd73be3f5c5082b"
+  },
+  {
+   "path": "evidence/extracts/city-of-south-san-francisco-p034-e83c687e.pdf",
+   "bytes": 74782,
+   "sha256": "5ab9b6e00a85e038f5dcc1e47c4b3868b2da1cf09ce9b9f8141fa92e399f7743"
   },
   {
    "path": "evidence/extracts/city-of-south-san-francisco-p035-2c709408.pdf",
@@ -5588,8 +5723,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1147648,
-   "sha256": "3707e1b57477450adbd0490ae9576b4f0883f5d5fe0b822432d5e0e6c14b6a98"
+   "bytes": 1174689,
+   "sha256": "5b043f657d49e05ed5a29bc687a39343c2ff621f9eff2eea9d24135fa1c54c22"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -8367,6 +8502,126 @@
    "sha256": "bd92146bce2f259bd2e7e8e7a5b541078d0b1afc89c5bee17231bcb24889570f"
   },
   {
+   "path": "evidence/outlined/city-of-oxnard-p006-cc3766ba.pdf",
+   "bytes": 35270,
+   "sha256": "ffa1a19f78c33fde1026153eee9dc0556d58a95b21017bf07e84a37672e74646"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p007-20ec7db0.pdf",
+   "bytes": 35305,
+   "sha256": "143ebf758b560fbec023e3789447fb9a3d1d40cbb250c873bafad659b2663fb7"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p009-852206c3.pdf",
+   "bytes": 61451,
+   "sha256": "977d997ca7e3b69526cdfbce792cbaf7ca905b32dcd23b730363ae8f96633dcf"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p012-2c8a3255.pdf",
+   "bytes": 35673,
+   "sha256": "3e8b7fd450cbe7fcdd3837e0ccbd33d1d1e9a33f1991d4e93aa129ead8bc22dc"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p012-8f88afc6.pdf",
+   "bytes": 35962,
+   "sha256": "ca26330b3d616d00ee59f2e61b1a61eb6eb3d83509eff7c2d971aba4e480bd2f"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p015-3482f76e.pdf",
+   "bytes": 35581,
+   "sha256": "d53ae095792f02da6ed461519b12da640699b222d5c9916e70d6260c0d72d50c"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p016-21a5e8c2.pdf",
+   "bytes": 35705,
+   "sha256": "3d75668e83563406c4d1dbed4bd131345c580e022784127b9cbb500ca505eb75"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p017-32b9c247.pdf",
+   "bytes": 35701,
+   "sha256": "ba11fb33e8b27cdc5329aac074261e4c516d2993f024dbb0ed774c8eb92c6dd9"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p020-acddd1c9.pdf",
+   "bytes": 35335,
+   "sha256": "c895aaee17390127484e77b954ca30108bfe7f61edf7534156d932ed52ecf870"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p022-ef63eff1.pdf",
+   "bytes": 35411,
+   "sha256": "4074562f3c7a335a3d6db08e96a9a6eb2d9c74976a5755484a3f331588112a19"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p023-074693ea.pdf",
+   "bytes": 34950,
+   "sha256": "cbbe8fd4168ff4ad02d1e904379f3f4dc9f26efca803967054601acba9c1cea5"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p023-8788ca8e.pdf",
+   "bytes": 35391,
+   "sha256": "7c0cc5801c20a213ac7a49ab339197191ae3955411b3efc6cfa2f11b1317262e"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p026-6bb198c4.pdf",
+   "bytes": 35685,
+   "sha256": "62dfc86996e0676b96f0e8239c6db6cc1de397e61d39b9493e262cd7a16d493c"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p027-70752596.pdf",
+   "bytes": 35812,
+   "sha256": "efa2243c1f80df383130bdab6f8c4e51f8093b11222f5f4f021e0c18950b94ec"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p028-f4eee7c1.pdf",
+   "bytes": 36113,
+   "sha256": "3336c42e2679cd95e99cb52b6132f7f7bbfc9fd5c57eb472614689771da630ad"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p030-779b7b63.pdf",
+   "bytes": 36582,
+   "sha256": "b73ea1037e8104abff069aff0213378848cc12ae7236626dd482ed5035ce39e2"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p032-c945b3dd.pdf",
+   "bytes": 35760,
+   "sha256": "6e6ddb19807d7b528076ab5821a57ead8ecdc0fa08f1001ad9d54a1e369954ac"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p033-e2326ea2.pdf",
+   "bytes": 35046,
+   "sha256": "01856d854a3413fd28efef7ace8aed0f3e509a46a3e85d1a5f43eda323eec025"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p036-77c29232.pdf",
+   "bytes": 59212,
+   "sha256": "03ab014e92cc4b294f13d279c93fb010c6694e7c85e60729d1a8ec60c2ad3afe"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p037-84cd357c.pdf",
+   "bytes": 35697,
+   "sha256": "fd5ac60db823f0d2a9445096ee10297b0688418f5788fe1adef956fbfe3e16c9"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p038-dc5c8995.pdf",
+   "bytes": 35954,
+   "sha256": "003c1679b70eb52178d4f0a6c454911ba263c0f9e21b785397c887fc03d31ab6"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p043-44f03153.pdf",
+   "bytes": 36255,
+   "sha256": "d0c24691e84be11e52a9b2b7cd80057257692e5ec76c79f0622c69e065dc018d"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p048-0bd6c3b7.pdf",
+   "bytes": 35875,
+   "sha256": "05be4eb4fe101ffcf210233e401818b368e3c52c5d00d98b2fe4fadaba54fad2"
+  },
+  {
+   "path": "evidence/outlined/city-of-oxnard-p053-9e13cab2.pdf",
+   "bytes": 36027,
+   "sha256": "56b4d3a3ec371d7c781c307d17b794f1b2cdd93b92f763c77d4c7d058c48f8b4"
+  },
+  {
    "path": "evidence/outlined/city-of-palm-springs-p003-5b6d1d90.pdf",
    "bytes": 121676,
    "sha256": "10590a5ebfad458cfc1c4adf9f13834dd053cb6f3e19590bee7081e40c75efc1"
@@ -9317,14 +9572,29 @@
    "sha256": "077866c0ae870c2a222ccb65cd2540065d5444ef465ce5b59858b2f2b681ff64"
   },
   {
+   "path": "evidence/outlined/city-of-south-san-francisco-p030-ae08d689.pdf",
+   "bytes": 76034,
+   "sha256": "4ddf6474b653b9c02b09bd7275e9c80d062f5029ac649ea2e02a3ce5ab6f4a7a"
+  },
+  {
    "path": "evidence/outlined/city-of-south-san-francisco-p030-f71e1c29.pdf",
    "bytes": 10251,
    "sha256": "5c796a86f31d24b483de8cbbe17c69351b71605891caccf398cba7169dfe6ab0"
   },
   {
+   "path": "evidence/outlined/city-of-south-san-francisco-p032-ca2aee74.pdf",
+   "bytes": 10169,
+   "sha256": "1869eb094a70fd0e6fba70530df4658e0bc9a1ca472782fbdf72d870b3e9b4a9"
+  },
+  {
    "path": "evidence/outlined/city-of-south-san-francisco-p033-e238650a.pdf",
    "bytes": 70324,
    "sha256": "9417c42bd9cb3463f150249fce40ebfdb52771ac38c0ec723dfbcc3a1b24f6a9"
+  },
+  {
+   "path": "evidence/outlined/city-of-south-san-francisco-p034-e83c687e.pdf",
+   "bytes": 74849,
+   "sha256": "8608f8e80b42b66a172217d56f639a530f51168ae63daf99eb78f8dd7674f0a9"
   },
   {
    "path": "evidence/outlined/city-of-south-san-francisco-p035-2c709408.pdf",
@@ -11607,6 +11877,16 @@
    "sha256": "e0f4ad4c01fe6711f59426604e7de3a61b0d8b8d8ac0848dd81225355672458a"
   },
   {
+   "path": "sources/city-of-oxnard-2022-23-84bc967a.pdf",
+   "bytes": 881488,
+   "sha256": "84bc967aa7de08a1caabe5a51149fdc2aef36818fb1a22a00d73aef74ee18f37"
+  },
+  {
+   "path": "sources/city-of-oxnard-2023-24-da1276e4.pdf",
+   "bytes": 826182,
+   "sha256": "da1276e49dc5e40690143035332af5dee5b6a7e7d8f05e61105f4b0535eb892f"
+  },
+  {
    "path": "sources/city-of-palm-springs-2024-25-b8bbc248.pdf",
    "bytes": 229137,
    "sha256": "b8bbc24863d7a6322bd4a3ff5e17a85fe9f6e67d2d4855a2741a890056ab6c2d"
@@ -12203,13 +12483,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 105118,
-   "sha256": "4a97e596eeedee22eb242cd836850d9aaef079ada7f19bb3e98b2efaf4b1f84c"
+   "bytes": 105808,
+   "sha256": "59871d3b51706b3d4b292e48e83be2e36c194b6fc67ea66fb5416f12ff25187e"
   },
   {
    "path": "sources/index.json",
-   "bytes": 182029,
-   "sha256": "d89b2e5973c935c49086d18d45c55633c041cda817c3f90f7bc54792a92af699"
+   "bytes": 183357,
+   "sha256": "9936b25a4b47714fa40a959043e55c36aeda7ee2d5be627c3f72595243ef1405"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -12269,7 +12549,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3058,
-   "sha256": "c1f9dd7a2bc93efb43d3b59123952a5c3507a482b56ee10e130b73cd5727c8b4"
+   "sha256": "f847e6ef2c885e9097f8c32d9f158c7f301383f05377e8c2a5cdf077cacb58bb"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -12284,7 +12564,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2591,
-   "sha256": "bc7f99464f5daafc2f56b323b7d06aea684715e843781d39e001c27c72903418"
+   "sha256": "11eeabb21f8a9904431c470c62045c471fd33f6c5c323e1f20c4226e4bbe859a"
   },
   {
    "path": "validation/validate.py",
