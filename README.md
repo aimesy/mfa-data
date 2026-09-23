@@ -1,6 +1,6 @@
 # California impact fees
 
-1559 reviewed rows covering 1391 printed figures, from 149 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
+1584 reviewed rows covering 1416 printed figures, from 151 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
 
 This is a research sample, not statewide coverage. Thousands of California agencies levy these fees. Do not sum this into a statewide estimate.
 
@@ -99,6 +99,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | Town of Tiburon | 2023–24, 2024–25 | 4 | $1,078,681 |
 | County of San Luis Obispo | 2024–25 | 8 | $1,027,059 |
 | Natomas Unified School District | 2024–25 | 1 | $1,023,800 |
+| City of Wheatland | 2023–24, 2024–25 | 19 | $1,012,255 |
 | City of Walnut Creek | 2024–25 | 6 | $992,367 |
 | City of Winters | 2024–25 | 8 | $873,366 |
 | Sonoma County Fire District | 2022–23, 2023–24, 2024–25 | 3 | $862,580 |
@@ -120,6 +121,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Brawley | 2023–24, 2024–25 | 14 | $372,395 |
 | City of Morro Bay | 2022–23, 2023–24 | 11 | $370,977 |
 | Town of Loomis | 2024–25 | 6 | $304,448 |
+| City of Big Bear Lake | 2024–25 | 6 | $299,948 |
 | City of San Mateo | 2022–23, 2024–25 | 2 | $298,110 |
 | American Canyon Fire Protection District | 2023–24, 2024–25 | 2 | $288,678 |
 | City of Sierra Madre | 2022–23, 2023–24, 2024–25 | 17 | $252,578 |
@@ -174,13 +176,13 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 
 ## Double counting
 
-Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 1391 rows of the 1559. Summing every row counts most amounts twice.
+Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 1416 rows of the 1584. Summing every row counts most amounts twice.
 
 ## Limits
 
 These are amounts the agencies reported collecting. They are not audited, not reconciled to bank receipts, and not adjusted to a common accounting basis.
 
-Residential share is unknown for almost every row. Forty-three figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 1348 the source prints one undivided amount. Unknown is never recorded as zero.
+Residential share is unknown for almost every row. Forty-three figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 1373 the source prints one undivided amount. Unknown is never recorded as zero.
 
 Accounting basis is usually not stated. Where it is, the row says so: Sacramento’s reports state they are prepared on the cash basis. Refund treatment varies and is recorded per row.
 
@@ -192,7 +194,7 @@ Some rows are not Mitigation Fee Act fees. Quimby Act park in lieu accounts and 
 
 ## Sources
 
-The [sources directory](sources/) holds 280 complete original reports carrying 289 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
+The [sources directory](sources/) holds 283 complete original reports carrying 292 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
 
 Read [coverage and gaps](docs/coverage.md), the [methodology](docs/methodology.md), the [data dictionary](docs/data-dictionary.md) and the [review process](docs/review-process.md). Mechanical checks do not substitute for reading the source.
 

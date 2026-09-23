@@ -322,6 +322,20 @@
   "published_data_rows_from_this_source": 3
  },
  {
+  "source_id": "city-of-big-bear-lake-2024-25-bb629d9b",
+  "receiving_entity": "City of Big Bear Lake",
+  "publication_title": "DEVELOPMENT IMPACT FEE REPORT",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://citybigbearlake.com/index.php/filelink/fileman-files/FINANCE/IMPACT_FEE_REPORT/development-impact-fee-annual-report-2024-25.pdf",
+  "retrieved_utc": "2026-09-22T13:28:22.773454+00:00",
+  "physical_page_count": 11,
+  "source_sha256": "bb629d9b8251199f9694bf7b533c2da80fb8c5975888a2893be038c458dda192",
+  "source_bytes": 382698,
+  "source_pdf": "sources/city-of-big-bear-lake-2024-25-bb629d9b.pdf",
+  "published_data_rows_from_this_source": 6
+ },
+ {
   "source_id": "city-of-brawley-2023-24-0198bef5",
   "receiving_entity": "City of Brawley",
   "publication_title": "City of Brawley AB1600 Annual DIF Report FY23-24",
@@ -2840,6 +2854,34 @@
   "source_bytes": 412677,
   "source_pdf": "sources/city-of-west-sacramento-2024-25-dda3b1a0.pdf",
   "published_data_rows_from_this_source": 9
+ },
+ {
+  "source_id": "city-of-wheatland-2023-24-9ee57f36",
+  "receiving_entity": "City of Wheatland",
+  "publication_title": "City of Wheatland Mitigation Fee Act (AB 1600) Report on Development Impact Fees For Fiscal Year ended June 30, 2024",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/wheatlndca-meet-81581bfb6eaa42858741f10e4f85df36/ITEM-Attachment-001-e3394ebb366247faa4cef89e7d95c39e.pdf",
+  "retrieved_utc": "2026-09-22T12:45:11.235343+00:00",
+  "physical_page_count": 7,
+  "source_sha256": "9ee57f36e2e9c44fa5f87d26960dccdf0457a43e6c92de0ae73f82960b8eaacf",
+  "source_bytes": 492065,
+  "source_pdf": "sources/city-of-wheatland-2023-24-9ee57f36.pdf",
+  "published_data_rows_from_this_source": 6
+ },
+ {
+  "source_id": "city-of-wheatland-2024-25-8899d53c",
+  "receiving_entity": "City of Wheatland",
+  "publication_title": "City of Wheatland Mitigation Fee Act (AB 1600) Report on Development Impact Fees (fiscal year not shown in listing)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/wheatlndca-meet-803960c19671474db413235c3ea143f1/ITEM-Attachment-001-6c790d1e756146398f822dab51208fda.pdf",
+  "retrieved_utc": "2026-09-22T12:45:11.461003+00:00",
+  "physical_page_count": 6,
+  "source_sha256": "8899d53cddbcbbd8d47b9e28a4f994b1fb6a98060a111a73e8899637c3cbce39",
+  "source_bytes": 492659,
+  "source_pdf": "sources/city-of-wheatland-2024-25-8899d53c.pdf",
+  "published_data_rows_from_this_source": 13
  },
  {
   "source_id": "city-of-whittier-2023-24",

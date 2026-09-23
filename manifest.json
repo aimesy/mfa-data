@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T10:46:04.742061+00:00",
- "data_rows": 1559,
- "distinct_printed_figures": 1391,
- "receiving_entities": 149,
- "agency_years": 299,
- "fee_programs": 845,
- "source_reports": 278,
- "evidence_pairs": 1391,
+ "built_utc": "2026-09-23T11:19:35.074713+00:00",
+ "data_rows": 1584,
+ "distinct_printed_figures": 1416,
+ "receiving_entities": 151,
+ "agency_years": 302,
+ "fee_programs": 865,
+ "source_reports": 281,
+ "evidence_pairs": 1416,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3085,
- "total_bytes": 779549372,
+ "file_count": 3138,
+ "total_bytes": 789855158,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 12921,
-   "sha256": "4dbd3bfed01975050f86959796c30022d86d555f1bb2a1af193f86b018481ac1"
+   "bytes": 13037,
+   "sha256": "7308bcf0686f956f3ff4fa7ede596adfe3701c1f44e9ff6bdb476950d92fc81f"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "debb01319fa0ecb4211807a80c6afaabf443836336b2e31a5f08a152ecca7f44"
+   "sha256": "fbd565e9333b82a7786b14a2b6db28a28cd24e10a163d580ea289caded511f48"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 618835,
-   "sha256": "2f0d3b02abeced9ccf743be8be69b429b6e641f2da05022b8dee49f3141a4fb9"
+   "bytes": 628080,
+   "sha256": "eb482476c97b1d44b740aa1191534c938edb66847aa64d5ddd2964e456409234"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3269528,
-   "sha256": "a7d4fb7bcfd0143c4e5072746c9a963e035a23065544b3c93f94fcc1c4760b80"
+   "bytes": 3323655,
+   "sha256": "63d80875f779c823a6bb69d5d0bcabe9985f31dbf6a43fee0e5232a786ed6493"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4884376,
-   "sha256": "42b49b84fa0c5248095fb174b08c25b1690d0dfa8500dc5f331e613f7ad8c94d"
+   "bytes": 4964432,
+   "sha256": "828f26139fad3207522d3116804149c7ccb3be726f551c604ea86df8accba188"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -630,6 +630,36 @@
    "path": "evidence/extracts/city-of-beverly-hills-p003-6a8b909f.pdf",
    "bytes": 39750,
    "sha256": "fcba3d21c1725a1cd4454efa0582472043b2a189313feb432d9f40772ff7e904"
+  },
+  {
+   "path": "evidence/extracts/city-of-big-bear-lake-p004-e19b5c2d.pdf",
+   "bytes": 44501,
+   "sha256": "1109a28804f01238d51d8aa779f7716eb5b2932e4849838934cd171b45638e07"
+  },
+  {
+   "path": "evidence/extracts/city-of-big-bear-lake-p005-edb83a6a.pdf",
+   "bytes": 44271,
+   "sha256": "50d0a65f97d80cad2289dffcb21831d78fd3a3ea6d3453a57656572b7ce4aa58"
+  },
+  {
+   "path": "evidence/extracts/city-of-big-bear-lake-p006-ecc98ff9.pdf",
+   "bytes": 43782,
+   "sha256": "71cd830db18b710f6aac65a363c468e13d63e31160ca688c57d4632767b93d58"
+  },
+  {
+   "path": "evidence/extracts/city-of-big-bear-lake-p007-fca77db6.pdf",
+   "bytes": 41642,
+   "sha256": "34178d09ed125f40aadc636cc8f812967209b20860defa22a3a23393ce670df6"
+  },
+  {
+   "path": "evidence/extracts/city-of-big-bear-lake-p008-5fb963cb.pdf",
+   "bytes": 41453,
+   "sha256": "a3b9329846f74a69cf7c00ad6126c7d027faa56a4a0e5671558c03edfd5f1fde"
+  },
+  {
+   "path": "evidence/extracts/city-of-big-bear-lake-p009-0aa189e1.pdf",
+   "bytes": 42493,
+   "sha256": "c2f3588f771f629d7d15285fb20fcea304959292c407edf4791a4f6a79916f96"
   },
   {
    "path": "evidence/extracts/city-of-brawley-p001-c6a9da18.pdf",
@@ -5372,6 +5402,101 @@
    "sha256": "9ad61aa498e025f02e5fbcc90d5069b802876a979deb69568829fbc565d52a6d"
   },
   {
+   "path": "evidence/extracts/city-of-wheatland-p002-839802be.pdf",
+   "bytes": 218021,
+   "sha256": "16dcc981b5d137eb8c85daa21a6df4399c850ed36951585b74ee0132b5b6be40"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p002-8c9bfdf7.pdf",
+   "bytes": 215637,
+   "sha256": "33e2e676c8d55ec064128afdc89e63e475bd50cb877c6b6b8574ee4238f15ed3"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p002-9061c50e.pdf",
+   "bytes": 218021,
+   "sha256": "539704805463ac3673a7e5bbb81c3b6c723a1e81736ab59dd51bf5e3634aa27b"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p002-cf99bd16.pdf",
+   "bytes": 218021,
+   "sha256": "e37b38e6fc8519a61e48afcbbc9ac1054890e149c2de662375b084c19b152a0a"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p003-5f020123.pdf",
+   "bytes": 217411,
+   "sha256": "e8e07647f8d49ad527fba3d490d4381bd104338189e02531d5fdd3d36a9bf8e5"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p004-01d670af.pdf",
+   "bytes": 217080,
+   "sha256": "047a3820bdafb8fa3025f61a49b142b9c00ea1688880d5ba582d8f3a199ff6d6"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p004-3ec5c912.pdf",
+   "bytes": 217080,
+   "sha256": "056fc3b5380e9747dc2e1e78a707f48f6900ff06e5ce6ca5703b33733ed44c27"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p004-a454e090.pdf",
+   "bytes": 216861,
+   "sha256": "969efced82f855ff72329fa138b0161eb4d2113808dcaff3dceeb27f045f474a"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p004-d5a79b8a.pdf",
+   "bytes": 217080,
+   "sha256": "59ab69f43d2271edb561c543b1146f673c8cdd19763cc15df584fec0b62adfb9"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p005-034fc91b.pdf",
+   "bytes": 217717,
+   "sha256": "c77f21ef314942a8e140556d2abaf0a2f843d1326b879ffcd1c5c95918b8a5d5"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p005-49f065d5.pdf",
+   "bytes": 216588,
+   "sha256": "8728d5bf7dfecff40d3a5420b406724c4293220f1b4a00c771d04f617342655c"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p005-5e4997f2.pdf",
+   "bytes": 217717,
+   "sha256": "78a3570d4107ce8a1b3c92da847426434b242250b6ef23acb6cfe1c531c933b5"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p005-83c96950.pdf",
+   "bytes": 216588,
+   "sha256": "2b0a947043f404e59f0a74c2ae779b0ad75106b247bf50665e440fe9bc525f42"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p005-9e8dbc61.pdf",
+   "bytes": 217717,
+   "sha256": "510617c9d5456641f35262379ad9cb3994ad15000c360127e4dbdeabe5ebf83e"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p005-fe011f32.pdf",
+   "bytes": 216588,
+   "sha256": "321cf4c09c60b180ab7491ab4294bc4f5a7a45f1eff70b9691ea625243858dc2"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p006-36e1ee6e.pdf",
+   "bytes": 215989,
+   "sha256": "828803fea51d7087675f0f81291c96cc5d0271fd87484c508fd013c9d4b7b381"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p006-67120b98.pdf",
+   "bytes": 217659,
+   "sha256": "ea79783eb9f9d1b5a065dc9cda052bf1aab088105812669e60177eb6d4feb10d"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p006-83d8c200.pdf",
+   "bytes": 215989,
+   "sha256": "1c66846566c8c4c8f311df643a7ce473235761462bf465cdeae4cce12ad49da7"
+  },
+  {
+   "path": "evidence/extracts/city-of-wheatland-p006-84dc627e.pdf",
+   "bytes": 215989,
+   "sha256": "724aedcfe69c927107a47622c6b028af97d6a0ce0b22f7bd244f3c1e519e2246"
+  },
+  {
    "path": "evidence/extracts/city-of-whittier-p011-42eca034.pdf",
    "bytes": 48812,
    "sha256": "1f03033952e0a50a72813d1a1c971da313f05c1bcda1e814c6d64feb0b927305"
@@ -7053,8 +7178,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1447523,
-   "sha256": "c76b476bb670bcaad60243f8d9a8f90ebec186b3095c7d16732d900de419e96b"
+   "bytes": 1473284,
+   "sha256": "c80b4736e837a0cf56d7af445a6d0dd3f9da6fe7cc17917185b6d53fdf100043"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -7590,6 +7715,36 @@
    "path": "evidence/outlined/city-of-beverly-hills-p003-6a8b909f.pdf",
    "bytes": 40078,
    "sha256": "fc455f01de87e13752557d737b8f0de82c779f5ce64199908f1b15138fe34df5"
+  },
+  {
+   "path": "evidence/outlined/city-of-big-bear-lake-p004-e19b5c2d.pdf",
+   "bytes": 44560,
+   "sha256": "27602a55d7fb2b6688f9b3cac5156b1dbd5e29b5ac833298f7ebd8cdf7de8b8a"
+  },
+  {
+   "path": "evidence/outlined/city-of-big-bear-lake-p005-edb83a6a.pdf",
+   "bytes": 44332,
+   "sha256": "74dd51d5dbcb9b26bee29987f40fe9c65ccbac179c86a4741014aeba9e83d001"
+  },
+  {
+   "path": "evidence/outlined/city-of-big-bear-lake-p006-ecc98ff9.pdf",
+   "bytes": 43841,
+   "sha256": "b4f4cefea5ed77aceedd4dd0fb099d623221e441346329cc8987affe30244875"
+  },
+  {
+   "path": "evidence/outlined/city-of-big-bear-lake-p007-fca77db6.pdf",
+   "bytes": 41703,
+   "sha256": "acb22ef87d31b4ee5739404e15ac73f626cbdbd1a4ae2e01fc67b64bf8d711ce"
+  },
+  {
+   "path": "evidence/outlined/city-of-big-bear-lake-p008-5fb963cb.pdf",
+   "bytes": 41514,
+   "sha256": "38a46725db968fc8d206833f36268decac7d4507ffc035bf335b129ff5cbf2ff"
+  },
+  {
+   "path": "evidence/outlined/city-of-big-bear-lake-p009-0aa189e1.pdf",
+   "bytes": 42553,
+   "sha256": "aca1a1c4be99aee47432041da4ca86f7a8e028e39a3ee8ab3ae9e9c158d4a855"
   },
   {
    "path": "evidence/outlined/city-of-brawley-p001-c6a9da18.pdf",
@@ -12332,6 +12487,101 @@
    "sha256": "54f7fd9cf81bbd6d819f4e8a77e73aa1f2a62e3fed9d00b31c6ee3515a2da3b0"
   },
   {
+   "path": "evidence/outlined/city-of-wheatland-p002-839802be.pdf",
+   "bytes": 218077,
+   "sha256": "05a6cd2bc45d13a403a0cbdf331df1c64b8274785d71f800f0adec2e53224f58"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p002-8c9bfdf7.pdf",
+   "bytes": 215691,
+   "sha256": "e8781210e83d62ffd9c2aaa2ce48de008371b257c234cba74ec9b8de04343dcc"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p002-9061c50e.pdf",
+   "bytes": 218077,
+   "sha256": "51152bccd052b43db15c9cc3f2af302fd0e26d3d6759023ca53cdbd551d60e36"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p002-cf99bd16.pdf",
+   "bytes": 218078,
+   "sha256": "9944cbfa24615d401c4b7273f00a47e318b76f2365f0a9b08dd415c9d92d45dc"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p003-5f020123.pdf",
+   "bytes": 217464,
+   "sha256": "ac6b40db13e85a4edf15a3fdec0920edc09a356d3a8642fafca4e4e614558dd1"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p004-01d670af.pdf",
+   "bytes": 217132,
+   "sha256": "b6a2b31e47120fb02e8af9a9cadd2a7ec3d8d04db64bbb37988c4dfa5b70a39d"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p004-3ec5c912.pdf",
+   "bytes": 217136,
+   "sha256": "42c02bbce50f8a64bbc8d7921a3ad9cafaf2e91185aaa12a9b513e18f467ba72"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p004-a454e090.pdf",
+   "bytes": 216917,
+   "sha256": "e23e1b513f0a41b64eded045ac745037887b1cad024378b4fce1961f54df6bd2"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p004-d5a79b8a.pdf",
+   "bytes": 217136,
+   "sha256": "8563a964b55ab415ec95ec259b0af0cb210df54173402cf035e68442998ea3b7"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p005-034fc91b.pdf",
+   "bytes": 217771,
+   "sha256": "968468ec3d7119779cbfc79067c073eb5a508befa59ea318d2b4f9cf90accf33"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p005-49f065d5.pdf",
+   "bytes": 216637,
+   "sha256": "01bd1cfcb74213469012873b571092ff255eaecc460e81cf7c6f16a5de8c1467"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p005-5e4997f2.pdf",
+   "bytes": 217775,
+   "sha256": "4685a6512d7d3b0a2c3d7b038ecc84747daa9b0fe5476f0a5e3a74b434f4a6ab"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p005-83c96950.pdf",
+   "bytes": 216636,
+   "sha256": "e1fae3b3a6c83d54db072155dff3156af8c6f3ac171fb0c52548b67d39a98880"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p005-9e8dbc61.pdf",
+   "bytes": 217774,
+   "sha256": "7c6b543db5d517445d1610d22ab9f6d69bcd1b98abe74c336e53cd77c66b5d40"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p005-fe011f32.pdf",
+   "bytes": 216643,
+   "sha256": "0e6b70693258dc6f2f623b6b48ad4dbef143c95466e75713aca322a101cd4a45"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p006-36e1ee6e.pdf",
+   "bytes": 216043,
+   "sha256": "cbe4001ad5ab6bbb0c8374ba4a33a42a4688945b0504d401e3e49b2ab09ac47c"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p006-67120b98.pdf",
+   "bytes": 217714,
+   "sha256": "568bbd151464c36728165c13a3b79a326c6e66a2a988f5405a5952d27aed4f74"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p006-83d8c200.pdf",
+   "bytes": 216042,
+   "sha256": "50381e9985e66175b515735483fb8a5f675c27140afb4b0dee39b789f3a2b7bc"
+  },
+  {
+   "path": "evidence/outlined/city-of-wheatland-p006-84dc627e.pdf",
+   "bytes": 216041,
+   "sha256": "276e0de2148ceea83c083d958dcd001b4a7d90ff95fa789992115023491b61f0"
+  },
+  {
    "path": "evidence/outlined/city-of-whittier-p011-42eca034.pdf",
    "bytes": 48870,
    "sha256": "f18cbb4f361ae84ecca11c74cc9302096fe999836b28dc10f65d650425a18e30"
@@ -14122,6 +14372,11 @@
    "sha256": "050ffa31545e55c7c56cfda6bf26d4c2d71a532cd3337587214d9154bfc92823"
   },
   {
+   "path": "sources/city-of-big-bear-lake-2024-25-bb629d9b.pdf",
+   "bytes": 382698,
+   "sha256": "bb629d9b8251199f9694bf7b533c2da80fb8c5975888a2893be038c458dda192"
+  },
+  {
    "path": "sources/city-of-brawley-2023-24-0198bef5.pdf",
    "bytes": 2030797,
    "sha256": "0198bef54d3aacf44ace8db194e16f23f0815f212bf9678f8d77c2260cebed18"
@@ -15012,6 +15267,16 @@
    "sha256": "dda3b1a0309127ed048d4d5283af2c0c06e5a979531137d951864fb371108a4f"
   },
   {
+   "path": "sources/city-of-wheatland-2023-24-9ee57f36.pdf",
+   "bytes": 492065,
+   "sha256": "9ee57f36e2e9c44fa5f87d26960dccdf0457a43e6c92de0ae73f82960b8eaacf"
+  },
+  {
+   "path": "sources/city-of-wheatland-2024-25-8899d53c.pdf",
+   "bytes": 492659,
+   "sha256": "8899d53cddbcbbd8d47b9e28a4f994b1fb6a98060a111a73e8899637c3cbce39"
+  },
+  {
    "path": "sources/city-of-whittier-2023-24.pdf",
    "bytes": 226119,
    "sha256": "19d643ed3a17c96c096db446ed42979adb5b6f961d2eddf0afcc600cd80d5726"
@@ -15348,13 +15613,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 124263,
-   "sha256": "77163bbaf37d1f64b195c08a2025261b72de560fa5c6cd27e97ad67c044d15b1"
+   "bytes": 125724,
+   "sha256": "9c9c95ff679a8ba8fd49efbddc2236e014fd607a1d53663bb2c717d077f2e7db"
   },
   {
    "path": "sources/index.json",
-   "bytes": 215792,
-   "sha256": "a5b697a9f05d156c85f97f6f446752d8fff9b7eb444ecf218b69498da185aeba"
+   "bytes": 218208,
+   "sha256": "857d419c6ec8c52265247b30c46ca33a522c6b36f5af131e6e7ebd63c07c9238"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -15429,7 +15694,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "bfa0079cd131a32c628e68bd640544b9880c985352a971322436ec7d28c6e1ee"
+   "sha256": "5ba7b8e778c9616a90c33df6761c6f4c45b14376f9a2f125c0012280a4403827"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -15444,7 +15709,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "a939c794fdcff18effe366e952d7cc35429c85970deec443f8b723aba249ecd4"
+   "sha256": "213a0d4ae8602621e833f807197cd4485a1715a4a13da95da955115b4277d47e"
   },
   {
    "path": "validation/validate.py",
