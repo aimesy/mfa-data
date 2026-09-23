@@ -20272,6 +20272,38 @@
   "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
  },
  {
+  "evidence_id": "66e8281c09d9139b",
+  "receiving_entity": "City of Yreka",
+  "source_id": "city-of-yreka-2022-23-337635f2",
+  "physical_pdf_page": 9,
+  "printed_page": "",
+  "internal_identifier": "Development Impact Fee Report / row Parks and Recreation / column Fees Collected",
+  "quoted_label": "Fees Collected",
+  "quoted_value_text": "5,664.72",
+  "page_extract_pdf": "evidence/extracts/city-of-yreka-p009-66e8281c.pdf",
+  "page_extract_sha256": "5f964d7a58b306cbcd55e1cb5379fe503bbc39e5a7e2feca78af2fc48c9bc7d8",
+  "outlined_figure_pdf": "evidence/outlined/city-of-yreka-p009-66e8281c.pdf",
+  "outlined_figure_sha256": "a9080f670810ad73dc89ae964efb1f8068fe524970037ccd0476136b3cba4c45",
+  "outline_rect_pdf_points": "[241.8385772705078, 215.0499725341797, 279.44573974609375, 228.52996826171875]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
+  "evidence_id": "c5c7e708a7b86bda",
+  "receiving_entity": "City of Yreka",
+  "source_id": "city-of-yreka-2022-23-337635f2",
+  "physical_pdf_page": 9,
+  "printed_page": "",
+  "internal_identifier": "Development Impact Fee Report / row Streets / column Fees Collected",
+  "quoted_label": "Fees Collected",
+  "quoted_value_text": "1,676.76",
+  "page_extract_pdf": "evidence/extracts/city-of-yreka-p009-c5c7e708.pdf",
+  "page_extract_sha256": "125e3311cc27ff4685aa5e850f670abfb7f3f2baec69d73fa014c10daebbc362",
+  "outlined_figure_pdf": "evidence/outlined/city-of-yreka-p009-c5c7e708.pdf",
+  "outlined_figure_sha256": "e27da958e3398213e45e497fe915e7a0dccfa05cb8c285d804869ab93fa61c15",
+  "outline_rect_pdf_points": "[241.84046936035156, 188.53001403808594, 279.4476318359375, 202.010009765625]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
   "evidence_id": "0852d1c3ce3c2587",
   "receiving_entity": "County of Butte",
   "source_id": "county-of-butte-2022-23-9fafb462",

@@ -3220,6 +3220,20 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "city-of-yreka-2022-23-337635f2",
+  "receiving_entity": "City of Yreka",
+  "publication_title": "2023 Annual Report on Development Impact Fees",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.ci.yreka.ca.us/DocumentCenter/View/1520/2023-Annual-Report-on-Development-Impact-Fees-PDF?bidId=",
+  "retrieved_utc": "2026-09-22T12:30:24.933243+00:00",
+  "physical_page_count": 12,
+  "source_sha256": "337635f23148ed5745931faa0c0dcf2b9a8471c1fb89eede5e5bb93d0eed01c6",
+  "source_bytes": 508816,
+  "source_pdf": "sources/city-of-yreka-2022-23-337635f2.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
   "source_id": "consolidated-fire-protection-district-of-los-angeles-county-2022-23",
   "receiving_entity": "Consolidated Fire Protection District of Los Angeles County",
   "publication_title": "Consolidated Fire Protection District: FY2022-23 Developer Fee Funds report and October2023 station plan in January17,2024 Public Safety agenda materials",

@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T18:35:07.991308+00:00",
- "data_rows": 1711,
- "distinct_printed_figures": 1543,
- "receiving_entities": 162,
- "agency_years": 320,
- "fee_programs": 964,
- "source_reports": 297,
- "evidence_pairs": 1543,
+ "built_utc": "2026-09-23T18:58:05.345336+00:00",
+ "data_rows": 1713,
+ "distinct_printed_figures": 1545,
+ "receiving_entities": 163,
+ "agency_years": 321,
+ "fee_programs": 966,
+ "source_reports": 298,
+ "evidence_pairs": 1545,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3408,
- "total_bytes": 834003144,
+ "file_count": 3413,
+ "total_bytes": 834725641,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13655,
-   "sha256": "134410f6d017612305aaf1ce912c4eaf26c8f6c33af7f7c3520973b00032dcae"
+   "bytes": 13698,
+   "sha256": "241330dcdfea97695efaad912087b9744004d6f4742f48ed558cf4075883a732"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "a78bf64a73def60d62262d89babbd6925a3ff35890e313427f1eee56b26940ca"
+   "sha256": "1fd2c231961bb7751e1081a32a273a804a1421b1d44662ca1e28eb6a696cce72"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 677416,
-   "sha256": "d75ace51e6a68456a4f003991c11c6ead7f59187c29871c12b5f5c1974c15221"
+   "bytes": 678563,
+   "sha256": "ac22b56b00d7103b7ee8aabe254a8e5136617bf0ea5e387336d5ab6a82945bc8"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3581676,
-   "sha256": "364e0856ea86e967014c43c041d66569d65075b2f8764f71824f2437834e881b"
+   "bytes": 3584965,
+   "sha256": "11287779b31c34bf7680d365a17d6056fe716727afd8886aecfe6697bfcb3e12"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5354048,
-   "sha256": "b262c64d379e25ffe395b390326ba5d8e4fa2930e0218b410eddeaf03bfd1fac"
+   "bytes": 5359415,
+   "sha256": "5bd630dd50ff8ac5b139fda3c85d809a16f55baf440103810c9f18a79c0122d8"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -6317,6 +6317,16 @@
    "sha256": "e7f778ce794791887f9856c9e24a942c628f5a4dfb1f5a824f3d68e212f50c71"
   },
   {
+   "path": "evidence/extracts/city-of-yreka-p009-66e8281c.pdf",
+   "bytes": 50152,
+   "sha256": "5f964d7a58b306cbcd55e1cb5379fe503bbc39e5a7e2feca78af2fc48c9bc7d8"
+  },
+  {
+   "path": "evidence/extracts/city-of-yreka-p009-c5c7e708.pdf",
+   "bytes": 50152,
+   "sha256": "125e3311cc27ff4685aa5e850f670abfb7f3f2baec69d73fa014c10daebbc362"
+  },
+  {
    "path": "evidence/extracts/consolidated-fire-protection-district-of-p064-a831158b.pdf",
    "bytes": 76933,
    "sha256": "1567258ad1182cc5bd8f53cbe62dd38b992e35e65e39acc0c8bd87bf20ff458b"
@@ -7813,8 +7823,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1604043,
-   "sha256": "297d2110f8907d1f44b581f1babb3d7c5262bd7538c977e51098eed7015745ea"
+   "bytes": 1606063,
+   "sha256": "4dc75267e55cbc2983761cd05e1ee53ff37f10edd1ff6cfa61b01f6918ddd8a3"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -14037,6 +14047,16 @@
    "sha256": "c9477fab8d3160ebd0cdb37b0a3dfda21f882d301ccf336cc696b4dd3788461e"
   },
   {
+   "path": "evidence/outlined/city-of-yreka-p009-66e8281c.pdf",
+   "bytes": 50211,
+   "sha256": "a9080f670810ad73dc89ae964efb1f8068fe524970037ccd0476136b3cba4c45"
+  },
+  {
+   "path": "evidence/outlined/city-of-yreka-p009-c5c7e708.pdf",
+   "bytes": 50209,
+   "sha256": "e27da958e3398213e45e497fe915e7a0dccfa05cb8c285d804869ab93fa61c15"
+  },
+  {
    "path": "evidence/outlined/consolidated-fire-protection-district-of-p064-a831158b.pdf",
    "bytes": 76994,
    "sha256": "53bdcdd7d7e5666ceff6bdc9bc70331977f96b2bd764b97be7cdf1cd85297995"
@@ -16667,6 +16687,11 @@
    "sha256": "d01848ef57e2ac67136964bd82d6f594e90e138e6d9eaf2556bf0b2aec00ec28"
   },
   {
+   "path": "sources/city-of-yreka-2022-23-337635f2.pdf",
+   "bytes": 508816,
+   "sha256": "337635f23148ed5745931faa0c0dcf2b9a8471c1fb89eede5e5bb93d0eed01c6"
+  },
+  {
    "path": "sources/combined-filing-3476ee5f6f57.pdf",
    "bytes": 2969354,
    "sha256": "3476ee5f6f570e26316a2954004648e09a40f46996c364ef8b6a4d7dc9041be9"
@@ -16963,13 +16988,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 132125,
-   "sha256": "df6a65e4e2f71afc77acd2fae328c47058107d0141e623ee806f988f371f2d4e"
+   "bytes": 132511,
+   "sha256": "bb4bfe9c6d646dfa49d71257dba7d156069270d1e7b0afd78193658ff4132c88"
   },
   {
    "path": "sources/index.json",
-   "bytes": 229691,
-   "sha256": "6e198bf31184f4837fca0f720710c76ff7a0cabf1a35e91a07117ba5def08fb9"
+   "bytes": 230396,
+   "sha256": "f07b7a1255989cc5f63f05d61e3208132cabdff4d5142237ba9bb5649a5a8a6c"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -17044,7 +17069,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "591480261faadb9c0f627f6ee2419ed2d00e702a6ff729f02be91bfec1d4cf97"
+   "sha256": "7c94ecb5429900de21229f9d84ae87a1d75871d48f3bb6db7bfd7c999b8ccb69"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -17059,7 +17084,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "7f913f10796757fb919471e52155bfca69e06d0a20de5b02bf5d948d0d4d5fa4"
+   "sha256": "9d5597fffa3a03da9bb960acdeea6301af13d4993e04b1fe2a91af362bac6877"
   },
   {
    "path": "validation/validate.py",
