@@ -2758,6 +2758,48 @@
   "published_data_rows_from_this_source": 6
  },
  {
+  "source_id": "city-of-west-sacramento-2022-23-58943f94",
+  "receiving_entity": "City of West Sacramento",
+  "publication_title": "City of West Sacramento development impact fee report, fiscal year 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.cityofwestsacramento.org/home/showpublisheddocument/19144/638614881270770000",
+  "retrieved_utc": "2026-09-22T07:36:55.823029+00:00",
+  "physical_page_count": 27,
+  "source_sha256": "58943f94796d0168d7ae7a684eec115bd72112052cd10a2043d496886fcac419",
+  "source_bytes": 398371,
+  "source_pdf": "sources/city-of-west-sacramento-2022-23-58943f94.pdf",
+  "published_data_rows_from_this_source": 9
+ },
+ {
+  "source_id": "city-of-west-sacramento-2023-24-d089d93f",
+  "receiving_entity": "City of West Sacramento",
+  "publication_title": "City of West Sacramento development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.cityofwestsacramento.org/home/showpublisheddocument/19685/638695961096470000",
+  "retrieved_utc": "2026-09-22T07:36:55.534636+00:00",
+  "physical_page_count": 27,
+  "source_sha256": "d089d93fec7b879141512c8815e8cd16f2e33b17a7b5301af2943bbae44db34a",
+  "source_bytes": 397385,
+  "source_pdf": "sources/city-of-west-sacramento-2023-24-d089d93f.pdf",
+  "published_data_rows_from_this_source": 9
+ },
+ {
+  "source_id": "city-of-west-sacramento-2024-25-dda3b1a0",
+  "receiving_entity": "City of West Sacramento",
+  "publication_title": "City of West Sacramento development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.cityofwestsacramento.org/home/showpublisheddocument/21836/639120202878100000",
+  "retrieved_utc": "2026-09-22T07:36:55.133877+00:00",
+  "physical_page_count": 27,
+  "source_sha256": "dda3b1a0309127ed048d4d5283af2c0c06e5a979531137d951864fb371108a4f",
+  "source_bytes": 412677,
+  "source_pdf": "sources/city-of-west-sacramento-2024-25-dda3b1a0.pdf",
+  "published_data_rows_from_this_source": 9
+ },
+ {
   "source_id": "city-of-whittier-2023-24",
   "receiving_entity": "City of Whittier",
   "publication_title": "City of Whittier annual development impact fee report, fiscal year 2023-24",

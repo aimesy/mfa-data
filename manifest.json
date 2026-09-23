@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T09:08:53.914903+00:00",
- "data_rows": 1508,
- "distinct_printed_figures": 1340,
- "receiving_entities": 145,
- "agency_years": 292,
- "fee_programs": 814,
- "source_reports": 271,
- "evidence_pairs": 1340,
+ "built_utc": "2026-09-23T09:33:57.230653+00:00",
+ "data_rows": 1535,
+ "distinct_printed_figures": 1367,
+ "receiving_entities": 146,
+ "agency_years": 295,
+ "fee_programs": 823,
+ "source_reports": 274,
+ "evidence_pairs": 1367,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2976,
- "total_bytes": 768202844,
+ "file_count": 3033,
+ "total_bytes": 773277537,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 12685,
-   "sha256": "f80aa3bbfbf0c7187e38f60c09bc0134430072b494ea9cef4b148f1ed15995b2"
+   "bytes": 12766,
+   "sha256": "ba4a10f1d78c687e892a2f8a720e67ac8c0fd743758f1b877a3d89d0c92303a1"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "2d466205572609441cd6b56e633ef2418beb568740e240c7ceb4152d720d00ae"
+   "sha256": "c9946905015ba73a7dd6ebeeeada3577f4fe1c3f69558b7d6f28853672ba9667"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 597873,
-   "sha256": "5d7dc84c9c31a54f3614ff96ef3e92f76df1ee21113c9da94d359022cf8cb1d3"
+   "bytes": 608230,
+   "sha256": "b77be06a6698295d8d142ac486c4cad781ef9637db34669cccd7303b56e71985"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3159736,
-   "sha256": "3620e6b9affde7658a88252f5bbfff0764649549ab027340784bdea95e084158"
+   "bytes": 3219271,
+   "sha256": "4ca7b5f902fcb7213be9fd67a3560b07d2a43b4f853ddd0a5ea30b2bbd1565cc"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4721765,
-   "sha256": "8b1e801b2b24408872ba37053b7271bedf10cc34a273b5906ee6a9d4be219e4f"
+   "bytes": 4809245,
+   "sha256": "77f0e012d2340e32d17d8b8203cf525654d4f4083e5c52ac454bfe2a8bf2404d"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -5147,6 +5147,141 @@
    "sha256": "c588236f559d282522d68a375e0443f8fbe6372593ac9bfd745c46645a166684"
   },
   {
+   "path": "evidence/extracts/city-of-west-sacramento-p008-73d69d02.pdf",
+   "bytes": 67694,
+   "sha256": "5c492b54f6bcafb3ae478dcee8c3e1f69f11a602c7c66f2b5e6393b500ddfc0d"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p008-91536ac6.pdf",
+   "bytes": 68456,
+   "sha256": "0541685309b3562ee86d4e1502ffe5e01e172da54ad283a3e1a4fbbe0acc0f35"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p008-d357a9fb.pdf",
+   "bytes": 68669,
+   "sha256": "07aa8ca2ea8f7a24488fe0140f62305a25552702767f27a56c2f76487a90e088"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p009-8516b5a8.pdf",
+   "bytes": 68749,
+   "sha256": "389259d5564e89f5af817fa87ce305aacac501bb2f4dab9e5d7aaf0cf2a3267c"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p009-9074248d.pdf",
+   "bytes": 68512,
+   "sha256": "2a6fb14aa59a7c05431c75c5b293ba67ac020a15878326826cd7e08cd584e40c"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p009-a5b8540d.pdf",
+   "bytes": 67649,
+   "sha256": "82963817b725802453302f2c5a1ef554f9c56c5fe306b67d7f2e34009a2c01cd"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p010-3267f6ce.pdf",
+   "bytes": 68261,
+   "sha256": "8ad8e6ad64817abdb1f8cb0b84b8bc2767dc428bc1e5535b04044e82c5443734"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p010-3ee1dddb.pdf",
+   "bytes": 68107,
+   "sha256": "7d6bdaf0a410589eed3e026fde2b797701609fbfc67355d3a3fd1c4da952c435"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p010-9c9813be.pdf",
+   "bytes": 67221,
+   "sha256": "4d33bd5746f5f6ecea0247902ff615c271d49f5dd0c30036d23606d33dbd1d53"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p011-08c779ac.pdf",
+   "bytes": 66740,
+   "sha256": "56428a5f3aa4d64e1087d94740e6eb0897f272447712016bbbdccb9e9c3eb5e1"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p011-1f302c6e.pdf",
+   "bytes": 67738,
+   "sha256": "75d8c398fc7e6e1274bac0f27a64d600826ef7805527c0c6af9cef4e89bbce2b"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p011-6c2495f9.pdf",
+   "bytes": 67934,
+   "sha256": "c33f3bac8a04930b703af9efcb77b4f6ba98c28769134f60ab24b3f7bf5a553b"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p012-2b184932.pdf",
+   "bytes": 68102,
+   "sha256": "463fda2a2f95bb9b0fb32e9aee0efa6b1631caf49718bb7304e28c39cc43a1d8"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p012-70724c02.pdf",
+   "bytes": 68238,
+   "sha256": "3f7a13712c03a48329dd8f242282ca59f820e1db024f47fbc8698acc7e9f3f2a"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p012-c967fb38.pdf",
+   "bytes": 67458,
+   "sha256": "57ea2e4462f9fef1ce46990a37ee72a5a77448a81a9b5552de8aea5723cdc9e0"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p013-266cf62f.pdf",
+   "bytes": 68757,
+   "sha256": "2dd98a796959f93313b84f5a8112c1aacbd931ffa55959fe8ac67726ac33543b"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p013-6b352344.pdf",
+   "bytes": 69084,
+   "sha256": "dff24b3abac75b498dc1efb27cd16d799ed7a97f8a74cfa838fbf2fdee93772a"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p013-853b0691.pdf",
+   "bytes": 66513,
+   "sha256": "9fffcac03123c291576478c53ff8a09f90cb41170780819f8c54843592a64c14"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p014-07ef49a7.pdf",
+   "bytes": 66577,
+   "sha256": "0ba390ef7ac7aa2b2e59cefe79d54bf058d1b166f64a822f4dd12a14d198bde0"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p014-8992ba43.pdf",
+   "bytes": 67301,
+   "sha256": "142a0d548f8c196dca8dc148d989cb935016ebadc5e2c39e6828c31e8f9cf30d"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p014-cc490472.pdf",
+   "bytes": 68007,
+   "sha256": "c0eb844bfd8fbb16ac2184ef4240bb9bcabf03303c318339efa4037daa524fec"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p022-4478afb5.pdf",
+   "bytes": 67615,
+   "sha256": "c282419d5317e97a9db90c9f0c6c944f4f1818ce87d466b1fb90d56d4aa0439b"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p022-dd2c0553.pdf",
+   "bytes": 68229,
+   "sha256": "62c27f125699bbc2a213c14f4b5377c248c1bcb8ca60a89fb15b1b841d342e14"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p022-f9133fc7.pdf",
+   "bytes": 68017,
+   "sha256": "731d45d060301e949d18e0bafe69d956afa66e6668b953e2d5b237d6209c3aff"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p023-a4647c86.pdf",
+   "bytes": 69272,
+   "sha256": "945eecceabf6f3a7bba1ea362f6e5887681bd622ca7e2e2f45e88df51258efbb"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p023-dfc52dd7.pdf",
+   "bytes": 69584,
+   "sha256": "32955c723d26e767da58b67e0c6a3b56232ec2ae1ce4f37075c0b8c2652df536"
+  },
+  {
+   "path": "evidence/extracts/city-of-west-sacramento-p023-e362ced7.pdf",
+   "bytes": 68557,
+   "sha256": "9ad61aa498e025f02e5fbcc90d5069b802876a979deb69568829fbc565d52a6d"
+  },
+  {
    "path": "evidence/extracts/city-of-whittier-p011-42eca034.pdf",
    "bytes": 48812,
    "sha256": "1f03033952e0a50a72813d1a1c971da313f05c1bcda1e814c6d64feb0b927305"
@@ -6798,8 +6933,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1393352,
-   "sha256": "cc7c0e0c9018f56000ca2594a0eed45d41404d35e62fae95f26800cf800e4535"
+   "bytes": 1422959,
+   "sha256": "b3946cc5f38f807646d578a7bdce63b087a10c6c728b514760dec804af106aed"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -11852,6 +11987,141 @@
    "sha256": "3b4d930e9eb67c4666b1ff360781d8d7b15a5899d50a8c69ffd994cdc175dba0"
   },
   {
+   "path": "evidence/outlined/city-of-west-sacramento-p008-73d69d02.pdf",
+   "bytes": 67752,
+   "sha256": "998d8df89dc9909da2ffb77fc24f5614fea6f2442fa6f01f06a270c11b499252"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p008-91536ac6.pdf",
+   "bytes": 68512,
+   "sha256": "4aeb73fcc8a0491f04dd218e9b12e3c8b529f43d3e21744f5546cb15d10a14bf"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p008-d357a9fb.pdf",
+   "bytes": 68730,
+   "sha256": "5f2cf41c13cb181aa4ee4e7d4b4853e657b586fd125c331cd26d307b2c368755"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p009-8516b5a8.pdf",
+   "bytes": 68807,
+   "sha256": "baab8625c1c9de1756747d1e5074a801532b30bb4f36006eb0f7bd49baebe4d5"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p009-9074248d.pdf",
+   "bytes": 68569,
+   "sha256": "dc10a16b0e43e70210261e02e398b35a73dd9fd269843096ac7f4966124657cd"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p009-a5b8540d.pdf",
+   "bytes": 67709,
+   "sha256": "8c2e0a8f6455cf3fa02da8bd743e6bcb20c215fc3295a9b7980e6e8d40776507"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p010-3267f6ce.pdf",
+   "bytes": 68321,
+   "sha256": "25b5374972660c31da18dc7527d8765cac293be48057db3f9c2faf79869e4f43"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p010-3ee1dddb.pdf",
+   "bytes": 68169,
+   "sha256": "a33de9d5a6eb215438d18175ae37d3e20a0b6461997f29ef69ad3ec82fb34dab"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p010-9c9813be.pdf",
+   "bytes": 67279,
+   "sha256": "d35147f17f03054ca9aaea13d598d16d90eeeaa07f865ec1f4a1ebe7cf79c964"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p011-08c779ac.pdf",
+   "bytes": 66805,
+   "sha256": "b8e40fea3e0cdb2ae34637c9acf1e41286747e7b5938f3aafc598ff0f346c91c"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p011-1f302c6e.pdf",
+   "bytes": 67803,
+   "sha256": "41da1b2442288a29b294546a14125e2ef13654ed0d784aacdc164895810612ff"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p011-6c2495f9.pdf",
+   "bytes": 67994,
+   "sha256": "85eb9f699758ac462cdbaea242c047f66588d48d0fc94f50973b043d926f22a5"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p012-2b184932.pdf",
+   "bytes": 68162,
+   "sha256": "b9878a8e89716d25b542b4de23a600ee6b39a8fbd27d80170006197e2577055c"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p012-70724c02.pdf",
+   "bytes": 68298,
+   "sha256": "b5d34de918de5a75878eecbe10986659e6f6c3d8594ebb22b74e7783359f60c1"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p012-c967fb38.pdf",
+   "bytes": 67515,
+   "sha256": "219ead09721a35af8b90b1b2d33dee7df83d4d817194defea77fcb7a8551c302"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p013-266cf62f.pdf",
+   "bytes": 68815,
+   "sha256": "2a3b134e1c7ae7b7274500de01a0a042200b5cc318f9d03d3243dc420989033d"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p013-6b352344.pdf",
+   "bytes": 69143,
+   "sha256": "51618fc6f5cdebaa2bf42d575616a4e43cc9751cb88a17dbd5613b652be471dd"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p013-853b0691.pdf",
+   "bytes": 66570,
+   "sha256": "cd0d8395b6e5b258b38a1f99adf3d883fda5513c8c622cd710d3f2165b90d339"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p014-07ef49a7.pdf",
+   "bytes": 66633,
+   "sha256": "3ca1424dea1fe990dddc67063e18cfd056fe9043f8de1d779b3d2871291f2734"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p014-8992ba43.pdf",
+   "bytes": 67361,
+   "sha256": "abc5557ad778e8426486850cd1bac537652b92d89ddf33e66d2c48e01a87e47a"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p014-cc490472.pdf",
+   "bytes": 68067,
+   "sha256": "20907a94e5815a47a2fe4e8efeeb634a2c03dbd522900d75851fb22e7cf19458"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p022-4478afb5.pdf",
+   "bytes": 67678,
+   "sha256": "e29ea7eb9ab3b44b3745f24368a9f1b98ae56a15a382fae51169a636677c4d24"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p022-dd2c0553.pdf",
+   "bytes": 68288,
+   "sha256": "4c07e7ae600894a16bb8d28e3bbe20f88e1d3b87494e6f0664fa7c8fbf706829"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p022-f9133fc7.pdf",
+   "bytes": 68074,
+   "sha256": "5821b5d2788a2cd8f47f8637f110ba100e5e069f79b88d9950b8737687e6a07b"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p023-a4647c86.pdf",
+   "bytes": 69331,
+   "sha256": "935f42805fec6ba09a9b95b5113acbf5ae600a8ec971a513f1e3b6dd7502af21"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p023-dfc52dd7.pdf",
+   "bytes": 69642,
+   "sha256": "8dfcfc89c263d87ce5acfa6668713eb1e8398d435eddb0b63f66517994ab329a"
+  },
+  {
+   "path": "evidence/outlined/city-of-west-sacramento-p023-e362ced7.pdf",
+   "bytes": 68619,
+   "sha256": "54f7fd9cf81bbd6d819f4e8a77e73aa1f2a62e3fed9d00b31c6ee3515a2da3b0"
+  },
+  {
    "path": "evidence/outlined/city-of-whittier-p011-42eca034.pdf",
    "bytes": 48870,
    "sha256": "f18cbb4f361ae84ecca11c74cc9302096fe999836b28dc10f65d650425a18e30"
@@ -14472,6 +14742,21 @@
    "sha256": "b7c87152d4dc69a721e513bb1a56b1dcfd660aa33ef988056da6d71328280773"
   },
   {
+   "path": "sources/city-of-west-sacramento-2022-23-58943f94.pdf",
+   "bytes": 398371,
+   "sha256": "58943f94796d0168d7ae7a684eec115bd72112052cd10a2043d496886fcac419"
+  },
+  {
+   "path": "sources/city-of-west-sacramento-2023-24-d089d93f.pdf",
+   "bytes": 397385,
+   "sha256": "d089d93fec7b879141512c8815e8cd16f2e33b17a7b5301af2943bbae44db34a"
+  },
+  {
+   "path": "sources/city-of-west-sacramento-2024-25-dda3b1a0.pdf",
+   "bytes": 412677,
+   "sha256": "dda3b1a0309127ed048d4d5283af2c0c06e5a979531137d951864fb371108a4f"
+  },
+  {
    "path": "sources/city-of-whittier-2023-24.pdf",
    "bytes": 226119,
    "sha256": "19d643ed3a17c96c096db446ed42979adb5b6f961d2eddf0afcc600cd80d5726"
@@ -14808,13 +15093,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 121245,
-   "sha256": "471696cb5150b7b8643ac8f101d70335a68d4b61cbb9284df92b387364343734"
+   "bytes": 122526,
+   "sha256": "405bcc46c1a7e4170c63df45ad86ab449ceea5cda684daeb1a73218f5aa3295e"
   },
   {
    "path": "sources/index.json",
-   "bytes": 210551,
-   "sha256": "6293cd89ed4d8a59c04c32cc1670effda74d7023c1e9bda3528292693ac64699"
+   "bytes": 212783,
+   "sha256": "d60934759721629cb455be1aac8517b8bfebccb3c233866f0333006dd247486d"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -14884,7 +15169,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "6899bbed9b92ee0ff6a64ec5634cf79a70a5161f89869e15a3887920cf9b1375"
+   "sha256": "e0049633872829b48ebca6e51ac9896d8f9244a7c205df53d3397ef998408431"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -14899,7 +15184,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "89adbcc4c0b02640989eb03af53f9eacba2e701512794a14e6175e926b2d9ba3"
+   "sha256": "0874e58f4367754247e5b10cc0521ea44c88b773e2090b17f6c5b4a358541034"
   },
   {
    "path": "validation/validate.py",
