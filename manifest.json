@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T14:10:56.142719+00:00",
- "data_rows": 1630,
- "distinct_printed_figures": 1462,
- "receiving_entities": 154,
- "agency_years": 308,
- "fee_programs": 892,
- "source_reports": 287,
- "evidence_pairs": 1462,
+ "built_utc": "2026-09-23T14:35:15.785289+00:00",
+ "data_rows": 1637,
+ "distinct_printed_figures": 1469,
+ "receiving_entities": 155,
+ "agency_years": 309,
+ "fee_programs": 899,
+ "source_reports": 288,
+ "evidence_pairs": 1469,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3236,
- "total_bytes": 808977044,
+ "file_count": 3251,
+ "total_bytes": 818484014,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13229,
-   "sha256": "95e42bdc6f49533a50af5d9e41feb81b0aa3384650cd0d1eddcb16520067c068"
+   "bytes": 13276,
+   "sha256": "e28071e803eb3ae2bede4428428033b317d73f82ca2d74f3fe8822f20ccf35d2"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "dc0a85127c3ab4dc63a7550c180621db704ca12b37fd55174a8262fd55689111"
+   "sha256": "3bff8e966baad3a3d1be486efd5496646ae1fd7e79a2d0a13b8bbe93789ac84f"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 645222,
-   "sha256": "4a7e132735a4a3a1ab625e19cd3d78fdc9b24ac07aa3eea7cff15a2fee7e1e75"
+   "bytes": 648428,
+   "sha256": "c2138108f1252fd756a8b8ed4e5a39211b1faf4c635396605c4ca672f2a8f059"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3420148,
-   "sha256": "de21a2216a8d637c04d02cf73a740897de3562d69ecad73fa66e08165fbe56b6"
+   "bytes": 3434855,
+   "sha256": "1d4df440ee2974bae663b8ece32424b0321887c722e0bfa2fb5f863d3ad16b10"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5108555,
-   "sha256": "b747f6b9869b9c93144e0f7dbc066419201339ee07bafd232b37c04eb89a3e05"
+   "bytes": 5130535,
+   "sha256": "53f586d13d80314b72f4d1594bde753b78d649ed6d953670b613f9bf5d17d6d8"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -2540,6 +2540,41 @@
    "path": "evidence/extracts/city-of-huntington-beach-p025-ffe014f0.pdf",
    "bytes": 46486,
    "sha256": "f4a645e88f64867fac8518674d960045ff755aed1534300b1a94677acce7cd09"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p003-6a18a913.pdf",
+   "bytes": 630085,
+   "sha256": "1708ff57dc729b4cb3bc34b24d5a053744d0cfd2237b91192d38294dfd8fdcf2"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p004-7506a1c6.pdf",
+   "bytes": 629876,
+   "sha256": "dcb9a9416239ccbe9917b271d0173e7061c8935a5a1659b7a7dfbc840938207f"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p005-b824f7bd.pdf",
+   "bytes": 629876,
+   "sha256": "78d5eda0d1f26eb2bed5bff0e200adb41cc6530f4f2ec4b69abd0598e46344ca"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p006-8c477511.pdf",
+   "bytes": 629876,
+   "sha256": "c6b60a22c088cffd8ad36ed60ae8049836674840704e2b16170464444ec65159"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p007-c959fe86.pdf",
+   "bytes": 629876,
+   "sha256": "80c91614b425400f503c1f0f6c485d19e3fd6d56cebd1fb300896f5d6ae85f8d"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p008-e6551b7c.pdf",
+   "bytes": 629876,
+   "sha256": "c9ee3bbb7cdf833086df37a60fe84c2428ba1bf7433aba7f84a6d9285b35e838"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p009-f8ea7823.pdf",
+   "bytes": 629876,
+   "sha256": "59a1e54b4dd533acf3f7663d42e316edc4530740c8af3f09168bc5a7f00b7b50"
   },
   {
    "path": "evidence/extracts/city-of-lafayette-p008-1a1a7ab3.pdf",
@@ -7408,8 +7443,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1521586,
-   "sha256": "6caa5fdee37c7fa3a2252c10a4f24f73f270fd0ad2da853f55beaaa1a5db00de"
+   "bytes": 1528698,
+   "sha256": "0eca40d538a746b15b4ffef9332c179f81ffd3e9751c30dfd86997f6bc3f466e"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -9855,6 +9890,41 @@
    "path": "evidence/outlined/city-of-huntington-beach-p025-ffe014f0.pdf",
    "bytes": 46551,
    "sha256": "cb4e1f1d4e5e135cf1f1cb5fcaa3032d2358945ba46854e92478e4dbfbebc535"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p003-6a18a913.pdf",
+   "bytes": 630635,
+   "sha256": "99c27751a3909bf1072c8e2c729af0d13617ca15b7e80a4f24197477812b950e"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p004-7506a1c6.pdf",
+   "bytes": 630428,
+   "sha256": "8b25275be53a2d050ff0c3bebafbb23f821a377dcb9d6102504d0bdc4046e907"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p005-b824f7bd.pdf",
+   "bytes": 630427,
+   "sha256": "bec724115df724baf38ea2011262036659c581dddd72f7f118cdd70de41c554f"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p006-8c477511.pdf",
+   "bytes": 630427,
+   "sha256": "de8bee2adf05adadfc4f041606f5d29ba177d8cd094ccdad5c6b10bcf5deeec9"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p007-c959fe86.pdf",
+   "bytes": 630427,
+   "sha256": "2b982bc622f06474a5a0e8b69597908c2b4b4c2aca9e6799dc9a2b5d0cf0e261"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p008-e6551b7c.pdf",
+   "bytes": 630426,
+   "sha256": "e49844c48b787a7c9d2e11cd610d14fc7e5bcad194b3bf6c329f483f2af9689c"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p009-f8ea7823.pdf",
+   "bytes": 630426,
+   "sha256": "29f7c70c5fd50d6e64165394113792fd4a887c9e5a12ae21074b8b0e0a409870"
   },
   {
    "path": "evidence/outlined/city-of-lafayette-p008-1a1a7ab3.pdf",
@@ -15197,6 +15267,11 @@
    "sha256": "aae8538d647e89d3ab407a534c8d55444f36b7c34698df5da91656e3c0bb231b"
   },
   {
+   "path": "sources/city-of-indio-2022-23-8a1c3a6e.pdf",
+   "bytes": 636318,
+   "sha256": "8a1c3a6ede8212e9774795b1299cb6eb671ac33efa28b9b742a72e60a5f12f0e"
+  },
+  {
    "path": "sources/city-of-lafayette-2023-24.pdf",
    "bytes": 502964,
    "sha256": "7c5bdc6e688215632c314d1cd7982ca875fb9619ac945caaee9dec9fc5b0192b"
@@ -16103,13 +16178,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 128221,
-   "sha256": "b5c70aa31014d9b5e8fe5b494fa51396969ba9fb36359bc600b78cfab26f8535"
+   "bytes": 128593,
+   "sha256": "90b0c2c5d5c62c4dd92b790b640aa0ddde25e986426115b9122cef7a54d0bc46"
   },
   {
    "path": "sources/index.json",
-   "bytes": 222611,
-   "sha256": "62ea7d605a6424c18e98758304c96ba8ff1257d1712c8d38f9bc93ca38b219f5"
+   "bytes": 223302,
+   "sha256": "28d6f4545225e059579618acbe580336fb9ad313976b04863ec79919d699fcb5"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -16184,7 +16259,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "d607ff00c6f429be20e345aaedc344f8a3cb52037727458ecfe119d30c720bf4"
+   "sha256": "3bea04f967cccd8c24cbe99249a4bbf6a9d6b9d065d8cd3fef9e6c34e7db48d3"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -16199,7 +16274,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "027b186f24bf656224ae47721ef085b12b9feeadbe9637b157601157770b7e77"
+   "sha256": "f8dc471862a5948b6b04c1b6dc4a0b731528e3542b49c3225ac6e6c086d0d229"
   },
   {
    "path": "validation/validate.py",

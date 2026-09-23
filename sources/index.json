@@ -1372,6 +1372,20 @@
   "published_data_rows_from_this_source": 8
  },
  {
+  "source_id": "city-of-indio-2022-23-8a1c3a6e",
+  "receiving_entity": "City of Indio",
+  "publication_title": "Mitigation Fee Act (AB1600 Report) - City of Indio",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://indio.civicweb.net/document/143984/Mitigation%20Fee%20Act%20(AB1600%20Report).pdf",
+  "retrieved_utc": "2026-09-22T06:59:42.384871+00:00",
+  "physical_page_count": 12,
+  "source_sha256": "8a1c3a6ede8212e9774795b1299cb6eb671ac33efa28b9b742a72e60a5f12f0e",
+  "source_bytes": 636318,
+  "source_pdf": "sources/city-of-indio-2022-23-8a1c3a6e.pdf",
+  "published_data_rows_from_this_source": 7
+ },
+ {
   "source_id": "city-of-lafayette-2023-24",
   "receiving_entity": "City of Lafayette",
   "publication_title": "City of Lafayette annual development impact fee report, fiscal year 2023-24",
