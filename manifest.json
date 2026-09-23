@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T05:55:37.775154+00:00",
- "data_rows": 1372,
- "distinct_printed_figures": 1204,
- "receiving_entities": 134,
- "agency_years": 272,
- "fee_programs": 722,
- "source_reports": 251,
- "evidence_pairs": 1204,
+ "built_utc": "2026-09-23T06:25:12.949820+00:00",
+ "data_rows": 1386,
+ "distinct_printed_figures": 1218,
+ "receiving_entities": 136,
+ "agency_years": 276,
+ "fee_programs": 730,
+ "source_reports": 255,
+ "evidence_pairs": 1218,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2684,
- "total_bytes": 691002068,
+ "file_count": 2716,
+ "total_bytes": 694638116,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 12011,
-   "sha256": "9a289a5ba5930cd38311ee0352a95800776c94a394461abbbc9f5be90d71d8a3"
+   "bytes": 12140,
+   "sha256": "aa2707cd2b7d15202e7d9aea6f7b1291638c7c4931ef539f46ac6d40641e1205"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "eb5278f1906d51b24481e943750c3ecc17bdfc2edf75bccd6774f7b444b34062"
+   "sha256": "6809d1ea4a11bb3f0b8a3d2ea492ec35d6645e274a6b7e0c283715f4aad6563f"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 546971,
-   "sha256": "b7da703a5508fe480f1557098401d68107f487edc5709e2821c8646e56395f36"
+   "bytes": 553026,
+   "sha256": "0eda137db587ee435c48d5f1269b1f14ad23153b778cbc263472c05b28b17415"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2906365,
-   "sha256": "19ef37b815960ca7ecc1ae22ac1a71d2d947b55a4171ec8804f37e2794d0325a"
+   "bytes": 2933203,
+   "sha256": "c72c2fe34bc5121e048b51e65b598b7e668741e28f0b022b7039428be5492797"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4327362,
-   "sha256": "67d556e954b6690b60dc52300c92372f35d927aaa4e06fabf4e07fbe992c7494"
+   "bytes": 4368730,
+   "sha256": "b50c46e2e92d7c42f26763826cc073aee7d94cc863f4edc714f80e55e6962d1c"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -3172,6 +3172,16 @@
    "sha256": "c2c8b37cbf2b5be5c99e77940f69338db8f8df71b3a9154ad77a54d1805ffe00"
   },
   {
+   "path": "evidence/extracts/city-of-placerville-p003-a7c78b41.pdf",
+   "bytes": 71262,
+   "sha256": "1642340d025ec2b60122e7a70cd8a5f036935d0b9306eb0d73d42c7c2b1eb060"
+  },
+  {
+   "path": "evidence/extracts/city-of-placerville-p003-bce0f0fe.pdf",
+   "bytes": 86564,
+   "sha256": "a18eed55708d7641169cae1f8533aa10248f9ab2804ac59e6160eaa3115923be"
+  },
+  {
    "path": "evidence/extracts/city-of-pleasanton-p010-5e8636c9.pdf",
    "bytes": 74472,
    "sha256": "c63f40dfdd7cba15747927baca7323d7fcc7eb9862861c3e60450eb9c070f22e"
@@ -3990,6 +4000,66 @@
    "path": "evidence/extracts/city-of-santee-p011-8ad2e743.pdf",
    "bytes": 62421,
    "sha256": "f477316b58dedcfda8e46e97c66be4b49b2bbcfbb97430f77097dde66b532f74"
+  },
+  {
+   "path": "evidence/extracts/city-of-scotts-valley-p006-78402b99.pdf",
+   "bytes": 78619,
+   "sha256": "286f941da0864d5bb4e212a5910d6c975f3d9c54173b1c7fcec1fcac898d115c"
+  },
+  {
+   "path": "evidence/extracts/city-of-scotts-valley-p006-8d6718d8.pdf",
+   "bytes": 78886,
+   "sha256": "e4f556ecd52293d7a4c0ca60551d787dcebc9b8d8aa7165c87be46ed83c8aa0d"
+  },
+  {
+   "path": "evidence/extracts/city-of-scotts-valley-p007-8524f9d6.pdf",
+   "bytes": 76602,
+   "sha256": "50a3ce1192090b5f7908f8fb78fe0e27007d147348ebac92e67937df32beecc8"
+  },
+  {
+   "path": "evidence/extracts/city-of-scotts-valley-p007-e488b987.pdf",
+   "bytes": 78161,
+   "sha256": "b9fb8e2eea880127218b8f466c2edad15411ac17b71b51a61a31024b8c847e5f"
+  },
+  {
+   "path": "evidence/extracts/city-of-scotts-valley-p008-75cfde16.pdf",
+   "bytes": 76586,
+   "sha256": "53d959221f40bc57a7490c896facf3f56c31a79257922ab6a881b403b375f5f0"
+  },
+  {
+   "path": "evidence/extracts/city-of-scotts-valley-p008-8a71a000.pdf",
+   "bytes": 77864,
+   "sha256": "d63d1292b4993806310dc3ce04706360154bf974a4710216b30d57c741246ffa"
+  },
+  {
+   "path": "evidence/extracts/city-of-scotts-valley-p009-21135133.pdf",
+   "bytes": 77973,
+   "sha256": "0f77d0118e652eb9598330ffc6a3007abda45e4cf9589a79b40226c88f1ca5bf"
+  },
+  {
+   "path": "evidence/extracts/city-of-scotts-valley-p009-df69bdd3.pdf",
+   "bytes": 77941,
+   "sha256": "134b464faff6473aed3f87b82d8fc1b4006d06ef1178ddf29dc77f9c122c4cab"
+  },
+  {
+   "path": "evidence/extracts/city-of-scotts-valley-p010-395060cf.pdf",
+   "bytes": 78832,
+   "sha256": "b45f6075e56188f56dccf83cb517945bfd288e7b72a8190cc3d400c160ccec0a"
+  },
+  {
+   "path": "evidence/extracts/city-of-scotts-valley-p010-ac80fcd8.pdf",
+   "bytes": 79214,
+   "sha256": "7c2804e567950c43e7a324af14525d8041e0b42c63782b2b30b0d7fe68115dc8"
+  },
+  {
+   "path": "evidence/extracts/city-of-scotts-valley-p011-1d11fa2e.pdf",
+   "bytes": 76736,
+   "sha256": "4bae86a0478531e9c084a1b04efb465213c700238c7867b9f19f20090da2c1e3"
+  },
+  {
+   "path": "evidence/extracts/city-of-scotts-valley-p011-87118a0a.pdf",
+   "bytes": 76712,
+   "sha256": "a8ade495f1c10c1973d80eb46e73e98feb838e8849419eb4e5eccb3c7094fd8d"
   },
   {
    "path": "evidence/extracts/city-of-seaside-p003-a688195d.pdf",
@@ -6118,8 +6188,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1257295,
-   "sha256": "63f9f5d53c6a1cdb45c5b88f355e2487590b4f24d6cddd13d4a245ed8a6d66d2"
+   "bytes": 1271653,
+   "sha256": "45d427a5c7c178e3846fb5ba46284cf7ba949a5b49f3c6f9472d9e9ecc31d333"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -9197,6 +9267,16 @@
    "sha256": "8119e7b2fbab3f2a809e04dbbab13e8e22733be58a9c226c849eec4a73ffb019"
   },
   {
+   "path": "evidence/outlined/city-of-placerville-p003-a7c78b41.pdf",
+   "bytes": 71323,
+   "sha256": "867a0cb40fb91a8885e92eef533684d423770d2f35c2e1f54ad12658224d1ddd"
+  },
+  {
+   "path": "evidence/outlined/city-of-placerville-p003-bce0f0fe.pdf",
+   "bytes": 86624,
+   "sha256": "8f270139c2b7bc6fb86e2ee33d6c461f9dbe03c585d7c6bfe2eeb4a719f491e5"
+  },
+  {
    "path": "evidence/outlined/city-of-pleasanton-p010-5e8636c9.pdf",
    "bytes": 74533,
    "sha256": "af75b5d91a08a195a9618a9ebfca59624a109453b971cd144c9857eb4cb2bf35"
@@ -10015,6 +10095,66 @@
    "path": "evidence/outlined/city-of-santee-p011-8ad2e743.pdf",
    "bytes": 62476,
    "sha256": "3060c073924397416d9046e4638c429dd5ee3e8b136048fd588eddb2d281f43f"
+  },
+  {
+   "path": "evidence/outlined/city-of-scotts-valley-p006-78402b99.pdf",
+   "bytes": 78679,
+   "sha256": "ea28680d20be30ecaf0896cb2b9599b01665a1e4a567f49d4a8f1bc9fb2abeb2"
+  },
+  {
+   "path": "evidence/outlined/city-of-scotts-valley-p006-8d6718d8.pdf",
+   "bytes": 78942,
+   "sha256": "20bf1d0ddf01ce9bf02d9b4bc33a4afa7c13a391a3e2a00150bbdbdcd4e45745"
+  },
+  {
+   "path": "evidence/outlined/city-of-scotts-valley-p007-8524f9d6.pdf",
+   "bytes": 76664,
+   "sha256": "94746de28926adda2492705bb51841a542383eaea2498739109222b50272eb50"
+  },
+  {
+   "path": "evidence/outlined/city-of-scotts-valley-p007-e488b987.pdf",
+   "bytes": 78221,
+   "sha256": "ef1e78b4f454fc7a6997ae70e23548110a191718f5aeb630d5f06057ae22691c"
+  },
+  {
+   "path": "evidence/outlined/city-of-scotts-valley-p008-75cfde16.pdf",
+   "bytes": 76645,
+   "sha256": "fb944af34aa439c78893623cccbe2a0ed20d8121eeb8144a408b742a85caf664"
+  },
+  {
+   "path": "evidence/outlined/city-of-scotts-valley-p008-8a71a000.pdf",
+   "bytes": 77922,
+   "sha256": "036c806ef55b1ab5c61ce4866b84d5df0c86fd07e816c6a566f842f60acb39da"
+  },
+  {
+   "path": "evidence/outlined/city-of-scotts-valley-p009-21135133.pdf",
+   "bytes": 78033,
+   "sha256": "bee4e19b9521bf66a0c2e4b262c5148fee4fc295bcb9970e5030a2247b966285"
+  },
+  {
+   "path": "evidence/outlined/city-of-scotts-valley-p009-df69bdd3.pdf",
+   "bytes": 77988,
+   "sha256": "86780ea1b33dde4e3f1eeaad9cfb9ffbb1ba3af327f795f0df266ae9e78b5dea"
+  },
+  {
+   "path": "evidence/outlined/city-of-scotts-valley-p010-395060cf.pdf",
+   "bytes": 78893,
+   "sha256": "da37627bbae57c65df6a3c7b2ced03eb677800f0037e70b0b4c815065fe8a4d5"
+  },
+  {
+   "path": "evidence/outlined/city-of-scotts-valley-p010-ac80fcd8.pdf",
+   "bytes": 79272,
+   "sha256": "1d3509638369c72f0cf3ea7f6cf393d5c6bc7e98768d8c217b79e73678d5e76a"
+  },
+  {
+   "path": "evidence/outlined/city-of-scotts-valley-p011-1d11fa2e.pdf",
+   "bytes": 76794,
+   "sha256": "7867050a879f27daf10d1ad6c9cc987f36bae732e5566866cbee06253f48263b"
+  },
+  {
+   "path": "evidence/outlined/city-of-scotts-valley-p011-87118a0a.pdf",
+   "bytes": 76771,
+   "sha256": "a401e248096c3374f666bdd932f877f61645390c7fdb92a3778b436db98de2c0"
   },
   {
    "path": "evidence/outlined/city-of-seaside-p003-a688195d.pdf",
@@ -12762,6 +12902,16 @@
    "sha256": "1b2f7fb359c63f6bba42166f231e8578de5a8d0236197777e8af85e302825115"
   },
   {
+   "path": "sources/city-of-placerville-2022-23-59351590.pdf",
+   "bytes": 273069,
+   "sha256": "59351590879441b4ade237888c120bdc2bf0b1f65f44fb91d26820f86bce13de"
+  },
+  {
+   "path": "sources/city-of-placerville-2024-25-70b4317b.pdf",
+   "bytes": 243520,
+   "sha256": "70b4317beebe004518b726c775d856cf578713f74dfce19e6fe53f99321b8edf"
+  },
+  {
    "path": "sources/city-of-pleasanton-2022-23-62fbb450.pdf",
    "bytes": 1745448,
    "sha256": "62fbb45006ac184960ccc8049f744a88b31bbe8a7bc61006105547b339bcfa48"
@@ -12905,6 +13055,16 @@
    "path": "sources/city-of-santee-2022-23-bf341c97.pdf",
    "bytes": 348054,
    "sha256": "bf341c97dffc980fadd264da40489cee4d9cb3b70626f1b67aff23d9f74f802f"
+  },
+  {
+   "path": "sources/city-of-scotts-valley-2022-23-77a88ed3.pdf",
+   "bytes": 427803,
+   "sha256": "77a88ed30d93d72beed1692c7a88c06f6356a7ea0ff3b7df30edde9754f00c5f"
+  },
+  {
+   "path": "sources/city-of-scotts-valley-2024-25-4637973b.pdf",
+   "bytes": 413495,
+   "sha256": "4637973ba6fa9928ccb9c1277e33b10bfb4ea3a6e5c03ffc023713665537c6a0"
   },
   {
    "path": "sources/city-of-seaside-2024-25-da127348.pdf",
@@ -13358,13 +13518,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 112896,
-   "sha256": "c88e9cea88391f180fa887cf1e8957494650badbbd020193fe2e2bec642cff0a"
+   "bytes": 114606,
+   "sha256": "a95f71c2710cf4305c8abcc6d3e71b5be3d7b01dd760853a085d94f3a00fae85"
   },
   {
    "path": "sources/index.json",
-   "bytes": 195852,
-   "sha256": "1785023e8221219197e95ca6fd4bca2dc72f14a0145f011374af08336038cbc6"
+   "bytes": 198832,
+   "sha256": "af41b5c92435a4b49d420805056f9588e28caa74ddf725fb08b06652faeb6576"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -13424,7 +13584,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "db713b4567c39eebe29b6f430c87191829d2f850c68041f6aaedf5faae48e6f8"
+   "sha256": "83df1e7b108e1be975e218e131ba91618a4b4f6881c77a317f6d4367aae7cb1f"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -13439,7 +13599,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "7bbdd80ddf8ab73bde6e6a5174dbe91160d7c92de894f131d02e7955217e16c6"
+   "sha256": "246026a4bbba66d70be93912868bbc2b4513964831141a4c1ac9f34ed396a474"
   },
   {
    "path": "validation/validate.py",
