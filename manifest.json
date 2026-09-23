@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T06:25:12.949820+00:00",
- "data_rows": 1386,
- "distinct_printed_figures": 1218,
- "receiving_entities": 136,
- "agency_years": 276,
- "fee_programs": 730,
- "source_reports": 255,
- "evidence_pairs": 1218,
+ "built_utc": "2026-09-23T06:52:45.321374+00:00",
+ "data_rows": 1388,
+ "distinct_printed_figures": 1220,
+ "receiving_entities": 137,
+ "agency_years": 278,
+ "fee_programs": 731,
+ "source_reports": 257,
+ "evidence_pairs": 1220,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2716,
- "total_bytes": 694638116,
+ "file_count": 2722,
+ "total_bytes": 697775035,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 12140,
-   "sha256": "aa2707cd2b7d15202e7d9aea6f7b1291638c7c4931ef539f46ac6d40641e1205"
+   "bytes": 12224,
+   "sha256": "8b7e9e4f242277def3a98bdff9ea491b5a98c3ab16d5b59ccab298f79bcfd303"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "6809d1ea4a11bb3f0b8a3d2ea492ec35d6645e274a6b7e0c283715f4aad6563f"
+   "sha256": "07114953db24ed0b71a5cca6ecb9987476adcb0db6c5097285cc9838961bc85a"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 553026,
-   "sha256": "0eda137db587ee435c48d5f1269b1f14ad23153b778cbc263472c05b28b17415"
+   "bytes": 554563,
+   "sha256": "96949f3482c16cca7daa875f8f4cf391872895d49f11e416699c67ffdc1bcae7"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2933203,
-   "sha256": "c72c2fe34bc5121e048b51e65b598b7e668741e28f0b022b7039428be5492797"
+   "bytes": 2937201,
+   "sha256": "41c536ad9c889edda283364a9dcba8b792e41e0c5bf19192be0648b43ee7bfdd"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4368730,
-   "sha256": "b50c46e2e92d7c42f26763826cc073aee7d94cc863f4edc714f80e55e6962d1c"
+   "bytes": 4374806,
+   "sha256": "561bf95aa5039f62c115efa172b7e125b40b6498ac47e18da6f83829cb4f19d0"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1415,6 +1415,16 @@
    "path": "evidence/extracts/city-of-eastvale-p008-f7fde336.pdf",
    "bytes": 80099,
    "sha256": "35069094fb4586e44ab1b80a376b33c724f24c2e9d8760d6bc32c4dc956d0bb0"
+  },
+  {
+   "path": "evidence/extracts/city-of-el-paso-de-robles-paso-robles-p005-a31f6e6f.pdf",
+   "bytes": 61051,
+   "sha256": "58a2314768c6fcc1a9f8cca4e128b439bd29a96708911c7ba80e93854738cdb4"
+  },
+  {
+   "path": "evidence/extracts/city-of-el-paso-de-robles-paso-robles-p005-d07928fc.pdf",
+   "bytes": 74834,
+   "sha256": "94b8214f8e18697d09bff673b96f2690d886f4c0da39b9b54ddb9bf7e6c20570"
   },
   {
    "path": "evidence/extracts/city-of-encinitas-p012-01906f98.pdf",
@@ -6188,8 +6198,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1271653,
-   "sha256": "45d427a5c7c178e3846fb5ba46284cf7ba949a5b49f3c6f9472d9e9ecc31d333"
+   "bytes": 1273917,
+   "sha256": "7e0d77474e13877516658765e44294c891f92a4115dfbb212a77f06bfa0c2289"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -7510,6 +7520,16 @@
    "path": "evidence/outlined/city-of-eastvale-p008-f7fde336.pdf",
    "bytes": 80156,
    "sha256": "96d7923e75ed50500226398bb080f2117674ce87d1240a8d31297bd9b3d2a88b"
+  },
+  {
+   "path": "evidence/outlined/city-of-el-paso-de-robles-paso-robles-p005-a31f6e6f.pdf",
+   "bytes": 61112,
+   "sha256": "1482ac703300621ed4eba346cda31bcf0d29553ae04ad8f3ef53fc3c1fdea528"
+  },
+  {
+   "path": "evidence/outlined/city-of-el-paso-de-robles-paso-robles-p005-d07928fc.pdf",
+   "bytes": 74897,
+   "sha256": "7d0a0c0daa44aad66fd609efd7e3140e4a7b5a5310386de6c96778e804f17e8a"
   },
   {
    "path": "evidence/outlined/city-of-encinitas-p012-01906f98.pdf",
@@ -12577,6 +12597,16 @@
    "sha256": "9ad1f4fc39f13a3973722488f8d5495fea37879f85fddbb94b9312767c3436a2"
   },
   {
+   "path": "sources/city-of-el-paso-de-robles-paso-robles-2023-24-6569a492.pdf",
+   "bytes": 1612955,
+   "sha256": "6569a49297881c6f0a63cf4a8377cf550279a35544899f09df4273c4c449ad02"
+  },
+  {
+   "path": "sources/city-of-el-paso-de-robles-paso-robles-2024-25-e3cb020e.pdf",
+   "bytes": 1235733,
+   "sha256": "e3cb020e2ada9b732bfd55eabbeef32a81178614469a5b2e051db867e02630ce"
+  },
+  {
    "path": "sources/city-of-encinitas-2023-24.pdf",
    "bytes": 1383598,
    "sha256": "9abc74a9206e1e8301b4f32b50c19a425e3d4de3a8001b360cfbcf70d672ca9c"
@@ -13518,13 +13548,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 114606,
-   "sha256": "a95f71c2710cf4305c8abcc6d3e71b5be3d7b01dd760853a085d94f3a00fae85"
+   "bytes": 115476,
+   "sha256": "f4066fb20ccb06a17e277de929afb680b7255e2e8f1b901f0877b885c12896d3"
   },
   {
    "path": "sources/index.json",
-   "bytes": 198832,
-   "sha256": "af41b5c92435a4b49d420805056f9588e28caa74ddf725fb08b06652faeb6576"
+   "bytes": 200340,
+   "sha256": "42743076948f0430bbaf88a8c59eb5d706de59b75bfb516bdd617199d8deb524"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -13584,7 +13614,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "83df1e7b108e1be975e218e131ba91618a4b4f6881c77a317f6d4367aae7cb1f"
+   "sha256": "2001657a900ec9cd8977bce00e8541a4fe8839c42dae558187fa242f37f32c49"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -13599,7 +13629,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "246026a4bbba66d70be93912868bbc2b4513964831141a4c1ac9f34ed396a474"
+   "sha256": "e6252dcc140d67923fafbe90285de6bbb20375420eaeaba528c75f2cba284d9c"
   },
   {
    "path": "validation/validate.py",

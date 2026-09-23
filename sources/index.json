@@ -854,6 +854,34 @@
   "published_data_rows_from_this_source": 4
  },
  {
+  "source_id": "city-of-el-paso-de-robles-paso-robles-2023-24-6569a492",
+  "receiving_entity": "City of El Paso de Robles (Paso Robles)",
+  "publication_title": "Annual and Five-Year Development Impact Fee Compliance Report FY 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.prcity.com/ArchiveCenter/ViewFile/Item/1697",
+  "retrieved_utc": "2026-09-22T08:27:22.036056+00:00",
+  "physical_page_count": 21,
+  "source_sha256": "6569a49297881c6f0a63cf4a8377cf550279a35544899f09df4273c4c449ad02",
+  "source_bytes": 1612955,
+  "source_pdf": "sources/city-of-el-paso-de-robles-paso-robles-2023-24-6569a492.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-el-paso-de-robles-paso-robles-2024-25-e3cb020e",
+  "receiving_entity": "City of El Paso de Robles (Paso Robles)",
+  "publication_title": "Annual and Five-Year Development Impact Fee Compliance Report FY 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.prcity.com/ArchiveCenter/ViewFile/Item/2093",
+  "retrieved_utc": "2026-09-22T08:27:22.402304+00:00",
+  "physical_page_count": 22,
+  "source_sha256": "e3cb020e2ada9b732bfd55eabbeef32a81178614469a5b2e051db867e02630ce",
+  "source_bytes": 1235733,
+  "source_pdf": "sources/city-of-el-paso-de-robles-paso-robles-2024-25-e3cb020e.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "city-of-encinitas-2023-24",
   "receiving_entity": "City of Encinitas",
   "publication_title": "City of Encinitas annual development impact fee report, fiscal year 2023-24",

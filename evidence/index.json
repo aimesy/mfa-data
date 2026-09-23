@@ -5920,6 +5920,38 @@
   "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
  },
  {
+  "evidence_id": "d07928fc852d0296",
+  "receiving_entity": "City of El Paso de Robles (Paso Robles)",
+  "source_id": "city-of-el-paso-de-robles-paso-robles-2023-24-6569a492",
+  "physical_pdf_page": 5,
+  "printed_page": "",
+  "internal_identifier": "Water Development Impact (Connection) Fee / (D) Fees collected and interest earned / Fees Collected",
+  "quoted_label": "Fees Collected",
+  "quoted_value_text": "1,027,793",
+  "page_extract_pdf": "evidence/extracts/city-of-el-paso-de-robles-paso-robles-p005-d07928fc.pdf",
+  "page_extract_sha256": "94b8214f8e18697d09bff673b96f2690d886f4c0da39b9b54ddb9bf7e6c20570",
+  "outlined_figure_pdf": "evidence/outlined/city-of-el-paso-de-robles-paso-robles-p005-d07928fc.pdf",
+  "outlined_figure_sha256": "7d0a0c0daa44aad66fd609efd7e3140e4a7b5a5310386de6c96778e804f17e8a",
+  "outline_rect_pdf_points": "[249.97323608398438, 487.25933837890625, 306.55645751953125, 505.9505615234375]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
+  "evidence_id": "a31f6e6fe2c3d4b2",
+  "receiving_entity": "City of El Paso de Robles (Paso Robles)",
+  "source_id": "city-of-el-paso-de-robles-paso-robles-2024-25-e3cb020e",
+  "physical_pdf_page": 5,
+  "printed_page": "",
+  "internal_identifier": "Water Development Impact (Connection) Fee / (D) Fees collected and interest earned / Fees Collected",
+  "quoted_label": "Fees Collected",
+  "quoted_value_text": "3,015,703",
+  "page_extract_pdf": "evidence/extracts/city-of-el-paso-de-robles-paso-robles-p005-a31f6e6f.pdf",
+  "page_extract_sha256": "58a2314768c6fcc1a9f8cca4e128b439bd29a96708911c7ba80e93854738cdb4",
+  "outlined_figure_pdf": "evidence/outlined/city-of-el-paso-de-robles-paso-robles-p005-a31f6e6f.pdf",
+  "outlined_figure_sha256": "1482ac703300621ed4eba346cda31bcf0d29553ae04ad8f3ef53fc3c1fdea528",
+  "outline_rect_pdf_points": "[250.01824951171875, 487.0566101074219, 306.55523681640625, 505.828125]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
   "evidence_id": "b24f89f8cccaa5dd",
   "receiving_entity": "City of Encinitas",
   "source_id": "city-of-encinitas-2023-24",
