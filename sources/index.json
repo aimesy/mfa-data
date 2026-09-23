@@ -2310,6 +2310,20 @@
   "published_data_rows_from_this_source": 8
  },
  {
+  "source_id": "city-of-walnut-creek-2024-25-b7c87152",
+  "receiving_entity": "City of Walnut Creek",
+  "publication_title": "City of Walnut Creek development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.walnutcreekca.gov/home/showpublisheddocument/32963/639001767785070000",
+  "retrieved_utc": "2026-09-22T07:36:51.788265+00:00",
+  "physical_page_count": 89,
+  "source_sha256": "b7c87152d4dc69a721e513bb1a56b1dcfd660aa33ef988056da6d71328280773",
+  "source_bytes": 8500044,
+  "source_pdf": "sources/city-of-walnut-creek-2024-25-b7c87152.pdf",
+  "published_data_rows_from_this_source": 6
+ },
+ {
   "source_id": "city-of-whittier-2023-24",
   "receiving_entity": "City of Whittier",
   "publication_title": "City of Whittier annual development impact fee report, fiscal year 2023-24",

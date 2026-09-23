@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T02:17:59.667892+00:00",
- "data_rows": 1324,
- "distinct_printed_figures": 1156,
- "receiving_entities": 128,
- "agency_years": 258,
- "fee_programs": 690,
- "source_reports": 237,
- "evidence_pairs": 1156,
+ "built_utc": "2026-09-23T02:55:38.008163+00:00",
+ "data_rows": 1330,
+ "distinct_printed_figures": 1162,
+ "receiving_entities": 129,
+ "agency_years": 259,
+ "fee_programs": 696,
+ "source_reports": 238,
+ "evidence_pairs": 1162,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2574,
- "total_bytes": 667286249,
+ "file_count": 2587,
+ "total_bytes": 676385520,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11612,
-   "sha256": "5a909c6e9c0396e9d9c7113ce323698027c6b36927d355948cd505f66ffc231d"
+   "bytes": 11664,
+   "sha256": "53b2b718593fdc4b68abaa27b1341f72d3f4619fd5c7b1baa618dc47726a405d"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1266,
-   "sha256": "3f81916a5594d3d9fa1943247fd195f72e60519c202089c464b3b014605b4856"
+   "sha256": "8a3c24dfb1e5330b276d6e0cd9351c4cfe35b8768ffa42f1809af4b64e322241"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 526959,
-   "sha256": "d8fcbb7969fdf611f7954d8b3b762ee0e8dc0d33cfcbc369016591e6a810993c"
+   "bytes": 529461,
+   "sha256": "1f7cbfb5734425c804778afbb897c515a64fcb86cfab4e1ef5fc27abe58594c5"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2817146,
-   "sha256": "0174fc738fa82674ea627f66fc90afa2a8fc2b961187f136b98fff5abcb4b5b3"
+   "bytes": 2828731,
+   "sha256": "ab83a682619f234d14d8df566944bae4d1e1dcfadc256485858bb299b5100b6e"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4188307,
-   "sha256": "273d814268835ab5c55fafd662c1f6fb176d31d602924dfdcc69e7cf6aea3295"
+   "bytes": 4206120,
+   "sha256": "2182fe11d8bf076e32aa5794d98e673dac9b885efabdf24f9ac78cdeacb2ec15"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -4247,6 +4247,36 @@
    "sha256": "5dbe0e41235d38829f60de8e65363dd2a0fa309afce68450bbf5e6ea759504b4"
   },
   {
+   "path": "evidence/extracts/city-of-walnut-creek-p013-01de24a7.pdf",
+   "bytes": 47780,
+   "sha256": "17675792dbfe60a1ca0d1241378709f4dfc005e5a96b8e061b184eff29c135e4"
+  },
+  {
+   "path": "evidence/extracts/city-of-walnut-creek-p013-8b0f155a.pdf",
+   "bytes": 47780,
+   "sha256": "bcaa45527f8d47e5ea1bd5c35a3deeadb797feac82d5810fc02f9723ed41af91"
+  },
+  {
+   "path": "evidence/extracts/city-of-walnut-creek-p013-953393ce.pdf",
+   "bytes": 47780,
+   "sha256": "7fb273ea4b7e267764b62e9208838d351c7d49498676164fdd0815c43c9f88fe"
+  },
+  {
+   "path": "evidence/extracts/city-of-walnut-creek-p013-97c86de8.pdf",
+   "bytes": 47780,
+   "sha256": "ac5b80953f49c88b9b0f7164784dc5cc561c7024707f700fa6e3bba1603471cb"
+  },
+  {
+   "path": "evidence/extracts/city-of-walnut-creek-p014-0cfbfc52.pdf",
+   "bytes": 44289,
+   "sha256": "71ba23362dd5d628eb34bcdcdaa97b471cae2d3c250c771d93690bce65315544"
+  },
+  {
+   "path": "evidence/extracts/city-of-walnut-creek-p014-849d84e8.pdf",
+   "bytes": 44289,
+   "sha256": "c588236f559d282522d68a375e0443f8fbe6372593ac9bfd745c46645a166684"
+  },
+  {
    "path": "evidence/extracts/city-of-whittier-p011-42eca034.pdf",
    "bytes": 48812,
    "sha256": "1f03033952e0a50a72813d1a1c971da313f05c1bcda1e814c6d64feb0b927305"
@@ -5878,8 +5908,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1207836,
-   "sha256": "581343d6e99a9fe852dcbb6da5be77595b8b00051db2794e71bfcc8fe693f46b"
+   "bytes": 1214220,
+   "sha256": "bb636ae524c124fdf4c9986a371dba6f1989c9090bdf281d729e044c635fe6fa"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -10032,6 +10062,36 @@
    "sha256": "ccb330eb747fdea87ad81db3d824015ded106df907987ca69488acd560616215"
   },
   {
+   "path": "evidence/outlined/city-of-walnut-creek-p013-01de24a7.pdf",
+   "bytes": 47841,
+   "sha256": "1c768e5eaeabf6ef60b4852d597325744b48697970f745ccb4ff0fcc9e1d2114"
+  },
+  {
+   "path": "evidence/outlined/city-of-walnut-creek-p013-8b0f155a.pdf",
+   "bytes": 47842,
+   "sha256": "e36e6bc2356025455c8e3e9b8cb22885d27820147a12e1e4ce994703bfad2626"
+  },
+  {
+   "path": "evidence/outlined/city-of-walnut-creek-p013-953393ce.pdf",
+   "bytes": 47839,
+   "sha256": "47d335e99d94728fab51b45c26e591da9d883283f463d0114505854a064cb813"
+  },
+  {
+   "path": "evidence/outlined/city-of-walnut-creek-p013-97c86de8.pdf",
+   "bytes": 47841,
+   "sha256": "fac48f6c2ca60f1dff265867cc1dffaec54b66a1d8c82859b35ab89eccbfad67"
+  },
+  {
+   "path": "evidence/outlined/city-of-walnut-creek-p014-0cfbfc52.pdf",
+   "bytes": 44347,
+   "sha256": "35d1eb4f1e4bbc13937b78300bc108e77a4ad72c33e584939b2bc8903e94ffb4"
+  },
+  {
+   "path": "evidence/outlined/city-of-walnut-creek-p014-849d84e8.pdf",
+   "bytes": 44348,
+   "sha256": "3b4d930e9eb67c4666b1ff360781d8d7b15a5899d50a8c69ffd994cdc175dba0"
+  },
+  {
    "path": "evidence/outlined/city-of-whittier-p011-42eca034.pdf",
    "bytes": 48870,
    "sha256": "f18cbb4f361ae84ecca11c74cc9302096fe999836b28dc10f65d650425a18e30"
@@ -12472,6 +12532,11 @@
    "sha256": "6704575218fafe2efdd15f5c6592247295bf070ffae4b40077d38ab0dfa17572"
   },
   {
+   "path": "sources/city-of-walnut-creek-2024-25-b7c87152.pdf",
+   "bytes": 8500044,
+   "sha256": "b7c87152d4dc69a721e513bb1a56b1dcfd660aa33ef988056da6d71328280773"
+  },
+  {
    "path": "sources/city-of-whittier-2023-24.pdf",
    "bytes": 226119,
    "sha256": "19d643ed3a17c96c096db446ed42979adb5b6f961d2eddf0afcc600cd80d5726"
@@ -12808,13 +12873,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 107196,
-   "sha256": "9a2feedf03607247d4fe7ee786ce36ebb017db8dd82981415393da3f616af0a3"
+   "bytes": 107605,
+   "sha256": "fb8ab1407b0d86a9cc2962d68933f669260e77c4e85144c4455e6781b08e2554"
   },
   {
    "path": "sources/index.json",
-   "bytes": 185696,
-   "sha256": "510f4856b26e2e1b6e94d4a961f2d8617359a88fa57f5632c16777c669a9c00d"
+   "bytes": 186422,
+   "sha256": "8c4d58c9c58d26b18f96d1248f4fd11a2b93182211dd8a702ac71f6843883ed1"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -12874,7 +12939,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3058,
-   "sha256": "aadf5026ee1264e46f1cef3f8140f5372fdd8796cf744facb7e9804f9849e429"
+   "sha256": "64d01f60ad262645fae5ba1d6edd35cdfa2f99dbbdb79320cb10c757f2ea1a39"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -12889,7 +12954,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2591,
-   "sha256": "9e5b309742c27e740b5f7fbd0469eba85539756f081525bdf4d66087ba45d9df"
+   "sha256": "60da55e65c7c0cc5a8f48c5bf31d4b847440d18ccfbe6fb677796f3f438e8380"
   },
   {
    "path": "validation/validate.py",
