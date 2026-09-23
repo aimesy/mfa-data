@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T16:02:32.915990+00:00",
- "data_rows": 1660,
- "distinct_printed_figures": 1492,
- "receiving_entities": 157,
- "agency_years": 312,
- "fee_programs": 921,
- "source_reports": 291,
- "evidence_pairs": 1492,
+ "built_utc": "2026-09-23T16:24:41.838637+00:00",
+ "data_rows": 1665,
+ "distinct_printed_figures": 1497,
+ "receiving_entities": 158,
+ "agency_years": 313,
+ "fee_programs": 926,
+ "source_reports": 292,
+ "evidence_pairs": 1497,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3300,
- "total_bytes": 822045473,
+ "file_count": 3311,
+ "total_bytes": 824650403,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13381,
-   "sha256": "67511d3242982e40fdc1e45cef1576388d1d8527ef6127ce4f3aef391af08905"
+   "bytes": 13428,
+   "sha256": "e67ef826c0b5f3750b27cfb6e68d50cc5b52ea1230a2ab4147980e6e4e0fcbdd"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "e488fd7d38444a17c75779564dc0a94289caad98a4823fe06881c22725313e5d"
+   "sha256": "1664cb8b1eb50c0268ebc873d698d584359a79cde7baf7585b9a6d2fe8db3bb9"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 656961,
-   "sha256": "e7d7370add66a88cb42c47244f2f78a5ff98268f5d50f804b009424226ed5687"
+   "bytes": 658954,
+   "sha256": "eb1417de31664ccb102d06dbfbdeb9c0487887e6859e2751170b946e0885c2f2"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3477430,
-   "sha256": "1582d000b0eab5092930c996aa9ef78291a024c6390bae25445123588b03eed2"
+   "bytes": 3487541,
+   "sha256": "e4a742f7d0c33bc7ded1c848bd34ee7e3a1c166ea328f446461f99dc70db42b9"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5196961,
-   "sha256": "0c9bcc7f6b5f9c79709d584f2b2a45069a273aba78339834547feebfb373d23a"
+   "bytes": 5212247,
+   "sha256": "afa23e000c6394e6bc8bd1829c97b2a1bebd8e88e5c30442c32ad99ec83442bf"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1625,6 +1625,31 @@
    "path": "evidence/extracts/city-of-encinitas-p012-fe170adc.pdf",
    "bytes": 80053,
    "sha256": "b676ad488b0016d21ad9e49aef899c177b88d44742918ef95a9969d41fc38b18"
+  },
+  {
+   "path": "evidence/extracts/city-of-escalon-p016-9a8f829d.pdf",
+   "bytes": 78815,
+   "sha256": "e3bb6f43a4212892fd7e6b05867355851fb7fed91769189a6be3ff07224f2299"
+  },
+  {
+   "path": "evidence/extracts/city-of-escalon-p017-3d6012a5.pdf",
+   "bytes": 77067,
+   "sha256": "8996e0704d464e884c846958aba9a8c7d6d4a817061e262ebe70e4ab9b4b62f5"
+  },
+  {
+   "path": "evidence/extracts/city-of-escalon-p019-aa3eb446.pdf",
+   "bytes": 78619,
+   "sha256": "d15bd38c7be1fd671ee0b83badc9b55d3c9e7f4de7610cb2191f587ccc534d28"
+  },
+  {
+   "path": "evidence/extracts/city-of-escalon-p020-02ebce24.pdf",
+   "bytes": 77185,
+   "sha256": "ebcd47d50c2ffb4e13712631b027b530027734a21824256213f63eba018d9763"
+  },
+  {
+   "path": "evidence/extracts/city-of-escalon-p023-70345e57.pdf",
+   "bytes": 76460,
+   "sha256": "e1b2115390a7143bf55dda731260dd0ae0d673a963c5dd285643dcb61c567ec0"
   },
   {
    "path": "evidence/extracts/city-of-fontana-p004-07638bbc.pdf",
@@ -7558,8 +7583,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1551718,
-   "sha256": "94809450db37eefdd01ae3ae18ce29ea094df0b9b95f6fdbf775add8f6e3e2df"
+   "bytes": 1556868,
+   "sha256": "23ed5b04b6b286bfea708451f6e275cd75163729f7616a818384a8ac1ba4c254"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -9090,6 +9115,31 @@
    "path": "evidence/outlined/city-of-encinitas-p012-fe170adc.pdf",
    "bytes": 80118,
    "sha256": "696afc11202a3ae743fc7d28d707f7c30e2e154d8ec72c994dc8c0d6b72092f0"
+  },
+  {
+   "path": "evidence/outlined/city-of-escalon-p016-9a8f829d.pdf",
+   "bytes": 78876,
+   "sha256": "10bdcb50444d812f3a6a38f58c4a418f0eec7dfaee96f6b7e06b6d20816d7c68"
+  },
+  {
+   "path": "evidence/outlined/city-of-escalon-p017-3d6012a5.pdf",
+   "bytes": 77129,
+   "sha256": "d5e5a222a92abfc821870c34f349eb1c8bb213ef4a5d9a7b6e9751e2844576a7"
+  },
+  {
+   "path": "evidence/outlined/city-of-escalon-p019-aa3eb446.pdf",
+   "bytes": 78680,
+   "sha256": "a3fafa2b32dd2572a578357cc935408139adb2815721103d8db007b065b541cf"
+  },
+  {
+   "path": "evidence/outlined/city-of-escalon-p020-02ebce24.pdf",
+   "bytes": 77243,
+   "sha256": "58b4dc9cb2f3162a0d3c9d48c171e7dc8867b51ecc9712cfb6937e40e8883971"
+  },
+  {
+   "path": "evidence/outlined/city-of-escalon-p023-70345e57.pdf",
+   "bytes": 76521,
+   "sha256": "8788cd0cc7dd4224cb1353b98caa1c0680ffdfbfbf27e2b1fa9471a6b2451fd6"
   },
   {
    "path": "evidence/outlined/city-of-fontana-p004-07638bbc.pdf",
@@ -15372,6 +15422,11 @@
    "sha256": "e5f20951b6b7f5f3b847570a92e313583ca66579a879926219d44113f5dcdb56"
   },
   {
+   "path": "sources/city-of-escalon-2023-24-272b4ec1.pdf",
+   "bytes": 1794675,
+   "sha256": "272b4ec124530db0e2ca16783ec689a68e892e66c1f81cf882b31c3c79de2c92"
+  },
+  {
    "path": "sources/city-of-fontana-2024-25.pdf",
    "bytes": 202688,
    "sha256": "38d3076fbf9c62c3b48110de0ca63f5a82c4c9036796de179abd5f3d179210d7"
@@ -16423,13 +16478,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 129866,
-   "sha256": "4d3b713aecfd1d4c27d0f2fcecca8cd855f270bd1085a8a28be940ce22b6fb5d"
+   "bytes": 130244,
+   "sha256": "6c2927678df51357dba8989eca4dbe261d0ac6783967521ad3bc5f2be54cc068"
   },
   {
    "path": "sources/index.json",
-   "bytes": 225526,
-   "sha256": "e5ea9df38a087c4efe833091bc39fee597795314f9c7ecf5a60442e950bd5b11"
+   "bytes": 226221,
+   "sha256": "6ab54c38f32f4dcf310481fa276964d2e79eb3109763bec9e7a877a5b888447f"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -16504,7 +16559,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "b8f256a99619420f8b7a31cb9c6a229df1af7ee75464ca041543a32f6175bf89"
+   "sha256": "ef9ca8ade480943ac69e61c7bdab18b4e409bdc4dfbffa2f41803248b962f88a"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -16519,7 +16574,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "d89fd652f8253d6f7eaf1dcd9f43dcdbf8b4ea0bd7976a8d01f03e6b4b08692d"
+   "sha256": "e7a4d3f9f47f0d92713c6e0cc250637c180fd0f9ff90dd5aa492c865d17403b8"
   },
   {
    "path": "validation/validate.py",

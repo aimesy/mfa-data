@@ -1008,6 +1008,20 @@
   "published_data_rows_from_this_source": 5
  },
  {
+  "source_id": "city-of-escalon-2023-24-272b4ec1",
+  "receiving_entity": "City of Escalon",
+  "publication_title": "City of Escalon development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.escalon.gov/DocumentCenter/View/258/AB1600-REPORT-2024-PDF",
+  "retrieved_utc": "2026-09-22T12:31:13.782124+00:00",
+  "physical_page_count": 24,
+  "source_sha256": "272b4ec124530db0e2ca16783ec689a68e892e66c1f81cf882b31c3c79de2c92",
+  "source_bytes": 1794675,
+  "source_pdf": "sources/city-of-escalon-2023-24-272b4ec1.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
   "source_id": "city-of-fontana-2024-25",
   "receiving_entity": "City of Fontana",
   "publication_title": "City of Fontana Annual Report on Development Impact Fees, fiscal year ended June 30, 2025",
