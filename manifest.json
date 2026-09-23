@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T04:20:39.462048+00:00",
- "data_rows": 1341,
- "distinct_printed_figures": 1173,
- "receiving_entities": 131,
- "agency_years": 264,
- "fee_programs": 702,
- "source_reports": 243,
- "evidence_pairs": 1173,
+ "built_utc": "2026-09-23T04:52:36.019612+00:00",
+ "data_rows": 1351,
+ "distinct_printed_figures": 1183,
+ "receiving_entities": 132,
+ "agency_years": 266,
+ "fee_programs": 707,
+ "source_reports": 245,
+ "evidence_pairs": 1183,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2614,
- "total_bytes": 682264808,
+ "file_count": 2636,
+ "total_bytes": 686372434,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11797,
-   "sha256": "0936bf97b3d8db0ee31728cf7f382cb66d97cf528ef1803af5310a41f5fc695f"
+   "bytes": 11861,
+   "sha256": "cbc92f86be6e727b4a4a11c1ca19d04bd66a7da531f8c9c0acf11eb868443480"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1266,
-   "sha256": "ee88b9d395d584ccfa738829eedca23d79675cc58649f92ca2b92b751c8903e5"
+   "sha256": "87ba336efe9f496a92d3194581bbb479bb9dbab0001c9c98b0cf95376fa6b36e"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 534603,
-   "sha256": "c77779034d6e0785c9a52abea95ff1adeb0f40df3a6c0b7d60a2c933497899ff"
+   "bytes": 538874,
+   "sha256": "ca0c031e6dcda459c21d4d81bd15d837a55cd261a5bda41baaa7ca89c03a503a"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2848275,
-   "sha256": "74d194140f523147246f3bdce8a07bb02ccb0064a8500924eee2b961cbcb0053"
+   "bytes": 2868436,
+   "sha256": "b707f135011f6bb107775aa16f810edeeaf4e8054f294201af5c1b831c839e30"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4237087,
-   "sha256": "286b5c96b190b107cb1a659d291a1a1cf63f5d6c7a9f78875edf1e19ae994d15"
+   "bytes": 4267618,
+   "sha256": "ec3d549dc5bea348850932945dcfc4fca1d15c78834e43dc4850dfa1c3900123"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -3152,6 +3152,56 @@
    "sha256": "c2c8b37cbf2b5be5c99e77940f69338db8f8df71b3a9154ad77a54d1805ffe00"
   },
   {
+   "path": "evidence/extracts/city-of-pleasanton-p010-5e8636c9.pdf",
+   "bytes": 74472,
+   "sha256": "c63f40dfdd7cba15747927baca7323d7fcc7eb9862861c3e60450eb9c070f22e"
+  },
+  {
+   "path": "evidence/extracts/city-of-pleasanton-p012-d5345039.pdf",
+   "bytes": 105155,
+   "sha256": "a5ce9a698c7cc4348931c30a7b28c23a27e55f9f2761d811364ba9bfcb134c86"
+  },
+  {
+   "path": "evidence/extracts/city-of-pleasanton-p013-4d71e339.pdf",
+   "bytes": 21572,
+   "sha256": "68665f16f729147d9e8ec822047c83aee10d571a877c6fe2c35d8c9057dd88ef"
+  },
+  {
+   "path": "evidence/extracts/city-of-pleasanton-p013-546d6fae.pdf",
+   "bytes": 64880,
+   "sha256": "9cdb84a9cebdd79dcd371e85803b86b0daa840c5e2985e84dd2fe0260456ea65"
+  },
+  {
+   "path": "evidence/extracts/city-of-pleasanton-p015-2d7e3282.pdf",
+   "bytes": 64618,
+   "sha256": "0e618519091690c7146e39a252a4a0530ab5f077970490f96615df8aaa9196d7"
+  },
+  {
+   "path": "evidence/extracts/city-of-pleasanton-p016-c1541b43.pdf",
+   "bytes": 93508,
+   "sha256": "2110d66a1439b909e1bd500349edba8b31ebc2c457417cb7124d3c219da4fdf2"
+  },
+  {
+   "path": "evidence/extracts/city-of-pleasanton-p016-f4bf4f0b.pdf",
+   "bytes": 59067,
+   "sha256": "d4059fe050627d8ca2a41d89c57801101c6d9019ee7e4d5a180a1223a785f1a4"
+  },
+  {
+   "path": "evidence/extracts/city-of-pleasanton-p017-c3d1c83e.pdf",
+   "bytes": 87663,
+   "sha256": "505d75428960cdc6618499459cb4bb7528b4755dd4a60cc903d030afc880b650"
+  },
+  {
+   "path": "evidence/extracts/city-of-pleasanton-p019-809c759e.pdf",
+   "bytes": 91930,
+   "sha256": "7e07f88ce7d8a193839c917a3b54243cc6fb5924bc090b8611f4b83aacb92f55"
+  },
+  {
+   "path": "evidence/extracts/city-of-pleasanton-p020-d11498bd.pdf",
+   "bytes": 87320,
+   "sha256": "6ea5d7604d7b47b68f121785997ecaed3dbed8b361880f77cb218bed263550e5"
+  },
+  {
    "path": "evidence/extracts/city-of-pomona-p009-14977a2c.pdf",
    "bytes": 72514,
    "sha256": "5e26e8467283a23ba6c275600f28495f358da3b2ba658dfceb7a1f64c09744ee"
@@ -5963,8 +6013,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1225647,
-   "sha256": "6dd90de0c017fc384ab2f541c76f792e51ebfc675c7d554ccfdddc1ccd2ba302"
+   "bytes": 1236098,
+   "sha256": "0db3bcf6e980e259a0ef54226e6880b70ed5b44a122e22e5a5129dce32786975"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -9020,6 +9070,56 @@
    "path": "evidence/outlined/city-of-petaluma-p006-ff6c1e6d.pdf",
    "bytes": 10147,
    "sha256": "8119e7b2fbab3f2a809e04dbbab13e8e22733be58a9c226c849eec4a73ffb019"
+  },
+  {
+   "path": "evidence/outlined/city-of-pleasanton-p010-5e8636c9.pdf",
+   "bytes": 74533,
+   "sha256": "af75b5d91a08a195a9618a9ebfca59624a109453b971cd144c9857eb4cb2bf35"
+  },
+  {
+   "path": "evidence/outlined/city-of-pleasanton-p012-d5345039.pdf",
+   "bytes": 105218,
+   "sha256": "4f319e73cc5e51627fbef499d7be4e46c290c71590c1d325ab4c69f0a53659de"
+  },
+  {
+   "path": "evidence/outlined/city-of-pleasanton-p013-4d71e339.pdf",
+   "bytes": 21633,
+   "sha256": "b045121fc7bc43769ac3e399886b86769328e88e4b608f5c0197ab4b09784d1b"
+  },
+  {
+   "path": "evidence/outlined/city-of-pleasanton-p013-546d6fae.pdf",
+   "bytes": 64937,
+   "sha256": "89a369ae22af5cc0d85a072c38db3c011918a46b139884f074fcf9e646ee8844"
+  },
+  {
+   "path": "evidence/outlined/city-of-pleasanton-p015-2d7e3282.pdf",
+   "bytes": 64675,
+   "sha256": "bde9b507f479cfb03548d1c6fba4c1a872101f08ce50ff5d3f6f73dcd0e35cbd"
+  },
+  {
+   "path": "evidence/outlined/city-of-pleasanton-p016-c1541b43.pdf",
+   "bytes": 93574,
+   "sha256": "3a5195447aa1b471f0502a89e186ffdee6c45450a54f564bc786985cadef2621"
+  },
+  {
+   "path": "evidence/outlined/city-of-pleasanton-p016-f4bf4f0b.pdf",
+   "bytes": 59123,
+   "sha256": "4e3927ec0d16aecb7f295e33c08935bbf3c95320eed291da679eed2d6323f02a"
+  },
+  {
+   "path": "evidence/outlined/city-of-pleasanton-p017-c3d1c83e.pdf",
+   "bytes": 87728,
+   "sha256": "5b0cf003267f9e53fa5af4d0e488d180a5251887ab7ecf1fa615ceec56bc9651"
+  },
+  {
+   "path": "evidence/outlined/city-of-pleasanton-p019-809c759e.pdf",
+   "bytes": 91989,
+   "sha256": "c00c2fd5c9e788df4d9e055217fcdfbb0576b9c63c2a387bb5a34dd92c34045e"
+  },
+  {
+   "path": "evidence/outlined/city-of-pleasanton-p020-d11498bd.pdf",
+   "bytes": 87379,
+   "sha256": "39147ba85a8dd0a9b262cedae27202b3a555afb68a7256804da8d133f83ce37b"
   },
   {
    "path": "evidence/outlined/city-of-pomona-p009-14977a2c.pdf",
@@ -12437,6 +12537,16 @@
    "sha256": "1b2f7fb359c63f6bba42166f231e8578de5a8d0236197777e8af85e302825115"
   },
   {
+   "path": "sources/city-of-pleasanton-2022-23-62fbb450.pdf",
+   "bytes": 1745448,
+   "sha256": "62fbb45006ac184960ccc8049f744a88b31bbe8a7bc61006105547b339bcfa48"
+  },
+  {
+   "path": "sources/city-of-pleasanton-2023-24-02dd138f.pdf",
+   "bytes": 793514,
+   "sha256": "02dd138f4e844c17c42e3e84831f94f29c4c1a33e4ce4fe38e4dad4453cbe6e8"
+  },
+  {
    "path": "sources/city-of-pomona-2023-24.pdf",
    "bytes": 7385213,
    "sha256": "f58045de293eba942533fc137c292422767de97ad1e912909196e076fd0861a9"
@@ -13008,13 +13118,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 109638,
-   "sha256": "a4a3d22da7cd9733cb69291be96e02060ea2928af63cda78d3ed5e1014716491"
+   "bytes": 110425,
+   "sha256": "deb1b51b72bcd9ae06d54b35e38b5422fa3e0e4c1ba0688f49f0d2aeabe9594d"
   },
   {
    "path": "sources/index.json",
-   "bytes": 190048,
-   "sha256": "c0d40bb086810ecc05d26ee84bc39e3512f8d91aff4b664fa8ba8c2d423cb718"
+   "bytes": 191473,
+   "sha256": "256b1f5815fb961ee5b11ad7b1b24c61a9d1eab12b8c0cf6d9ebae8dd5e55e9b"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -13074,7 +13184,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3058,
-   "sha256": "72b9962ec43aa4ecb41b9f28f856f19fe89eedc5ad1ccfeb82ea15d52402e56f"
+   "sha256": "1fa1f047bf0bd766905ee4e2cd126336ecc0f0f701fab1595a35fbeff8ff159e"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -13089,7 +13199,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "e2db8a27d2faff2d495742cec421721a6cc1d0ceac58e7dc47dd11324ea2838a"
+   "sha256": "ead5c9cc1183624399b0acaa812a26a3dbee09ca9a5d447b98aa5a286a162e37"
   },
   {
    "path": "validation/validate.py",

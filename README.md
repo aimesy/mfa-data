@@ -1,6 +1,6 @@
 # California impact fees
 
-1341 reviewed rows covering 1173 printed figures, from 131 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
+1351 reviewed rows covering 1183 printed figures, from 132 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
 
 This is a research sample, not statewide coverage. Thousands of California agencies levy these fees. Do not sum this into a statewide estimate.
 
@@ -48,6 +48,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Encinitas | 2023–24, 2024–25 | 10 | $4,033,437 |
 | County of Napa | 2018–19 to 2024–25 | 7 | $4,030,503 |
 | City of Santa Clara | 2024–25 | 5 | $3,798,860 |
+| City of Pleasanton | 2022–23, 2023–24 | 10 | $3,781,069 |
 | City of Oakdale | 2022–23, 2023–24, 2024–25 | 17 | $3,502,715 |
 | City of Chowchilla | 2022–23, 2024–25 | 20 | $3,437,549 |
 | City of Upland | 2024–25 | 7 | $3,426,229 |
@@ -156,13 +157,13 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 
 ## Double counting
 
-Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 1173 rows of the 1341. Summing every row counts most amounts twice.
+Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 1183 rows of the 1351. Summing every row counts most amounts twice.
 
 ## Limits
 
 These are amounts the agencies reported collecting. They are not audited, not reconciled to bank receipts, and not adjusted to a common accounting basis.
 
-Residential share is unknown for almost every row. Forty-three figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 1130 the source prints one undivided amount. Unknown is never recorded as zero.
+Residential share is unknown for almost every row. Forty-three figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 1140 the source prints one undivided amount. Unknown is never recorded as zero.
 
 Accounting basis is usually not stated. Where it is, the row says so: Sacramento’s reports state they are prepared on the cash basis. Refund treatment varies and is recorded per row.
 
@@ -174,7 +175,7 @@ Some rows are not Mitigation Fee Act fees. Quimby Act park in lieu accounts and 
 
 ## Sources
 
-The [sources directory](sources/) holds 245 complete original reports carrying 254 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
+The [sources directory](sources/) holds 247 complete original reports carrying 256 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
 
 Read [coverage and gaps](docs/coverage.md), the [methodology](docs/methodology.md), the [data dictionary](docs/data-dictionary.md) and the [review process](docs/review-process.md). Mechanical checks do not substitute for reading the source.
 
