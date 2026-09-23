@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T18:12:15.494734+00:00",
- "data_rows": 1692,
- "distinct_printed_figures": 1524,
- "receiving_entities": 161,
- "agency_years": 319,
- "fee_programs": 945,
- "source_reports": 296,
- "evidence_pairs": 1524,
+ "built_utc": "2026-09-23T18:35:07.991308+00:00",
+ "data_rows": 1711,
+ "distinct_printed_figures": 1543,
+ "receiving_entities": 162,
+ "agency_years": 320,
+ "fee_programs": 964,
+ "source_reports": 297,
+ "evidence_pairs": 1543,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3369,
- "total_bytes": 828728396,
+ "file_count": 3408,
+ "total_bytes": 834003144,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13604,
-   "sha256": "ee1c4f2eeaa48a49273495c42e2253f5e38b690ff72e0d2349cec1eb60e288c8"
+   "bytes": 13655,
+   "sha256": "134410f6d017612305aaf1ce912c4eaf26c8f6c33af7f7c3520973b00032dcae"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "57c565129dccc46b92bb2acdbae00230ea9112c89dfaa4dd2f673a2756b28d8f"
+   "sha256": "a78bf64a73def60d62262d89babbd6925a3ff35890e313427f1eee56b26940ca"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 670332,
-   "sha256": "52ec7c7e7106a555a8140de79f22d6dab2de1e34f7cfe0b28c49869eee604774"
+   "bytes": 677416,
+   "sha256": "d75ace51e6a68456a4f003991c11c6ead7f59187c29871c12b5f5c1974c15221"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3546877,
-   "sha256": "910792c295d5fbf7230ca3b71b7bf92e9d75d8bb391d8d65dfadb76c788c37d2"
+   "bytes": 3581676,
+   "sha256": "364e0856ea86e967014c43c041d66569d65075b2f8764f71824f2437834e881b"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5299508,
-   "sha256": "fc2ab16280839d381cfcaa3ad9efa8eaa32951dfa2731f0e24def67718fb2cb3"
+   "bytes": 5354048,
+   "sha256": "b262c64d379e25ffe395b390326ba5d8e4fa2930e0218b410eddeaf03bfd1fac"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -2990,6 +2990,101 @@
    "path": "evidence/extracts/city-of-manteca-p033-d432e9c7.pdf",
    "bytes": 94948,
    "sha256": "56d2dd6d997a69397a46fbd1b037daa8c58edb647cadb6879ce553060786865b"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-0bb06c43.pdf",
+   "bytes": 90180,
+   "sha256": "06e4bbe0de4172a46033cf62bd2a216985be7a28dc7ac2739372f3bbd853270a"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-160bcdd5.pdf",
+   "bytes": 90180,
+   "sha256": "2cbbbcda2d5695be33ff3599fc8bd6e3e7ede49d96c5bf01ea9caaff72583c32"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-1a1d2b8f.pdf",
+   "bytes": 90180,
+   "sha256": "6d8ac1c450e42a88a3dd8c35213ff95a6830ba12714f67a524eaeb4f30f2ef6b"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-30ddd0fd.pdf",
+   "bytes": 90180,
+   "sha256": "faa091f370acb941f17cde71eb2d151a978980a9c9a33cf6000eaa1b53014e10"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-36bd1411.pdf",
+   "bytes": 90180,
+   "sha256": "aade713eb0e867a16bc345322cd00a8bedf748a51cd16f13131c96f3409a87f3"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-4795e90f.pdf",
+   "bytes": 90180,
+   "sha256": "963d19429eeb4a1135d5f3146db361833a2926587967a1c44e4ba79ff18826ca"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-5f4d66f9.pdf",
+   "bytes": 90180,
+   "sha256": "fb5fc616b6b06bd8b08872439e0357c68b3ff2fa775b04d2599f615a3a03f5de"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-7d07d208.pdf",
+   "bytes": 90180,
+   "sha256": "f711b515ce278793df8dbeef1840dd89b46de93c93a828c39317455687c8e444"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-b4df889e.pdf",
+   "bytes": 90180,
+   "sha256": "088d4bd0147b39439442cd50769ffbebaa3be088eeb2f8c011a5063954bd25e9"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-bdcf8e19.pdf",
+   "bytes": 90180,
+   "sha256": "c96394b88d4ef346d2ba507684e316ab6e45a258166f1ca8c1c1440f2a17f219"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-be47f140.pdf",
+   "bytes": 90180,
+   "sha256": "58ae0ab393f0f740e465301cc6f07f9a46a9f15c7b76c05c9536d21cfd5e3f88"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-d5a02c44.pdf",
+   "bytes": 90180,
+   "sha256": "9fdf635e653deb85880a54db4e434809f7de56b61c4a73de7b1665b83ea0fdf4"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-d615c9e2.pdf",
+   "bytes": 90180,
+   "sha256": "505b3126e9c9b1a82137a6c0719c4683c16c1fe4e9772e365f3bda22dbbb46c6"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-e436b7c6.pdf",
+   "bytes": 90180,
+   "sha256": "750e8429b8b66d665c49385c125c8b235ff5ee169bd7fe5820c9c3d10ebbd164"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-ea04f20e.pdf",
+   "bytes": 90180,
+   "sha256": "b50cad87b871c8f91c3de4043f84c7da8e1f9e308f11fb914f1eaf3b1bbefd36"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p020-eee19b67.pdf",
+   "bytes": 90180,
+   "sha256": "9bbcf53bdf532f8293d7f0975a3aafc3066c08624e6f2a975ad11411097a7c4e"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p021-42c520d0.pdf",
+   "bytes": 59491,
+   "sha256": "60d6a4e4f130b27ea32c22e15d66a08edb94d59ca11a2b60557ea427cf12130c"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p021-8d592138.pdf",
+   "bytes": 59491,
+   "sha256": "56d4453f3223f4bf1b0a33188bc723c8a0e7652fc42b71e1f1b4b96237cb3f84"
+  },
+  {
+   "path": "evidence/extracts/city-of-menifee-p021-98e083cb.pdf",
+   "bytes": 59491,
+   "sha256": "3ec7e52712ef7465667226d54a84fe8dcbc40244dc0c5d418a68429914aa04e4"
   },
   {
    "path": "evidence/extracts/city-of-menlo-park-p009-4a9419bc.pdf",
@@ -7718,8 +7813,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1584510,
-   "sha256": "8630eba81511230fed530f05e384142ca477ea0424fd089bd21f068dd2a4807e"
+   "bytes": 1604043,
+   "sha256": "297d2110f8907d1f44b581f1babb3d7c5262bd7538c977e51098eed7015745ea"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -10615,6 +10710,101 @@
    "path": "evidence/outlined/city-of-manteca-p033-d432e9c7.pdf",
    "bytes": 94999,
    "sha256": "d4745d0fc9f9e10f883523d69d5429579d82d350e6fa22a9c6a1e7a6421e697e"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-0bb06c43.pdf",
+   "bytes": 90238,
+   "sha256": "fdf741f7ac7e9912ab3517a394caa0d8cf54320f28a3677c50f8283a6a3c6863"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-160bcdd5.pdf",
+   "bytes": 90239,
+   "sha256": "1a95f049f25737692827f107796534a8ee886b46abb400177a1984e6c443a53a"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-1a1d2b8f.pdf",
+   "bytes": 90240,
+   "sha256": "266f5396204aaf549b4bf973de51aea20b0686c2e71fd93694dcc794080e0649"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-30ddd0fd.pdf",
+   "bytes": 90238,
+   "sha256": "65bce28fa8c96234d682707f10128b7a2ab18c1e92967272f63cc15bc0a9d6b6"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-36bd1411.pdf",
+   "bytes": 90238,
+   "sha256": "6b9cef3e5e2289c8e91d5fa1c8c8ebe5ed48a3abb49146c632b5da9762a3e49f"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-4795e90f.pdf",
+   "bytes": 90240,
+   "sha256": "700b53a3d5882507b5e3d19b9e50e177568930698b962fc59cf89fb3d913957b"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-5f4d66f9.pdf",
+   "bytes": 90240,
+   "sha256": "ef330c4b71ff474566549d2a14179abfaaf687873705a710d30e2adbdb2c9a63"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-7d07d208.pdf",
+   "bytes": 90241,
+   "sha256": "5238dfcef9ad090da10d6390a8a4d2da49a0d7aa6e0b647967c12e230cc811d8"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-b4df889e.pdf",
+   "bytes": 90239,
+   "sha256": "3b33d8748a9f19a9a8776b94b340f0202f52d94c9d614b3f95c39ed114c8a915"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-bdcf8e19.pdf",
+   "bytes": 90239,
+   "sha256": "c678201ba1d4b1bd67ee38d1767cc7c4347e846a9ed824a91161b36470269b5f"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-be47f140.pdf",
+   "bytes": 90238,
+   "sha256": "cd0a3753b29270c87136dc6ada43aa692526e3a0384185c39a0a7bb9da78a185"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-d5a02c44.pdf",
+   "bytes": 90240,
+   "sha256": "9ad6b1762e8bd41b61b0093785a2ec0ea037c23b66f2884b268278569780e227"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-d615c9e2.pdf",
+   "bytes": 90240,
+   "sha256": "5647af1738b327bc1480d46adccc1371f4100244632f9cadc38a3d5b104e70ca"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-e436b7c6.pdf",
+   "bytes": 90236,
+   "sha256": "05d7a5115fce45c31c9bb55f4b43ff5b9f16da0039c9caeb6585ccf2948402ec"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-ea04f20e.pdf",
+   "bytes": 90237,
+   "sha256": "22a0255fb589f5afeada6317840dfa41ebe455a70119cd17abeab6d4fe43fe37"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p020-eee19b67.pdf",
+   "bytes": 90239,
+   "sha256": "8aca2f7bee8191ec24d015d4087229cf697650103a709533dc616aa8c58d1cd3"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p021-42c520d0.pdf",
+   "bytes": 59550,
+   "sha256": "6dced18c420b0696bae23a28fe6971379fedcbb723f76c1a0d8c25c830169fd3"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p021-8d592138.pdf",
+   "bytes": 59551,
+   "sha256": "975d1a104a32b208745449eae47e3a757f279e4072ac8a3b2c4243fe314ca90e"
+  },
+  {
+   "path": "evidence/outlined/city-of-menifee-p021-98e083cb.pdf",
+   "bytes": 59550,
+   "sha256": "20023ad11d1eee5d6cf72256d22dce6b3f67def5e1863aec9e7caa7c3230539f"
   },
   {
    "path": "evidence/outlined/city-of-menlo-park-p009-4a9419bc.pdf",
@@ -15887,6 +16077,11 @@
    "sha256": "75415a9d347347aa5c511c9989eec55cfb023b6868371c6bef4440d58bf6c3cf"
   },
   {
+   "path": "sources/city-of-menifee-2024-25-c2299594.pdf",
+   "bytes": 1913924,
+   "sha256": "c2299594f5c8b3570a0162ef0aded91e709727c9eebaff6b7f590518c53eea84"
+  },
+  {
    "path": "sources/city-of-menlo-park-2023-24-5258a3ad.pdf",
    "bytes": 1404592,
    "sha256": "5258a3ad149d7f84cffd1304a057934187e6fe75b6b1fcafdb61d6d6fd95f60a"
@@ -16768,13 +16963,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 131789,
-   "sha256": "5d1a4d566fd0705e31a58d7fe085cc809930543474f68eb243f082981df88b03"
+   "bytes": 132125,
+   "sha256": "df6a65e4e2f71afc77acd2fae328c47058107d0141e623ee806f988f371f2d4e"
   },
   {
    "path": "sources/index.json",
-   "bytes": 229036,
-   "sha256": "d1f4be263f6d72ecffd8a6d7640c475b546dd0ad3878399f3534db0bd9040b75"
+   "bytes": 229691,
+   "sha256": "6e198bf31184f4837fca0f720710c76ff7a0cabf1a35e91a07117ba5def08fb9"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -16849,7 +17044,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "37c8c4b94c2b3b8dd1a4a6928142071074b52d9634558ca35972a7dd62bc1e9a"
+   "sha256": "591480261faadb9c0f627f6ee2419ed2d00e702a6ff729f02be91bfec1d4cf97"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -16864,7 +17059,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "8cdbc18a7b3589360fbaf5464f40fb801e8afad7daedbdedbff39e6dc3e11248"
+   "sha256": "7f913f10796757fb919471e52155bfca69e06d0a20de5b02bf5d948d0d4d5fa4"
   },
   {
    "path": "validation/validate.py",
