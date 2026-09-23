@@ -952,6 +952,48 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "city-of-foster-city-2022-23-e588c08a",
+  "receiving_entity": "City of Foster City",
+  "publication_title": "City of Foster City development impact fee report, fiscal year 2022-23",
+  "publication_type": "annual_capacity_charge_report_66013",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.fostercity.org/DocumentCenter/View/541/Fiscal-Year-2022-Through-2023-PDF",
+  "retrieved_utc": "2026-09-22T08:28:58.754282+00:00",
+  "physical_page_count": 8,
+  "source_sha256": "e588c08a940d0f8619e2c74eb05ee859d27e81bde6f3e93e70ca10234191b7a0",
+  "source_bytes": 216370,
+  "source_pdf": "sources/city-of-foster-city-2022-23-e588c08a.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
+  "source_id": "city-of-foster-city-2023-24-c6dc187e",
+  "receiving_entity": "City of Foster City",
+  "publication_title": "City of Foster City development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.fostercity.org/DocumentCenter/View/540/Fiscal-Year-2023-Through-2024-PDF",
+  "retrieved_utc": "2026-09-22T08:28:58.906864+00:00",
+  "physical_page_count": 9,
+  "source_sha256": "c6dc187ec62b4f7f8ad068b7fd1932e863abaab4f591246fdbefe34e88f37830",
+  "source_bytes": 154719,
+  "source_pdf": "sources/city-of-foster-city-2023-24-c6dc187e.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-foster-city-2024-25-c235326b",
+  "receiving_entity": "City of Foster City",
+  "publication_title": "City of Foster City development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_capacity_charge_report_66013",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.fostercity.org/DocumentCenter/View/4432/Fiscal-Year-2024-Through-2025pdf",
+  "retrieved_utc": "2026-09-22T08:28:59.063392+00:00",
+  "physical_page_count": 13,
+  "source_sha256": "c235326b9ad1207276fe09c19be95ba17944a4974333e2529b3abf329bc56f98",
+  "source_bytes": 229206,
+  "source_pdf": "sources/city-of-foster-city-2024-25-c235326b.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "city-of-fremont-2020-21",
   "receiving_entity": "City of Fremont",
   "publication_title": "City of Fremont impact fee report, fiscal year 2020-21",

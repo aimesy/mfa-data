@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T05:27:15.689904+00:00",
- "data_rows": 1368,
- "distinct_printed_figures": 1200,
- "receiving_entities": 133,
- "agency_years": 269,
- "fee_programs": 719,
- "source_reports": 248,
- "evidence_pairs": 1200,
+ "built_utc": "2026-09-23T05:55:37.775154+00:00",
+ "data_rows": 1372,
+ "distinct_printed_figures": 1204,
+ "receiving_entities": 134,
+ "agency_years": 272,
+ "fee_programs": 722,
+ "source_reports": 251,
+ "evidence_pairs": 1204,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2673,
- "total_bytes": 689749843,
+ "file_count": 2684,
+ "total_bytes": 691002068,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11936,
-   "sha256": "9c190369cecbc7f1de753e6b1294df560d8a223d3ffb7fc8d9971362cd2b09a5"
+   "bytes": 12011,
+   "sha256": "9a289a5ba5930cd38311ee0352a95800776c94a394461abbbc9f5be90d71d8a3"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "1f69cba8bced18d26df3c2d24e076e8c7840d6a634276bffa1d209386f367c0c"
+   "sha256": "eb5278f1906d51b24481e943750c3ecc17bdfc2edf75bccd6774f7b444b34062"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 544636,
-   "sha256": "b1967ef10c4300820fe50d4fca1e888243cc29ea6ed5cf6b298dd8513b38c13d"
+   "bytes": 546971,
+   "sha256": "b7da703a5508fe480f1557098401d68107f487edc5709e2821c8646e56395f36"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2898372,
-   "sha256": "30705ec5625063df4265cbd2867812b7a0e11c2896219cf79226f23f725acf3a"
+   "bytes": 2906365,
+   "sha256": "19ef37b815960ca7ecc1ae22ac1a71d2d947b55a4171ec8804f37e2794d0325a"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4315229,
-   "sha256": "b2b0bd9802de8dc184a77c4e59055a6a8661c4ed477e53e4810988f8ff0fa7d0"
+   "bytes": 4327362,
+   "sha256": "67d556e954b6690b60dc52300c92372f35d927aaa4e06fabf4e07fbe992c7494"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1785,6 +1785,26 @@
    "path": "evidence/extracts/city-of-fort-bragg-p002-fe598321.pdf",
    "bytes": 264320,
    "sha256": "b4b1661157bed7e6dde96fec66e876890ec5d7b6afd84a38d9ebace6678fc1c8"
+  },
+  {
+   "path": "evidence/extracts/city-of-foster-city-p002-04f58837.pdf",
+   "bytes": 87304,
+   "sha256": "aac9ea6c53122b19838b66216df09b65af90688b93665822435bf5d9a0ed2c52"
+  },
+  {
+   "path": "evidence/extracts/city-of-foster-city-p002-8ea40df6.pdf",
+   "bytes": 86855,
+   "sha256": "0abcd624c3e1303008042c74ce7b8148b16a36ff056f66bbbd8ff972129f908e"
+  },
+  {
+   "path": "evidence/extracts/city-of-foster-city-p004-6acb87f3.pdf",
+   "bytes": 86734,
+   "sha256": "073ad9f71094169223a229270efd1ab3458e2893226a3f481917f9e62874ff9a"
+  },
+  {
+   "path": "evidence/extracts/city-of-foster-city-p005-caee4a89.pdf",
+   "bytes": 49883,
+   "sha256": "1fdffeac30826daffcb34f569f1cf2bc0678e8f34853edf1c72620fbfa479e2e"
   },
   {
    "path": "evidence/extracts/city-of-fremont-p004-a9b9f63c.pdf",
@@ -6098,8 +6118,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1253119,
-   "sha256": "927edc4a51de8920787eaaadf02f62618d34ed48c3ab40caadd147ab902295cb"
+   "bytes": 1257295,
+   "sha256": "63f9f5d53c6a1cdb45c5b88f355e2487590b4f24d6cddd13d4a245ed8a6d66d2"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -7790,6 +7810,26 @@
    "path": "evidence/outlined/city-of-fort-bragg-p002-fe598321.pdf",
    "bytes": 264386,
    "sha256": "eac44cb8076d221cac302abec5a585ae5e13bb5c1fc4179f2f3f8e2ca80bf431"
+  },
+  {
+   "path": "evidence/outlined/city-of-foster-city-p002-04f58837.pdf",
+   "bytes": 87361,
+   "sha256": "d3a008f319bb523e5102e921c40100b66396204a67222473d8c7ad956f7d4673"
+  },
+  {
+   "path": "evidence/outlined/city-of-foster-city-p002-8ea40df6.pdf",
+   "bytes": 86909,
+   "sha256": "567e913964654a0c2c06713f4d7b71a3e746c8468a5f9b1407656badd11375d4"
+  },
+  {
+   "path": "evidence/outlined/city-of-foster-city-p004-6acb87f3.pdf",
+   "bytes": 86792,
+   "sha256": "15064f149ddc6bf9279cb6b2fa6b03e9db2225a34686a26425428b1a661651f2"
+  },
+  {
+   "path": "evidence/outlined/city-of-foster-city-p005-caee4a89.pdf",
+   "bytes": 49943,
+   "sha256": "933025c58ef2243c0b2abed1506f98c3d06d0b68bde21bf3379ad912ec69b93f"
   },
   {
    "path": "evidence/outlined/city-of-fremont-p004-a9b9f63c.pdf",
@@ -12432,6 +12472,21 @@
    "sha256": "d48a9c9d6989175c4769a60781e0f66e886c5856fbd8f3b73f04140f8b7a1779"
   },
   {
+   "path": "sources/city-of-foster-city-2022-23-e588c08a.pdf",
+   "bytes": 216370,
+   "sha256": "e588c08a940d0f8619e2c74eb05ee859d27e81bde6f3e93e70ca10234191b7a0"
+  },
+  {
+   "path": "sources/city-of-foster-city-2023-24-c6dc187e.pdf",
+   "bytes": 154719,
+   "sha256": "c6dc187ec62b4f7f8ad068b7fd1932e863abaab4f591246fdbefe34e88f37830"
+  },
+  {
+   "path": "sources/city-of-foster-city-2024-25-c235326b.pdf",
+   "bytes": 229206,
+   "sha256": "c235326b9ad1207276fe09c19be95ba17944a4974333e2529b3abf329bc56f98"
+  },
+  {
    "path": "sources/city-of-fremont-2020-21.pdf",
    "bytes": 215305,
    "sha256": "54167d0006c366126e6862eb972995e7c5947557f7145f2578f445ec15689473"
@@ -13303,13 +13358,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 111653,
-   "sha256": "5b8f22506d4b43d736ace5af496b35cd1e1ec4728c1124d5ec0353861b590c91"
+   "bytes": 112896,
+   "sha256": "c88e9cea88391f180fa887cf1e8957494650badbbd020193fe2e2bec642cff0a"
   },
   {
    "path": "sources/index.json",
-   "bytes": 193658,
-   "sha256": "aac187515c114beba2b24afdf177513abc98ef5480e9e123f8d9212557f83972"
+   "bytes": 195852,
+   "sha256": "1785023e8221219197e95ca6fd4bca2dc72f14a0145f011374af08336038cbc6"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -13369,7 +13424,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "c86ec0211697ae03badc0a23a37d09c4290d7fd84ad22695738cbe8273c2dc5d"
+   "sha256": "db713b4567c39eebe29b6f430c87191829d2f850c68041f6aaedf5faae48e6f8"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -13384,7 +13439,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "70fee440cc5c5a2289bc5c5c4bac56a557b01598ea46cc54a94b37787084e11a"
+   "sha256": "7bbdd80ddf8ab73bde6e6a5174dbe91160d7c92de894f131d02e7955217e16c6"
   },
   {
    "path": "validation/validate.py",
