@@ -238,6 +238,34 @@
   "published_data_rows_from_this_source": 34
  },
  {
+  "source_id": "city-of-bellflower-2023-24-8c0f5941",
+  "receiving_entity": "City of Bellflower",
+  "publication_title": "Development Impact Fee Annual Report 2023-2024 (agenda item 14-C package)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://cms5.revize.com/revize/bellflowerca/14-C%20Final%20DIF%20Agenda%20Package.pdf",
+  "retrieved_utc": "2026-09-22T07:00:16.635992+00:00",
+  "physical_page_count": 19,
+  "source_sha256": "8c0f59414722b079c4ee93ebd5ac6eacfe0ab6e1277a378b69b5772b399224ae",
+  "source_bytes": 970690,
+  "source_pdf": "sources/city-of-bellflower-2023-24-8c0f5941.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
+  "source_id": "city-of-bellflower-2024-25-69fba114",
+  "receiving_entity": "City of Bellflower",
+  "publication_title": "Development Impact Fee Annual Report 2024-2025 (agenda item 15-D package)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://cms5.revize.com/revize/bellflowerca/15-D%20Full%20DIF%20Agenda%20Item.pdf",
+  "retrieved_utc": "2026-09-22T07:00:16.303503+00:00",
+  "physical_page_count": 19,
+  "source_sha256": "69fba11476719866a5c53e9451e8a09821a8f4c52be8dd810f578a1be49b6208",
+  "source_bytes": 762563,
+  "source_pdf": "sources/city-of-bellflower-2024-25-69fba114.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
   "source_id": "city-of-beverly-hills-2022-23-78a7735c",
   "receiving_entity": "City of Beverly Hills",
   "publication_title": "Annual Reporting for Mitigation Fee Act - FY23",

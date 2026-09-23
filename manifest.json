@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T03:52:28.020651+00:00",
- "data_rows": 1333,
- "distinct_printed_figures": 1165,
- "receiving_entities": 130,
- "agency_years": 262,
- "fee_programs": 698,
- "source_reports": 241,
- "evidence_pairs": 1165,
+ "built_utc": "2026-09-23T04:20:39.462048+00:00",
+ "data_rows": 1341,
+ "distinct_printed_figures": 1173,
+ "receiving_entities": 131,
+ "agency_years": 264,
+ "fee_programs": 702,
+ "source_reports": 243,
+ "evidence_pairs": 1173,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2596,
- "total_bytes": 679752442,
+ "file_count": 2614,
+ "total_bytes": 682264808,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11734,
-   "sha256": "b90ab06fbc0a90161cf602c3401e2c523edcdf1404b9220f66e95d7cf6310e50"
+   "bytes": 11797,
+   "sha256": "0936bf97b3d8db0ee31728cf7f382cb66d97cf528ef1803af5310a41f5fc695f"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1266,
-   "sha256": "080b3430585212295565a782f4ce915c1a9cb441e56b046770a0d593f7979d56"
+   "sha256": "ee88b9d395d584ccfa738829eedca23d79675cc58649f92ca2b92b751c8903e5"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 531411,
-   "sha256": "2992555c5c2758fd7e9ffc200b7c44d4ff9e3fb4f5e8bbc4c0480c43d04a3782"
+   "bytes": 534603,
+   "sha256": "c77779034d6e0785c9a52abea95ff1adeb0f40df3a6c0b7d60a2c933497899ff"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2834255,
-   "sha256": "0860be0aaaa451eafac63fe7f36ff6db27801cf16b93a328a0aa78f4bb828a49"
+   "bytes": 2848275,
+   "sha256": "74d194140f523147246f3bdce8a07bb02ccb0064a8500924eee2b961cbcb0053"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4214755,
-   "sha256": "de58a6656de44231722fbf17fc841fec174d032aeef5776de5989eca55eade5a"
+   "bytes": 4237087,
+   "sha256": "286b5c96b190b107cb1a659d291a1a1cf63f5d6c7a9f78875edf1e19ae994d15"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -535,6 +535,46 @@
    "path": "evidence/extracts/city-of-beaumont-p002-feb1cfee.pdf",
    "bytes": 52473,
    "sha256": "90c68657bf92038032c8b1cb8fcd6020c5ac2cf08beecd4ee4342e491d12ea94"
+  },
+  {
+   "path": "evidence/extracts/city-of-bellflower-p005-184a1d49.pdf",
+   "bytes": 42535,
+   "sha256": "ddd0fdd7d62c2ac01c33e3eed71590e082e60bd8996dde46f34eeda0705aa4c6"
+  },
+  {
+   "path": "evidence/extracts/city-of-bellflower-p005-780593bb.pdf",
+   "bytes": 64064,
+   "sha256": "53d62623ddfbbe6c15976a797780ad722950400d65222881b3dc2d64da209781"
+  },
+  {
+   "path": "evidence/extracts/city-of-bellflower-p010-758ff5d2.pdf",
+   "bytes": 63248,
+   "sha256": "629fa5c5c7b0756ef5764dd65f53625340a39a9e3bb8b54f1dca71df5dedfe02"
+  },
+  {
+   "path": "evidence/extracts/city-of-bellflower-p010-99b5b860.pdf",
+   "bytes": 23284,
+   "sha256": "847c88b30dfd2d6d72cca11a2096a9cea5e84326b601058996964171a2ef664c"
+  },
+  {
+   "path": "evidence/extracts/city-of-bellflower-p013-e27ee399.pdf",
+   "bytes": 62728,
+   "sha256": "fb0b3b2042e88fdc4a13a2f75ae37d4af11091419681804e0c9c08984606a6e8"
+  },
+  {
+   "path": "evidence/extracts/city-of-bellflower-p013-f2946b0f.pdf",
+   "bytes": 22752,
+   "sha256": "b93d4f1f9a66c72e74c5a0c20fde10f45b6eaae015664b0145acb2a44cce51f5"
+  },
+  {
+   "path": "evidence/extracts/city-of-bellflower-p015-bd482191.pdf",
+   "bytes": 62871,
+   "sha256": "cc78d1fdf63e56f37e4ae42aeb026159316e95a3213ef92b494b60f8d0420e82"
+  },
+  {
+   "path": "evidence/extracts/city-of-bellflower-p015-d3026d0b.pdf",
+   "bytes": 22716,
+   "sha256": "4e12837c6d19ca8b64494c74e1d0d98026fa52dcf8d07b1b7b2d933039298459"
   },
   {
    "path": "evidence/extracts/city-of-beverly-hills-p001-3fabf4e7.pdf",
@@ -5923,8 +5963,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1217301,
-   "sha256": "412cf9375dbbb7c5ff26a8feca7dbf13018a42b5196f3d9b0dff244de28960ee"
+   "bytes": 1225647,
+   "sha256": "6dd90de0c017fc384ab2f541c76f792e51ebfc675c7d554ccfdddc1ccd2ba302"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -6365,6 +6405,46 @@
    "path": "evidence/outlined/city-of-beaumont-p002-feb1cfee.pdf",
    "bytes": 52533,
    "sha256": "ddf17314b89e7b1ac44c752c220e95e8fb8ec2b5b01b6613def25c37f766a821"
+  },
+  {
+   "path": "evidence/outlined/city-of-bellflower-p005-184a1d49.pdf",
+   "bytes": 42594,
+   "sha256": "85d63858afc07c18bf24d69a2f0d2dadac8b036617fe3fd31191f63ade1067b7"
+  },
+  {
+   "path": "evidence/outlined/city-of-bellflower-p005-780593bb.pdf",
+   "bytes": 64130,
+   "sha256": "8a5c4cd22fd7c4ae27e87dfae9c996f3529ce76201318e24d6614762b142b44f"
+  },
+  {
+   "path": "evidence/outlined/city-of-bellflower-p010-758ff5d2.pdf",
+   "bytes": 63313,
+   "sha256": "7ff0837a905271e87abe85a54bcd771b392411e0db29696747f8a7828de41708"
+  },
+  {
+   "path": "evidence/outlined/city-of-bellflower-p010-99b5b860.pdf",
+   "bytes": 23350,
+   "sha256": "79fe28bdcf475cd3f7cf20c0cba7dd4f9bc4c5e344c5dc61e53539074e4901e8"
+  },
+  {
+   "path": "evidence/outlined/city-of-bellflower-p013-e27ee399.pdf",
+   "bytes": 62793,
+   "sha256": "3eebf4ef5b4f78a757450c994547098da14f90a3a09e57bf24804d8e137a85fe"
+  },
+  {
+   "path": "evidence/outlined/city-of-bellflower-p013-f2946b0f.pdf",
+   "bytes": 22813,
+   "sha256": "585bbcdb104570592e00514564363ccf56cefa61ce5e0e30e8a27b28b6ee258d"
+  },
+  {
+   "path": "evidence/outlined/city-of-bellflower-p015-bd482191.pdf",
+   "bytes": 62938,
+   "sha256": "c9e568e6da111428597d9ecee9b934aaff870e7f1f68be3f19a4a58f826fce68"
+  },
+  {
+   "path": "evidence/outlined/city-of-bellflower-p015-d3026d0b.pdf",
+   "bytes": 22776,
+   "sha256": "2b9b4a5b4bc27832f71a697032acb58d61ea1e38ad10676820b4a2affbb4f4a9"
   },
   {
    "path": "evidence/outlined/city-of-beverly-hills-p001-3fabf4e7.pdf",
@@ -11832,6 +11912,16 @@
    "sha256": "e0b4ec3f7b06ca7ae70b1c935b75031fa2b2c9b9141c1d4ceb552c5341996ccd"
   },
   {
+   "path": "sources/city-of-bellflower-2023-24-8c0f5941.pdf",
+   "bytes": 970690,
+   "sha256": "8c0f59414722b079c4ee93ebd5ac6eacfe0ab6e1277a378b69b5772b399224ae"
+  },
+  {
+   "path": "sources/city-of-bellflower-2024-25-69fba114.pdf",
+   "bytes": 762563,
+   "sha256": "69fba11476719866a5c53e9451e8a09821a8f4c52be8dd810f578a1be49b6208"
+  },
+  {
    "path": "sources/city-of-beverly-hills-2022-23-78a7735c.pdf",
    "bytes": 118536,
    "sha256": "78a7735cdd5e2064e98059b9f1e89e00a647c57ad162f2a8f57aa63af224e7da"
@@ -12918,13 +13008,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 108830,
-   "sha256": "25a56b805d7bd7a8f543a5ff6917e2aeb6ced75a971115e6b5ab79ef3dcd720f"
+   "bytes": 109638,
+   "sha256": "a4a3d22da7cd9733cb69291be96e02060ea2928af63cda78d3ed5e1014716491"
   },
   {
    "path": "sources/index.json",
-   "bytes": 188602,
-   "sha256": "e36695afda585b6ae2274faf479587b033c3e830505daa83b6e45aa07fd4265c"
+   "bytes": 190048,
+   "sha256": "c0d40bb086810ecc05d26ee84bc39e3512f8d91aff4b664fa8ba8c2d423cb718"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -12984,7 +13074,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3058,
-   "sha256": "73c428b84c9cd0cc390ba4a14a365c947688d792091b966d8a3c596b4328b60d"
+   "sha256": "72b9962ec43aa4ecb41b9f28f856f19fe89eedc5ad1ccfeb82ea15d52402e56f"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -12998,8 +13088,8 @@
   },
   {
    "path": "validation/review.json",
-   "bytes": 2591,
-   "sha256": "7e7a2431446c9d71cbe2b0dc71b0ca5ae26e77f1e786aa8707564a9085c48bf4"
+   "bytes": 2592,
+   "sha256": "e2db8a27d2faff2d495742cec421721a6cc1d0ceac58e7dc47dd11324ea2838a"
   },
   {
    "path": "validation/validate.py",
