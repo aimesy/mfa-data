@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T07:22:12.583212+00:00",
- "data_rows": 1399,
- "distinct_printed_figures": 1231,
- "receiving_entities": 138,
- "agency_years": 280,
- "fee_programs": 737,
- "source_reports": 259,
- "evidence_pairs": 1231,
+ "built_utc": "2026-09-23T08:18:43.958820+00:00",
+ "data_rows": 1477,
+ "distinct_printed_figures": 1309,
+ "receiving_entities": 142,
+ "agency_years": 287,
+ "fee_programs": 785,
+ "source_reports": 266,
+ "evidence_pairs": 1309,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2746,
- "total_bytes": 699763080,
+ "file_count": 2909,
+ "total_bytes": 715085111,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 12285,
-   "sha256": "e36bfe13ea6b02bff51bdba9edc7a9a51cde53ccc6fec97e712ceeb8dbce5e01"
+   "bytes": 12516,
+   "sha256": "5bee89fc2a18dac735c04504908b0e516971b80147354297989b8fab0dcd891f"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "eff8ce780616a376819871736f09d17f1999b1d2a213d4e20ad6d76e32adc139"
+   "sha256": "b6394f1c38cf772b3c452b3142ba9eddb68cbce27dab0379557c07af4a379666"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 558539,
-   "sha256": "1bd3fd9d23d3ac33ef4e2ed106cdbfc7091b4c92656253028c01019bb56c414b"
+   "bytes": 586618,
+   "sha256": "212a0051e0ae38c319db489a891e6dee5ea13f156e7e2197e2cd3aa1dc456197"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2956864,
-   "sha256": "87238332943413b513d68a551f3f5037f4c8c9548e868f873eb471c5cc58ee49"
+   "bytes": 3104218,
+   "sha256": "9f6e90e469faccb7d2a8b34c891f4d40056ef519e51bc604d718321e63ac24ab"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4405898,
-   "sha256": "b65966466c9a137566e3063bd83b1caff075e39ba44e3249d48f0c75f1089371"
+   "bytes": 4634032,
+   "sha256": "5a04456a4e6dcd3416eec5b65ae71c383fcfb4196af6fcc438f0bbeb4d46444f"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -2557,6 +2557,51 @@
    "sha256": "bc4700195a7d5534fb254985dd431f05026383eaa148b7f8144b63a4231b2bd3"
   },
   {
+   "path": "evidence/extracts/city-of-madera-p004-c73c1033.pdf",
+   "bytes": 44961,
+   "sha256": "c92418f153a9e1077b1cb93e6a6fb4eb9836f18bcff889c165578dd2fa1a63e2"
+  },
+  {
+   "path": "evidence/extracts/city-of-madera-p005-7d654123.pdf",
+   "bytes": 45210,
+   "sha256": "9b6b83175de35fdc04722ea83837e08caaf55e7e1f713586e0d7fb42b44a91ba"
+  },
+  {
+   "path": "evidence/extracts/city-of-madera-p006-dd09de72.pdf",
+   "bytes": 44995,
+   "sha256": "8de0871e942f483796dea44362519094ea3b8dc7d69a2a4264839ee8fcdf2edc"
+  },
+  {
+   "path": "evidence/extracts/city-of-madera-p007-1b690cfa.pdf",
+   "bytes": 44453,
+   "sha256": "13efe96e6852c368da0f616a9b603e7efe4991a79ee2c85f779a11cf03e74f35"
+  },
+  {
+   "path": "evidence/extracts/city-of-madera-p008-11159fdc.pdf",
+   "bytes": 46920,
+   "sha256": "ef95b9ce9c532f34ddabb96d591065ac79f005b4264f29279e6af3e3007e9616"
+  },
+  {
+   "path": "evidence/extracts/city-of-madera-p009-3f744824.pdf",
+   "bytes": 44424,
+   "sha256": "9febeaf123c4c171fe609bfe891ba6128d5658edf17350ee07711a39eeb77394"
+  },
+  {
+   "path": "evidence/extracts/city-of-madera-p010-28eb413d.pdf",
+   "bytes": 94487,
+   "sha256": "a098d856d4cf3e5ef761a4c66f58ebca5e648066a744860d88fb228b609c9e35"
+  },
+  {
+   "path": "evidence/extracts/city-of-madera-p011-bebab0c9.pdf",
+   "bytes": 44345,
+   "sha256": "4fcafbb98937e57ed327d72041d183d4ee8f111e5eb2652e0cdffb2f2180b361"
+  },
+  {
+   "path": "evidence/extracts/city-of-madera-p012-196e56de.pdf",
+   "bytes": 96429,
+   "sha256": "8cd49dc07ef01b8529ba8642ef5c9dd33864031fef3fa309db199553d73d182f"
+  },
+  {
    "path": "evidence/extracts/city-of-manteca-p033-50ff2ba0.pdf",
    "bytes": 94948,
    "sha256": "4b003e728a99b11c97d4c91d08d7b2b2e034906984753e72a2b43ae066bdd7d9"
@@ -3005,6 +3050,26 @@
    "path": "evidence/extracts/city-of-oakland-p027-625a42f0.pdf",
    "bytes": 102764,
    "sha256": "7126e390d0bd1103d9da110738d5665fe745a917fa3f5c1e1a1bdf99d10facdc"
+  },
+  {
+   "path": "evidence/extracts/city-of-oceanside-p007-81592319.pdf",
+   "bytes": 141833,
+   "sha256": "53cd32ef2e8f397078a3f3b6e3434a9f6e6ebf2f904f5eb5aa3aed8e257b80e3"
+  },
+  {
+   "path": "evidence/extracts/city-of-oceanside-p012-d1eb77e9.pdf",
+   "bytes": 137860,
+   "sha256": "0985a3f925df4601e7663398184abf5f3a81e81972f782d8e5bfc61ebe6a7c29"
+  },
+  {
+   "path": "evidence/extracts/city-of-oceanside-p016-ff41f9ff.pdf",
+   "bytes": 139173,
+   "sha256": "f0861ec3f13d51f23be443d0aa0842679bdb9ddca0ad27796f8a35ed868beb31"
+  },
+  {
+   "path": "evidence/extracts/city-of-oceanside-p021-0d46e146.pdf",
+   "bytes": 135155,
+   "sha256": "7b117c0439a6efa2659b6f4365cb7aa61c4b20ced61d019a96773768e32e919e"
   },
   {
    "path": "evidence/extracts/city-of-oxnard-p006-cc3766ba.pdf",
@@ -4505,6 +4570,311 @@
    "path": "evidence/extracts/city-of-temecula-p002-b5ad120c.pdf",
    "bytes": 65965,
    "sha256": "3b3407c3f876f5806c9b6d9af6e01a20a32c652e74007f46842db3fa0a3a1a70"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p014-14fae40f.pdf",
+   "bytes": 41123,
+   "sha256": "0e49bb4cd4776348d7d28f9f262ad1d8389c63f593ad3306732193fd1b1d5c72"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p017-81552fce.pdf",
+   "bytes": 40670,
+   "sha256": "830a82400bb27dc4db65db8d53bd79d80f6c71c139757a190b0838ff939aed4e"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p019-a000ca7d.pdf",
+   "bytes": 43636,
+   "sha256": "bc50f273d67f2b9bfe987576edb7f785aff27216c8fb92617016a319801575bc"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p021-064f5b7b.pdf",
+   "bytes": 41342,
+   "sha256": "f856b11a12a19e088bf00c1c193fa366b2989c22f8cb56e839a51f94480e4e02"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p021-63cd8baf.pdf",
+   "bytes": 100752,
+   "sha256": "c7e844579af8865afa9217b7898c5f21201c67917b690022b9826df995018103"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p023-263d9cff.pdf",
+   "bytes": 41496,
+   "sha256": "f4d618f05e18f12af0f137e0edb01615788588e75eda7ee8713c661528a4fed3"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p025-9686c879.pdf",
+   "bytes": 40888,
+   "sha256": "be1a543517ce3c76e33b1be971f752a17c09a777d0bb3be910e1c69fc9beabc3"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p027-fc62f5d5.pdf",
+   "bytes": 41349,
+   "sha256": "632f809a088fc99163b9f903518fc2a6cfc920e28a7c6c25a824b9110658ebc4"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p029-5759c228.pdf",
+   "bytes": 40933,
+   "sha256": "d03e6986eabf23da1fecbced03a1ad2520ae3c40fb2aada5a39af0d6433a391c"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p032-8de2dcb2.pdf",
+   "bytes": 42451,
+   "sha256": "b595e62ed6d2ae9abccf5d935364fe665f5d30e3c1e4100361fa87eb65a7c349"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p034-409a11a0.pdf",
+   "bytes": 42246,
+   "sha256": "797a99076b3ccaf51409e99a0e9951c5a5fc2ff14afdb998e8fd90b473b68251"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p036-76dca79c.pdf",
+   "bytes": 41777,
+   "sha256": "8fced5312d3355fc9427cd530029e974e3800b08d1466f8fdea642ab53db3d8a"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p038-ff6f9d8c.pdf",
+   "bytes": 40823,
+   "sha256": "765a9ad6263f4fea4dd5141ffdc0810793a3c8c61afd8d32f428b96c0be26dd7"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p039-e8d35711.pdf",
+   "bytes": 100844,
+   "sha256": "8a582c5d708f4b3e94a29b8c6429c1c52f0b7038ee1fe7a5143c1e68b68765e5"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p041-06d30687.pdf",
+   "bytes": 67384,
+   "sha256": "3038e1f89fc5d1852254e1d3ce6a381923f29d62558f61825979a4876cc0b6f1"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p047-440d8283.pdf",
+   "bytes": 65516,
+   "sha256": "162ef451790038bd11ecedcd6747ca7a70257d4dc549e86cb1c50468d8f572cd"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p047-8e63a6e4.pdf",
+   "bytes": 110532,
+   "sha256": "ce68d1f2bb192906301bf8caedb3cd95e24eaebd3648671770fb8ce46c87966f"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p048-c463ea31.pdf",
+   "bytes": 72115,
+   "sha256": "4b1fc6b057fe204f7a736462942d6fdb8e034ad60f04c057f2c55140b904c767"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p050-5a6088ca.pdf",
+   "bytes": 100396,
+   "sha256": "8f584ef859586c9db52aed418fc81e81650261f73c8827414472a899f2281421"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p050-76d2ac3b.pdf",
+   "bytes": 42270,
+   "sha256": "eb1ba787b64ca96ec349377db00df40169bf6f503a7b8e9379f9829ed1e28bd0"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p050-7f79b8d5.pdf",
+   "bytes": 39811,
+   "sha256": "9e9edaf23e7ddceb1131eeca171471954be5a1d5c5b65baf6752941d9bb40ed9"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p053-4c24c8d9.pdf",
+   "bytes": 38327,
+   "sha256": "046df2447f589d3b11c7db55144595e249d63b8dc6c86bbfcf5d4611380f1358"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p053-d216a9bb.pdf",
+   "bytes": 104296,
+   "sha256": "93d8a49ed59c1760dd971023b199386ceead0ca8a59a9e1bd7dcf040628441d2"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p053-d6f059da.pdf",
+   "bytes": 44161,
+   "sha256": "6d4dfcf07a593dbd72866530a24ea0a7896bbba5da9d44cdd4ce924d919debfb"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p055-ac9b66c6.pdf",
+   "bytes": 52442,
+   "sha256": "9310c20f0c493817ea45126d073acda0b7fafe25132cc4a38e1cf3458a143f81"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p057-f2daea4e.pdf",
+   "bytes": 44821,
+   "sha256": "5a980f2c659f91db53c455d283e4be59a8edc42a1b3a5386e05cb7a6f83175fc"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p058-9e963b83.pdf",
+   "bytes": 67235,
+   "sha256": "266dfecd0d30f14760b073154ef1d5505a77538a74308d060801dc4ce1f88d72"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p060-656afc36.pdf",
+   "bytes": 62501,
+   "sha256": "b16db5c3823c8eb7b1b4a048ad7ff1adc54a67e0d85da953192b3e346de61184"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p061-2798d1ed.pdf",
+   "bytes": 45129,
+   "sha256": "d33807c20c2bcf961de2ef8a8720f5a4deb369958d1a91eb93b7a741af79a0be"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p062-5fac426a.pdf",
+   "bytes": 66288,
+   "sha256": "2ffc673b8432e909a94a2110da0eb5760c863353b0f53d9f81f54b8cd58d3583"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p064-3ff59163.pdf",
+   "bytes": 44296,
+   "sha256": "f98aeacfafa7650d04f02b7bbc8bc3051f4f7026c81aa0d4ab38f7bce28a3cf3"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p068-9f4b6163.pdf",
+   "bytes": 39745,
+   "sha256": "cf0d2e0d740bf2315696716a82e9f20a4ea360bb0e335978efcae2812a9f1e71"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p069-787788d4.pdf",
+   "bytes": 101633,
+   "sha256": "52f888aa0381a80ad4542a44bb413c1ad5016fc306bea09330bdb923f3ce9b25"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p069-978ce068.pdf",
+   "bytes": 38960,
+   "sha256": "914a5e8e15afc175cb551c48f5d6ce0a24e8b172eec3671e4046f006d7de090a"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p071-18b5d3e7.pdf",
+   "bytes": 54773,
+   "sha256": "bbe2ba939bbef0ed8d12024bbe1dc8e41d056062ee71a94dfe9666077adea12c"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p071-a3672254.pdf",
+   "bytes": 69909,
+   "sha256": "78197e773fd6ecf08598270fc4126687982f7615f659da429a8a943c4849537c"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p074-bc9a8d9b.pdf",
+   "bytes": 61994,
+   "sha256": "82c8231b83996592e6f193fcd5bbbfa8312631c905eb3cea56498bb39d2d4fd1"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p077-3ccaabc0.pdf",
+   "bytes": 37632,
+   "sha256": "3e696c11d51a125dc793948911f3f691e94c403aaaa69f66d3716c088ab44329"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p077-78a1988c.pdf",
+   "bytes": 56751,
+   "sha256": "7da52d80add44d124c682019bc161e44e97557621dbbec3e3e9b4541cf864d51"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p078-9026868c.pdf",
+   "bytes": 105351,
+   "sha256": "8aab186e2f30d9415561c2be9ca073ecdbf6e028cf096941f1c21f3057176562"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p079-d3fd6665.pdf",
+   "bytes": 73819,
+   "sha256": "39a798e56d9a3338042f6a65c166441da8fcaf05c1e8717b25e86c3c08903592"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p080-160792a7.pdf",
+   "bytes": 39542,
+   "sha256": "84e0f5703dce93d59bf9da2071fe6c1c07a1219cc8194a4a61899d24c63e411d"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p081-09cee13b.pdf",
+   "bytes": 103849,
+   "sha256": "13d4c5b1e743b4bbe762b063142a94a13d8a1e699c53be04ad37c0c5827eedc7"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p081-b6fcbb69.pdf",
+   "bytes": 64240,
+   "sha256": "b9cc50463281d023696006acb8d1d5bd3c814d93f11452b603ac69992bd67e86"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p083-4aebc783.pdf",
+   "bytes": 38882,
+   "sha256": "1b1fb3c6d63407bf5e80ebbf32272a37d54a7fb6ec0906c78f459ce3c2f5a934"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p083-c4681455.pdf",
+   "bytes": 63465,
+   "sha256": "8d3a1a40ac9b934e4adefb6d4f0afee6bb643afd37c01d427087bf5bbeb97218"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p084-bf851e5e.pdf",
+   "bytes": 99017,
+   "sha256": "98f4eaa8ac7aa9d521eaf05386d431a7103f5a75274ca9db5bfd699aa32e6db0"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p086-81597832.pdf",
+   "bytes": 63455,
+   "sha256": "d08f13c0a416c3dd25390439602d47dc44de1292947ed6039c253588d62867ac"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p089-3cc9698e.pdf",
+   "bytes": 39609,
+   "sha256": "af33be69db9960769043d061269a634030d6ad5e7cedcbe7df07ec2bfc228d16"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p091-7614a68e.pdf",
+   "bytes": 97758,
+   "sha256": "ce1bed49580418549fd728335cccb5efb4b3dafc22263b308c3a51635adfb1bd"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p092-56d26ef1.pdf",
+   "bytes": 43765,
+   "sha256": "3e335acfcf7fa21ca680bc5df1bb6c6887a44e2aa199d025b330cbf147c8837c"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p097-5e6a0879.pdf",
+   "bytes": 85082,
+   "sha256": "8ced96fc5dcfbeb2f63c461b11b015f96ed4084ac88371fa664fe6da962fd669"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p099-fe2100a8.pdf",
+   "bytes": 39396,
+   "sha256": "7d15c4131f2927eb793d0a7a966ac7551fb2f471e7ccf94c67446ca65fdac0e9"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p100-b1fc4dc1.pdf",
+   "bytes": 101356,
+   "sha256": "6f72f8f862f4f5b41a4ae9be0e6919ecb0c520c0c7ac2bf1fc5a39d5e22b6c8e"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p102-4e3a5708.pdf",
+   "bytes": 43710,
+   "sha256": "b6dad58e77dc83a047a28428a8b9b4943bd58bd3d4d2152c608fbefa2271fe13"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p105-3579c14d.pdf",
+   "bytes": 43169,
+   "sha256": "ba93eccdae145dc26776fb92e8a7c6744269b8645ebf7ed3fb3c6a11cfc3ddfe"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p105-95c0ab49.pdf",
+   "bytes": 97233,
+   "sha256": "84b32d57f8ee95ce8935f753a8e2937f3c95df3351fcd3462d7a4dd297574ca3"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p108-154eaf5d.pdf",
+   "bytes": 44072,
+   "sha256": "0722614195a141eb4146c5e8f5698da135e7665139f819da1aabe079af7fcc5f"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p108-bd1b9ff6.pdf",
+   "bytes": 97237,
+   "sha256": "b842db86f58e8597d8a91eafa761a65e28c4eafd5007f55701f0a46878a00a10"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p111-25a5e0f1.pdf",
+   "bytes": 106409,
+   "sha256": "3de125ba0558c8cb68924b67a7a64cdd4c79d2c175c31143c565863bf49f4bf0"
+  },
+  {
+   "path": "evidence/extracts/city-of-tracy-p114-36207d2b.pdf",
+   "bytes": 97152,
+   "sha256": "d37a902a24e76c9ef31f6a24b13567e921eccb12befa455f6f7cd6739fc96554"
   },
   {
    "path": "evidence/extracts/city-of-tustin-p007-457de28a.pdf",
@@ -6212,6 +6582,26 @@
    "sha256": "a6cfb38f0a42f5407263c13b7232845c390037bdbfa9a9a4cfd429b26a03d1ed"
   },
   {
+   "path": "evidence/extracts/town-of-tiburon-p002-3a824bb9.pdf",
+   "bytes": 45387,
+   "sha256": "e2338bbb0b5549bd1993af0d52f64d0319528c8d0c15e7a1bb8310cc796b4681"
+  },
+  {
+   "path": "evidence/extracts/town-of-tiburon-p003-b22d34e0.pdf",
+   "bytes": 80581,
+   "sha256": "750f7e68d5d3843b5b0ce10a0a1ff0fac4b0535e68a9273cd10e0f4ae539071a"
+  },
+  {
+   "path": "evidence/extracts/town-of-tiburon-p004-3c2149a9.pdf",
+   "bytes": 75917,
+   "sha256": "5c04734fe6240891b774a24e5026ed03f8d56b3a1e03ef0b2c0fddb89606052e"
+  },
+  {
+   "path": "evidence/extracts/town-of-tiburon-p005-27dc0275.pdf",
+   "bytes": 26089,
+   "sha256": "a6b537c2616c14869dd14a4ec44af3a84092c5d1233a6cc43abaffa1277cede7"
+  },
+  {
    "path": "evidence/extracts/town-of-yucca-valley-p009-1b5e1184.pdf",
    "bytes": 46502,
    "sha256": "9d5425078dcbe7775aa301a631acefff481d320141ab4dc931c9828730a983f7"
@@ -6253,8 +6643,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1285152,
-   "sha256": "e3cbaa4b408d001534dd462f4b8752af263c13f32b94429c15a61f4054f3fa9f"
+   "bytes": 1362683,
+   "sha256": "cf84bbe91c32ade6823960b07eef14e0288744517a06ecb07ccc7281d7e6b35a"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -8717,6 +9107,51 @@
    "sha256": "083ab6337ba5a9ebee02ab6c22164e3e75c62957cf84aa08445a8bc54b4f163e"
   },
   {
+   "path": "evidence/outlined/city-of-madera-p004-c73c1033.pdf",
+   "bytes": 45016,
+   "sha256": "9ecaf55f9dada76da2960abe8fc60f4ad57b95cad5f870319f9b6805c0d5ac9b"
+  },
+  {
+   "path": "evidence/outlined/city-of-madera-p005-7d654123.pdf",
+   "bytes": 45269,
+   "sha256": "7937fbcf939cc23ca10271f1f4007dc73b611cf01c3762c67fdc19a6fd2d2f40"
+  },
+  {
+   "path": "evidence/outlined/city-of-madera-p006-dd09de72.pdf",
+   "bytes": 45052,
+   "sha256": "a765cea5665e28530fd802d250a1aed468586fc29d31d86e0d314dbace054cfe"
+  },
+  {
+   "path": "evidence/outlined/city-of-madera-p007-1b690cfa.pdf",
+   "bytes": 44511,
+   "sha256": "40760bbbcda9a26db0dadaefee81bd8fb445a850ec5d1d2919c85483ef32fa3c"
+  },
+  {
+   "path": "evidence/outlined/city-of-madera-p008-11159fdc.pdf",
+   "bytes": 46976,
+   "sha256": "c8b829ca9da1efe8e66167035c5d8d56661e336ed7f74fd8441ad1f7c16e246c"
+  },
+  {
+   "path": "evidence/outlined/city-of-madera-p009-3f744824.pdf",
+   "bytes": 44480,
+   "sha256": "9085087f052d49645bcc246f1ccc0c62389165cbb675e9122016fb38d58736c8"
+  },
+  {
+   "path": "evidence/outlined/city-of-madera-p010-28eb413d.pdf",
+   "bytes": 94544,
+   "sha256": "02987b0ceea1432ebf09fd66bc96623bdae24056c1ed4a024d329907945e2235"
+  },
+  {
+   "path": "evidence/outlined/city-of-madera-p011-bebab0c9.pdf",
+   "bytes": 44402,
+   "sha256": "909697efabbc897e462af769fb1f023178197bc204c200f7d38ede39c3924117"
+  },
+  {
+   "path": "evidence/outlined/city-of-madera-p012-196e56de.pdf",
+   "bytes": 96489,
+   "sha256": "ec0025ac523574931608a34255f2d93e0a35faef3facfa81561e60e06d91be37"
+  },
+  {
    "path": "evidence/outlined/city-of-manteca-p033-50ff2ba0.pdf",
    "bytes": 94999,
    "sha256": "792e1bac5e81d714d81c3be1f4ae0acbd1c0fe090ec99c20323e4563693f136c"
@@ -9165,6 +9600,26 @@
    "path": "evidence/outlined/city-of-oakland-p027-625a42f0.pdf",
    "bytes": 102829,
    "sha256": "bd92146bce2f259bd2e7e8e7a5b541078d0b1afc89c5bee17231bcb24889570f"
+  },
+  {
+   "path": "evidence/outlined/city-of-oceanside-p007-81592319.pdf",
+   "bytes": 141894,
+   "sha256": "b0dc5dc6a552118759f111c8cea4fe908b9a07ff0f7956b7479734990cfe47c0"
+  },
+  {
+   "path": "evidence/outlined/city-of-oceanside-p012-d1eb77e9.pdf",
+   "bytes": 137928,
+   "sha256": "d1dbae3c030f8461834ff4ef528464c8c3a63d7f9c20201ddfb25c305d3f06db"
+  },
+  {
+   "path": "evidence/outlined/city-of-oceanside-p016-ff41f9ff.pdf",
+   "bytes": 139235,
+   "sha256": "e9be3a8d9dd8734d79d15f0c6d228b82a6a23480cafbe0038494b3e26b010061"
+  },
+  {
+   "path": "evidence/outlined/city-of-oceanside-p021-0d46e146.pdf",
+   "bytes": 135218,
+   "sha256": "75ddfdd008e83de45b3a709d8f536919697ac9872ecb38e6d39c8b489750e452"
   },
   {
    "path": "evidence/outlined/city-of-oxnard-p006-cc3766ba.pdf",
@@ -10665,6 +11120,311 @@
    "path": "evidence/outlined/city-of-temecula-p002-b5ad120c.pdf",
    "bytes": 66026,
    "sha256": "1be1f4a7491ea642fb48db7094070e95cb163b1daee7a71618130705c7c4c3db"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p014-14fae40f.pdf",
+   "bytes": 41185,
+   "sha256": "aa265e610a9ef662fbf976643b12a79b6a7e9fb81cca9afbdea4534accd58aa6"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p017-81552fce.pdf",
+   "bytes": 40731,
+   "sha256": "2458f2241df78938a3ddb540c9d582fe86e2dad53c1f92bc298e27293ad8c819"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p019-a000ca7d.pdf",
+   "bytes": 43694,
+   "sha256": "3f78a32b29fd818e2d7d5c182571f1705d7e4653de03dea8714be414fb6d90ae"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p021-064f5b7b.pdf",
+   "bytes": 41403,
+   "sha256": "99eb25abbef87f3ea0c24cc6b2d5c12ae0aaac937c4442719b410f176eb7b740"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p021-63cd8baf.pdf",
+   "bytes": 100817,
+   "sha256": "76f125de2e0fb4eb2361f27905130484f4bf51c1c5578538b92d2b25a392173b"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p023-263d9cff.pdf",
+   "bytes": 41554,
+   "sha256": "9d455cc20b575a07a63be7776a0883643c9fb2aab0b542de6e0b5b555ee4fba8"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p025-9686c879.pdf",
+   "bytes": 40949,
+   "sha256": "893d74439dbae5594748ba017497b34e32cb11079e933dad8a4d743e75d1fc99"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p027-fc62f5d5.pdf",
+   "bytes": 41408,
+   "sha256": "c08181d0cb92a5a52497bf6fb59ed710373ed844328d82dd7b4544576b75f7da"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p029-5759c228.pdf",
+   "bytes": 41001,
+   "sha256": "a6787f121003eef7c98bd18c4ac071e4a227a1537243d73eae6eecc15a078819"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p032-8de2dcb2.pdf",
+   "bytes": 42510,
+   "sha256": "da9d274227566334bf48dcb313577568659de82d1f0137dead4a96391017fdc3"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p034-409a11a0.pdf",
+   "bytes": 42308,
+   "sha256": "d59590bcc8e345f4bbd11eb26a0e4f46b73e23724441d28d0e3854d62c253195"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p036-76dca79c.pdf",
+   "bytes": 41834,
+   "sha256": "5875d02bb4c69fd331f4ff03a51e132990a984bc1d87175f125452aa2a0cccd6"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p038-ff6f9d8c.pdf",
+   "bytes": 40889,
+   "sha256": "514d1fddf56d58f8b302166dbc4c28a915b204abfd2954ce57df0ee47ced4f6c"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p039-e8d35711.pdf",
+   "bytes": 100911,
+   "sha256": "a6c6c92f27b1884c66009a3df8bb2067470bfa8c4d9f65862a0518a23d3122b1"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p041-06d30687.pdf",
+   "bytes": 67447,
+   "sha256": "693baff86da7143c8be2d39f3d0db5a3bdba03b2dc48ab064b7089ea2f4269d2"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p047-440d8283.pdf",
+   "bytes": 65578,
+   "sha256": "bc7092f60619a4629cec76cbbaeb631bcea98f82c35eeabb89a552f968214997"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p047-8e63a6e4.pdf",
+   "bytes": 110597,
+   "sha256": "fb6264012b4c24beb7a7220909b73ee091f76cfdaa039bafb24475cbb8bf590d"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p048-c463ea31.pdf",
+   "bytes": 72173,
+   "sha256": "79d307a4ebe403b3ca1f91a8d3db7aa6e8ed302bf067555bc4a1effabde90dfd"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p050-5a6088ca.pdf",
+   "bytes": 100458,
+   "sha256": "aaf3aa2e97a5ce25b8797e2470cd10b2346b6310f65474fe4d7ce35f0d5907a1"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p050-76d2ac3b.pdf",
+   "bytes": 42334,
+   "sha256": "8e1a9cbe0d71d631c3fa92ec1221c0fec2ce03c69f815065791a28e7c3671bf5"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p050-7f79b8d5.pdf",
+   "bytes": 39876,
+   "sha256": "3870791d239b0d83e219805bd03af8026295d7cccf70227811f99a82d5ca2768"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p053-4c24c8d9.pdf",
+   "bytes": 38388,
+   "sha256": "5a1983568cb71f2e85bde1c105ef212b1e47241a4c7046f928e373ab12d49369"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p053-d216a9bb.pdf",
+   "bytes": 104361,
+   "sha256": "8b26c057bfb7a28a26a3e7c63c62f589d9b077a381a6e4515cdde8f79318a362"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p053-d6f059da.pdf",
+   "bytes": 44223,
+   "sha256": "a7f127f0c8e1ef9e864378e7e372c4c58a56ef226903737d85bed1aa1d42e7da"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p055-ac9b66c6.pdf",
+   "bytes": 52502,
+   "sha256": "c3d0e8c818356f7ffe101d0a0cec4f8640af956d20c48e1667de38b5ac18b6c5"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p057-f2daea4e.pdf",
+   "bytes": 44878,
+   "sha256": "a4a8134789a0cde6824dbcfea7b56fac8bd021df4278c6390454022967d31b9a"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p058-9e963b83.pdf",
+   "bytes": 67295,
+   "sha256": "c182f0b73245c8864e941b97dc5e2c94d165f1f8cdb7e31bcb24e4b83aae5cc5"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p060-656afc36.pdf",
+   "bytes": 62562,
+   "sha256": "e7e2dbffa3824f7c1975fdcd2301bb4a8d1b234db82ea92dc552d91660d7ffdf"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p061-2798d1ed.pdf",
+   "bytes": 45191,
+   "sha256": "e0cf1f9d51766d9996b79936c91bb9f4298f2d903349486970f6a3737fbc1647"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p062-5fac426a.pdf",
+   "bytes": 66346,
+   "sha256": "b30760257bb6a45a026bbe40514576e8aec0d5322f18a0834ea8a7b3555f399e"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p064-3ff59163.pdf",
+   "bytes": 44356,
+   "sha256": "3da538ec29973fc0ed7352968cef6e5c774a2cc4498a2b12effee9abbaa4c082"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p068-9f4b6163.pdf",
+   "bytes": 39809,
+   "sha256": "8a8eaf501173caa0c32ec3bbc7eb3f5f47f47bdf829488a286f0087e4924012e"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p069-787788d4.pdf",
+   "bytes": 101699,
+   "sha256": "9b18265dab3a286429483a5f9a56d3a45fc0af45f7edbd2c2b71dbc2a8f6d546"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p069-978ce068.pdf",
+   "bytes": 39024,
+   "sha256": "a98b775d3a8c6b5c5224da44ab848ad6d2d9a78023dc7bd451317ad5101d777c"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p071-18b5d3e7.pdf",
+   "bytes": 54837,
+   "sha256": "26ab29d7b3be646c6f6e989c669866a363526a60e5019b3301fba5dff2b91383"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p071-a3672254.pdf",
+   "bytes": 69966,
+   "sha256": "20a6b09eaf12d94602095d355db92ed95548e4344dcec146fccfc6d2090c2881"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p074-bc9a8d9b.pdf",
+   "bytes": 62056,
+   "sha256": "a3c6f95a66fa4e8bf33fb781c19cd7dc3ecaa3a426f1c918477fe4600e50dd28"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p077-3ccaabc0.pdf",
+   "bytes": 37701,
+   "sha256": "b075554985762144100e94e3ee3be8456f6f76b9a1b63fda2e956d30cc02e766"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p077-78a1988c.pdf",
+   "bytes": 56807,
+   "sha256": "6aa063f75e8eb09668b448aa68f27758faa8eae09ca937d138c2a1c10000f07b"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p078-9026868c.pdf",
+   "bytes": 105418,
+   "sha256": "fd21ab0c31a3e153da2be78a8365d966bd276769e730b3fc5cdfd66c3e712c1c"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p079-d3fd6665.pdf",
+   "bytes": 73880,
+   "sha256": "4cf1436aefbcf19722370ba812e121f12a16be90b1f6df13db3797a7b12c2f55"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p080-160792a7.pdf",
+   "bytes": 39602,
+   "sha256": "00b6166a6d52d2894539260869c8b87aed7eaa796e31fd63958aac675b9fb186"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p081-09cee13b.pdf",
+   "bytes": 103912,
+   "sha256": "a649e2f36cc8560b6a378dad30b7b341d5ede5be9121fc7935f111895c3af876"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p081-b6fcbb69.pdf",
+   "bytes": 64302,
+   "sha256": "01fd8b8a447b9fa4857de684c2694cef2954bba10081d345e5d493e8ce8250be"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p083-4aebc783.pdf",
+   "bytes": 38944,
+   "sha256": "64b5176321a064d9b16170b8b8389400c0c4b1ff4a572c66cb1664343c161b97"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p083-c4681455.pdf",
+   "bytes": 63527,
+   "sha256": "b0b5c2882a223de4c5113b2253f053c6f3409b8b6e6df45fd88aacc969240be0"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p084-bf851e5e.pdf",
+   "bytes": 99080,
+   "sha256": "a461fcdc968ecd8070bf143c7b3b7b5ac0dfeff1137fdb4e0790576df7a3b736"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p086-81597832.pdf",
+   "bytes": 63519,
+   "sha256": "e55fcff051622179d7d5cd8e3041a3cefdee72603ba986173e67593a83ef781a"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p089-3cc9698e.pdf",
+   "bytes": 39670,
+   "sha256": "baaa45240a4a5cbe320bedce91d6a057aae08708d4e8c643b66b5a9ea72ce7e9"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p091-7614a68e.pdf",
+   "bytes": 97822,
+   "sha256": "1c9b5d691afbb35f5c8be98e5f7d3005ee5be16bc7f5b8c18cbd14d9b499f969"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p092-56d26ef1.pdf",
+   "bytes": 43824,
+   "sha256": "7d9693cc8c3b84baee8f9f0c8e4e7e41aa252e61123736aeadf89f6101ff8dba"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p097-5e6a0879.pdf",
+   "bytes": 85141,
+   "sha256": "ac2b957a871505f54a63493485a1a6996e0ca133a82b624d5f65ecca81dd6791"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p099-fe2100a8.pdf",
+   "bytes": 39457,
+   "sha256": "5a97b2a014e786df9c9a8bda676121626f58ade76bf44d63091f184a3fb3cfa0"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p100-b1fc4dc1.pdf",
+   "bytes": 101419,
+   "sha256": "1965f2c1083a08c1d9046e2eeac02fb7dbff147d406454e9cc6623fc0feaa78e"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p102-4e3a5708.pdf",
+   "bytes": 43768,
+   "sha256": "b1e0d7739dce45ca51a026f029ce68afcdc2cb276240ef6a425d43f822dce0d2"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p105-3579c14d.pdf",
+   "bytes": 43228,
+   "sha256": "683d86c6bf39db26ff7c1ed213d3306bc177ab83d758abbc1ea85cb2cf643047"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p105-95c0ab49.pdf",
+   "bytes": 97299,
+   "sha256": "c31b55fb63428edbfbf1b9f9201f13eaf1edd60b22ac05e785c0cef2fe5f1350"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p108-154eaf5d.pdf",
+   "bytes": 44131,
+   "sha256": "0e59e7be050cf3d8eb305ebe81647208d2d5eab867f3d80880dfc02a444e80f8"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p108-bd1b9ff6.pdf",
+   "bytes": 97299,
+   "sha256": "beb6062795f9915d73fd5b6dc66d5cf6c31787680a4ee749d08b54f444c3afd2"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p111-25a5e0f1.pdf",
+   "bytes": 106475,
+   "sha256": "dea54137cbaf51fd5d956a13d8988b8bc87087ba0f0b8d41c91aeacbad1412e6"
+  },
+  {
+   "path": "evidence/outlined/city-of-tracy-p114-36207d2b.pdf",
+   "bytes": 97211,
+   "sha256": "7bceba38f06b3de641444ea9f3f725d0734216b3796551873a05740f1a7f569e"
   },
   {
    "path": "evidence/outlined/city-of-tustin-p007-457de28a.pdf",
@@ -12372,6 +13132,26 @@
    "sha256": "ef8c2ca40c8ab02366b55fbedd7d833a33813cc9cce0d9f82ab2e80e6bf279d3"
   },
   {
+   "path": "evidence/outlined/town-of-tiburon-p002-3a824bb9.pdf",
+   "bytes": 45443,
+   "sha256": "0c9e7b34ce960651b06923c00aef10ad9f12d249175dc94a19cd046b46ec7ab8"
+  },
+  {
+   "path": "evidence/outlined/town-of-tiburon-p003-b22d34e0.pdf",
+   "bytes": 80630,
+   "sha256": "854f5e2e4dca4507228a2fd0840cbe074f8fd9a1c2b17567ee29ba9a27ccad56"
+  },
+  {
+   "path": "evidence/outlined/town-of-tiburon-p004-3c2149a9.pdf",
+   "bytes": 75972,
+   "sha256": "50408eb6810dfd72f4a2b6b41163740e9c299e60f04b24308880d57b0e5cac71"
+  },
+  {
+   "path": "evidence/outlined/town-of-tiburon-p005-27dc0275.pdf",
+   "bytes": 26141,
+   "sha256": "11149546d84146684732d849f4d1862e2fb94a615b5f284c531d092f8b43aae6"
+  },
+  {
    "path": "evidence/outlined/town-of-yucca-valley-p009-1b5e1184.pdf",
    "bytes": 46549,
    "sha256": "8c2ed6fcde94a1f21cbdf63245bd21b9cdf352cb89170dd9a1197e900e958c11"
@@ -12877,6 +13657,11 @@
    "sha256": "33046598a41f26ea635f496f40b0b1544994a710fa8359b1ce363e7928e1c7b7"
   },
   {
+   "path": "sources/city-of-madera-2022-23-420f13f7.pdf",
+   "bytes": 592953,
+   "sha256": "420f13f77dd590570315495a02cce844a2db357c7584308f0170bbc3b7569ecb"
+  },
+  {
    "path": "sources/city-of-manteca-2024-25.pdf",
    "bytes": 1839161,
    "sha256": "75415a9d347347aa5c511c9989eec55cfb023b6868371c6bef4440d58bf6c3cf"
@@ -12985,6 +13770,11 @@
    "path": "sources/city-of-oakland-2024-25-e0f4ad4c.pdf",
    "bytes": 12941988,
    "sha256": "e0f4ad4c01fe6711f59426604e7de3a61b0d8b8d8ac0848dd81225355672458a"
+  },
+  {
+   "path": "sources/city-of-oceanside-2024-25-0d078700.pdf",
+   "bytes": 800616,
+   "sha256": "0d078700a480bb20cd3f6cc4ae1273f0401c407f8e5cc20dceb657fc525f7e9a"
   },
   {
    "path": "sources/city-of-oxnard-2022-23-84bc967a.pdf",
@@ -13305,6 +14095,21 @@
    "path": "sources/city-of-temecula-2023-24.pdf",
    "bytes": 247658,
    "sha256": "dc62f0303f7e6a05a3b7b18554028e82b6dd348b7aa6f7b68ace3da52e723901"
+  },
+  {
+   "path": "sources/city-of-tracy-2022-23-944a0482.pdf",
+   "bytes": 871375,
+   "sha256": "944a048274c137b684b266800a40dfb2afc40b1a2f515e5a8f4cb841bfbe3af7"
+  },
+  {
+   "path": "sources/city-of-tracy-2023-24-88bb2a18.pdf",
+   "bytes": 986677,
+   "sha256": "88bb2a182d4f9151cdbf372a03a65a1e081bf270c0f5924e9e6328a6811d35b0"
+  },
+  {
+   "path": "sources/city-of-tracy-2024-25-a5f0c7b3.pdf",
+   "bytes": 939739,
+   "sha256": "a5f0c7b326285bbd773a9f0d802848294efc34242e2ea158060336f987ec29f0"
   },
   {
    "path": "sources/city-of-tustin-2023-24-8c69f8b0.pdf",
@@ -13668,13 +14473,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 116292,
-   "sha256": "90dde87083f3071641ce0fd1a49858a5ab51b765c1af7213c9ce1257ae5e9cbe"
+   "bytes": 119097,
+   "sha256": "8dcb0324e7a7a80b502009a519c6a8a667a0416abd48fe45a72e7056ee884cec"
   },
   {
    "path": "sources/index.json",
-   "bytes": 201794,
-   "sha256": "e8bf10100f1480698cd6fea361fb0e783d3c780b5b5a7637f0c06c32362425a6"
+   "bytes": 206822,
+   "sha256": "5ed39a6d73b5661002321cd1bee791ef43b7fbda24ea4402824e98130ee08f92"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -13722,6 +14527,16 @@
    "sha256": "5ca63d46abd53ef3626789c6c64c0e1760760435985b6dbb94ee525c292e30d0"
   },
   {
+   "path": "sources/town-of-tiburon-2023-24-771f45f1.pdf",
+   "bytes": 157542,
+   "sha256": "771f45f1e3034c4736811d0d8988650c9a21791fd5beff028b1d7419f3e788cf"
+  },
+  {
+   "path": "sources/town-of-tiburon-2024-25-38bd5ae2.pdf",
+   "bytes": 269147,
+   "sha256": "38bd5ae2a9e20d4ba1d9279e040da37d34d5516e8a696edaa4475cecb3ce3808"
+  },
+  {
    "path": "sources/town-of-yucca-valley-2022-23.pdf",
    "bytes": 741159,
    "sha256": "68ed2f116790cbb8d73092b5f31a5b2aa75ec72f3d24d7f09ff3ae2140441568"
@@ -13734,7 +14549,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "d6881141487e87ef84729e6c2d3f4e7d7e3872e849b8bc6215b21e66b7007e8f"
+   "sha256": "b7fa76aefc68bcdf4498505a224b3b07b49f2983b63b77ef76ae01eccfcddc4c"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -13749,7 +14564,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "21778f9ab726440201b29d2a1ba50a76325bb161617f3803ad6014bbd3a9cc61"
+   "sha256": "ab72c0a91e0eb205dbb99f932b550bba7e6b9fb7338e77768293ea9b2735f3a6"
   },
   {
    "path": "validation/validate.py",

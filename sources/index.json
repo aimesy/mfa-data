@@ -1344,6 +1344,20 @@
   "published_data_rows_from_this_source": 5
  },
  {
+  "source_id": "city-of-madera-2022-23-420f13f7",
+  "receiving_entity": "City of Madera",
+  "publication_title": "2022/2023 AB 1600 Compliance Report",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://media-001-us.cdn.govstack.com/madera-003-us/media/fabnfpgh/fy-22_23-final-ab-1600-report.pdf",
+  "retrieved_utc": "2026-09-22T07:34:58.325992+00:00",
+  "physical_page_count": 13,
+  "source_sha256": "420f13f77dd590570315495a02cce844a2db357c7584308f0170bbc3b7569ecb",
+  "source_bytes": 592953,
+  "source_pdf": "sources/city-of-madera-2022-23-420f13f7.pdf",
+  "published_data_rows_from_this_source": 9
+ },
+ {
   "source_id": "city-of-manteca-2024-25",
   "receiving_entity": "City of Manteca",
   "publication_title": "City of Manteca impact fee report, fiscal year 2024-25",
@@ -1649,6 +1663,20 @@
   "source_sha256": "e0f4ad4c01fe6711f59426604e7de3a61b0d8b8d8ac0848dd81225355672458a",
   "source_bytes": 12941988,
   "source_pdf": "sources/city-of-oakland-2024-25-e0f4ad4c.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
+  "source_id": "city-of-oceanside-2024-25-0d078700",
+  "receiving_entity": "City of Oceanside",
+  "publication_title": "City of Oceanside development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.ci.oceanside.ca.us/home/showpublisheddocument/15455/639001810101270000",
+  "retrieved_utc": "2026-09-22T13:28:34.202143+00:00",
+  "physical_page_count": 28,
+  "source_sha256": "0d078700a480bb20cd3f6cc4ae1273f0401c407f8e5cc20dceb657fc525f7e9a",
+  "source_bytes": 800616,
+  "source_pdf": "sources/city-of-oceanside-2024-25-0d078700.pdf",
   "published_data_rows_from_this_source": 4
  },
  {
@@ -2546,6 +2574,48 @@
   "source_bytes": 247658,
   "source_pdf": "sources/city-of-temecula-2023-24.pdf",
   "published_data_rows_from_this_source": 8
+ },
+ {
+  "source_id": "city-of-tracy-2022-23-944a0482",
+  "receiving_entity": "City of Tracy",
+  "publication_title": "City of Tracy development impact fee report, fiscal year 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.cityoftracy.org/files/assets/city/v/1/cmo/documents/city-reports/attachment-a-ab1600-development-impact-fee-annual-report-fiscal-year-2223.pdf",
+  "retrieved_utc": "2026-09-22T13:28:51.809339+00:00",
+  "physical_page_count": 84,
+  "source_sha256": "944a048274c137b684b266800a40dfb2afc40b1a2f515e5a8f4cb841bfbe3af7",
+  "source_bytes": 871375,
+  "source_pdf": "sources/city-of-tracy-2022-23-944a0482.pdf",
+  "published_data_rows_from_this_source": 27
+ },
+ {
+  "source_id": "city-of-tracy-2023-24-88bb2a18",
+  "receiving_entity": "City of Tracy",
+  "publication_title": "City of Tracy development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.cityoftracy.org/files/assets/city/v/1/cmo/documents/city-reports/20241216-tracy-ab1600-report-final.pdf",
+  "retrieved_utc": "2026-09-22T07:08:39.959345+00:00",
+  "physical_page_count": 109,
+  "source_sha256": "88bb2a182d4f9151cdbf372a03a65a1e081bf270c0f5924e9e6328a6811d35b0",
+  "source_bytes": 986677,
+  "source_pdf": "sources/city-of-tracy-2023-24-88bb2a18.pdf",
+  "published_data_rows_from_this_source": 18
+ },
+ {
+  "source_id": "city-of-tracy-2024-25-a5f0c7b3",
+  "receiving_entity": "City of Tracy",
+  "publication_title": "City of Tracy development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.cityoftracy.org/files/assets/city/v/1/ced/documents/ab1600-report-fy-24-25.pdf",
+  "retrieved_utc": "2026-09-22T13:28:50.794620+00:00",
+  "physical_page_count": 119,
+  "source_sha256": "a5f0c7b326285bbd773a9f0d802848294efc34242e2ea158060336f987ec29f0",
+  "source_bytes": 939739,
+  "source_pdf": "sources/city-of-tracy-2024-25-a5f0c7b3.pdf",
+  "published_data_rows_from_this_source": 16
  },
  {
   "source_id": "city-of-tustin-2023-24-8c69f8b0",
@@ -3750,6 +3820,34 @@
   "source_bytes": 36280,
   "source_pdf": "sources/county-of-sacramento-2022-23-sunrise-rpd.pdf",
   "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "town-of-tiburon-2023-24-771f45f1",
+  "receiving_entity": "Town of Tiburon",
+  "publication_title": "FY23-24 AB 1600 Report",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "http://www.townoftiburon.gov/DocumentCenter/View/5158/FY23-24-AB-1600-report",
+  "retrieved_utc": "2026-09-22T12:30:16.951304+00:00",
+  "physical_page_count": 5,
+  "source_sha256": "771f45f1e3034c4736811d0d8988650c9a21791fd5beff028b1d7419f3e788cf",
+  "source_bytes": 157542,
+  "source_pdf": "sources/town-of-tiburon-2023-24-771f45f1.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
+  "source_id": "town-of-tiburon-2024-25-38bd5ae2",
+  "receiving_entity": "Town of Tiburon",
+  "publication_title": "Staff Report - Development Impact Fee Report FY24-25 (Town Council, January 7, 2026)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "http://www.townoftiburon.gov/DocumentCenter/View/6134/2026-01-07--STAFF-REPORT-Development-Impact-Fee-Report-FY24-25",
+  "retrieved_utc": "2026-09-22T12:30:16.704718+00:00",
+  "physical_page_count": 4,
+  "source_sha256": "38bd5ae2a9e20d4ba1d9279e040da37d34d5516e8a696edaa4475cecb3ce3808",
+  "source_bytes": 269147,
+  "source_pdf": "sources/town-of-tiburon-2024-25-38bd5ae2.pdf",
+  "published_data_rows_from_this_source": 2
  },
  {
   "source_id": "town-of-yucca-valley-2022-23",
