@@ -1596,6 +1596,34 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "city-of-monrovia-2023-24-b0f06f54",
+  "receiving_entity": "City of Monrovia",
+  "publication_title": "City of Monrovia development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.monroviaca.gov/home/showpublisheddocument/36887/638781748602600000",
+  "retrieved_utc": "2026-09-22T08:28:35.245864+00:00",
+  "physical_page_count": 2,
+  "source_sha256": "b0f06f547129dfc1c919c1147105d7b27b9a35a960e7887c7e49b17d057bf2b5",
+  "source_bytes": 158912,
+  "source_pdf": "sources/city-of-monrovia-2023-24-b0f06f54.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-monrovia-2024-25-ee85214c",
+  "receiving_entity": "City of Monrovia",
+  "publication_title": "City of Monrovia development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.monroviaca.gov/home/showpublisheddocument/39249/639014778555030000",
+  "retrieved_utc": "2026-09-22T08:28:34.898422+00:00",
+  "physical_page_count": 2,
+  "source_sha256": "ee85214c5d3b8aef5c2231d0bab0748e097b192a192bcaecf88fa63730c5b88d",
+  "source_bytes": 160470,
+  "source_pdf": "sources/city-of-monrovia-2024-25-ee85214c.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "city-of-moorpark-2022-23-543c9169",
   "receiving_entity": "City of Moorpark",
   "publication_title": "AB1600 Development Impact Fee Report (2023)",

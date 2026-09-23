@@ -10688,6 +10688,38 @@
   "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
  },
  {
+  "evidence_id": "e94d9fdaa6f6322f",
+  "receiving_entity": "City of Monrovia",
+  "source_id": "city-of-monrovia-2023-24-b0f06f54",
+  "physical_pdf_page": 2,
+  "printed_page": "",
+  "internal_identifier": "Development Impact Fee Report / row Traffic Impact Fee Fund / column Fees Collected",
+  "quoted_label": "Fees Collected",
+  "quoted_value_text": "157,169",
+  "page_extract_pdf": "evidence/extracts/city-of-monrovia-p002-e94d9fda.pdf",
+  "page_extract_sha256": "6219d2d1551f4e5e0dbdd9a55447fcd2b34e4bbf29d693dc0efc41041d2a8380",
+  "outlined_figure_pdf": "evidence/outlined/city-of-monrovia-p002-e94d9fda.pdf",
+  "outlined_figure_sha256": "226b45c6351fab97cb85fcbbdb543ad608d8fda65ee0946c2c04f590204fc636",
+  "outline_rect_pdf_points": "[189.4199981689453, 188.2061767578125, 237.9788818359375, 203.3115692138672]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
+  "evidence_id": "e1df68fe1548844f",
+  "receiving_entity": "City of Monrovia",
+  "source_id": "city-of-monrovia-2024-25-ee85214c",
+  "physical_pdf_page": 2,
+  "printed_page": "",
+  "internal_identifier": "Development Impact Fee Report / row Traffic Impact Fee Fund / column Fees Collected",
+  "quoted_label": "Fees Collected",
+  "quoted_value_text": "304,515",
+  "page_extract_pdf": "evidence/extracts/city-of-monrovia-p002-e1df68fe.pdf",
+  "page_extract_sha256": "a98094672318df1ea2584463b865e09eb37df947f8a5a9304183bd0b7c2b5c21",
+  "outlined_figure_pdf": "evidence/outlined/city-of-monrovia-p002-e1df68fe.pdf",
+  "outlined_figure_sha256": "3948dd31cd8972793c2c4c66f6ce7fb0106cb94549831ad20a8408c6fb38b26f",
+  "outline_rect_pdf_points": "[189.05999755859375, 223.2462158203125, 237.61888122558594, 238.3516082763672]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
   "evidence_id": "7fd2c694206ea9fc",
   "receiving_entity": "City of Moorpark",
   "source_id": "city-of-moorpark-2022-23-543c9169",

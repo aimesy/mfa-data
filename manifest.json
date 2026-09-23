@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T17:15:09.307386+00:00",
- "data_rows": 1683,
- "distinct_printed_figures": 1515,
- "receiving_entities": 159,
- "agency_years": 316,
- "fee_programs": 937,
- "source_reports": 293,
- "evidence_pairs": 1515,
+ "built_utc": "2026-09-23T17:44:02.215258+00:00",
+ "data_rows": 1685,
+ "distinct_printed_figures": 1517,
+ "receiving_entities": 160,
+ "agency_years": 318,
+ "fee_programs": 938,
+ "source_reports": 295,
+ "evidence_pairs": 1517,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3348,
- "total_bytes": 826943874,
+ "file_count": 3354,
+ "total_bytes": 827309901,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13496,
-   "sha256": "3fdf405f833e47fc088e51d0407b24edad4a8a922247c2468626ea87a9299d33"
+   "bytes": 13555,
+   "sha256": "1cae8dd5ae643747adbb26a824b9d5eb311949cde749443fe120c923cd1741cc"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "12b2c13c6ae81344d18210eb385536236a27013cb37a7506a40682b213084ad9"
+   "sha256": "9114d2b5a8a9f7e31a2ad19f6eb3a59e7e81f3dd1287bd3089e955c4b0cb017b"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 666306,
-   "sha256": "df2b5ad5a71b38a41207f896fc34d2ed0a71ddd51e447bb4100a831525ca021b"
+   "bytes": 667580,
+   "sha256": "ecf4178a806ce19dba4650f08cb05111c0ade46bd63feca06a94e4a531f92eff"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3528807,
-   "sha256": "79af4576f5abd033124e1102c80820815ae74a5aeda223f264a97051fb857dfd"
+   "bytes": 3532353,
+   "sha256": "94c43b08d47d83ef854991957a4a6f2e661e76efd75f4a14018bfdbbbc17f546"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5272105,
-   "sha256": "9e05ed9ba9f91f78b21aff2cd8a992178641993540d80d476932e4cc8cd3e457"
+   "bytes": 5277725,
+   "sha256": "f28d4c628cc1027609da720a081f8c81d5b2daa59433ba4b386ff5cc4eb8b084"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -3015,6 +3015,16 @@
    "path": "evidence/extracts/city-of-milpitas-p002-bb73365d.pdf",
    "bytes": 52007,
    "sha256": "428b62c0deec4968e5caab843dade4ee188df29b8314b1c9df5d942d1e49ab6e"
+  },
+  {
+   "path": "evidence/extracts/city-of-monrovia-p002-e1df68fe.pdf",
+   "bytes": 8438,
+   "sha256": "a98094672318df1ea2584463b865e09eb37df947f8a5a9304183bd0b7c2b5c21"
+  },
+  {
+   "path": "evidence/extracts/city-of-monrovia-p002-e94d9fda.pdf",
+   "bytes": 7451,
+   "sha256": "6219d2d1551f4e5e0dbdd9a55447fcd2b34e4bbf29d693dc0efc41041d2a8380"
   },
   {
    "path": "evidence/extracts/city-of-moorpark-p006-446d3b31.pdf",
@@ -7673,8 +7683,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1575448,
-   "sha256": "c7ab11f0e5c6a7e904d5761e0159900390a4f8d468e7fb919c08cc71206286b1"
+   "bytes": 1577508,
+   "sha256": "8a098495e89ec4dae386706de94986c54212c5acca0a029bd23b6db01b0531e9"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -10595,6 +10605,16 @@
    "path": "evidence/outlined/city-of-milpitas-p002-bb73365d.pdf",
    "bytes": 52067,
    "sha256": "97128245003a8a7d3fcf52381084411929e2e31ab78e0e9abc6f4e05b74c8c70"
+  },
+  {
+   "path": "evidence/outlined/city-of-monrovia-p002-e1df68fe.pdf",
+   "bytes": 8499,
+   "sha256": "3948dd31cd8972793c2c4c66f6ce7fb0106cb94549831ad20a8408c6fb38b26f"
+  },
+  {
+   "path": "evidence/outlined/city-of-monrovia-p002-e94d9fda.pdf",
+   "bytes": 7512,
+   "sha256": "226b45c6351fab97cb85fcbbdb543ad608d8fda65ee0946c2c04f590204fc636"
   },
   {
    "path": "evidence/outlined/city-of-moorpark-p006-446d3b31.pdf",
@@ -15807,6 +15827,16 @@
    "sha256": "a79d1401321fa0914be04605f4d3f908255c206f3e496e283db77d7452fa7f1d"
   },
   {
+   "path": "sources/city-of-monrovia-2023-24-b0f06f54.pdf",
+   "bytes": 158912,
+   "sha256": "b0f06f547129dfc1c919c1147105d7b27b9a35a960e7887c7e49b17d057bf2b5"
+  },
+  {
+   "path": "sources/city-of-monrovia-2024-25-ee85214c.pdf",
+   "bytes": 160470,
+   "sha256": "ee85214c5d3b8aef5c2231d0bab0748e097b192a192bcaecf88fa63730c5b88d"
+  },
+  {
    "path": "sources/city-of-moorpark-2022-23-543c9169.pdf",
    "bytes": 380944,
    "sha256": "543c9169fa3ac346447494ab73ce5571a2c716e4fa6d1f4a9ba12474f1154e8e"
@@ -16663,13 +16693,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 130597,
-   "sha256": "86af31cf3c80e44e4c183ef8ca19116e52937f589a0e37dd46fc0ac8cc9ad4c8"
+   "bytes": 131373,
+   "sha256": "169a2eff00314d2d4c44a579295ccd522a9efbc1a0ab8f6b197157d204d7dd8e"
   },
   {
    "path": "sources/index.json",
-   "bytes": 226893,
-   "sha256": "95791ff4c25fc23a2c85db82c400b5b5c65e7fd0af3042c5a209c9cffdb16fc8"
+   "bytes": 228303,
+   "sha256": "dc2c2653f5037b63b480dacad6491eff795fb6115283b3057c856cca37745d4a"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -16744,7 +16774,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "334638deeec8b62257c5a7c40e9d4a20f7ec66ae480c64f272a7e8448e59aef9"
+   "sha256": "99b286efdbd511b18c592d5cf8cf0224f478c438428662f7a12d7ba31dc33fab"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -16759,7 +16789,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "e543682f37fa458c2fa166bc527e618e193b0deb8ef68fb4d9ed7e7e7cd31e26"
+   "sha256": "5961614688218f5038b6a1f5f199a7f9d9b4902579ec1f4f3fbfd08a22510073"
   },
   {
    "path": "validation/validate.py",
