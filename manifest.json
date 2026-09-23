@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T01:38:31.967901+00:00",
- "data_rows": 1293,
- "distinct_printed_figures": 1125,
- "receiving_entities": 126,
- "agency_years": 255,
- "fee_programs": 674,
- "source_reports": 234,
- "evidence_pairs": 1125,
+ "built_utc": "2026-09-23T02:17:59.667892+00:00",
+ "data_rows": 1324,
+ "distinct_printed_figures": 1156,
+ "receiving_entities": 128,
+ "agency_years": 258,
+ "fee_programs": 690,
+ "source_reports": 237,
+ "evidence_pairs": 1156,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2509,
- "total_bytes": 623454906,
+ "file_count": 2574,
+ "total_bytes": 667286249,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11491,
-   "sha256": "78912690a544c7eb258dc862de9170baad69e63f8c7a630da38e3248039581ec"
+   "bytes": 11612,
+   "sha256": "5a909c6e9c0396e9d9c7113ce323698027c6b36927d355948cd505f66ffc231d"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1266,
-   "sha256": "ec7902950ec4fd2f51c12091cc4f7a82a0762ba6e553682e68e4da219094f284"
+   "sha256": "3f81916a5594d3d9fa1943247fd195f72e60519c202089c464b3b014605b4856"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 515487,
-   "sha256": "97e9c935c434f0b9eb22352e6956b060af8ccf4666dd78b03c81ef1616f777da"
+   "bytes": 526959,
+   "sha256": "d8fcbb7969fdf611f7954d8b3b762ee0e8dc0d33cfcbc369016591e6a810993c"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2754457,
-   "sha256": "d49a335893081789e0ffde9c2e90b2a2b4bc570dc946e3c0b4f95d06e506341c"
+   "bytes": 2817146,
+   "sha256": "0174fc738fa82674ea627f66fc90afa2a8fc2b961187f136b98fff5abcb4b5b3"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4093457,
-   "sha256": "56a60fb28a50ab8ad4c4c76b2d3e82d2c0708d0b5c2cc8b9b2af5ab35eda0de3"
+   "bytes": 4188307,
+   "sha256": "273d814268835ab5c55fafd662c1f6fb176d31d602924dfdcc69e7cf6aea3295"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -940,6 +940,11 @@
    "path": "evidence/extracts/city-of-chico-p007-f5f52d5d.pdf",
    "bytes": 67661,
    "sha256": "97aa082b1e3178521e5a85ac413c38475a02c50b167687c624f4437f9f947f34"
+  },
+  {
+   "path": "evidence/extracts/city-of-chico-p007-f6c76186.pdf",
+   "bytes": 67661,
+   "sha256": "64c389fc1f4690b3508bb392a574b2813b479ad0fc17cc78e87121ee170f1c89"
   },
   {
    "path": "evidence/extracts/city-of-chowchilla-p006-051f474a.pdf",
@@ -2620,6 +2625,11 @@
    "path": "evidence/extracts/city-of-nevada-city-p006-6e665991.pdf",
    "bytes": 59099,
    "sha256": "f763ce912ef7e6b24f46987854b7b42e3cbf0bdcee5df983e61f8927fc13ee51"
+  },
+  {
+   "path": "evidence/extracts/city-of-newport-beach-p005-4765e20e.pdf",
+   "bytes": 49940,
+   "sha256": "d2f5b48f0af9332c6c7ecaee14cac2d70cf16c016a77faee894830bee4641814"
   },
   {
    "path": "evidence/extracts/city-of-novato-p008-5458c443.pdf",
@@ -4667,6 +4677,151 @@
    "sha256": "f675a0774570c975f608952059b373db6d01a5037dbf6452c00af596f63d608f"
   },
   {
+   "path": "evidence/extracts/county-of-contra-costa-p006-01f86a13.pdf",
+   "bytes": 55405,
+   "sha256": "de7bcf3dc06564719b5a61ac38ee55f3d7b4a269e43300d078ee9f135db8ae24"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-0887e37c.pdf",
+   "bytes": 43376,
+   "sha256": "bb14f05b0ac6ffcabaedf50ff8971c1d7de008b2d35c8162ae212643fddab35a"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-0f065eff.pdf",
+   "bytes": 55405,
+   "sha256": "afcdccef7b6aad091e59f89bfbce1ce00890ce017bf54bc62dd39d946686cd22"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-19543c73.pdf",
+   "bytes": 43376,
+   "sha256": "7c7e11e6163bd11adc4ffd8c0ec09f215e7170246420f469cba92ad143598967"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-24f1a573.pdf",
+   "bytes": 55405,
+   "sha256": "14f2a5019007229921d17df969c693b130a95c0d981eb48d64ccada78f0a3945"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-3b813d70.pdf",
+   "bytes": 43376,
+   "sha256": "72d3d59f208d50c63070b40014d0105ed37edf46490279f3bfadcc31f5759b07"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-41def2ca.pdf",
+   "bytes": 43376,
+   "sha256": "2b36c17e42ef769ff6ee382278899c1b7a4326dff485802abf6faddb2c379061"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-5d3c5c13.pdf",
+   "bytes": 43376,
+   "sha256": "4829725f9823993539b41bb87962780ee9c271b2e2ee7460722fb0ff090eb9f6"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-6079cb5b.pdf",
+   "bytes": 55405,
+   "sha256": "f31683bf6a472ff1c07457639cd5b562f099b229e3518051519b63bfb0f960e2"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-607dbfce.pdf",
+   "bytes": 43376,
+   "sha256": "e838694543a09484d74ffb4fdd1f5da0a1873872f7fb66fc9ebac4545c1b399f"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-6ca45261.pdf",
+   "bytes": 43376,
+   "sha256": "e73f7b7b358f849ea35b94370023b156ce5f25cb0998a9ed94551bb23d314b61"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-6d2bc02b.pdf",
+   "bytes": 55405,
+   "sha256": "f5c6b7d77102c60edeb84a985fcbe7c10195b90f90610ca79bf9ae0e7c70008a"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-7fd75f15.pdf",
+   "bytes": 55405,
+   "sha256": "4d5b461c42dde3c4d6e12958a9ca3385deb8093a4bc4493217affbce7b11f557"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-97e711e2.pdf",
+   "bytes": 55405,
+   "sha256": "21028b06a4c2f8222a1a8619e875ca8a3ef832d85a38e2386734908b7b9365c0"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-9f01db36.pdf",
+   "bytes": 43376,
+   "sha256": "0d47d480bfe888578ef2bc00ec0a3dd2b70d08f503b8959c85fe0b461b965c99"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-9fd40ea2.pdf",
+   "bytes": 43376,
+   "sha256": "2890ea0afd4aba545981a67c5a8157b25eac027554196d1bf7b5737c71c97936"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-a2f5fc41.pdf",
+   "bytes": 43376,
+   "sha256": "b559dbecabe959bf83c34decd531a526c9a684205a4179e18ef4c2a816cf7b07"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-ab899d5e.pdf",
+   "bytes": 55405,
+   "sha256": "4b40961a093348aa0ce906d15fdc83451a5a97c6b076d3b44039109b2eb87dda"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-b421cd7f.pdf",
+   "bytes": 43376,
+   "sha256": "91a08864e23ec0cad3a5cff2f473cd509b5b3a337c0b50eed1b62b19df78b67f"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-c99893d4.pdf",
+   "bytes": 55405,
+   "sha256": "b9b048f16839caf0349213bf71e15b898ffdbdca7ee070b6d602b32056ce8003"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-cfab6a73.pdf",
+   "bytes": 55405,
+   "sha256": "00cd0b2ae79cd73b14d0c23208a3eacb405a024d8d6e350e80e3d4a3d4bedb55"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-d3d25783.pdf",
+   "bytes": 43376,
+   "sha256": "9e6c6ceac05357d1ce9ea8c191877fb4f3b4999b295a1f12c6dbcda78be7326e"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-d635e8a7.pdf",
+   "bytes": 55405,
+   "sha256": "c37ac1ec2fbbf07608fa3bada6137a975818639a9f19eeb5b02f7b18c4937797"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-e281c034.pdf",
+   "bytes": 43376,
+   "sha256": "cc0e724c2bc10e3dcc45e6661ee19772a8030ea217478895ba23f7a56da56646"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-e45d1b93.pdf",
+   "bytes": 43376,
+   "sha256": "2d7c4247c6797d4685b85345e2dfd6fd43f285c85206fcccf76ad937a94096be"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-e8667b12.pdf",
+   "bytes": 55405,
+   "sha256": "c55030faaf92bf1245f56ae026975edf6b38916ab6bc4ba5b37e6a45614cfb53"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-e89f904c.pdf",
+   "bytes": 55405,
+   "sha256": "373a1875a1fb5e318637c5670ae8cf45310ce95996d5d5c08c43e4175841fd48"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-ef37f5cf.pdf",
+   "bytes": 55405,
+   "sha256": "30e04349587300155b8722b09817f491874ef4e87f9eeb1b57ab214d1d2e72f2"
+  },
+  {
+   "path": "evidence/extracts/county-of-contra-costa-p006-f7e9e4e0.pdf",
+   "bytes": 43376,
+   "sha256": "54c9cf1ffff71f4c28c9cee58b366d985312cd4ed3608e6d18055203c48ebaa8"
+  },
+  {
    "path": "evidence/extracts/county-of-el-dorado-p033-360544d4.pdf",
    "bytes": 100727,
    "sha256": "3349c4b03b06ec10e3622e23751077c1602517bc2f6408f7a4750bbc873194c2"
@@ -5723,8 +5878,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1174689,
-   "sha256": "5b043f657d49e05ed5a29bc687a39343c2ff621f9eff2eea9d24135fa1c54c22"
+   "bytes": 1207836,
+   "sha256": "581343d6e99a9fe852dcbb6da5be77595b8b00051db2794e71bfcc8fe693f46b"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -6570,6 +6725,11 @@
    "path": "evidence/outlined/city-of-chico-p007-f5f52d5d.pdf",
    "bytes": 67720,
    "sha256": "063ff9c19d57414423c5e0b11014b929d3f858c82f2ec4ab18705523a0178cbe"
+  },
+  {
+   "path": "evidence/outlined/city-of-chico-p007-f6c76186.pdf",
+   "bytes": 67722,
+   "sha256": "96926f93c7e4a0479b7a2734dc948b87961598863528e591c13ef37093dc359f"
   },
   {
    "path": "evidence/outlined/city-of-chowchilla-p006-051f474a.pdf",
@@ -8250,6 +8410,11 @@
    "path": "evidence/outlined/city-of-nevada-city-p006-6e665991.pdf",
    "bytes": 59156,
    "sha256": "39b7dcbacfa7142276cc7c338b3a0dd20ab3057cf399c31f1ae630a6a06b6382"
+  },
+  {
+   "path": "evidence/outlined/city-of-newport-beach-p005-4765e20e.pdf",
+   "bytes": 49998,
+   "sha256": "f819489e5852e6b531fdb96324cf21bac9bbbdb84de27602fba870d73c2b75e5"
   },
   {
    "path": "evidence/outlined/city-of-novato-p008-5458c443.pdf",
@@ -10297,6 +10462,151 @@
    "sha256": "69aabc5a4007fafd76aca88956c1482c996baff4779c53af8c45ddf0fa0d10a6"
   },
   {
+   "path": "evidence/outlined/county-of-contra-costa-p006-01f86a13.pdf",
+   "bytes": 55469,
+   "sha256": "08fcb4d04baebf3739045a23bbe471cf2efcf06051c790069c9342071a0a505b"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-0887e37c.pdf",
+   "bytes": 43443,
+   "sha256": "84ce69ae160af9d1ca01d34a7b328d03e7e70df1a124ac569c6ca3331f8b08cd"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-0f065eff.pdf",
+   "bytes": 55473,
+   "sha256": "4b72512930d45d4425646dfb862a60ea46483c435cc00ce8c7045ca9ed164c8b"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-19543c73.pdf",
+   "bytes": 43442,
+   "sha256": "125acc0815349b4e32552c6cd5229a0772a7e191a2b5b653e01fd053efba8639"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-24f1a573.pdf",
+   "bytes": 55471,
+   "sha256": "d4907f49cee6b6939ed6aae389245560d85a84b986d687866be888140ed4d6c4"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-3b813d70.pdf",
+   "bytes": 43443,
+   "sha256": "40f94f00307dd85d5083dbf8522fcf3e7c8a40d3b204981faaffac0e5e8563cc"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-41def2ca.pdf",
+   "bytes": 43443,
+   "sha256": "4baa2d90029dd0bc1fffb5126b58c70dad0b79b936ce83ea236f38ea64592c73"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-5d3c5c13.pdf",
+   "bytes": 43442,
+   "sha256": "f12b108ff4d21c858838bed94dcf485a2258856a23348994f02fe235eaad43c2"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-6079cb5b.pdf",
+   "bytes": 55471,
+   "sha256": "e165381b3fe85e082fd29dd0059c58a235f7e9e6a9b686059324ac5e1ef558d6"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-607dbfce.pdf",
+   "bytes": 43441,
+   "sha256": "880bbd774054ebaf20be3953b5323684a50fce1546ae5d519bdd0dc2b42f7c07"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-6ca45261.pdf",
+   "bytes": 43441,
+   "sha256": "b1add385e944739dafc250af26b6d85dd0e339ea7e45d5844da1acb35bed2ae9"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-6d2bc02b.pdf",
+   "bytes": 55476,
+   "sha256": "43baa4dba6f0e6981a4f499a65915269a77082b06d3d5c840daf0004498d8878"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-7fd75f15.pdf",
+   "bytes": 55474,
+   "sha256": "7710f50640e2115d2ba97a2ffabb2ef6b8e9a5221512aaadbceb2c6d2c252d87"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-97e711e2.pdf",
+   "bytes": 55470,
+   "sha256": "2ab2e96a9426e3ae8dd8cb39fb40422653244d2f788cde4468aca750afe40201"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-9f01db36.pdf",
+   "bytes": 43441,
+   "sha256": "fad971bd40e5a852e2f11064670ebaefbaf20ec515c76c4a8624b268f5778032"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-9fd40ea2.pdf",
+   "bytes": 43442,
+   "sha256": "e3622f02c8f7feb3cc5ade1255f43305574375da170c54a9ae0e59c74e6b8792"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-a2f5fc41.pdf",
+   "bytes": 43442,
+   "sha256": "9b3f2848e8171fcf13f088ae23d9dc2e2e8545d743e984c9f05442c7eef6b8cf"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-ab899d5e.pdf",
+   "bytes": 55472,
+   "sha256": "0dea2aaac9653df3a0e7a9b77c2645ddaffbbbea121314001e7dc97a59d1ec86"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-b421cd7f.pdf",
+   "bytes": 43443,
+   "sha256": "0a496b00d68a254fc036348aa31f3effe1eaf62d897c1a024e3133cbcf49d6a2"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-c99893d4.pdf",
+   "bytes": 55470,
+   "sha256": "a391770f7e4bb5897cb6b1e7f848a4f4965cdf9419c894be16390efef7779cf2"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-cfab6a73.pdf",
+   "bytes": 55470,
+   "sha256": "440f1d27fb46d0a1995fd17e58f3e39be810d10f8a2f74b28704ce5998f2046f"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-d3d25783.pdf",
+   "bytes": 43442,
+   "sha256": "e2e716e94401cacfd658303d614fd7c116ffe106347fa07c4c626cf07bd4b5d7"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-d635e8a7.pdf",
+   "bytes": 55473,
+   "sha256": "df25b035cd056bc9beb1413c5e23490d863ef2dfe2d794a9e020d58804812c5b"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-e281c034.pdf",
+   "bytes": 43439,
+   "sha256": "d1012bdcc6b8c36da495f16ac487c53692bf4eb8bb78b033c632bb7b8d300e77"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-e45d1b93.pdf",
+   "bytes": 43442,
+   "sha256": "e5d6bb9c72bab1d9e571841a1a0dc1fec8ef33be8c51f789e8abfd71a90e3f7e"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-e8667b12.pdf",
+   "bytes": 55470,
+   "sha256": "5d1854e984770df85f2836f56c00fd820c5f2ff3d62aab503687c96a657f3302"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-e89f904c.pdf",
+   "bytes": 55476,
+   "sha256": "5175bd1aaa6197e45dc2cc96a5e849be3ab4a6a8036defc698676623843b41bb"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-ef37f5cf.pdf",
+   "bytes": 55476,
+   "sha256": "8b775bd19e345648417472103e597015af086c6ea531d82a4ae611e2344548e2"
+  },
+  {
+   "path": "evidence/outlined/county-of-contra-costa-p006-f7e9e4e0.pdf",
+   "bytes": 43441,
+   "sha256": "fc27e30f7fd94c48151013f9043155a55ffdcea15bdd1d8bb2deae74e8150f01"
+  },
+  {
    "path": "evidence/outlined/county-of-el-dorado-p033-360544d4.pdf",
    "bytes": 100791,
    "sha256": "64325cd95eb64afeeb22d7669b592f0a081275016f3546afa406a5ea3d084794"
@@ -11832,6 +12142,11 @@
    "sha256": "a677716f7f164794bcaf0c95bf0b2bbade05f99a99896e918e8ec12236f60fd0"
   },
   {
+   "path": "sources/city-of-newport-beach-2024-25.pdf",
+   "bytes": 1212190,
+   "sha256": "c5e3142564b3297309707b7111a76a6833873c803b5b9d4fcd8b2483ba2f2403"
+  },
+  {
    "path": "sources/city-of-novato-2022-23-5f9589a7.pdf",
    "bytes": 917291,
    "sha256": "5f9589a71555bff11850420e998b68278d08730e674dbabd96aa266427418026"
@@ -12222,6 +12537,16 @@
    "sha256": "9fafb4623e8eedf11fdce226c9c201511bbdf8f60e8e3e36ef7fe384bd6b71b9"
   },
   {
+   "path": "sources/county-of-contra-costa-2022-23-b98052fe.pdf",
+   "bytes": 20297041,
+   "sha256": "b98052fe5f7bd8517c674b7a780a8c00ebcaee88f891d565d7f5d013570c15b8"
+  },
+  {
+   "path": "sources/county-of-contra-costa-2023-24-889800f5.pdf",
+   "bytes": 19026237,
+   "sha256": "889800f503991eeea24f1c2264a017357d4ed75d8e40575bd8d1942737fc2c93"
+  },
+  {
    "path": "sources/county-of-el-dorado-2022-23.pdf",
    "bytes": 10927535,
    "sha256": "bc0c7da86d8d6cd52bd7453f1538f682e8310af382c67f5420a2a5e0c94eb872"
@@ -12483,13 +12808,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 105808,
-   "sha256": "59871d3b51706b3d4b292e48e83be2e36c194b6fc67ea66fb5416f12ff25187e"
+   "bytes": 107196,
+   "sha256": "9a2feedf03607247d4fe7ee786ce36ebb017db8dd82981415393da3f616af0a3"
   },
   {
    "path": "sources/index.json",
-   "bytes": 183357,
-   "sha256": "9936b25a4b47714fa40a959043e55c36aeda7ee2d5be627c3f72595243ef1405"
+   "bytes": 185696,
+   "sha256": "510f4856b26e2e1b6e94d4a961f2d8617359a88fa57f5632c16777c669a9c00d"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -12549,7 +12874,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3058,
-   "sha256": "f847e6ef2c885e9097f8c32d9f158c7f301383f05377e8c2a5cdf077cacb58bb"
+   "sha256": "aadf5026ee1264e46f1cef3f8140f5372fdd8796cf744facb7e9804f9849e429"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -12564,7 +12889,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2591,
-   "sha256": "11eeabb21f8a9904431c470c62045c471fd33f6c5c323e1f20c4226e4bbe859a"
+   "sha256": "9e5b309742c27e740b5f7fbd0469eba85539756f081525bdf4d66087ba45d9df"
   },
   {
    "path": "validation/validate.py",
