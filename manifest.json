@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T10:18:50.848361+00:00",
- "data_rows": 1549,
- "distinct_printed_figures": 1381,
- "receiving_entities": 148,
- "agency_years": 297,
- "fee_programs": 837,
- "source_reports": 276,
- "evidence_pairs": 1381,
+ "built_utc": "2026-09-23T10:46:04.742061+00:00",
+ "data_rows": 1559,
+ "distinct_printed_figures": 1391,
+ "receiving_entities": 149,
+ "agency_years": 299,
+ "fee_programs": 845,
+ "source_reports": 278,
+ "evidence_pairs": 1391,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3063,
- "total_bytes": 776651342,
+ "file_count": 3085,
+ "total_bytes": 779549372,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 12863,
-   "sha256": "a033c21aad59342059049b4c9d3246664eae7c270412a3ccb6239d9a4c9c2487"
+   "bytes": 12921,
+   "sha256": "4dbd3bfed01975050f86959796c30022d86d555f1bb2a1af193f86b018481ac1"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "c2beb0eb1fd9332e82bc9c4e9f679ea4e4ebea36ce66faeb3fc942d71a4ab701"
+   "sha256": "debb01319fa0ecb4211807a80c6afaabf443836336b2e31a5f08a152ecca7f44"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 614032,
-   "sha256": "4715506ee12a4d6bdae47d6d011979fb54e1beb96edad2e3e5728c9456d5d3eb"
+   "bytes": 618835,
+   "sha256": "2f0d3b02abeced9ccf743be8be69b429b6e641f2da05022b8dee49f3141a4fb9"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3248421,
-   "sha256": "90b1d2ac62aef4de278d2cc8de3f745908f5c26044bd3f39255a8749aa86c0d2"
+   "bytes": 3269528,
+   "sha256": "a7d4fb7bcfd0143c4e5072746c9a963e035a23065544b3c93f94fcc1c4760b80"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4852901,
-   "sha256": "63d5f2ab97e5a1246404fa553c27fdf9492eb0e155a1f5a96a9d33d41cbff3e7"
+   "bytes": 4884376,
+   "sha256": "42b49b84fa0c5248095fb174b08c25b1690d0dfa8500dc5f331e613f7ad8c94d"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -575,6 +575,16 @@
    "path": "evidence/extracts/city-of-bellflower-p015-d3026d0b.pdf",
    "bytes": 22716,
    "sha256": "4e12837c6d19ca8b64494c74e1d0d98026fa52dcf8d07b1b7b2d933039298459"
+  },
+  {
+   "path": "evidence/extracts/city-of-benicia-p012-a4f17803.pdf",
+   "bytes": 82929,
+   "sha256": "94052e644ad38e1dda4a944140b2e64c4415f8b61237ce9d4f1af8d92d35613b"
+  },
+  {
+   "path": "evidence/extracts/city-of-benicia-p014-43597a69.pdf",
+   "bytes": 82748,
+   "sha256": "289382a097befd098263c78d9af9c1b5e4f8ab4c12994b66c7298137c3ad89ca"
   },
   {
    "path": "evidence/extracts/city-of-beverly-hills-p001-3fabf4e7.pdf",
@@ -4562,6 +4572,16 @@
    "sha256": "593608d8deef46db94df4f7000e786749a49af12b4f5a2976dfa2def3f918f9b"
   },
   {
+   "path": "evidence/extracts/city-of-stockton-p018-85247986.pdf",
+   "bytes": 66542,
+   "sha256": "9dd89d95e14fdf9a2da56aac365f8e18884bc0e28528efacef46d7863350739f"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p023-f0bcea16.pdf",
+   "bytes": 66623,
+   "sha256": "55f740ad5c0d24cb0414c383012b9cb3a5cf50d8c6264f388ef399b6576d71a0"
+  },
+  {
    "path": "evidence/extracts/city-of-stockton-p025-9c0a4933.pdf",
    "bytes": 76315,
    "sha256": "59a3c34f1da3694697080c5a19133854c293f70029d0823de5748cb6d2bcc989"
@@ -4570,6 +4590,26 @@
    "path": "evidence/extracts/city-of-stockton-p025-e22aff9e.pdf",
    "bytes": 76315,
    "sha256": "7bb140b5228bb2ac3e96d4c088ff419fc8661d70cb27210a91c5d7ccf802d5cf"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p028-868a0079.pdf",
+   "bytes": 65864,
+   "sha256": "1c66459e6cb08c5659ab49773a3bcb76f73a293b4b3970383d7d8e4e265f74fe"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p033-4ab25edb.pdf",
+   "bytes": 66857,
+   "sha256": "7cb07a4a5ad683014203f96b75b364ff6e6d76401993d1e03cffbd25012e440e"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p038-ecbd1d90.pdf",
+   "bytes": 66435,
+   "sha256": "04160a14687ce7dd711b7c49c4c41ed35ee3869afcb062ba3011aeaf8b587a89"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p043-e16bd40a.pdf",
+   "bytes": 67035,
+   "sha256": "8b3b45598fb15baa8670bfc1716e702ea9158bf00b60a1ac7c98d086bd975208"
   },
   {
    "path": "evidence/extracts/city-of-stockton-p054-19b02520.pdf",
@@ -4590,6 +4630,16 @@
    "path": "evidence/extracts/city-of-stockton-p060-d392dff1.pdf",
    "bytes": 74330,
    "sha256": "3743571d42eb3397dcf536d7f208705b8a0c9057b21d2027911d1f9ebd56cfeb"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p065-6bfb09fd.pdf",
+   "bytes": 64581,
+   "sha256": "af898d94d2fea10b9c188086040a830f92ac3bd9713ffdc74031bd99311fbc06"
+  },
+  {
+   "path": "evidence/extracts/city-of-stockton-p068-07d572da.pdf",
+   "bytes": 64099,
+   "sha256": "602d57778d14bfc893325d76fb6abc15c74da838e5ab1ce7ac9fc858111b5142"
   },
   {
    "path": "evidence/extracts/city-of-tehachapi-p009-2b14b66e.pdf",
@@ -7003,8 +7053,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1437249,
-   "sha256": "ad3120a396a56a3a04de90438ea73d740d2b4e8f9cf8eb97d55c75c4aa59518f"
+   "bytes": 1447523,
+   "sha256": "c76b476bb670bcaad60243f8d9a8f90ebec186b3095c7d16732d900de419e96b"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -7485,6 +7535,16 @@
    "path": "evidence/outlined/city-of-bellflower-p015-d3026d0b.pdf",
    "bytes": 22776,
    "sha256": "2b9b4a5b4bc27832f71a697032acb58d61ea1e38ad10676820b4a2affbb4f4a9"
+  },
+  {
+   "path": "evidence/outlined/city-of-benicia-p012-a4f17803.pdf",
+   "bytes": 82988,
+   "sha256": "d08950cf246b1c10220792477ceba28150432e75a024d816fcc7d757e003e673"
+  },
+  {
+   "path": "evidence/outlined/city-of-benicia-p014-43597a69.pdf",
+   "bytes": 82804,
+   "sha256": "fa8b9b81efbcba9d1da70041ee57f9022973f1afab75ec07df87a182914aa53b"
   },
   {
    "path": "evidence/outlined/city-of-beverly-hills-p001-3fabf4e7.pdf",
@@ -11472,6 +11532,16 @@
    "sha256": "cde9c185b11393d4d3a537c8e198e319e5aca12a5408fe21ad23d207f0b754e4"
   },
   {
+   "path": "evidence/outlined/city-of-stockton-p018-85247986.pdf",
+   "bytes": 66598,
+   "sha256": "12e7abde465c3fa87a7a413b55f9ffcccc8550fd709cebc9b2d61749e8c4f0f0"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p023-f0bcea16.pdf",
+   "bytes": 66686,
+   "sha256": "5c09d169d6aa26ea0c4329ebef48aed24aefb8930736a182b969c93f85e25606"
+  },
+  {
    "path": "evidence/outlined/city-of-stockton-p025-9c0a4933.pdf",
    "bytes": 76369,
    "sha256": "3d1d2fae8b90e7c3a67dae121a5909455c5daeb282ac44982b7ddd41a1b42278"
@@ -11480,6 +11550,26 @@
    "path": "evidence/outlined/city-of-stockton-p025-e22aff9e.pdf",
    "bytes": 76365,
    "sha256": "429801e52d6d8b29b624b08f954563da398e456f0ea997fe97c4eb7531b12cec"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p028-868a0079.pdf",
+   "bytes": 65924,
+   "sha256": "49ca796950557924709df0ef0798b1565a9ecd9c5c863a834fdca83073ab7344"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p033-4ab25edb.pdf",
+   "bytes": 66917,
+   "sha256": "b14fdc0baf3d90af8c72e71a6a1df73aa4c1663c542fc65f90716ba6cd4003c3"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p038-ecbd1d90.pdf",
+   "bytes": 66492,
+   "sha256": "4384dbc6b748c540958096d0dae786324488f5283bd31872602dbbf99d3ac6a6"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p043-e16bd40a.pdf",
+   "bytes": 67092,
+   "sha256": "1961639e90ada03f12d665fe3b6a223db8772766c97b06e5c34474f2f7db4f20"
   },
   {
    "path": "evidence/outlined/city-of-stockton-p054-19b02520.pdf",
@@ -11500,6 +11590,16 @@
    "path": "evidence/outlined/city-of-stockton-p060-d392dff1.pdf",
    "bytes": 74387,
    "sha256": "9ab2c7d6dcdda012de263638355767ddb13111d55e8b725a54ffa74a49841b35"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p065-6bfb09fd.pdf",
+   "bytes": 64639,
+   "sha256": "ac6f3f9004ed9f453c0b9ee2a3bb32d58cb1660bfbcad8f017b1ba9da92ba3e3"
+  },
+  {
+   "path": "evidence/outlined/city-of-stockton-p068-07d572da.pdf",
+   "bytes": 64156,
+   "sha256": "2b84d5030a6e2dc738a5ff52d87839d07a2ff2f1947d8c2c74c5cc8d484c9c81"
   },
   {
    "path": "evidence/outlined/city-of-tehachapi-p009-2b14b66e.pdf",
@@ -14002,6 +14102,11 @@
    "sha256": "69fba11476719866a5c53e9451e8a09821a8f4c52be8dd810f578a1be49b6208"
   },
   {
+   "path": "sources/city-of-benicia-2022-23-b4dfb054.pdf",
+   "bytes": 517448,
+   "sha256": "b4dfb054248200ca4fc929869a55949e981cae191328dfda10d76296b879316a"
+  },
+  {
    "path": "sources/city-of-beverly-hills-2022-23-78a7735c.pdf",
    "bytes": 118536,
    "sha256": "78a7735cdd5e2064e98059b9f1e89e00a647c57ad162f2a8f57aa63af224e7da"
@@ -14832,6 +14937,11 @@
    "sha256": "91248855f657ca85c11dd8240fea7697dc33bb1e40191d2ae9610edcc9b3a309"
   },
   {
+   "path": "sources/city-of-stockton-2023-24-013c6c2e.pdf",
+   "bytes": 922352,
+   "sha256": "013c6c2eaddb2f3afe73381e4fad385ec5f066e912acb33f62fcb73e377d16d0"
+  },
+  {
    "path": "sources/city-of-tehachapi-2022-23.pdf",
    "bytes": 210677,
    "sha256": "9fa089beb84bdf7e1b3a426d9e5def6bfff17466c8d0414d6df87d379374a138"
@@ -15238,13 +15348,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 123329,
-   "sha256": "335b232ccddf7c2d6efe8320f9b63ca6dd5a85911da9cc933818854c587104f5"
+   "bytes": 124263,
+   "sha256": "77163bbaf37d1f64b195c08a2025261b72de560fa5c6cd27e97ad67c044d15b1"
   },
   {
    "path": "sources/index.json",
-   "bytes": 214222,
-   "sha256": "a4a54c80d1a42bba6ebf0740edd3104823562d780898fecb320323acd3c97aff"
+   "bytes": 215792,
+   "sha256": "a5b697a9f05d156c85f97f6f446752d8fff9b7eb444ecf218b69498da185aeba"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -15319,7 +15429,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "79bba0ff26854a7b27561e8a6bcf5b8703add141c37c2026bae414921448ca2b"
+   "sha256": "bfa0079cd131a32c628e68bd640544b9880c985352a971322436ec7d28c6e1ee"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -15334,7 +15444,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "9d64e9a1d24a9ff65a178cde5832a36672f8a750ba7b4fe83d4fc2eaedec32d9"
+   "sha256": "a939c794fdcff18effe366e952d7cc35429c85970deec443f8b723aba249ecd4"
   },
   {
    "path": "validation/validate.py",

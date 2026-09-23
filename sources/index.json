@@ -266,6 +266,20 @@
   "published_data_rows_from_this_source": 4
  },
  {
+  "source_id": "city-of-benicia-2022-23-b4dfb054",
+  "receiving_entity": "City of Benicia",
+  "publication_title": "Annual and 5-Year Development Impact Fee Report FY2022-23 (dated November 20, 2023)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.ci.benicia.ca.us/vertical/Sites/%7BF991A639-AAED-4E1A-9735-86EA195E2C8D%7D/uploads/Annual_and_5-Year_Development_Impact_Fee_Report_FY2022-23(1).pdf",
+  "retrieved_utc": "2026-09-22T11:12:06.128425+00:00",
+  "physical_page_count": 29,
+  "source_sha256": "b4dfb054248200ca4fc929869a55949e981cae191328dfda10d76296b879316a",
+  "source_bytes": 517448,
+  "source_pdf": "sources/city-of-benicia-2022-23-b4dfb054.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
   "source_id": "city-of-beverly-hills-2022-23-78a7735c",
   "receiving_entity": "City of Beverly Hills",
   "publication_title": "Annual Reporting for Mitigation Fee Act - FY23",
@@ -2616,6 +2630,20 @@
   "source_bytes": 2697997,
   "source_pdf": "sources/city-of-stockton-2022-23.pdf",
   "published_data_rows_from_this_source": 12
+ },
+ {
+  "source_id": "city-of-stockton-2023-24-013c6c2e",
+  "receiving_entity": "City of Stockton",
+  "publication_title": "City of Stockton Public Facilities Fee (PFF) Annual Report 2024",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://cms3.revize.com/revize/stockton/Documents/Government/Budget%20And%20Financial%20Reports/Financial%20Reports/PFF/2024_PFF_Annual_Report.pdf",
+  "retrieved_utc": "2026-09-22T06:24:11.748780+00:00",
+  "physical_page_count": 90,
+  "source_sha256": "013c6c2eaddb2f3afe73381e4fad385ec5f066e912acb33f62fcb73e377d16d0",
+  "source_bytes": 922352,
+  "source_pdf": "sources/city-of-stockton-2023-24-013c6c2e.pdf",
+  "published_data_rows_from_this_source": 8
  },
  {
   "source_id": "city-of-tehachapi-2022-23",
