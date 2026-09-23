@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T00:19:40.399171+00:00",
- "data_rows": 1240,
- "distinct_printed_figures": 1072,
- "receiving_entities": 123,
- "agency_years": 250,
- "fee_programs": 641,
- "source_reports": 227,
- "evidence_pairs": 1072,
+ "built_utc": "2026-09-23T00:47:45.282112+00:00",
+ "data_rows": 1264,
+ "distinct_printed_figures": 1096,
+ "receiving_entities": 124,
+ "agency_years": 252,
+ "fee_programs": 659,
+ "source_reports": 231,
+ "evidence_pairs": 1096,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2396,
- "total_bytes": 614613973,
+ "file_count": 2448,
+ "total_bytes": 619059560,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11312,
-   "sha256": "a57a3e54267fac7e87daa823e394521262a3e1e471b0094e88c428d9bebd6e9e"
+   "bytes": 11377,
+   "sha256": "44c6e6b9e07562e27c61636654c336b28b7caa3dd6a032c9b6fcd0d7dc420c40"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1266,
-   "sha256": "f754b42b38d02f9061b671f7c0edcf29f9aa1702b014f1fd2e60690bd99a22c6"
+   "sha256": "556628cb1da803db9f372bf20e6755c708b0ab23b7aa585a35bd09e37b297bb7"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 494681,
-   "sha256": "298e0cabeef4b3013dc117f58bef3ee43f4c699ca176298453bed7538f091077"
+   "bytes": 504181,
+   "sha256": "38968a70c17e257ad752b2e7ff9fa4a69dd9784510dad301ad164f3e9ba73ee4"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2647187,
-   "sha256": "e151a36e0ea382dcc31c109716288bfe16df2e614127738c1ba9638480e751c2"
+   "bytes": 2697168,
+   "sha256": "d25583e7d90336825f2c6853e7d57b49d5e76b1636e20b8bdc109b84a053953d"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 3931098,
-   "sha256": "f6336d34f1431d852e743781d14cbd8fe6c3101bf626bb3d40edf8b45692b3d6"
+   "bytes": 4006041,
+   "sha256": "ed0facf917fc9905dec71730e648bd42436088b7507d4205f87a53f872fdcacd"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -330,6 +330,126 @@
    "path": "evidence/extracts/city-of-avalon-p005-46e0698d.pdf",
    "bytes": 22604,
    "sha256": "93cf2afab34b032f3422ed121e450db0503895feb6143f4448ad62044896a5ea"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p007-2287a894.pdf",
+   "bytes": 58053,
+   "sha256": "593c3b522baaae5888879ccbd4263e6b9c260361f5e7787f280206f4d97682e8"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p007-d2b1a74e.pdf",
+   "bytes": 71748,
+   "sha256": "a779d61a0156a4ecb1d3b23570eba373744371506963086da71c61b0843c648b"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p007-e93235b8.pdf",
+   "bytes": 58666,
+   "sha256": "828c47139151e4024f1d8bd0e98e1188990d008f52946fc0909b69d62f37efca"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p008-02eb70b9.pdf",
+   "bytes": 71028,
+   "sha256": "ed024ac476fdb840833d8494e26e6f39937c4eb2c8d92e3c88367ba618003d9b"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p008-d236149c.pdf",
+   "bytes": 57793,
+   "sha256": "edd4fd794de45c8a716bbfb658a4dfa222fbdc5b5772abab05e1cda8a1b3873a"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p009-3be190e2.pdf",
+   "bytes": 58378,
+   "sha256": "5d6ea3fb1270120e45b73c4653b119ada1fc593bcf310a476dcef735d0e8064d"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p009-3e9a95eb.pdf",
+   "bytes": 63534,
+   "sha256": "dcd8f5fdf1aacbd1da62ffb6e2039bfa602f77d8c20e304a9babc47b5dfeb2d2"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p009-4f2e21d1.pdf",
+   "bytes": 57910,
+   "sha256": "c67fb3c1860e42ce7daaa47d980e64b165ae251be4aa8ba61c38cdfcadf9b5fb"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p009-c49ff6fc.pdf",
+   "bytes": 71042,
+   "sha256": "478085377921ebc75ef57455fe59f2397cc1edfc4cbbed3470d4f95098da5010"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p010-7f5f0da6.pdf",
+   "bytes": 71013,
+   "sha256": "af813dcbafe804cb1ac63335e23f5253b9cb2925f9e84de3b87769afc34943d8"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p010-a82047ed.pdf",
+   "bytes": 58083,
+   "sha256": "53c70f1f939206dfb327dc7178639b0672678c336696ed2f637244a685e40f1c"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p010-d12efc52.pdf",
+   "bytes": 64687,
+   "sha256": "574eea5e02e3b65e2801e64c8363f125e17577d39489f5a4881199fe6f2ca913"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p011-1ff0ee78.pdf",
+   "bytes": 60163,
+   "sha256": "6643d64d8be6426b2d0d8ff89ead705322b9230849b1c3f3ab1a4f14adfa875d"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p011-562b78bd.pdf",
+   "bytes": 70518,
+   "sha256": "25e150186ea94a67b626783e1baf815eb49a95983ecaa249adbf3fa28890cd8c"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p011-8a7f12e1.pdf",
+   "bytes": 56720,
+   "sha256": "0b1e9ae613d9528c6307c0bbc911f8be02d20a2462904c862fba9c1e0f954bc8"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p011-f6c95938.pdf",
+   "bytes": 70267,
+   "sha256": "b74c191fc97a96454452174e3d6e103bfabf23f5affdf286f517f8cba68a1c10"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p012-50db4612.pdf",
+   "bytes": 70567,
+   "sha256": "e02d778c3b8209b35f60fa079e7a00e9587809c63558761af1bfde4d47096d0d"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p012-c2e2f7dd.pdf",
+   "bytes": 70418,
+   "sha256": "43f34ab423e3f5b6c9bbe01ef94cdc1cb0974b40c68eebaa1b49f1e0aa10464e"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p012-d5658cfb.pdf",
+   "bytes": 57095,
+   "sha256": "5a9c00d979a6dae376886c42b0203ecdf1e9d7a3d96ff078ab96803c6d2f00ab"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p013-1011d189.pdf",
+   "bytes": 66647,
+   "sha256": "ae9f64436f28cf85ee0d90109e157230445ed0f89784c05febaf61102a862e14"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p013-2553a0d8.pdf",
+   "bytes": 59220,
+   "sha256": "18bd83e0e9463ef968c5d5946c01709e2c900d3ba6b44103f7f7955619827b6e"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p014-107d63a4.pdf",
+   "bytes": 69803,
+   "sha256": "053d37ee470d8715835b70f0c6b0335359f2b8e715bb919bb027b10e49edbef4"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p014-78eef4bc.pdf",
+   "bytes": 69363,
+   "sha256": "8f3d76ddfaa80c941cb544f9a86db8849d72decd9c54ca17d05342286cb46fe7"
+  },
+  {
+   "path": "evidence/extracts/city-of-bakersfield-p014-af3d2a50.pdf",
+   "bytes": 56245,
+   "sha256": "1db951f17f75887f65f1fe85250e2f4ad4d24b09b91edd7aae55ea7956362ced"
   },
   {
    "path": "evidence/extracts/city-of-beaumont-p002-0051f5b8.pdf",
@@ -5458,8 +5578,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1120597,
-   "sha256": "f7ead5a63b212c81c3d6c908c9ab6a08f1595d42c74407c9bcc3a6180a8c06d8"
+   "bytes": 1145566,
+   "sha256": "a3f97b78bd401532870f1bd55a65abbfa1c002983f611764ca50a996d35e1e0b"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -5695,6 +5815,126 @@
    "path": "evidence/outlined/city-of-avalon-p005-46e0698d.pdf",
    "bytes": 22661,
    "sha256": "e7e3dd5b8c5a492ffb6cbe1decdacbd3807f75e4449c084b6fb323eb1f591cf6"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p007-2287a894.pdf",
+   "bytes": 58116,
+   "sha256": "40223390d9de063bb4123a821d67c8fd80034d43f5e6df18ed939721bcd559bf"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p007-d2b1a74e.pdf",
+   "bytes": 71811,
+   "sha256": "8541227cb4c9a479decc027d3ba65721448e86499000d86aff24e8090da02240"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p007-e93235b8.pdf",
+   "bytes": 58722,
+   "sha256": "e97d0048d348c6b31dbc640aab8db6d821c2f59bb36e356419d5e74e4fa58b06"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p008-02eb70b9.pdf",
+   "bytes": 71092,
+   "sha256": "12f7c7452aa18f4dbc2c9854d11f526a9d84b8bd8e879762e2759ac96bb62530"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p008-d236149c.pdf",
+   "bytes": 57851,
+   "sha256": "cea18648fdeab7a8117496884db2654589884116f47a11ef81236f123b07627c"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p009-3be190e2.pdf",
+   "bytes": 58437,
+   "sha256": "778865482a6067b00020ee81dd0648c1c45bbb58ae823018f7d5fba545a96fe1"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p009-3e9a95eb.pdf",
+   "bytes": 63594,
+   "sha256": "4eebd94401343681815712dfee5f8fbae586cb6c58e953a40181d9070798033f"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p009-4f2e21d1.pdf",
+   "bytes": 57970,
+   "sha256": "3a6e7fcc841564a997806da5077ee699c380c8de7e5311e30eebe9022c299823"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p009-c49ff6fc.pdf",
+   "bytes": 71107,
+   "sha256": "3f967ffe98b2b04cb0ac3e597a12ae9ba8cfcab47bdb7dfd78d2a784b06e206b"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p010-7f5f0da6.pdf",
+   "bytes": 71075,
+   "sha256": "90d134c9fb60cc84c000d819c5eef5d3f953291328fb8d10393bcd35088a71f1"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p010-a82047ed.pdf",
+   "bytes": 58140,
+   "sha256": "a769163ccdc108d41413c790e219d50fbcc70f90a1b8c6aaed71dc04959ba4e8"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p010-d12efc52.pdf",
+   "bytes": 64746,
+   "sha256": "9ca1765ded656c8791a96fa485385e06a99634d88ce95b82bbef77a585ede793"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p011-1ff0ee78.pdf",
+   "bytes": 60227,
+   "sha256": "eaed56b8966488197b70a41213fb3e3651016256bf1d4509bcbafac2b33c83cc"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p011-562b78bd.pdf",
+   "bytes": 70578,
+   "sha256": "00980e724ae8dec18b1cb39571a7473ce926739455e8f39904f0211ef4c391b5"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p011-8a7f12e1.pdf",
+   "bytes": 56777,
+   "sha256": "87054f5d2bacac24b04fb151448dc8cf0d51a56905936eaecd8ecba42513e020"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p011-f6c95938.pdf",
+   "bytes": 70327,
+   "sha256": "b7d17b13e68942cfcb9454682872d7dcb82564a6e3f76b8cee81f403575a7780"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p012-50db4612.pdf",
+   "bytes": 70630,
+   "sha256": "d669f495b4f20bd9c1fe248b4289b08dfbd407b6f0e8f64000a0afe471cd9ae4"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p012-c2e2f7dd.pdf",
+   "bytes": 70479,
+   "sha256": "b23d3c9ae2a47b30a22145240b756f255ac06d04f187a0c17ccf9d6505f1a2ee"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p012-d5658cfb.pdf",
+   "bytes": 57153,
+   "sha256": "3a92e4fea3b503d358b7c417ece78a83b9640480cf2de000728997156e7f9ede"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p013-1011d189.pdf",
+   "bytes": 66709,
+   "sha256": "fb0a11de943f17756e23c3036b5ac09d3c0e99855d176aaa7f499ae50069f3e0"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p013-2553a0d8.pdf",
+   "bytes": 59280,
+   "sha256": "548ffd5ac67323548ac8049a697dd5f5529f927e99a73b7dd6d905f0436a4326"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p014-107d63a4.pdf",
+   "bytes": 69868,
+   "sha256": "1e2f5c62371d5281c5c6ce1e577372b89c0b58c299baba46d7e3c670ec56ece6"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p014-78eef4bc.pdf",
+   "bytes": 69423,
+   "sha256": "2e785b8c578e1710127be3466e6ec8e927052aef2daee1c33dd162e699773f3f"
+  },
+  {
+   "path": "evidence/outlined/city-of-bakersfield-p014-af3d2a50.pdf",
+   "bytes": 56304,
+   "sha256": "ba6fe1f69f1fdc5a5ab50b5dbead2eff6d1d06656f4747874f32b37d05f2120b"
   },
   {
    "path": "evidence/outlined/city-of-beaumont-p002-0051f5b8.pdf",
@@ -10877,6 +11117,26 @@
    "sha256": "ad2e9c890bd5777e68c0333e7b6ae1b45da7453a231775425ebbaf0dbb6f52b8"
   },
   {
+   "path": "sources/city-of-bakersfield-2022-23-3e822c17.pdf",
+   "bytes": 281931,
+   "sha256": "3e822c171f6dd080a8f2f48cd181050afa01b14e505fae5d034996d7a5ca3440"
+  },
+  {
+   "path": "sources/city-of-bakersfield-2022-23-5367f1d9.pdf",
+   "bytes": 243317,
+   "sha256": "5367f1d989b770aac2bdb3357c90e172da651f7f0bffe6bf0d71b4c106fd55f8"
+  },
+  {
+   "path": "sources/city-of-bakersfield-2022-23-7b0a039f.pdf",
+   "bytes": 226229,
+   "sha256": "7b0a039f1282b36a33b9558aa88579045b5ad3ee302dbf7883301f37775d246d"
+  },
+  {
+   "path": "sources/city-of-bakersfield-2024-25-d45f68c3.pdf",
+   "bytes": 450107,
+   "sha256": "d45f68c3530141e443cfb7decbd887bd765a61b932502b3ef47cb41de4c7bd24"
+  },
+  {
    "path": "sources/city-of-beaumont-2024-25.pdf",
    "bytes": 284825,
    "sha256": "e0b4ec3f7b06ca7ae70b1c935b75031fa2b2c9b9141c1d4ceb552c5341996ccd"
@@ -11918,13 +12178,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 102702,
-   "sha256": "0b799ac5b8504e92fe889ef3d64193e9cc8f653ede3e784be4e5108712d1bf9e"
+   "bytes": 104648,
+   "sha256": "d703f3c1e3cd112dbe903b4e4892d97ab4fe3fcd49d478922164c7e22f79376f"
   },
   {
    "path": "sources/index.json",
-   "bytes": 178020,
-   "sha256": "264dfca74b396d5f790ec1522ad62d025ea3bceba91f03a2616eb8edaf394aef"
+   "bytes": 181242,
+   "sha256": "cbf030c9cba794773dc352e170cd3359acff923caa681487b6a06e6930475424"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -11984,7 +12244,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3058,
-   "sha256": "cdb4b22fe3e568881e9b4786c0977d9a6c2193aa7466bfe0aeb3775024be9ae7"
+   "sha256": "45aa18d97f1d8535959bfa4f3b8bce6851bc819b8882c785018d9a616a5ef4ef"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -11999,7 +12259,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2591,
-   "sha256": "c110298bc620414f7fa53f60e0f22e9f01e2d471c97a92e55b9e1cc41f3af803"
+   "sha256": "c8163e3094bbdc2c9186d9ecb02f220e5e9e7d14cd1e74bfae28120da5678c71"
   },
   {
    "path": "validation/validate.py",
