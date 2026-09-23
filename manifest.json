@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T15:28:55.259487+00:00",
- "data_rows": 1655,
- "distinct_printed_figures": 1487,
- "receiving_entities": 156,
- "agency_years": 311,
- "fee_programs": 916,
- "source_reports": 290,
- "evidence_pairs": 1487,
+ "built_utc": "2026-09-23T16:02:32.915990+00:00",
+ "data_rows": 1660,
+ "distinct_printed_figures": 1492,
+ "receiving_entities": 157,
+ "agency_years": 312,
+ "fee_programs": 921,
+ "source_reports": 291,
+ "evidence_pairs": 1492,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3289,
- "total_bytes": 821137044,
+ "file_count": 3300,
+ "total_bytes": 822045473,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13333,
-   "sha256": "ec9cabd5a52e3733283970d40d6bd5088ab006639a56b2584f6658a708d60864"
+   "bytes": 13381,
+   "sha256": "67511d3242982e40fdc1e45cef1576388d1d8527ef6127ce4f3aef391af08905"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "d899b1ada7306ae87b90936b0490e6b2da60c71890843c74baf0510e4491fb1b"
+   "sha256": "e488fd7d38444a17c75779564dc0a94289caad98a4823fe06881c22725313e5d"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 655000,
-   "sha256": "6639362ad26b489267475faa71dcc6046e207680fb6516816a7e4061e5c364a3"
+   "bytes": 656961,
+   "sha256": "e7d7370add66a88cb42c47244f2f78a5ff98268f5d50f804b009424226ed5687"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3467136,
-   "sha256": "2f57fc5fd0509eac828d30f7565ee9f47e33648dba5e5609076e64613568f7f3"
+   "bytes": 3477430,
+   "sha256": "1582d000b0eab5092930c996aa9ef78291a024c6390bae25445123588b03eed2"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5181482,
-   "sha256": "5d8e31af189c2ee7ce027762a02ea09dd0258d6bbeeb628daaca2b19372aee83"
+   "bytes": 5196961,
+   "sha256": "0c9bcc7f6b5f9c79709d584f2b2a45069a273aba78339834547feebfb373d23a"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -6032,6 +6032,31 @@
    "sha256": "4ebb3e321a83a0afcaaebd597783e8aa5bcd36b6ed571bc10d7d995f84902626"
   },
   {
+   "path": "evidence/extracts/city-of-williams-p006-111fd6cd.pdf",
+   "bytes": 49709,
+   "sha256": "0dd0e0cb3c6c3c5061dd0e4880e7b8381a5c62084a827db860171d3680527986"
+  },
+  {
+   "path": "evidence/extracts/city-of-williams-p006-4129ff28.pdf",
+   "bytes": 49709,
+   "sha256": "5e96fe0b1093cc8d3b5ff5a08ca8e2bc3be00a7c5f9b8f0f1ba8eb201d3de990"
+  },
+  {
+   "path": "evidence/extracts/city-of-williams-p006-7443450e.pdf",
+   "bytes": 49709,
+   "sha256": "e023e2d6b5baadce7e45f328e6644603d14ef832373b26f6ad7a32173d3e5d56"
+  },
+  {
+   "path": "evidence/extracts/city-of-williams-p006-9cfa71e4.pdf",
+   "bytes": 49709,
+   "sha256": "cd72278993c73e6cf9e9c9da35f60ff6f704e4b139b3f1b4d4ce294934c8f3f6"
+  },
+  {
+   "path": "evidence/extracts/city-of-williams-p006-bcb39ec4.pdf",
+   "bytes": 49709,
+   "sha256": "f0ca09f8758caeaf290ae4218cd36e6d3930ee5dde40e7ed4aff9a375d31b89d"
+  },
+  {
    "path": "evidence/extracts/city-of-willows-p004-e538dbc2.pdf",
    "bytes": 33320,
    "sha256": "470ff7126c984fab82698ae9a8fe483df6d360412e83a2e47695906c58a60605"
@@ -7533,8 +7558,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1546806,
-   "sha256": "c65582c274077db0731d4a1f87e194d0c8c5d77397d7db7b8ef42215e6636993"
+   "bytes": 1551718,
+   "sha256": "94809450db37eefdd01ae3ae18ce29ea094df0b9b95f6fdbf775add8f6e3e2df"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -13472,6 +13497,31 @@
    "sha256": "1b10e7681f8c73ee0de43018122c16014922b738474ee84d8f3ec45cb15994eb"
   },
   {
+   "path": "evidence/outlined/city-of-williams-p006-111fd6cd.pdf",
+   "bytes": 49770,
+   "sha256": "15e4124d1cce337dd07e68e608c759d4d5610bc70c1865f8885fd8427d71530f"
+  },
+  {
+   "path": "evidence/outlined/city-of-williams-p006-4129ff28.pdf",
+   "bytes": 49770,
+   "sha256": "0161f202cb12f1be700dbc8e7688131adee2ae05860dbb22546a8731cfa69617"
+  },
+  {
+   "path": "evidence/outlined/city-of-williams-p006-7443450e.pdf",
+   "bytes": 49769,
+   "sha256": "d467d17090bb1fa0f24c5e07039f48e3dcdcb4280fa113ddff23c1bf5083996f"
+  },
+  {
+   "path": "evidence/outlined/city-of-williams-p006-9cfa71e4.pdf",
+   "bytes": 49770,
+   "sha256": "80dcb083e22f8b8d814f03d1a3ad3cc0df7123343c313609f239127ab77584c5"
+  },
+  {
+   "path": "evidence/outlined/city-of-williams-p006-bcb39ec4.pdf",
+   "bytes": 49770,
+   "sha256": "a5abe778593131aabfa6af537c7299bdcb996c1d1aca3ad600ff56e3e16f3e3a"
+  },
+  {
    "path": "evidence/outlined/city-of-willows-p004-e538dbc2.pdf",
    "bytes": 33379,
    "sha256": "c2d5cac36b478286647768cd195dcf690997c7720751832a129f2888bb69fc82"
@@ -16052,6 +16102,11 @@
    "sha256": "0da23a59495117e3d10bf608aebb103c3ad696254c393249d364e3d10fa32f94"
   },
   {
+   "path": "sources/city-of-williams-2024-25.pdf",
+   "bytes": 377026,
+   "sha256": "8ab0846653524aea0ed3f0119cbe0d905447afee74d7fbae1c20ab0727d066a9"
+  },
+  {
    "path": "sources/city-of-willows-2020-21.pdf",
    "bytes": 417037,
    "sha256": "e236073aeddc0758d657fd16c85c0e2c7f89f3904025e98ba320ac6ec4ff197e"
@@ -16368,13 +16423,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 129367,
-   "sha256": "511533e9f16864362fdfc7484a72e27d80b036e218b89edd51289ff14363b8ad"
+   "bytes": 129866,
+   "sha256": "4d3b713aecfd1d4c27d0f2fcecca8cd855f270bd1085a8a28be940ce22b6fb5d"
   },
   {
    "path": "sources/index.json",
-   "bytes": 224710,
-   "sha256": "27598ca617310777c77dd3c67733bd2ef12112fe1cfca02131c37a0b4dcf1c1d"
+   "bytes": 225526,
+   "sha256": "e5ea9df38a087c4efe833091bc39fee597795314f9c7ecf5a60442e950bd5b11"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -16449,7 +16504,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "e8cc5bfc0a90b8938f54fc82bb346fb82f8a7b20163ce57565ae8646c19f2fae"
+   "sha256": "b8f256a99619420f8b7a31cb9c6a229df1af7ee75464ca041543a32f6175bf89"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -16464,7 +16519,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "22cb9bd437846b223eb992ad9d0121599cb639a58d477f83206ea3680c452664"
+   "sha256": "d89fd652f8253d6f7eaf1dcd9f43dcdbf8b4ea0bd7976a8d01f03e6b4b08692d"
   },
   {
    "path": "validation/validate.py",

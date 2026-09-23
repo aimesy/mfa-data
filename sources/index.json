@@ -3066,6 +3066,20 @@
   "published_data_rows_from_this_source": 13
  },
  {
+  "source_id": "city-of-williams-2024-25",
+  "receiving_entity": "City of Williams",
+  "publication_title": "City of Williams annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://cms3.revize.com/revize/williamsCA/City%20of%20Williams%20AB%201600%20Development%20Impact%20Fee%20FYE%206.30.2025%20%20One%20Year%20Report%20Submitted%2012.10.2025.pdf?t=202601211633070",
+  "retrieved_utc": "2026-09-22T12:30:43.108668+00:00",
+  "physical_page_count": 10,
+  "source_sha256": "8ab0846653524aea0ed3f0119cbe0d905447afee74d7fbae1c20ab0727d066a9",
+  "source_bytes": 377026,
+  "source_pdf": "sources/city-of-williams-2024-25.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
   "source_id": "city-of-willows-2020-21",
   "receiving_entity": "City of Willows",
   "publication_title": "City of Willows impact fee report, fiscal year 2020-21",
