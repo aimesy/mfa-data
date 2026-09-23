@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T17:44:02.215258+00:00",
- "data_rows": 1685,
- "distinct_printed_figures": 1517,
- "receiving_entities": 160,
- "agency_years": 318,
- "fee_programs": 938,
- "source_reports": 295,
- "evidence_pairs": 1517,
+ "built_utc": "2026-09-23T18:12:15.494734+00:00",
+ "data_rows": 1692,
+ "distinct_printed_figures": 1524,
+ "receiving_entities": 161,
+ "agency_years": 319,
+ "fee_programs": 945,
+ "source_reports": 296,
+ "evidence_pairs": 1524,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3354,
- "total_bytes": 827309901,
+ "file_count": 3369,
+ "total_bytes": 828728396,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13555,
-   "sha256": "1cae8dd5ae643747adbb26a824b9d5eb311949cde749443fe120c923cd1741cc"
+   "bytes": 13604,
+   "sha256": "ee1c4f2eeaa48a49273495c42e2253f5e38b690ff72e0d2349cec1eb60e288c8"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "9114d2b5a8a9f7e31a2ad19f6eb3a59e7e81f3dd1287bd3089e955c4b0cb017b"
+   "sha256": "57c565129dccc46b92bb2acdbae00230ea9112c89dfaa4dd2f673a2756b28d8f"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 667580,
-   "sha256": "ecf4178a806ce19dba4650f08cb05111c0ade46bd63feca06a94e4a531f92eff"
+   "bytes": 670332,
+   "sha256": "52ec7c7e7106a555a8140de79f22d6dab2de1e34f7cfe0b28c49869eee604774"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3532353,
-   "sha256": "94c43b08d47d83ef854991957a4a6f2e661e76efd75f4a14018bfdbbbc17f546"
+   "bytes": 3546877,
+   "sha256": "910792c295d5fbf7230ca3b71b7bf92e9d75d8bb391d8d65dfadb76c788c37d2"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5277725,
-   "sha256": "f28d4c628cc1027609da720a081f8c81d5b2daa59433ba4b386ff5cc4eb8b084"
+   "bytes": 5299508,
+   "sha256": "fc2ab16280839d381cfcaa3ad9efa8eaa32951dfa2731f0e24def67718fb2cb3"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -3015,6 +3015,41 @@
    "path": "evidence/extracts/city-of-milpitas-p002-bb73365d.pdf",
    "bytes": 52007,
    "sha256": "428b62c0deec4968e5caab843dade4ee188df29b8314b1c9df5d942d1e49ab6e"
+  },
+  {
+   "path": "evidence/extracts/city-of-modesto-p012-035f14c4.pdf",
+   "bytes": 74687,
+   "sha256": "9220b5dd7e8ae0be935f0f754619ebef113d49b71f3a7dfed6f652ed14e6ff46"
+  },
+  {
+   "path": "evidence/extracts/city-of-modesto-p012-28795ee7.pdf",
+   "bytes": 74701,
+   "sha256": "e6e3a8c532892757ccea5ecbdc212a786f3571be71798b1c6e0be3bac533a928"
+  },
+  {
+   "path": "evidence/extracts/city-of-modesto-p012-566abe9a.pdf",
+   "bytes": 74701,
+   "sha256": "8bff41178962d7c5d39bc9d76d1436e0e4bb8855793e196f5a7dee37ee000ede"
+  },
+  {
+   "path": "evidence/extracts/city-of-modesto-p012-7cd03cbd.pdf",
+   "bytes": 74701,
+   "sha256": "5578e806614ce68e195de1bfffcbdc596ec7b3ed495dd304ad8c14efc70fb1c9"
+  },
+  {
+   "path": "evidence/extracts/city-of-modesto-p012-c01e6db7.pdf",
+   "bytes": 74701,
+   "sha256": "621c011c5b47dcd722a932f6de90728edf883a6ed1ecf5cb76388439c69cfc9c"
+  },
+  {
+   "path": "evidence/extracts/city-of-modesto-p012-e3203b84.pdf",
+   "bytes": 74701,
+   "sha256": "a35c3d2c6947dc24b57fbe9333ec86473ffe68f9ff79bdad66500110883770eb"
+  },
+  {
+   "path": "evidence/extracts/city-of-modesto-p012-fa52b875.pdf",
+   "bytes": 74701,
+   "sha256": "a6b0eb096254a51d5a81c7c63c94b9150938dbcf739ed437a3b27b15af6984e3"
   },
   {
    "path": "evidence/extracts/city-of-monrovia-p002-e1df68fe.pdf",
@@ -7683,8 +7718,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1577508,
-   "sha256": "8a098495e89ec4dae386706de94986c54212c5acca0a029bd23b6db01b0531e9"
+   "bytes": 1584510,
+   "sha256": "8630eba81511230fed530f05e384142ca477ea0424fd089bd21f068dd2a4807e"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -10605,6 +10640,41 @@
    "path": "evidence/outlined/city-of-milpitas-p002-bb73365d.pdf",
    "bytes": 52067,
    "sha256": "97128245003a8a7d3fcf52381084411929e2e31ab78e0e9abc6f4e05b74c8c70"
+  },
+  {
+   "path": "evidence/outlined/city-of-modesto-p012-035f14c4.pdf",
+   "bytes": 74766,
+   "sha256": "e1ddcd14f2d3d64e3bba40a0671a8148349d20e21f053af335f501e61cceca02"
+  },
+  {
+   "path": "evidence/outlined/city-of-modesto-p012-28795ee7.pdf",
+   "bytes": 74767,
+   "sha256": "3738697a862d6f8b81ed39e6c6d3d6719df24f038ef6256aefcbe9e9d925be66"
+  },
+  {
+   "path": "evidence/outlined/city-of-modesto-p012-566abe9a.pdf",
+   "bytes": 74774,
+   "sha256": "2c44531b1ff35ba80cf4484b18b633db54a8c7e3182607c97769ab0fec66c6b5"
+  },
+  {
+   "path": "evidence/outlined/city-of-modesto-p012-7cd03cbd.pdf",
+   "bytes": 74770,
+   "sha256": "8a3b122e9ca9c8a3ea28d2dcb6a470e9fec214ecbde362abcf53f8eb3e9981bc"
+  },
+  {
+   "path": "evidence/outlined/city-of-modesto-p012-c01e6db7.pdf",
+   "bytes": 74771,
+   "sha256": "ff314641bb529cb11e8a15f1c4071ffba6ac344b7b3c7e5a9d2cd59fee507456"
+  },
+  {
+   "path": "evidence/outlined/city-of-modesto-p012-e3203b84.pdf",
+   "bytes": 74768,
+   "sha256": "de95ca7efb9d141644afcb326549ec719f50949c6a87fb712f40dd33bd70200b"
+  },
+  {
+   "path": "evidence/outlined/city-of-modesto-p012-fa52b875.pdf",
+   "bytes": 74771,
+   "sha256": "f4cef89e0c161be9b3ec8478bc2d6d65faa9cadfeda7c172fba652c2574880ad"
   },
   {
    "path": "evidence/outlined/city-of-monrovia-p002-e1df68fe.pdf",
@@ -15827,6 +15897,11 @@
    "sha256": "a79d1401321fa0914be04605f4d3f908255c206f3e496e283db77d7452fa7f1d"
   },
   {
+   "path": "sources/city-of-modesto-2024-25.pdf",
+   "bytes": 324956,
+   "sha256": "1bf7aae868330e399a29cd77ad2fcb587b878ddd35fa3fe889c7887ba559b5c7"
+  },
+  {
    "path": "sources/city-of-monrovia-2023-24-b0f06f54.pdf",
    "bytes": 158912,
    "sha256": "b0f06f547129dfc1c919c1147105d7b27b9a35a960e7887c7e49b17d057bf2b5"
@@ -16693,13 +16768,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 131373,
-   "sha256": "169a2eff00314d2d4c44a579295ccd522a9efbc1a0ab8f6b197157d204d7dd8e"
+   "bytes": 131789,
+   "sha256": "5d1a4d566fd0705e31a58d7fe085cc809930543474f68eb243f082981df88b03"
   },
   {
    "path": "sources/index.json",
-   "bytes": 228303,
-   "sha256": "dc2c2653f5037b63b480dacad6491eff795fb6115283b3057c856cca37745d4a"
+   "bytes": 229036,
+   "sha256": "d1f4be263f6d72ecffd8a6d7640c475b546dd0ad3878399f3534db0bd9040b75"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -16774,7 +16849,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "99b286efdbd511b18c592d5cf8cf0224f478c438428662f7a12d7ba31dc33fab"
+   "sha256": "37c8c4b94c2b3b8dd1a4a6928142071074b52d9634558ca35972a7dd62bc1e9a"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -16789,7 +16864,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "5961614688218f5038b6a1f5f199a7f9d9b4902579ec1f4f3fbfd08a22510073"
+   "sha256": "8cdbc18a7b3589360fbaf5464f40fb801e8afad7daedbdedbff39e6dc3e11248"
   },
   {
    "path": "validation/validate.py",

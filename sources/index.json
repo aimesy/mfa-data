@@ -1596,6 +1596,20 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "city-of-modesto-2024-25",
+  "receiving_entity": "City of Modesto",
+  "publication_title": "City of Modesto annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.modestogov.com/DocumentCenter/View/24662/Capital-Facilities-Fees-Annual-Report-Fiscal-Year-2024-25-PDF",
+  "retrieved_utc": "2026-09-22T06:24:18.462393+00:00",
+  "physical_page_count": 22,
+  "source_sha256": "1bf7aae868330e399a29cd77ad2fcb587b878ddd35fa3fe889c7887ba559b5c7",
+  "source_bytes": 324956,
+  "source_pdf": "sources/city-of-modesto-2024-25.pdf",
+  "published_data_rows_from_this_source": 7
+ },
+ {
   "source_id": "city-of-monrovia-2023-24-b0f06f54",
   "receiving_entity": "City of Monrovia",
   "publication_title": "City of Monrovia development impact fee report, fiscal year 2023-24",
