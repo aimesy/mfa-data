@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T16:24:41.838637+00:00",
- "data_rows": 1665,
- "distinct_printed_figures": 1497,
- "receiving_entities": 158,
- "agency_years": 313,
- "fee_programs": 926,
- "source_reports": 292,
- "evidence_pairs": 1497,
+ "built_utc": "2026-09-23T16:45:39.014450+00:00",
+ "data_rows": 1668,
+ "distinct_printed_figures": 1500,
+ "receiving_entities": 159,
+ "agency_years": 314,
+ "fee_programs": 929,
+ "source_reports": 293,
+ "evidence_pairs": 1500,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3311,
- "total_bytes": 824650403,
+ "file_count": 3318,
+ "total_bytes": 825342977,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13428,
-   "sha256": "e67ef826c0b5f3750b27cfb6e68d50cc5b52ea1230a2ab4147980e6e4e0fcbdd"
+   "bytes": 13473,
+   "sha256": "f214a351e9c05ed43f857c5168049e3b2c82f8ff0564780e366912ad58407689"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "1664cb8b1eb50c0268ebc873d698d584359a79cde7baf7585b9a6d2fe8db3bb9"
+   "sha256": "6c956551320b71966a03c275849b8823ff4695aee894fc7f625f11722b3483d8"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 658954,
-   "sha256": "eb1417de31664ccb102d06dbfbdeb9c0487887e6859e2751170b946e0885c2f2"
+   "bytes": 660567,
+   "sha256": "9146af2358a90ffeb48af3af898d2c2a2f2a0e4ab8804d5515d1fad8123e2ffb"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3487541,
-   "sha256": "e4a742f7d0c33bc7ded1c848bd34ee7e3a1c166ea328f446461f99dc70db42b9"
+   "bytes": 3493364,
+   "sha256": "a8c02e4a65c84e392a8804f6dad05c7487930ee69c35dca57f2ab8928924e031"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5212247,
-   "sha256": "afa23e000c6394e6bc8bd1829c97b2a1bebd8e88e5c30442c32ad99ec83442bf"
+   "bytes": 5221181,
+   "sha256": "a00d59f5c46bfe9319b52c8da63a64ecf9d3c7a740733abb1feec1fffde5905a"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -3435,6 +3435,21 @@
    "path": "evidence/extracts/city-of-oceanside-p021-0d46e146.pdf",
    "bytes": 135155,
    "sha256": "7b117c0439a6efa2659b6f4365cb7aa61c4b20ced61d019a96773768e32e919e"
+  },
+  {
+   "path": "evidence/extracts/city-of-orinda-p005-9b4ab7d7.pdf",
+   "bytes": 59398,
+   "sha256": "ce9f25fd78cb27378c81ff9c99159bfbff536d10fc7f41b35af1fc1bc1441d41"
+  },
+  {
+   "path": "evidence/extracts/city-of-orinda-p005-b4842086.pdf",
+   "bytes": 59398,
+   "sha256": "781177ed54914609840e9cffbef05f79b91090bfb2e940dd1e015a876ea2fe15"
+  },
+  {
+   "path": "evidence/extracts/city-of-orinda-p005-b4a6bf09.pdf",
+   "bytes": 59398,
+   "sha256": "86096d1e63b1d10cfcabd023dd38ef3b6c4ce0b5172c93b0e3322586ed83cce0"
   },
   {
    "path": "evidence/extracts/city-of-oxnard-p006-cc3766ba.pdf",
@@ -7583,8 +7598,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1556868,
-   "sha256": "23ed5b04b6b286bfea708451f6e275cd75163729f7616a818384a8ac1ba4c254"
+   "bytes": 1559831,
+   "sha256": "09ac38c8e53ef7308d3f42d03c76f3dee5f0e8ecfca246e31b4449f7d7ab00b0"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -10925,6 +10940,21 @@
    "path": "evidence/outlined/city-of-oceanside-p021-0d46e146.pdf",
    "bytes": 135218,
    "sha256": "75ddfdd008e83de45b3a709d8f536919697ac9872ecb38e6d39c8b489750e452"
+  },
+  {
+   "path": "evidence/outlined/city-of-orinda-p005-9b4ab7d7.pdf",
+   "bytes": 59461,
+   "sha256": "a57927c08771044c748431acd7a8cd867f2edde0281b49d8b6b88f18d1b69073"
+  },
+  {
+   "path": "evidence/outlined/city-of-orinda-p005-b4842086.pdf",
+   "bytes": 59462,
+   "sha256": "fbaa159e11e093f83c6b0bea990d2b8428bdb413f42cf6004d2567a0d5b664b4"
+  },
+  {
+   "path": "evidence/outlined/city-of-orinda-p005-b4a6bf09.pdf",
+   "bytes": 59457,
+   "sha256": "fbc25375aa78a6125a5d05f74473173e5c9d7eb67dfd9b14b768f1560654e8ee"
   },
   {
    "path": "evidence/outlined/city-of-oxnard-p006-cc3766ba.pdf",
@@ -15727,6 +15757,11 @@
    "sha256": "0d078700a480bb20cd3f6cc4ae1273f0401c407f8e5cc20dceb657fc525f7e9a"
   },
   {
+   "path": "sources/city-of-orinda-2024-25.pdf",
+   "bytes": 315603,
+   "sha256": "436930e8c7155b3623b895e9ee0f7a866d11eb13086072cc6d5af06d7797e40c"
+  },
+  {
    "path": "sources/city-of-oxnard-2022-23-84bc967a.pdf",
    "bytes": 881488,
    "sha256": "84bc967aa7de08a1caabe5a51149fdc2aef36818fb1a22a00d73aef74ee18f37"
@@ -16478,13 +16513,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 130244,
-   "sha256": "6c2927678df51357dba8989eca4dbe261d0ac6783967521ad3bc5f2be54cc068"
+   "bytes": 130595,
+   "sha256": "21f7f09b4247547f71b8d17e00d34a557d75bf59031fd6a7be37e7cb8ef91efd"
   },
   {
    "path": "sources/index.json",
-   "bytes": 226221,
-   "sha256": "6ab54c38f32f4dcf310481fa276964d2e79eb3109763bec9e7a877a5b888447f"
+   "bytes": 226889,
+   "sha256": "459fb524114da1c81684652c2546f5cc72e38e12ea468559f1e35449cea1f836"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -16559,7 +16594,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "ef9ca8ade480943ac69e61c7bdab18b4e409bdc4dfbffa2f41803248b962f88a"
+   "sha256": "42bc67f9356f1e818a63982a72c6d3e9df14d1c6e9cfcd4e105285e15a70ab3d"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -16574,7 +16609,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "e7a4d3f9f47f0d92713c6e0cc250637c180fd0f9ff90dd5aa492c865d17403b8"
+   "sha256": "29b42c27d02ad0c93565041ef5bb05acd6d22a1260ffdd885bdc1f6d55c03dd1"
   },
   {
    "path": "validation/validate.py",
