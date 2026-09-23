@@ -1400,6 +1400,20 @@
   "published_data_rows_from_this_source": 5
  },
  {
+  "source_id": "city-of-los-banos-2024-25-7f31b2c9",
+  "receiving_entity": "City of Los Banos",
+  "publication_title": "AB 1600 Development Impact Fee Report (filed 11.18.2025)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://losbanos.org/wp-content/uploads/2026/06/AB-1600-DIF-Report-2025-11.18.2025.pdf",
+  "retrieved_utc": "2026-09-22T07:36:06.298123+00:00",
+  "physical_page_count": 21,
+  "source_sha256": "7f31b2c9b9de1a215fbf320d50ba55c0dd8df15960e64c356cfcb2b869aca2b6",
+  "source_bytes": 382774,
+  "source_pdf": "sources/city-of-los-banos-2024-25-7f31b2c9.pdf",
+  "published_data_rows_from_this_source": 8
+ },
+ {
   "source_id": "city-of-madera-2022-23-420f13f7",
   "receiving_entity": "City of Madera",
   "publication_title": "2022/2023 AB 1600 Compliance Report",

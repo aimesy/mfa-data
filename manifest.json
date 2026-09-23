@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T09:33:57.230653+00:00",
- "data_rows": 1535,
- "distinct_printed_figures": 1367,
- "receiving_entities": 146,
- "agency_years": 295,
- "fee_programs": 823,
- "source_reports": 274,
- "evidence_pairs": 1367,
+ "built_utc": "2026-09-23T09:56:49.024960+00:00",
+ "data_rows": 1543,
+ "distinct_printed_figures": 1375,
+ "receiving_entities": 147,
+ "agency_years": 296,
+ "fee_programs": 831,
+ "source_reports": 275,
+ "evidence_pairs": 1375,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3033,
- "total_bytes": 773277537,
+ "file_count": 3050,
+ "total_bytes": 775118748,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 12766,
-   "sha256": "ba4a10f1d78c687e892a2f8a720e67ac8c0fd743758f1b877a3d89d0c92303a1"
+   "bytes": 12817,
+   "sha256": "c1e69b842b76951c40b046fc2e6531a0741a41c9a0e133e3b329afa29a869c7c"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "c9946905015ba73a7dd6ebeeeada3577f4fe1c3f69558b7d6f28853672ba9667"
+   "sha256": "4921a5ae9640f9ff110ba40cf773194a76555bf6658773836a88916c3e5d5a1b"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 608230,
-   "sha256": "b77be06a6698295d8d142ac486c4cad781ef9637db34669cccd7303b56e71985"
+   "bytes": 611373,
+   "sha256": "ae2b5fffa9ee123635da1016bcce624654425ec624b98b742cc9839a042ba8fd"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3219271,
-   "sha256": "4ca7b5f902fcb7213be9fd67a3560b07d2a43b4f853ddd0a5ea30b2bbd1565cc"
+   "bytes": 3236136,
+   "sha256": "2968cb5653d25ff8860e40fcbdc2046d714264ba31d75d45fa07a0f84d5303b8"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4809245,
-   "sha256": "77f0e012d2340e32d17d8b8203cf525654d4f4083e5c52ac454bfe2a8bf2404d"
+   "bytes": 4834406,
+   "sha256": "d87ae29f20d31f1c8b698eb555a6a4b8293256c95bf953ff75944a9dc477b0d3"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -2585,6 +2585,46 @@
    "path": "evidence/extracts/city-of-los-angeles-p016-bc9633c3.pdf",
    "bytes": 100563,
    "sha256": "bc4700195a7d5534fb254985dd431f05026383eaa148b7f8144b63a4231b2bd3"
+  },
+  {
+   "path": "evidence/extracts/city-of-los-banos-p010-7c0f95f7.pdf",
+   "bytes": 93271,
+   "sha256": "7769084b00775d49ecc46f30a06df852277d1a7a1b34f689cc3ad8cb342cd304"
+  },
+  {
+   "path": "evidence/extracts/city-of-los-banos-p011-ae55bc08.pdf",
+   "bytes": 90327,
+   "sha256": "2ada8fbf0e37f542974938cf39dfad209d87d298d8554bd7466afe2ee34b0310"
+  },
+  {
+   "path": "evidence/extracts/city-of-los-banos-p012-759b01ea.pdf",
+   "bytes": 101353,
+   "sha256": "14af2b4a481a0f03c9f4c6610f1cf33307ade61afc97244245e6366939efda39"
+  },
+  {
+   "path": "evidence/extracts/city-of-los-banos-p013-3dcc247b.pdf",
+   "bytes": 86729,
+   "sha256": "a9ee4f8c1fba8b7a5c9ad4ae4e4ab3b2829ea4bd252770990c4c3c5e1daceea1"
+  },
+  {
+   "path": "evidence/extracts/city-of-los-banos-p014-24adfaea.pdf",
+   "bytes": 80265,
+   "sha256": "1019d493d0d079441ab8d6dd8057aebb4c7fc7f3070d7e5fda57e2406f8952dc"
+  },
+  {
+   "path": "evidence/extracts/city-of-los-banos-p015-ea16ae79.pdf",
+   "bytes": 83994,
+   "sha256": "c11179299ad54f3aa2733c3ef01f4009368c8c361ae17cf13c0c72ac9417c07a"
+  },
+  {
+   "path": "evidence/extracts/city-of-los-banos-p016-a81196f7.pdf",
+   "bytes": 79826,
+   "sha256": "2d667f439732e77f5a2c7d037211ca8e7413affc984dbb1c90697b8398ed4163"
+  },
+  {
+   "path": "evidence/extracts/city-of-los-banos-p017-9145ea26.pdf",
+   "bytes": 85997,
+   "sha256": "d6f3d25b616eda43d1ccf6622db3eb60fbf237b1e982413e408de5c157260d06"
   },
   {
    "path": "evidence/extracts/city-of-madera-p004-c73c1033.pdf",
@@ -6933,8 +6973,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1422959,
-   "sha256": "b3946cc5f38f807646d578a7bdce63b087a10c6c728b514760dec804af106aed"
+   "bytes": 1431100,
+   "sha256": "b75b3f9bd8fb022d7aef9262874877ab59087fcc6b4a6108c69267c042d95dc8"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -9425,6 +9465,46 @@
    "path": "evidence/outlined/city-of-los-angeles-p016-bc9633c3.pdf",
    "bytes": 100619,
    "sha256": "083ab6337ba5a9ebee02ab6c22164e3e75c62957cf84aa08445a8bc54b4f163e"
+  },
+  {
+   "path": "evidence/outlined/city-of-los-banos-p010-7c0f95f7.pdf",
+   "bytes": 93325,
+   "sha256": "a248f19526482a1c5e7550f0b7bea544c259831360e9c7c1f03b934cf837a284"
+  },
+  {
+   "path": "evidence/outlined/city-of-los-banos-p011-ae55bc08.pdf",
+   "bytes": 90384,
+   "sha256": "326240cd45774be0da5ca51aa62f4d186fdcf2934750a0031e62670d4ab2b7f5"
+  },
+  {
+   "path": "evidence/outlined/city-of-los-banos-p012-759b01ea.pdf",
+   "bytes": 101415,
+   "sha256": "e60aad345157e9d57b2b2e3123cbd516f830fa36541e2904e6dd082f8976f606"
+  },
+  {
+   "path": "evidence/outlined/city-of-los-banos-p013-3dcc247b.pdf",
+   "bytes": 86783,
+   "sha256": "4b1016c451af82c1747058c5aff956f8a281896e5355457f16b43a472bb585d6"
+  },
+  {
+   "path": "evidence/outlined/city-of-los-banos-p014-24adfaea.pdf",
+   "bytes": 80323,
+   "sha256": "dbb8046f7e76f2458c268d2780fa6194b772e72e55305918048bd0c5b8be9d1c"
+  },
+  {
+   "path": "evidence/outlined/city-of-los-banos-p015-ea16ae79.pdf",
+   "bytes": 84051,
+   "sha256": "d508d1e9cc997166bbacc59f268979dc1ce4df428ff5df03c06d2559fe561304"
+  },
+  {
+   "path": "evidence/outlined/city-of-los-banos-p016-a81196f7.pdf",
+   "bytes": 79883,
+   "sha256": "a32db39d2b18874ab409797ae8f75d33e540f2e9e1c31605365bc2e22ad16443"
+  },
+  {
+   "path": "evidence/outlined/city-of-los-banos-p017-9145ea26.pdf",
+   "bytes": 86057,
+   "sha256": "236440ab6a493710a65f1454d16e47f148f6c45ab0f745dcb50fd42b4439dfd5"
   },
   {
    "path": "evidence/outlined/city-of-madera-p004-c73c1033.pdf",
@@ -14257,6 +14337,11 @@
    "sha256": "33046598a41f26ea635f496f40b0b1544994a710fa8359b1ce363e7928e1c7b7"
   },
   {
+   "path": "sources/city-of-los-banos-2024-25-7f31b2c9.pdf",
+   "bytes": 382774,
+   "sha256": "7f31b2c9b9de1a215fbf320d50ba55c0dd8df15960e64c356cfcb2b869aca2b6"
+  },
+  {
    "path": "sources/city-of-madera-2022-23-420f13f7.pdf",
    "bytes": 592953,
    "sha256": "420f13f77dd590570315495a02cce844a2db357c7584308f0170bbc3b7569ecb"
@@ -15093,13 +15178,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 122526,
-   "sha256": "405bcc46c1a7e4170c63df45ad86ab449ceea5cda684daeb1a73218f5aa3295e"
+   "bytes": 122913,
+   "sha256": "32ccba332dc3aa557b7d8713219e31976693b93b1fbce3641c2b153a4cc8897c"
   },
   {
    "path": "sources/index.json",
-   "bytes": 212783,
-   "sha256": "d60934759721629cb455be1aac8517b8bfebccb3c233866f0333006dd247486d"
+   "bytes": 213489,
+   "sha256": "ca1b7d210911efcb8bbb6a736a864b3e98bc64f823df40639a5544d784163ce8"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -15169,7 +15254,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "e0049633872829b48ebca6e51ac9896d8f9244a7c205df53d3397ef998408431"
+   "sha256": "281d8446080998f6238c10e959b223def5b6256fd4189a6daa108bd813af70d9"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -15184,7 +15269,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "0874e58f4367754247e5b10cc0521ea44c88b773e2090b17f6c5b4a358541034"
+   "sha256": "abe2ec998a075e944d9484c52cfeead9130aad22f9960f196c678eab305ff6fa"
   },
   {
    "path": "validation/validate.py",

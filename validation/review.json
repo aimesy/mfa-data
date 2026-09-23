@@ -3,7 +3,7 @@
   {
    "check": "manifest_files_match",
    "passed": true,
-   "detail": "3033 files checked; 0 mismatched []"
+   "detail": "3050 files checked; 0 mismatched []"
   },
   {
    "check": "no_unlisted_published_files",
@@ -13,7 +13,7 @@
   {
    "check": "data_rows_present",
    "passed": true,
-   "detail": "1535 rows"
+   "detail": "1543 rows"
   },
   {
    "check": "provenance_links_resolve",
@@ -38,7 +38,7 @@
   {
    "check": "primary_rows_equal_group_count",
    "passed": true,
-   "detail": "1367 primary rows, 1367 groups"
+   "detail": "1375 primary rows, 1375 groups"
   },
   {
    "check": "printed_text_matches_numeric_value",
@@ -48,7 +48,7 @@
   {
    "check": "figure_reextracted_from_outlined_page",
    "passed": true,
-   "detail": "1535 rows re-extracted; 25 outlined regions carry ink but no text layer, each corroborated by the source's own printed arithmetic; 0 unmatched []"
+   "detail": "1543 rows re-extracted; 25 outlined regions carry ink but no text layer, each corroborated by the source's own printed arithmetic; 0 unmatched []"
   },
   {
    "check": "empty_table_residential-cash-receipts.csv",
@@ -83,7 +83,7 @@
   {
    "check": "published_arithmetic_claims_balance",
    "passed": true,
-   "detail": "76 equations parsed from 1199 distinct arithmetic_check claims; 0 do not balance []"
+   "detail": "76 equations parsed from 1207 distinct arithmetic_check claims; 0 do not balance []"
   },
   {
    "check": "cohort_accounting_reconciles",
@@ -104,8 +104,8 @@
  "passed": true,
  "n_passed": 20,
  "n_failed": 0,
- "data_rows": 1535,
- "figure_groups": 1367,
- "source_reports": 274,
- "receiving_entities": 146
+ "data_rows": 1543,
+ "figure_groups": 1375,
+ "source_reports": 275,
+ "receiving_entities": 147
 }
