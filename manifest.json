@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T16:45:39.014450+00:00",
- "data_rows": 1668,
- "distinct_printed_figures": 1500,
+ "built_utc": "2026-09-23T17:15:09.307386+00:00",
+ "data_rows": 1683,
+ "distinct_printed_figures": 1515,
  "receiving_entities": 159,
- "agency_years": 314,
- "fee_programs": 929,
+ "agency_years": 316,
+ "fee_programs": 937,
  "source_reports": 293,
- "evidence_pairs": 1500,
+ "evidence_pairs": 1515,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3318,
- "total_bytes": 825342977,
+ "file_count": 3348,
+ "total_bytes": 826943874,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13473,
-   "sha256": "f214a351e9c05ed43f857c5168049e3b2c82f8ff0564780e366912ad58407689"
+   "bytes": 13496,
+   "sha256": "3fdf405f833e47fc088e51d0407b24edad4a8a922247c2468626ea87a9299d33"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "6c956551320b71966a03c275849b8823ff4695aee894fc7f625f11722b3483d8"
+   "sha256": "12b2c13c6ae81344d18210eb385536236a27013cb37a7506a40682b213084ad9"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 660567,
-   "sha256": "9146af2358a90ffeb48af3af898d2c2a2f2a0e4ab8804d5515d1fad8123e2ffb"
+   "bytes": 666306,
+   "sha256": "df2b5ad5a71b38a41207f896fc34d2ed0a71ddd51e447bb4100a831525ca021b"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3493364,
-   "sha256": "a8c02e4a65c84e392a8804f6dad05c7487930ee69c35dca57f2ab8928924e031"
+   "bytes": 3528807,
+   "sha256": "79af4576f5abd033124e1102c80820815ae74a5aeda223f264a97051fb857dfd"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5221181,
-   "sha256": "a00d59f5c46bfe9319b52c8da63a64ecf9d3c7a740733abb1feec1fffde5905a"
+   "bytes": 5272105,
+   "sha256": "9e05ed9ba9f91f78b21aff2cd8a992178641993540d80d476932e4cc8cd3e457"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -7187,6 +7187,81 @@
    "sha256": "4bf0a4cc7222d5a9869ca7dc0aea319b37f2cfaabd92b950a1e58c0ed22a07da"
   },
   {
+   "path": "evidence/extracts/county-of-sonoma-p018-a038b0d5.pdf",
+   "bytes": 42447,
+   "sha256": "0f462b8685cda6221684ed4455d9ecfd757e14aba4edde7e55936db8f6ab892b"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p019-7a0370b3.pdf",
+   "bytes": 43574,
+   "sha256": "e760ff6d98798e2199489615f8c6d83a2b53ce281a49e67b5590d2e026e452cf"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p020-78efa61a.pdf",
+   "bytes": 56616,
+   "sha256": "4a59d0e83df097a09699e7ed8299754f477f9ee17deac50fb4ad43bff2bfa933"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p020-f5d379e6.pdf",
+   "bytes": 43526,
+   "sha256": "6cc3c33e92d02f193eb8b71f949688dbc25913e951c14633df5445174aa95bb5"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p021-23c489f9.pdf",
+   "bytes": 58306,
+   "sha256": "b3719b0357a866a443b9f49b6f9af51c380589d2f87664cf6c3f0773a8065d2d"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p021-491cea77.pdf",
+   "bytes": 43411,
+   "sha256": "f7c3cc1b5b5ea9c7befb6b2d1cf82db7337160a418ebe04a50d278f9f80f44d7"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p021-bdef77c0.pdf",
+   "bytes": 56829,
+   "sha256": "917dfcf42e07813464b38a70761ea54a3a526dcd1c1f2bcfaaa5fdb33204827f"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p022-5d58addf.pdf",
+   "bytes": 42592,
+   "sha256": "c5e6243d896a9d62e6cc3e3a3af6c4e9bffb4c779ee5d4da23f022f882cec145"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p022-eec41c47.pdf",
+   "bytes": 54010,
+   "sha256": "2efb4eda72bcc086794361c60b199fbd40bf7d1f312d08bca2e8fb447f29b3ab"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p023-05019ed0.pdf",
+   "bytes": 57357,
+   "sha256": "6d6d0e879e5b0eab4ad2674251b979cedc5aac17a70aec870b1d781d20f2dd86"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p023-57df727f.pdf",
+   "bytes": 44175,
+   "sha256": "85bdda79c6f46709b03c1fb5b74b894b81a3a6a994e297892d70a937a51c14b4"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p023-cb49c478.pdf",
+   "bytes": 58781,
+   "sha256": "74ac8fb61d86ded4bcf41b50a34f44e41acbada9646b7e1fdb853302e8397b0d"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p024-0ce64993.pdf",
+   "bytes": 56054,
+   "sha256": "8debec72cc1ecd72a4a90901b97ef739308d9982da427c9fd3c088aaed671e23"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p024-5ba1931b.pdf",
+   "bytes": 56413,
+   "sha256": "db50552c4bf6a9d534d54f10ab07ffa8d4b4934774aa92cce328a064d589500c"
+  },
+  {
+   "path": "evidence/extracts/county-of-sonoma-p024-eec9786d.pdf",
+   "bytes": 38445,
+   "sha256": "74897610820a1453fcd801d4fe3bdd2aefb95224e3e0b5bda59b88fae140dbe9"
+  },
+  {
    "path": "evidence/extracts/county-of-sonoma-p031-881e8bbe.pdf",
    "bytes": 89508,
    "sha256": "cf65a0466deaf14c118fecf3e965acc146499b21770ebf5b1029e60b9b6053e4"
@@ -7598,8 +7673,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1559831,
-   "sha256": "09ac38c8e53ef7308d3f42d03c76f3dee5f0e8ecfca246e31b4449f7d7ab00b0"
+   "bytes": 1575448,
+   "sha256": "c7ab11f0e5c6a7e904d5761e0159900390a4f8d468e7fb919c08cc71206286b1"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -14692,6 +14767,81 @@
    "sha256": "63c2f08c6047f8eb1762be1228aa0248f9fdfda725f53d24a3f86d884d69cead"
   },
   {
+   "path": "evidence/outlined/county-of-sonoma-p018-a038b0d5.pdf",
+   "bytes": 42506,
+   "sha256": "1fa0805d35a6a0614b61b9b6345e523125f988584077d7bc9f341e3c1db7a638"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p019-7a0370b3.pdf",
+   "bytes": 43636,
+   "sha256": "788c9084f8c228ab207703fa0f2708fa3387da3dfc4061247203f3bde2b10d98"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p020-78efa61a.pdf",
+   "bytes": 55073,
+   "sha256": "2d14bfa1a5b5316692de0ba1de4f077298e97e856b3a9d6719603cf2bc0fa7d8"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p020-f5d379e6.pdf",
+   "bytes": 43587,
+   "sha256": "1f4e6f2e0bd5708326b06cd90f61aaace2c68ea1f2ee733db19ca0d0d0f44ef8"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p021-23c489f9.pdf",
+   "bytes": 56765,
+   "sha256": "0368561a8f1590cfeebdecf263bbce78a38c1030976712d7e9b06d1e4c469972"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p021-491cea77.pdf",
+   "bytes": 43474,
+   "sha256": "5f7739fa4d2e07cf9c738ca07fff9dd257939842e8e0482934be9f97413e45df"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p021-bdef77c0.pdf",
+   "bytes": 55286,
+   "sha256": "6c976c5be5d99cd530444981142673845dc290a9a84e8833d9362e5e82cf3dd9"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p022-5d58addf.pdf",
+   "bytes": 42653,
+   "sha256": "06a569381a67cb8c415379dfed37d5f22d311a9b851a51069805f891a1cf9964"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p022-eec41c47.pdf",
+   "bytes": 52466,
+   "sha256": "a74e3d10922cacc807dea4ef3f14dfcdfb3157bd5f3a1c5db9372e34b34d24d5"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p023-05019ed0.pdf",
+   "bytes": 55813,
+   "sha256": "c5b3b6b179d176cc31b334b5d587014dd5ba7308b91b0e88d397b6755092a068"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p023-57df727f.pdf",
+   "bytes": 44235,
+   "sha256": "a4a4bef012a895d1d30b2318c112795827e1b6e1c0427d1017f908546d4bf480"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p023-cb49c478.pdf",
+   "bytes": 57237,
+   "sha256": "57b20fc533e83fe29ea1e5f806f82f5f1b296a20c9e75555c8b3a265f4b4540b"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p024-0ce64993.pdf",
+   "bytes": 54509,
+   "sha256": "64101aa328f13b49e80aa7360167e4e74e912c42b93fccbb3e3d91d2aea2b186"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p024-5ba1931b.pdf",
+   "bytes": 54866,
+   "sha256": "d83d5a8421f4e461dc5238c2ac277992ad9e2d2f22299b0a8f54509d3dd2852c"
+  },
+  {
+   "path": "evidence/outlined/county-of-sonoma-p024-eec9786d.pdf",
+   "bytes": 38503,
+   "sha256": "b65ffb99be7a8507d1ee55d43c2c0de262f6ca4820fd5cc8ef32e557330c8297"
+  },
+  {
    "path": "evidence/outlined/county-of-sonoma-p031-881e8bbe.pdf",
    "bytes": 87963,
    "sha256": "cb0ef6feb8bb4626f9aec2f5f7148c306e7e1cee9714b47d46bd8bce38f1a9d5"
@@ -16467,12 +16617,12 @@
    "sha256": "4b3bad7bb41ff3a4c708faf2e05b41509ae83adcd671ae590d0333aa52f4635d"
   },
   {
-   "path": "sources/county-of-sonoma-2022-23.pdf",
+   "path": "sources/county-of-sonoma-2022-23-6be6f1b8.pdf",
    "bytes": 6235000,
    "sha256": "6be6f1b87ef52ce79468f2f63a08f0168b6b518a6e7e076d3489a0df4d2a9061"
   },
   {
-   "path": "sources/county-of-sonoma-2023-24.pdf",
+   "path": "sources/county-of-sonoma-2023-24-15fc4663.pdf",
    "bytes": 4263257,
    "sha256": "15fc4663b6d29c6724fc89c7c6a01e4980014137e51df3fe30513d03fca65483"
   },
@@ -16513,13 +16663,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 130595,
-   "sha256": "21f7f09b4247547f71b8d17e00d34a557d75bf59031fd6a7be37e7cb8ef91efd"
+   "bytes": 130597,
+   "sha256": "86af31cf3c80e44e4c183ef8ca19116e52937f589a0e37dd46fc0ac8cc9ad4c8"
   },
   {
    "path": "sources/index.json",
-   "bytes": 226889,
-   "sha256": "459fb524114da1c81684652c2546f5cc72e38e12ea468559f1e35449cea1f836"
+   "bytes": 226893,
+   "sha256": "95791ff4c25fc23a2c85db82c400b5b5c65e7fd0af3042c5a209c9cffdb16fc8"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -16594,7 +16744,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "42bc67f9356f1e818a63982a72c6d3e9df14d1c6e9cfcd4e105285e15a70ab3d"
+   "sha256": "334638deeec8b62257c5a7c40e9d4a20f7ec66ae480c64f272a7e8448e59aef9"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -16609,7 +16759,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "29b42c27d02ad0c93565041ef5bb05acd6d22a1260ffdd885bdc1f6d55c03dd1"
+   "sha256": "e543682f37fa458c2fa166bc527e618e193b0deb8ef68fb4d9ed7e7e7cd31e26"
   },
   {
    "path": "validation/validate.py",

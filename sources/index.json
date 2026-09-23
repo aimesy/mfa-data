@@ -3752,6 +3752,34 @@
   "published_data_rows_from_this_source": 15
  },
  {
+  "source_id": "county-of-sonoma-2022-23-6be6f1b8",
+  "receiving_entity": "County of Sonoma",
+  "publication_title": "AB 1600 Development Fees Annual Report, County of Sonoma Board of Supervisors, FY 2022-2023",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://sonomacounty.gov/Main%20County%20Site/Development%20Services/TPW/Documents/Roads/Documents/AB%201600%20Development%20Fees%20Annual%20Report%202022-2023.pdf",
+  "retrieved_utc": "2026-09-22T06:26:13.079865+00:00",
+  "physical_page_count": 48,
+  "source_sha256": "6be6f1b87ef52ce79468f2f63a08f0168b6b518a6e7e076d3489a0df4d2a9061",
+  "source_bytes": 6235000,
+  "source_pdf": "sources/county-of-sonoma-2022-23-6be6f1b8.pdf",
+  "published_data_rows_from_this_source": 8
+ },
+ {
+  "source_id": "county-of-sonoma-2023-24-15fc4663",
+  "receiving_entity": "County of Sonoma",
+  "publication_title": "Sonoma County Regional Parks AB1600 Report FY 23-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://parks.sonomacounty.ca.gov/Microsites/Regional%20Parks/Documents/Learn/Funding/AB1600-Report-FY-23-24.pdf",
+  "retrieved_utc": "2026-09-22T06:26:16.182475+00:00",
+  "physical_page_count": 55,
+  "source_sha256": "15fc4663b6d29c6724fc89c7c6a01e4980014137e51df3fe30513d03fca65483",
+  "source_bytes": 4263257,
+  "source_pdf": "sources/county-of-sonoma-2023-24-15fc4663.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
   "source_id": "county-of-sonoma-2024-25",
   "receiving_entity": "County of Sonoma",
   "publication_title": "County of Sonoma AB 1600 Development Fees Annual Report, fiscal year 2024-25",
@@ -3763,7 +3791,7 @@
   "source_sha256": "43ed90b535f26901f9dd0126d3a6a7c4629ab94bdb44a54327ba193ee5685d9b",
   "source_bytes": 11562820,
   "source_pdf": "sources/county-of-sonoma-2024-25.pdf",
-  "published_data_rows_from_this_source": 3
+  "published_data_rows_from_this_source": 8
  },
  {
   "source_id": "county-of-stanislaus-2024-25",
@@ -4114,34 +4142,6 @@
   "source_bytes": 686883,
   "source_pdf": "sources/saddleback-valley-unified-2020-21.pdf",
   "published_data_rows_from_this_source": 2
- },
- {
-  "source_id": "county-of-sonoma-2022-23",
-  "receiving_entity": "Sonoma County Fire District",
-  "publication_title": "County of Sonoma AB 1600 Development Fees Annual Report, fiscal year 2022-23",
-  "publication_type": "annual_fee_report_66006",
-  "covers_fiscal_year": "2022-23",
-  "official_source_url": "https://sonomacounty.gov/Main%20County%20Site/Development%20Services/TPW/Documents/Roads/Documents/AB%201600%20Development%20Fees%20Annual%20Report%202022-2023.pdf",
-  "retrieved_utc": "2026-09-22T06:26:13.079865+00:00",
-  "physical_page_count": 48,
-  "source_sha256": "6be6f1b87ef52ce79468f2f63a08f0168b6b518a6e7e076d3489a0df4d2a9061",
-  "source_bytes": 6235000,
-  "source_pdf": "sources/county-of-sonoma-2022-23.pdf",
-  "published_data_rows_from_this_source": 1
- },
- {
-  "source_id": "county-of-sonoma-2023-24",
-  "receiving_entity": "Sonoma County Fire District",
-  "publication_title": "County of Sonoma AB 1600 Development Fees Annual Report, fiscal year 2023-24",
-  "publication_type": "annual_fee_report_66006",
-  "covers_fiscal_year": "2023-24",
-  "official_source_url": "https://parks.sonomacounty.ca.gov/Microsites/Regional%20Parks/Documents/Learn/Funding/AB1600-Report-FY-23-24.pdf",
-  "retrieved_utc": "2026-09-22T06:26:16.182475+00:00",
-  "physical_page_count": 55,
-  "source_sha256": "15fc4663b6d29c6724fc89c7c6a01e4980014137e51df3fe30513d03fca65483",
-  "source_bytes": 4263257,
-  "source_pdf": "sources/county-of-sonoma-2023-24.pdf",
-  "published_data_rows_from_this_source": 1
  },
  {
   "source_id": "county-of-sacramento-2022-23-vineyard-southgate-park-improvement",
