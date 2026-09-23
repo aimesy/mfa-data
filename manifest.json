@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T04:52:36.019612+00:00",
- "data_rows": 1351,
- "distinct_printed_figures": 1183,
- "receiving_entities": 132,
- "agency_years": 266,
- "fee_programs": 707,
- "source_reports": 245,
- "evidence_pairs": 1183,
+ "built_utc": "2026-09-23T05:27:15.689904+00:00",
+ "data_rows": 1368,
+ "distinct_printed_figures": 1200,
+ "receiving_entities": 133,
+ "agency_years": 269,
+ "fee_programs": 719,
+ "source_reports": 248,
+ "evidence_pairs": 1200,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2636,
- "total_bytes": 686372434,
+ "file_count": 2673,
+ "total_bytes": 689749843,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11861,
-   "sha256": "cbc92f86be6e727b4a4a11c1ca19d04bd66a7da531f8c9c0acf11eb868443480"
+   "bytes": 11936,
+   "sha256": "9c190369cecbc7f1de753e6b1294df560d8a223d3ffb7fc8d9971362cd2b09a5"
   },
   {
    "path": "data/capital-spending.csv",
@@ -43,13 +43,13 @@
   },
   {
    "path": "data/cohort-accounting.json",
-   "bytes": 1266,
-   "sha256": "87ba336efe9f496a92d3194581bbb479bb9dbab0001c9c98b0cf95376fa6b36e"
+   "bytes": 1267,
+   "sha256": "1f69cba8bced18d26df3c2d24e076e8c7840d6a634276bffa1d209386f367c0c"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 538874,
-   "sha256": "ca0c031e6dcda459c21d4d81bd15d837a55cd261a5bda41baaa7ca89c03a503a"
+   "bytes": 544636,
+   "sha256": "b1967ef10c4300820fe50d4fca1e888243cc29ea6ed5cf6b298dd8513b38c13d"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2868436,
-   "sha256": "b707f135011f6bb107775aa16f810edeeaf4e8054f294201af5c1b831c839e30"
+   "bytes": 2898372,
+   "sha256": "30705ec5625063df4265cbd2867812b7a0e11c2896219cf79226f23f725acf3a"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4267618,
-   "sha256": "ec3d549dc5bea348850932945dcfc4fca1d15c78834e43dc4850dfa1c3900123"
+   "bytes": 4315229,
+   "sha256": "b2b0bd9802de8dc184a77c4e59055a6a8661c4ed477e53e4810988f8ff0fa7d0"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -3977,6 +3977,91 @@
    "sha256": "68c0d081262055865b58564565d5eaa7908409522d6714532faece5a2e60be88"
   },
   {
+   "path": "evidence/extracts/city-of-sierra-madre-p003-7ce7b16e.pdf",
+   "bytes": 45397,
+   "sha256": "bdc6e6a6a8de63928034f10695641bace69d9ee7544b2b14c0144866bf3136a5"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p004-dfbc4e37.pdf",
+   "bytes": 44647,
+   "sha256": "914063c761e7b995f2fc1e5527f3bd3d3ab72b6e38f48e33f4fd5d439de22a35"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p005-14ec64b9.pdf",
+   "bytes": 45247,
+   "sha256": "09cd052d2cdf5d90dd06cbf1b7e9026dbb3b10e388ad4b72b5b9acff0b053d40"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p005-18f1df06.pdf",
+   "bytes": 44741,
+   "sha256": "6fbcbf949a5e47aadd1e3d60d91b72fc89b19cedb5c5df9ad4ce5def31628423"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p005-7b1552e1.pdf",
+   "bytes": 76002,
+   "sha256": "21e42790ac6731de5d807e819f5aecbaaf0ee545c132e5d9ca830ae6293f5252"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p006-e72d1fb5.pdf",
+   "bytes": 71353,
+   "sha256": "ec3bfd01ce23b4d77606371dce339039a859b1aed65b90a2c5948d0d4c0d5e77"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p006-fc4b9139.pdf",
+   "bytes": 44469,
+   "sha256": "7db179ddd8fd9d8649e1d60c34450e9cddd88ed2bbedca273fb622fc4696d520"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p007-66c8aa17.pdf",
+   "bytes": 44601,
+   "sha256": "9d8d1c7b0256ac62fd4a7ba119ee226d5108a655e47307597a9b3a9c05682697"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p007-7362068d.pdf",
+   "bytes": 71685,
+   "sha256": "27dc257a459037c89cce8a4d5c22e825b167ccaa00e728bec530d14406feffa7"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p007-9217764b.pdf",
+   "bytes": 45085,
+   "sha256": "b50fd3773e0ce701cf742c547de11c4e9f062bb9b1ef8aa65c280c70fcb6bb55"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p008-711ebea1.pdf",
+   "bytes": 44939,
+   "sha256": "a2aee25775b1c1d153166a41b2bb5e00c0c7078181935ddb7033d256be4c88ec"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p008-c2e04fed.pdf",
+   "bytes": 86839,
+   "sha256": "e64236307630b49ad3c0b1744af889177a35559ef1ae760eb6bcb24b739e736f"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p009-28d16227.pdf",
+   "bytes": 44900,
+   "sha256": "df0772a14f49e045c6a0457965055951810dc28f8caaa2fb9e547dda08667bb2"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p009-98e5752a.pdf",
+   "bytes": 71174,
+   "sha256": "88f8355dd27cb261f27b9f1d89d00140a796430f90c307722d107508e0a8d204"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p010-b395f1be.pdf",
+   "bytes": 45071,
+   "sha256": "229ca8ab80885e64f42df08ed8aa2783d1d4a787bb1383bd7bcdbcbbb4cb335d"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p010-ca59f381.pdf",
+   "bytes": 70761,
+   "sha256": "f896d34f0a0d939bf5a6a31af4cee4330a2e55f8693558e8e20f21769419f7e4"
+  },
+  {
+   "path": "evidence/extracts/city-of-sierra-madre-p011-8e7c6bfa.pdf",
+   "bytes": 44802,
+   "sha256": "166283b8b783a614d0152495dee3206d528ddf4bbc20f0f366e01b48046f0c9a"
+  },
+  {
    "path": "evidence/extracts/city-of-signal-hill-p012-09ce6c6a.pdf",
    "bytes": 68134,
    "sha256": "20f54d70895cb95d196703e588fccee2afdce72b618cc3173063b793e0010953"
@@ -6013,8 +6098,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1236098,
-   "sha256": "0db3bcf6e980e259a0ef54226e6880b70ed5b44a122e22e5a5129dce32786975"
+   "bytes": 1253119,
+   "sha256": "927edc4a51de8920787eaaadf02f62618d34ed48c3ab40caadd147ab902295cb"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -9897,6 +9982,91 @@
    "sha256": "c48104d168b1db21e25032f75bd59f9d56a1ded857e6472a8d31c6d9af579d81"
   },
   {
+   "path": "evidence/outlined/city-of-sierra-madre-p003-7ce7b16e.pdf",
+   "bytes": 45451,
+   "sha256": "230406720e80d97c01c34113012aac46d9c12e90f8c1eaa396b6e56fd0c6258b"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p004-dfbc4e37.pdf",
+   "bytes": 44706,
+   "sha256": "7a60c43917b6f1f921215d3a4f4c8f64e181f12e844e483ed4edfb7cb2704551"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p005-14ec64b9.pdf",
+   "bytes": 45303,
+   "sha256": "6dee4df052c481eab28c9c53349bab99aaeecb2d8edd281f6b025f5d7811677d"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p005-18f1df06.pdf",
+   "bytes": 44797,
+   "sha256": "eaff4f333c99ca003f051488a5056217e9f3233252b6da817e44275a27864d48"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p005-7b1552e1.pdf",
+   "bytes": 76067,
+   "sha256": "177d96565b22700b613b6e411391e091fcda58dca052e36ca67683990f274014"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p006-e72d1fb5.pdf",
+   "bytes": 71416,
+   "sha256": "b044077c0cf71b1fb5552ee2f0a853bec11b8252c60200d19df117a1b479daec"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p006-fc4b9139.pdf",
+   "bytes": 44528,
+   "sha256": "2eac6c2ec6a8ff2f6a925e764b3f5b25d8208953e59d3d38752b1609e7978b47"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p007-66c8aa17.pdf",
+   "bytes": 44657,
+   "sha256": "f2699aedd6ac4ecb8745ee46d594c88e42ab51bb3e190c79c316d207a562850d"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p007-7362068d.pdf",
+   "bytes": 71749,
+   "sha256": "0ac3c19262b761a814f481233850cc796d244ea02467d0375e8a3668c18b8af5"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p007-9217764b.pdf",
+   "bytes": 45144,
+   "sha256": "fbacbd5000d537d3d28b37aa9b3d65fa670e7a1b17d7c51b35b296de7306dee5"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p008-711ebea1.pdf",
+   "bytes": 45002,
+   "sha256": "f0a8013b686275ddb6db5b5c6621b3af9a080b87f86a733b8b02634923df5e7c"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p008-c2e04fed.pdf",
+   "bytes": 86904,
+   "sha256": "0514f3d9b4c42a4b0db7e0ecbf65f9ac19cb8bea38538e5f0dbf39b41841a83f"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p009-28d16227.pdf",
+   "bytes": 44957,
+   "sha256": "01a1a411a54ee0bce09b5e5c8d5ab79fa6c5d0f54d4032e6853df6a8dfa76ddf"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p009-98e5752a.pdf",
+   "bytes": 71240,
+   "sha256": "d58bc959b8df87d91eda2f2532a1bb743a7ab5951905904670461ee774b2443b"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p010-b395f1be.pdf",
+   "bytes": 45128,
+   "sha256": "8fa024707fb26977a7bebb5420479e8f8f780318bdd7496b7557280c1ae0d75d"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p010-ca59f381.pdf",
+   "bytes": 70822,
+   "sha256": "08dcda349d182aaa4f49e71088d987a7c92b1027e0d1217acf9b5b653ab3aa4c"
+  },
+  {
+   "path": "evidence/outlined/city-of-sierra-madre-p011-8e7c6bfa.pdf",
+   "bytes": 44860,
+   "sha256": "f2d8a9678bc6d1dd34a551ae8b9b9581f6f3b38b8ff9993fbf64729a9e3c61e1"
+  },
+  {
    "path": "evidence/outlined/city-of-signal-hill-p012-09ce6c6a.pdf",
    "bytes": 68196,
    "sha256": "00d814aaf83d2fd044a7b43e3a35eda75a64363ea51c00a9c378daede1747521"
@@ -12687,6 +12857,21 @@
    "sha256": "da127348942695af779901f23f16cd80a6a04e8bcf0650b9d58ec088f7fa79fc"
   },
   {
+   "path": "sources/city-of-sierra-madre-2022-23-21a3ba63.pdf",
+   "bytes": 649841,
+   "sha256": "21a3ba638944264fd825dd14e1b4d2e9adb33587793d2eae3e86f38a751a6948"
+  },
+  {
+   "path": "sources/city-of-sierra-madre-2023-24-ed37fcee.pdf",
+   "bytes": 545322,
+   "sha256": "ed37fcee20dc5b1ed90a6b7baac46e41ed7efd2cdad2086fb8655e00ed1c1fa5"
+  },
+  {
+   "path": "sources/city-of-sierra-madre-2024-25-1597959d.pdf",
+   "bytes": 193982,
+   "sha256": "1597959d82e613c60252ccdae9d450694da23fb9c062eaff275d7f73975ce3eb"
+  },
+  {
    "path": "sources/city-of-signal-hill-2023-24.pdf",
    "bytes": 1068026,
    "sha256": "cbc8fbf9103207ac4c8703d7cc09335da02f8c6610f6fb73736fe96a506484cd"
@@ -13118,13 +13303,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 110425,
-   "sha256": "deb1b51b72bcd9ae06d54b35e38b5422fa3e0e4c1ba0688f49f0d2aeabe9594d"
+   "bytes": 111653,
+   "sha256": "5b8f22506d4b43d736ace5af496b35cd1e1ec4728c1124d5ec0353861b590c91"
   },
   {
    "path": "sources/index.json",
-   "bytes": 191473,
-   "sha256": "256b1f5815fb961ee5b11ad7b1b24c61a9d1eab12b8c0cf6d9ebae8dd5e55e9b"
+   "bytes": 193658,
+   "sha256": "aac187515c114beba2b24afdf177513abc98ef5480e9e123f8d9212557f83972"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -13183,8 +13368,8 @@
   },
   {
    "path": "validation/independent-review.json",
-   "bytes": 3058,
-   "sha256": "1fa1f047bf0bd766905ee4e2cd126336ecc0f0f701fab1595a35fbeff8ff159e"
+   "bytes": 3059,
+   "sha256": "c86ec0211697ae03badc0a23a37d09c4290d7fd84ad22695738cbe8273c2dc5d"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -13199,7 +13384,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "ead5c9cc1183624399b0acaa812a26a3dbee09ca9a5d447b98aa5a286a162e37"
+   "sha256": "70fee440cc5c5a2289bc5c5c4bac56a557b01598ea46cc54a94b37787084e11a"
   },
   {
    "path": "validation/validate.py",
