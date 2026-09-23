@@ -1246,6 +1246,34 @@
   "published_data_rows_from_this_source": 3
  },
  {
+  "source_id": "city-of-goleta-2023-24-03c056b2",
+  "receiving_entity": "City of Goleta",
+  "publication_title": "Annual Financial Report of the City of Goleta's Development Impact Fees for Fiscal Year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://goleta.legistar1.com/goleta/attachments/b47541fc-8499-44a9-b042-4c1174d5429c.pdf",
+  "retrieved_utc": "2026-09-22T08:27:11.530123+00:00",
+  "physical_page_count": 24,
+  "source_sha256": "03c056b26694a04e0bac13631e51b6b5fa1ba772c6e5cdaf1d0316f1316ff02d",
+  "source_bytes": 2602995,
+  "source_pdf": "sources/city-of-goleta-2023-24-03c056b2.pdf",
+  "published_data_rows_from_this_source": 7
+ },
+ {
+  "source_id": "city-of-goleta-2024-25-ce3d09d0",
+  "receiving_entity": "City of Goleta",
+  "publication_title": "Five-Year Review and Annual Financial Report of the City of Goleta's Development Impact Fees for Fiscal Year 2024/25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://goleta.legistar1.com/goleta/attachments/4ec2c800-0e4c-4c5c-81dd-0c03c1fc8fa4.pdf",
+  "retrieved_utc": "2026-09-22T08:27:15.846698+00:00",
+  "physical_page_count": 68,
+  "source_sha256": "ce3d09d00027d719c7447e14075bce15f90ed6b66681c232009c47fe65398a3e",
+  "source_bytes": 3148121,
+  "source_pdf": "sources/city-of-goleta-2024-25-ce3d09d0.pdf",
+  "published_data_rows_from_this_source": 6
+ },
+ {
   "source_id": "nevada-county-rtmf-2022-23",
   "receiving_entity": "City of Grass Valley",
   "publication_title": "Western Nevada County Regional Transportation Mitigation Fee Program Annual Report for FY 2022/23, Nevada County Transportation Commission",

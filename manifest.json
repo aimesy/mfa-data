@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T12:58:07.599749+00:00",
- "data_rows": 1594,
- "distinct_printed_figures": 1426,
- "receiving_entities": 152,
- "agency_years": 303,
- "fee_programs": 875,
- "source_reports": 282,
- "evidence_pairs": 1426,
+ "built_utc": "2026-09-23T13:42:42.642740+00:00",
+ "data_rows": 1607,
+ "distinct_printed_figures": 1439,
+ "receiving_entities": 153,
+ "agency_years": 305,
+ "fee_programs": 882,
+ "source_reports": 284,
+ "evidence_pairs": 1439,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3159,
- "total_bytes": 792057597,
+ "file_count": 3187,
+ "total_bytes": 800179919,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13088,
-   "sha256": "cfe2584aea2fad5ddcc884f58db8cbfedb0980dbccc8928c25938632444649d1"
+   "bytes": 13148,
+   "sha256": "933ca31a811a1eb6adf81373fb1dfac5667779c92c9c19c4b87a339a9fe48918"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "6d3444170e34c93db2e1d2e13e842325a2cb12488a3ad5efeee385fae561863e"
+   "sha256": "b554a45828b3c351e80d6a3ab6191b2075182e4032100df05ae8149c3cca5d24"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 631886,
-   "sha256": "135daf897066180a7967d6753e5dda1771f61ff5ac85090fb1dcc330ffe7955d"
+   "bytes": 636881,
+   "sha256": "aa20d07743e0b44897862743e0d5cef2bb1e9ada49293b2d88f4548c019a3799"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3341866,
-   "sha256": "cb278c29a568f5dea69a81d62db6722f5b2ac4e463d8770d38f4b2a74e65372e"
+   "bytes": 3370686,
+   "sha256": "80df33a2ef3051bfec9727fb6035734ca0c670e2d33eb9d382c17f2149aa1de1"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4993009,
-   "sha256": "b4d8339afc041a9dc7d69e4099ad31910ca669991d01983d86f7d0c8d45ccb2d"
+   "bytes": 5035288,
+   "sha256": "86bf4178c8cc931fa17e0f337bdd49a871cd1d33c75efed8fdf05732a0c1fd49"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -2290,6 +2290,71 @@
    "path": "evidence/extracts/city-of-glendale-p006-ef71e233.pdf",
    "bytes": 72407,
    "sha256": "27165cf19a7db27b276a7df33b46187f0045db1993bff31bfd1160f1b5e90c55"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p012-f09868a5.pdf",
+   "bytes": 99428,
+   "sha256": "e92db0027c619306d05ea734ad8181cb25f6d91467c0e2b9f4b644cc48a818e6"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p013-3922b35f.pdf",
+   "bytes": 90843,
+   "sha256": "1156df8c4d850dc2e7ac3df703664a0cbb828e39a3e02827bdf107805c1f1d94"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p014-5c48de4d.pdf",
+   "bytes": 94254,
+   "sha256": "b521f52636687246e3c65b49e6dc0d66d1673b0d4808e941600c38699a65b317"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p015-e765e3b9.pdf",
+   "bytes": 93159,
+   "sha256": "364aa074d2c16ab686ac65baba309e8e2fbefcf8915373fef5680cb4c581315e"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p016-1c037e16.pdf",
+   "bytes": 78991,
+   "sha256": "ca4d9098ea68aa421aba4c6c94b12754713371e1a557b15e25db4c5fc516c203"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p017-0b2db5e1.pdf",
+   "bytes": 75584,
+   "sha256": "48ab74576a27d02d5abd6572f3554ef0f6e28ac75acdd5ed1caaa35353113aee"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p017-2347e234.pdf",
+   "bytes": 93203,
+   "sha256": "48b78539bb57af8a408a25c28350ea87767ddcc744827908b383a598c0123900"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p018-23de1f22.pdf",
+   "bytes": 96988,
+   "sha256": "97604fc5f4a61a8832ccefea483794805af7ecf685ea945915107424d7d55df4"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p019-627816a8.pdf",
+   "bytes": 95784,
+   "sha256": "fc03189e38733fb901147ef87ebcfe9843bfe49f62debd11e6b5e00b0d0f711c"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p019-82b07730.pdf",
+   "bytes": 75461,
+   "sha256": "1877d03247fb4be42f7ba1af3981c972ca3b010df4bd70461bfed8e1d8af6a9a"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p020-989af65a.pdf",
+   "bytes": 77965,
+   "sha256": "d7081112cf00f906339ef885298bf96706d6e3b8e6d71f4befed10a99b2a229b"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p021-651e3fb2.pdf",
+   "bytes": 89570,
+   "sha256": "d406c0800f599a6da5d986049b23c8a4e590f23940e9979eb13bee921f29177b"
+  },
+  {
+   "path": "evidence/extracts/city-of-goleta-p021-d5d485bd.pdf",
+   "bytes": 77960,
+   "sha256": "797cbb826590fcd062f416c7015b29c5ea572ebf73c0d5e48598c494e5fa4bab"
   },
   {
    "path": "evidence/extracts/city-of-grass-valley-p006-f425cdf3.pdf",
@@ -7228,8 +7293,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1483667,
-   "sha256": "d4812729d99a2f4b39817abe6883dc7435875d8d9dcddca4cc5a9e849c98da50"
+   "bytes": 1497214,
+   "sha256": "a0c63468c38b40b5df2cb8bc65d431da659f96e9c6fbbd40ba70ab82378285e8"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -9425,6 +9490,71 @@
    "path": "evidence/outlined/city-of-glendale-p006-ef71e233.pdf",
    "bytes": 72465,
    "sha256": "6a3bc1294d82a4bac8410a49926f1daef719c13e77b93273d45464fb5eb5d14c"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p012-f09868a5.pdf",
+   "bytes": 99485,
+   "sha256": "615b98d7b7255d58ecd49ca33b220e1ac0977defa1f04d942bb26dad5ab79e5b"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p013-3922b35f.pdf",
+   "bytes": 90904,
+   "sha256": "049470da9819074d2ff286136e1be9620213118928ce0d06fb3c162c8c7a384a"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p014-5c48de4d.pdf",
+   "bytes": 94313,
+   "sha256": "f34819c3d075879a0ff7a8d034a8b12e17e8c13098e08a970e92343ee269d4e8"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p015-e765e3b9.pdf",
+   "bytes": 93214,
+   "sha256": "e47c599c22e03df96f6ac00ee93812176a19674642aa56ea126ac8158891b598"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p016-1c037e16.pdf",
+   "bytes": 79055,
+   "sha256": "a1f50cc25927d9f604918b16d0ade5bc1f4b0d18d137dbad1a55f16360c1010d"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p017-0b2db5e1.pdf",
+   "bytes": 75647,
+   "sha256": "48f4ed2cf3748204331d5af3f2f39460b4e0453edad8db68ac24cae1d2705311"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p017-2347e234.pdf",
+   "bytes": 93262,
+   "sha256": "efced7d3d40f80ce3f5655d09685ce0aad8e5e2c0ae7287bf8a9914acb623824"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p018-23de1f22.pdf",
+   "bytes": 97044,
+   "sha256": "1ca6404ac3c517ee1d854292528aa5f9dc0ccc1dbe18a08d8a29196adc70ad6f"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p019-627816a8.pdf",
+   "bytes": 95842,
+   "sha256": "5b1b31b95000a4a9fcc49560487a005674b468a803f6d2d6bb1b72d5aa38e86e"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p019-82b07730.pdf",
+   "bytes": 75520,
+   "sha256": "cffbb0f0c81d8914ba9ca3625bcda43ded79622e9c0568b76408feff9187bbf8"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p020-989af65a.pdf",
+   "bytes": 78026,
+   "sha256": "a3ec1e5c09873373b5e1a33111b53dd05dbc1acfe24584915ef23456e461a621"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p021-651e3fb2.pdf",
+   "bytes": 89623,
+   "sha256": "8903ec555e4163e70fdc32be41028e0e2b2bbd6a264bb414fff4b7125b1fb639"
+  },
+  {
+   "path": "evidence/outlined/city-of-goleta-p021-d5d485bd.pdf",
+   "bytes": 78020,
+   "sha256": "064eb93790a14489364badf69975b81a9715ff508f2f415ae419a146551f48fa"
   },
   {
    "path": "evidence/outlined/city-of-grass-valley-p006-f425cdf3.pdf",
@@ -14797,6 +14927,16 @@
    "sha256": "90d03d0c588d6a40ca2ee5c1834bc85d8a53c5ddf089a75e283460e76a4e0065"
   },
   {
+   "path": "sources/city-of-goleta-2023-24-03c056b2.pdf",
+   "bytes": 2602995,
+   "sha256": "03c056b26694a04e0bac13631e51b6b5fa1ba772c6e5cdaf1d0316f1316ff02d"
+  },
+  {
+   "path": "sources/city-of-goleta-2024-25-ce3d09d0.pdf",
+   "bytes": 3148121,
+   "sha256": "ce3d09d00027d719c7447e14075bce15f90ed6b66681c232009c47fe65398a3e"
+  },
+  {
    "path": "sources/city-of-hayward-2022-23.pdf",
    "bytes": 153200,
    "sha256": "2e0fe1efd69f14562bfb3e169711587cfd0c7175b038150b2813ccfe019e5f62"
@@ -15718,13 +15858,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 126115,
-   "sha256": "74b970b04314eef891628e8369da60bb5bcdf9e4aac50f9ce46c671848e4a764"
+   "bytes": 126976,
+   "sha256": "31599ffecef4f009bf414f51ab408e34685a24c77a51f4b2bfead983209f1894"
   },
   {
    "path": "sources/index.json",
-   "bytes": 218916,
-   "sha256": "3abf93aa03595429b20a7cb5d8e29d238b24d89e9941e1640c631f0fe4c459b2"
+   "bytes": 220415,
+   "sha256": "604a19b33cd43b11d3d9908e369a98347710600a96e0c2b913aeb001ae30b011"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -15799,7 +15939,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "16600bb3b590004b6e18884ece9b4c9fcae4f0c4dc9883b597c3f6fe4b6bd40d"
+   "sha256": "f03dc308b7ece2d3e653b8cadaeea3bccf570887ee7c6ff0088b1cd1d0afca18"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -15814,7 +15954,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "f33af9acdab76e7c222a2ce9f23db4999485475f1d759ad4eaa85cd7ada7dabe"
+   "sha256": "7d77556c0aad7821dcf953006db62a025be0e3bafe44dc6777e81ebb76e88728"
   },
   {
    "path": "validation/validate.py",
