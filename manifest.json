@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T11:19:35.074713+00:00",
- "data_rows": 1584,
- "distinct_printed_figures": 1416,
- "receiving_entities": 151,
- "agency_years": 302,
- "fee_programs": 865,
- "source_reports": 281,
- "evidence_pairs": 1416,
+ "built_utc": "2026-09-23T12:58:07.599749+00:00",
+ "data_rows": 1594,
+ "distinct_printed_figures": 1426,
+ "receiving_entities": 152,
+ "agency_years": 303,
+ "fee_programs": 875,
+ "source_reports": 282,
+ "evidence_pairs": 1426,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3138,
- "total_bytes": 789855158,
+ "file_count": 3159,
+ "total_bytes": 792057597,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13037,
-   "sha256": "7308bcf0686f956f3ff4fa7ede596adfe3701c1f44e9ff6bdb476950d92fc81f"
+   "bytes": 13088,
+   "sha256": "cfe2584aea2fad5ddcc884f58db8cbfedb0980dbccc8928c25938632444649d1"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "fbd565e9333b82a7786b14a2b6db28a28cd24e10a163d580ea289caded511f48"
+   "sha256": "6d3444170e34c93db2e1d2e13e842325a2cb12488a3ad5efeee385fae561863e"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 628080,
-   "sha256": "eb482476c97b1d44b740aa1191534c938edb66847aa64d5ddd2964e456409234"
+   "bytes": 631886,
+   "sha256": "135daf897066180a7967d6753e5dda1771f61ff5ac85090fb1dcc330ffe7955d"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3323655,
-   "sha256": "63d80875f779c823a6bb69d5d0bcabe9985f31dbf6a43fee0e5232a786ed6493"
+   "bytes": 3341866,
+   "sha256": "cb278c29a568f5dea69a81d62db6722f5b2ac4e463d8770d38f4b2a74e65372e"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4964432,
-   "sha256": "828f26139fad3207522d3116804149c7ccb3be726f551c604ea86df8accba188"
+   "bytes": 4993009,
+   "sha256": "b4d8339afc041a9dc7d69e4099ad31910ca669991d01983d86f7d0c8d45ccb2d"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -890,6 +890,56 @@
    "path": "evidence/extracts/city-of-campbell-p015-90f3287e.pdf",
    "bytes": 24174,
    "sha256": "248cd0908a7158bd9fa952aad881f6657ba30ebfe6916536b8e6916c4049a344"
+  },
+  {
+   "path": "evidence/extracts/city-of-carlsbad-p003-29a2dac6.pdf",
+   "bytes": 52323,
+   "sha256": "ba13584ed6f6d518b615206e82227277247471a2ff3aca4d9fde747f4bdc6704"
+  },
+  {
+   "path": "evidence/extracts/city-of-carlsbad-p004-c496edaf.pdf",
+   "bytes": 50718,
+   "sha256": "1bd9ad0e7cf124cbd878d868575f65402b0e20e7c240d2a51657ccff0b14df7f"
+  },
+  {
+   "path": "evidence/extracts/city-of-carlsbad-p005-461f6cd6.pdf",
+   "bytes": 50557,
+   "sha256": "0a5d0b8675d8f22c1b22cbca2c28e722da4cf3602dea849eae4eab6e46ba5c3f"
+  },
+  {
+   "path": "evidence/extracts/city-of-carlsbad-p006-3692288f.pdf",
+   "bytes": 48528,
+   "sha256": "190aa71ff65e8ad3683f24cedf97794f32fe145bee006ed6a34d42490336b438"
+  },
+  {
+   "path": "evidence/extracts/city-of-carlsbad-p007-c5753a85.pdf",
+   "bytes": 59457,
+   "sha256": "092ae1cc7539e197c38586ccfe4ffaa3681d78a3a706cfcee6169e3ce5a921d8"
+  },
+  {
+   "path": "evidence/extracts/city-of-carlsbad-p008-471ca02d.pdf",
+   "bytes": 51312,
+   "sha256": "b6fa1533aa577440a13fa34fc98df9ac9e2b4fd3b887cf31746a37c38a076b2b"
+  },
+  {
+   "path": "evidence/extracts/city-of-carlsbad-p010-8b5bfd57.pdf",
+   "bytes": 49653,
+   "sha256": "53bfb64fc1200f82c28cda1868cb883c8816e6ccc8da77f62a0e4176e799a24d"
+  },
+  {
+   "path": "evidence/extracts/city-of-carlsbad-p012-cd662a2d.pdf",
+   "bytes": 48084,
+   "sha256": "42a1a6ac477a4f17c4b44096153b00ce54bb5e1cae300923324baf9bb11b59c5"
+  },
+  {
+   "path": "evidence/extracts/city-of-carlsbad-p013-ea292656.pdf",
+   "bytes": 53020,
+   "sha256": "eca8588a42c734eaeb7c4525b285175eb4a378543ac534b34811ffc705f61ae8"
+  },
+  {
+   "path": "evidence/extracts/city-of-carlsbad-p014-a023df0f.pdf",
+   "bytes": 89137,
+   "sha256": "426f8e3b1c47fc9d4a9fbccf450a267956870242d42bda23eab20768f6d095df"
   },
   {
    "path": "evidence/extracts/city-of-chico-p007-04b0bdde.pdf",
@@ -7178,8 +7228,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1473284,
-   "sha256": "c80b4736e837a0cf56d7af445a6d0dd3f9da6fe7cc17917185b6d53fdf100043"
+   "bytes": 1483667,
+   "sha256": "d4812729d99a2f4b39817abe6883dc7435875d8d9dcddca4cc5a9e849c98da50"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -7975,6 +8025,56 @@
    "path": "evidence/outlined/city-of-campbell-p015-90f3287e.pdf",
    "bytes": 24225,
    "sha256": "177409f46215f3d02a2c0e7ba30726330be14a7bab0a91e37c6431640b22dfeb"
+  },
+  {
+   "path": "evidence/outlined/city-of-carlsbad-p003-29a2dac6.pdf",
+   "bytes": 52383,
+   "sha256": "c2c443bc2858005c1431442e367324f8750259804a063f6b2ca5af80c0dd6ad2"
+  },
+  {
+   "path": "evidence/outlined/city-of-carlsbad-p004-c496edaf.pdf",
+   "bytes": 50785,
+   "sha256": "6c1b98a77aa74665fc6ad5c61a37e86e79fb5f274f79e32a00fb8798b19245b8"
+  },
+  {
+   "path": "evidence/outlined/city-of-carlsbad-p005-461f6cd6.pdf",
+   "bytes": 50622,
+   "sha256": "332a25ba93723b8831da7317ec38c52ed33c982db8826d445b150322aea550a4"
+  },
+  {
+   "path": "evidence/outlined/city-of-carlsbad-p006-3692288f.pdf",
+   "bytes": 48587,
+   "sha256": "f4e6c4b7a3cdf83ba31c9f2a955d01afeb635ed4c71ecaa50d14cfb420f8bc49"
+  },
+  {
+   "path": "evidence/outlined/city-of-carlsbad-p007-c5753a85.pdf",
+   "bytes": 59524,
+   "sha256": "bad1e8eaddb82c4e1eb15049e26b5fa1da9188e9b1b95049471bed3accc6330a"
+  },
+  {
+   "path": "evidence/outlined/city-of-carlsbad-p008-471ca02d.pdf",
+   "bytes": 51375,
+   "sha256": "7c71c43423817203779d8c28cf6bdacec17336ed2264cccf820a975a214d72ee"
+  },
+  {
+   "path": "evidence/outlined/city-of-carlsbad-p010-8b5bfd57.pdf",
+   "bytes": 49711,
+   "sha256": "f8d50f8fafa161e436c924fcc52aa9151150904c7b6f81c3f0212a90dc632ca7"
+  },
+  {
+   "path": "evidence/outlined/city-of-carlsbad-p012-cd662a2d.pdf",
+   "bytes": 48146,
+   "sha256": "cb323a0e7432b32b02b2bf6b89c7087784b6cf0e291e7f97a1117403f758d19a"
+  },
+  {
+   "path": "evidence/outlined/city-of-carlsbad-p013-ea292656.pdf",
+   "bytes": 53086,
+   "sha256": "2bbf2111bad2048e6d83cdfd2ff6669ae6ac2e2112c555972c841e194c9f7156"
+  },
+  {
+   "path": "evidence/outlined/city-of-carlsbad-p014-a023df0f.pdf",
+   "bytes": 89198,
+   "sha256": "085d3f57062e530abb63cda52e10c47a5fcf9a85e5d72dbbeb6f0cc8c3ec3c08"
   },
   {
    "path": "evidence/outlined/city-of-chico-p007-04b0bdde.pdf",
@@ -14422,6 +14522,11 @@
    "sha256": "a5f1473af347c0f54fde90ad091860df4b0f67a7f10fe222cdfa4cacd27c6c0e"
   },
   {
+   "path": "sources/city-of-carlsbad-2023-24-260a5ff9.pdf",
+   "bytes": 1034106,
+   "sha256": "260a5ff9245d960aa193a1d2b3006549f6a1cbbc826ff429825af96f543977d8"
+  },
+  {
    "path": "sources/city-of-chico-2023-24-7fd39b22.pdf",
    "bytes": 2248417,
    "sha256": "7fd39b225b0b8ff6ce0122ac6883eeac96ca9f3dbd37a6f7f2559fa6fedb45e2"
@@ -15613,13 +15718,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 125724,
-   "sha256": "9c9c95ff679a8ba8fd49efbddc2236e014fd607a1d53663bb2c717d077f2e7db"
+   "bytes": 126115,
+   "sha256": "74b970b04314eef891628e8369da60bb5bcdf9e4aac50f9ce46c671848e4a764"
   },
   {
    "path": "sources/index.json",
-   "bytes": 218208,
-   "sha256": "857d419c6ec8c52265247b30c46ca33a522c6b36f5af131e6e7ebd63c07c9238"
+   "bytes": 218916,
+   "sha256": "3abf93aa03595429b20a7cb5d8e29d238b24d89e9941e1640c631f0fe4c459b2"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -15694,7 +15799,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "5ba7b8e778c9616a90c33df6761c6f4c45b14376f9a2f125c0012280a4403827"
+   "sha256": "16600bb3b590004b6e18884ece9b4c9fcae4f0c4dc9883b597c3f6fe4b6bd40d"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -15709,7 +15814,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "213a0d4ae8602621e833f807197cd4485a1715a4a13da95da955115b4277d47e"
+   "sha256": "f33af9acdab76e7c222a2ce9f23db4999485475f1d759ad4eaa85cd7ada7dabe"
   },
   {
    "path": "validation/validate.py",
