@@ -798,6 +798,48 @@
   "published_data_rows_from_this_source": 5
  },
  {
+  "source_id": "city-of-dinuba-2022-23-66bbf171",
+  "receiving_entity": "City of Dinuba",
+  "publication_title": "Dinuba City Council Agenda Packet, January 9, 2024 - Public Hearing 6.2, Development Impact Fee Annual Report for FY 2022/23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://dinubaca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=277,plainText=false)",
+  "retrieved_utc": "2026-09-22T11:11:41.813550+00:00",
+  "physical_page_count": 189,
+  "source_sha256": "66bbf171fc8ddb797c4a4926e62258da70561dfcc7720ce1a584693c105a9063",
+  "source_bytes": 13522956,
+  "source_pdf": "sources/city-of-dinuba-2022-23-66bbf171.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-dinuba-2023-24-ab8cb2da",
+  "receiving_entity": "City of Dinuba",
+  "publication_title": "Dinuba City Council Agenda Packet, January 14, 2025 - Public Hearing, Development Impact Fee Annual Report for FY 2023/24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://dinubaca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=267,plainText=false)",
+  "retrieved_utc": "2026-09-22T11:10:38.696482+00:00",
+  "physical_page_count": 456,
+  "source_sha256": "ab8cb2dac681efc89949b2963eab610e45e665414235405d6d2d701f54aa8021",
+  "source_bytes": 14781282,
+  "source_pdf": "sources/city-of-dinuba-2023-24-ab8cb2da.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-dinuba-2024-25-6fdb1341",
+  "receiving_entity": "City of Dinuba",
+  "publication_title": "Dinuba City Council Agenda Packet, December 9, 2025 - Public Hearing 7.1, Development Impact Fee Annual Report for FY 2024/25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://dinubaca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=321,plainText=false)",
+  "retrieved_utc": "2026-09-22T11:09:39.054783+00:00",
+  "physical_page_count": 259,
+  "source_sha256": "6fdb1341a0297b6a25f977a307a50b09d20e48c1b5e7ec35c63455c7d85e50e6",
+  "source_bytes": 14763986,
+  "source_pdf": "sources/city-of-dinuba-2024-25-6fdb1341.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "city-of-east-palo-alto-2018-19",
   "receiving_entity": "City of East Palo Alto",
   "publication_title": "City of East Palo Alto impact fee report, fiscal year 2018-19",
@@ -2616,6 +2658,20 @@
   "source_bytes": 939739,
   "source_pdf": "sources/city-of-tracy-2024-25-a5f0c7b3.pdf",
   "published_data_rows_from_this_source": 16
+ },
+ {
+  "source_id": "city-of-turlock-2024-25-91d74c35",
+  "receiving_entity": "City of Turlock",
+  "publication_title": "Development Fees Annual Report FY 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.cityofturlock.org/_pdf/devfeesreport.asp?id=9",
+  "retrieved_utc": "2026-09-22T07:07:26.504501+00:00",
+  "physical_page_count": 139,
+  "source_sha256": "91d74c355fd51628358504f9410db389fb2dd28478ee79160af61d3e4142b3e9",
+  "source_bytes": 2040206,
+  "source_pdf": "sources/city-of-turlock-2024-25-91d74c35.pdf",
+  "published_data_rows_from_this_source": 25
  },
  {
   "source_id": "city-of-tustin-2023-24-8c69f8b0",

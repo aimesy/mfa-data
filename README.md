@@ -1,6 +1,6 @@
 # California impact fees
 
-1477 reviewed rows covering 1309 printed figures, from 142 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
+1505 reviewed rows covering 1337 printed figures, from 144 receiving entities, across fiscal years 2013–14 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
 
 This is a research sample, not statewide coverage. Thousands of California agencies levy these fees. Do not sum this into a statewide estimate.
 
@@ -58,6 +58,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Upland | 2024–25 | 7 | $3,426,229 |
 | City of Calimesa | 2019–20, 2020–21, 2021–22 | 14 | $3,392,872 |
 | Consolidated Fire Protection District of Los Angeles County | 2022–23 | 3 | $3,185,984 |
+| City of Turlock | 2024–25 | 25 | $3,173,564 |
 | Beaumont Unified | 2024–25 | 1 | $3,171,017 |
 | City of Garden Grove | 2021–22 | 6 | $3,072,830 |
 | City of Pomona | 2023–24, 2024–25 | 15 | $2,917,512 |
@@ -112,6 +113,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | County of Nevada | 2022–23 | 1 | $510,200 |
 | City of San Leandro | 2021–22 to 2024–25 | 4 | $502,732 |
 | City of Palm Springs | 2023–24, 2024–25 | 2 | $397,325 |
+| City of Dinuba | 2022–23, 2023–24, 2024–25 | 3 | $394,066 |
 | City of Stanton | 2022–23, 2023–24, 2024–25 | 14 | $382,542 |
 | City of Brawley | 2023–24, 2024–25 | 14 | $372,395 |
 | City of Morro Bay | 2022–23, 2023–24 | 11 | $370,977 |
@@ -167,13 +169,13 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 
 ## Double counting
 
-Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 1309 rows of the 1477. Summing every row counts most amounts twice.
+Each printed figure appears as up to two rows, because one reported amount is recorded at two measure grains. Rows restating the same figure share a `figure_group_id`, and one of them carries `is_primary_in_figure_group`. Sum only those: 1337 rows of the 1505. Summing every row counts most amounts twice.
 
 ## Limits
 
 These are amounts the agencies reported collecting. They are not audited, not reconciled to bank receipts, and not adjusted to a common accounting basis.
 
-Residential share is unknown for almost every row. Forty-three figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 1266 the source prints one undivided amount. Unknown is never recorded as zero.
+Residential share is unknown for almost every row. Forty-three figures carry a scope the source itself states, including two Fremont park fees levied on new residential development and one Culver City fee printed as applying to non-residential use only. For the other 1294 the source prints one undivided amount. Unknown is never recorded as zero.
 
 Accounting basis is usually not stated. Where it is, the row says so: Sacramento’s reports state they are prepared on the cash basis. Refund treatment varies and is recorded per row.
 
@@ -185,7 +187,7 @@ Some rows are not Mitigation Fee Act fees. Quimby Act park in lieu accounts and 
 
 ## Sources
 
-The [sources directory](sources/) holds 268 complete original reports carrying 277 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
+The [sources directory](sources/) holds 272 complete original reports carrying 281 publication records, because some agencies file inside a shared document. Nine El Dorado County special districts appear in one combined county filing. The [source index](sources/index.csv) lists every one.
 
 Read [coverage and gaps](docs/coverage.md), the [methodology](docs/methodology.md), the [data dictionary](docs/data-dictionary.md) and the [review process](docs/review-process.md). Mechanical checks do not substitute for reading the source.
 

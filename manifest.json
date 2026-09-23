@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T08:18:43.958820+00:00",
- "data_rows": 1477,
- "distinct_printed_figures": 1309,
- "receiving_entities": 142,
- "agency_years": 287,
- "fee_programs": 785,
- "source_reports": 266,
- "evidence_pairs": 1309,
+ "built_utc": "2026-09-23T08:43:35.267483+00:00",
+ "data_rows": 1505,
+ "distinct_printed_figures": 1337,
+ "receiving_entities": 144,
+ "agency_years": 291,
+ "fee_programs": 811,
+ "source_reports": 270,
+ "evidence_pairs": 1337,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2909,
- "total_bytes": 715085111,
+ "file_count": 2969,
+ "total_bytes": 767287741,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 12516,
-   "sha256": "5bee89fc2a18dac735c04504908b0e516971b80147354297989b8fab0dcd891f"
+   "bytes": 12634,
+   "sha256": "5017933ef5b7f317d444bc6d54daed5d489d4075dbf0a59fdec735a4b850eb59"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "b6394f1c38cf772b3c452b3142ba9eddb68cbce27dab0379557c07af4a379666"
+   "sha256": "98bde7a835c15d3c53888c07bdf526352b1c717e95602293eefa6baec61e0850"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 586618,
-   "sha256": "212a0051e0ae38c319db489a891e6dee5ea13f156e7e2197e2cd3aa1dc456197"
+   "bytes": 596657,
+   "sha256": "81da45924eb3f4e2cbc36a9df03b63c774152754b6aa622aca69c109c6dcf53c"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3104218,
-   "sha256": "9f6e90e469faccb7d2a8b34c891f4d40056ef519e51bc604d718321e63ac24ab"
+   "bytes": 3153932,
+   "sha256": "64944c5d2f468595f353289b20c3a0dff8da20f5552fb814769d27137806d230"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4634032,
-   "sha256": "5a04456a4e6dcd3416eec5b65ae71c383fcfb4196af6fcc438f0bbeb4d46444f"
+   "bytes": 4712846,
+   "sha256": "2b86ffb87dbe5be88c401c00d5fe504c55a90c0b7da2202735b1470eb6dbb9a0"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1360,6 +1360,21 @@
    "path": "evidence/extracts/city-of-davis-p004-f14b0652.pdf",
    "bytes": 55762,
    "sha256": "46aea7c6770b53443ead4b856c0ca476bb869b489130d2039307f843728e2fc0"
+  },
+  {
+   "path": "evidence/extracts/city-of-dinuba-p126-881749e5.pdf",
+   "bytes": 5906,
+   "sha256": "e63023540e79c60bee7a36e620aef374d89f4eefd1700cfc15195302d1129fdc"
+  },
+  {
+   "path": "evidence/extracts/city-of-dinuba-p167-b778c65f.pdf",
+   "bytes": 5256,
+   "sha256": "ad8d3bdf697a5ccab8b0904b0647e597a8858c1e11bdef28482fc93aaf42898d"
+  },
+  {
+   "path": "evidence/extracts/city-of-dinuba-p453-abd6ac75.pdf",
+   "bytes": 5110,
+   "sha256": "31113eb6c17d19b03ee86b08cfa722e51e0b4e5af6fd760cbea3cfb86e309298"
   },
   {
    "path": "evidence/extracts/city-of-east-palo-alto-p010-99837c97.pdf",
@@ -4877,6 +4892,131 @@
    "sha256": "d37a902a24e76c9ef31f6a24b13567e921eccb12befa455f6f7cd6739fc96554"
   },
   {
+   "path": "evidence/extracts/city-of-turlock-p010-dc3b6cb5.pdf",
+   "bytes": 140807,
+   "sha256": "77407572aa23a8bce0899a66b6f9c8bb296fea54f79da28c2482dfd0e4d675c2"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p015-b5ecffce.pdf",
+   "bytes": 138812,
+   "sha256": "d8a3b58068214bb3ce8cfa40091cb301d2cebd70ae571b6214cf87e66bab14a7"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p020-f6511637.pdf",
+   "bytes": 136224,
+   "sha256": "ef5cfdcdd83f16e2937935856930cef11578c0e189e40a4b88bcaa8ec2b688e2"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p025-735161dd.pdf",
+   "bytes": 142258,
+   "sha256": "e8ec249400a371a4f546c98694ef44319e4a95a68589861eef1402c5d6bb713b"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p030-e00fef97.pdf",
+   "bytes": 140812,
+   "sha256": "d3d83c6d0c11f542754f6db58e5a4cd88985963457ce1c2c77aeffba3dd7028d"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p035-bbe53dea.pdf",
+   "bytes": 134610,
+   "sha256": "4cb460f8ecaca583bfc64cde42dd1e9fa05190d58d421f3a7788638cd433503f"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p040-f3c0e68a.pdf",
+   "bytes": 141286,
+   "sha256": "b5b83dc134b95a071dc1741a6a80799eba3df109061f404a59fcbbd61c7c8592"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p043-0026c768.pdf",
+   "bytes": 140659,
+   "sha256": "ea7b379fce24a07bfa63773d925a68ee0ddea71d79ab1697a7d161f87129bec1"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p046-2fe93626.pdf",
+   "bytes": 140155,
+   "sha256": "ad23199cd1be5598dabc1ac0dd10ac93a2b4d4403e6cb524c53b4546af5d8ef5"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p051-f1adcabf.pdf",
+   "bytes": 141329,
+   "sha256": "142bf399b322a262a22ebc73fafe4d0f19c558870d65fb5410bebb96ea398f75"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p054-6a847e5b.pdf",
+   "bytes": 134251,
+   "sha256": "40b5f9f2812075e3b6c12d8a4f552cd58644d7ef2ced5780bb12e8efea81577f"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p059-27516f99.pdf",
+   "bytes": 140697,
+   "sha256": "8ea888ca2b6bb2999ef7da82cd205873887852562010767528bcd4583bb92494"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p062-9567eede.pdf",
+   "bytes": 140307,
+   "sha256": "fcc5a1797bda765be4773c7d0f04da6f7e4b4ae31fca77fa4c07238d0904951e"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p065-26b0b3fb.pdf",
+   "bytes": 139201,
+   "sha256": "b4e863cce7b12753097b465fef60cf0547f66c0c7cdf8b0a3a020d661dea5d03"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p070-3a23289c.pdf",
+   "bytes": 132492,
+   "sha256": "2c215989c8ee1ea6dd7784c791d3dfc4055f94f2b8069857e3026e29518268da"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p075-302df8e2.pdf",
+   "bytes": 132699,
+   "sha256": "4cc5802aff004999c2002a3f7bfdd58c39c09cc3f6b191d739b5d1fb8b3b8cc4"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p080-ca2e77ff.pdf",
+   "bytes": 133202,
+   "sha256": "19dfa095503284728c0f2eb8ba0efb1427d5d6988bdff89cc9188db9e993bc42"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p083-eda05407.pdf",
+   "bytes": 133608,
+   "sha256": "a0a45d3943c97f3041b5dd99d762d1b031b6e64db3e9b221f5152ea17228c47c"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p088-eeb0fc53.pdf",
+   "bytes": 133358,
+   "sha256": "892b0891539c9ae98a6359fe702bb2f58fffff44dce906eec0c3e9c25ba9018f"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p093-fe6be674.pdf",
+   "bytes": 136914,
+   "sha256": "bed7c1750f57663915a799451ac693a547e0fb3b89f29586cca3b74e019619c3"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p105-fc411db7.pdf",
+   "bytes": 141013,
+   "sha256": "f74bf31e9602b709a6fa8ac2ff8c80f0048ad9c67f5534961f45d8e793f97584"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p110-99caf3ca.pdf",
+   "bytes": 132396,
+   "sha256": "ca4dff26ba8cc34685634f496f365a9682690c990b3413ee408a627fb674706f"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p113-683ca0ce.pdf",
+   "bytes": 140184,
+   "sha256": "cab8c5efff90f21ad26cda77590b208ce0dfd9835a92302ca9632e2872c788b4"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p118-b29913c9.pdf",
+   "bytes": 139047,
+   "sha256": "d6ac07cd8b5896ce56df629d7ed5947141160b2d596a71cbabbf9cfe8b4a2eef"
+  },
+  {
+   "path": "evidence/extracts/city-of-turlock-p121-97c4d04f.pdf",
+   "bytes": 138180,
+   "sha256": "e3d6e03c6bb442e0f7d1ebd6222c638856eb63ef87f11a239562208a0a545b3b"
+  },
+  {
    "path": "evidence/extracts/city-of-tustin-p007-457de28a.pdf",
    "bytes": 151692,
    "sha256": "24e1c75bda8fedf0e9aa546e3ea5248ca68575560a5c8cd52436f09bb7fc4b51"
@@ -6643,8 +6783,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1362683,
-   "sha256": "cf84bbe91c32ade6823960b07eef14e0288744517a06ecb07ccc7281d7e6b35a"
+   "bytes": 1390277,
+   "sha256": "69fcf6ac3c76932418e4217f4dde615fbcae8a65a13250f92bdf396312da4ace"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -7910,6 +8050,21 @@
    "path": "evidence/outlined/city-of-davis-p004-f14b0652.pdf",
    "bytes": 55821,
    "sha256": "bc019b0d97f7bb2706fa5bfb485231e2f488444d507a32be3b68b4c0aafb43f6"
+  },
+  {
+   "path": "evidence/outlined/city-of-dinuba-p126-881749e5.pdf",
+   "bytes": 5965,
+   "sha256": "d0a06c2dcfc4f046e9798da5c08ab725422e0de3d87d538850a4cc1242b976a9"
+  },
+  {
+   "path": "evidence/outlined/city-of-dinuba-p167-b778c65f.pdf",
+   "bytes": 5320,
+   "sha256": "ed6034d2c5354c0a3b273cf1e2905c907ddf834235b549939b4502cf25d03da3"
+  },
+  {
+   "path": "evidence/outlined/city-of-dinuba-p453-abd6ac75.pdf",
+   "bytes": 5169,
+   "sha256": "c57a09a7e66ab2cec6517d13291c8ac1825f61a40e9e9fe78ed72a30827f057c"
   },
   {
    "path": "evidence/outlined/city-of-east-palo-alto-p010-99837c97.pdf",
@@ -11427,6 +11582,131 @@
    "sha256": "7bceba38f06b3de641444ea9f3f725d0734216b3796551873a05740f1a7f569e"
   },
   {
+   "path": "evidence/outlined/city-of-turlock-p010-dc3b6cb5.pdf",
+   "bytes": 140868,
+   "sha256": "e9a85089ece1d2bd2eb70e5a3752a40b95282da6d3be560f2dca1ded9215d3db"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p015-b5ecffce.pdf",
+   "bytes": 138872,
+   "sha256": "f0f6947af5530982ce7031c891ff767387aa402a213e8ca86333cd56258603b4"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p020-f6511637.pdf",
+   "bytes": 136280,
+   "sha256": "44446a54afbf93d7d2213f3c1bcb2c54a69c443faa366ca3bdc8ea2a377579dd"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p025-735161dd.pdf",
+   "bytes": 142317,
+   "sha256": "b864506ed8d675f90f43d12b72539cd79b6bd7ce64b71e89af43fbd20c637d94"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p030-e00fef97.pdf",
+   "bytes": 140873,
+   "sha256": "6d7fbfd6a174d0dc28eb70753cd5ee275d4116770cf4e718420926097b1c85fd"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p035-bbe53dea.pdf",
+   "bytes": 134670,
+   "sha256": "59ae9267921bf0ef69345554db5fe8aee1f8fb02cc53f2c9cc5edaa20e9f5ddd"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p040-f3c0e68a.pdf",
+   "bytes": 141348,
+   "sha256": "f3c8dfb7141071e41f2aae61035f3ed4e50f702a1faf29ba36ee725bab6cc6f4"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p043-0026c768.pdf",
+   "bytes": 140720,
+   "sha256": "2e984e9a0581e6f6eb21ba27bf1eeef8951bfa8030117885bcee7b50e2818105"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p046-2fe93626.pdf",
+   "bytes": 140215,
+   "sha256": "706dfd8f732df398642cc2abb8dbdafd74f91c55995697afcdd002ac12dc7e50"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p051-f1adcabf.pdf",
+   "bytes": 141388,
+   "sha256": "ea072b954e4c6746e431e2274ab4f5363f512604a79616cd530e1d6f0472ffd0"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p054-6a847e5b.pdf",
+   "bytes": 134312,
+   "sha256": "1ab9a0624fea2745ed4f262e78b72b85019ee266a98eae3057e6a22b53b6021d"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p059-27516f99.pdf",
+   "bytes": 140756,
+   "sha256": "a20954ce5cae77849ab1fb495aa4b21b3b6ac436a11eb244c16561719022c472"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p062-9567eede.pdf",
+   "bytes": 140366,
+   "sha256": "a85bfd38eb0e0e50899d21ee0d584904e50e28745d235189954b84114dd92ced"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p065-26b0b3fb.pdf",
+   "bytes": 139261,
+   "sha256": "ef21f70bdd91ecb6371531d9267bc06e4f45db838d7a9336f1574edebd8eed01"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p070-3a23289c.pdf",
+   "bytes": 132550,
+   "sha256": "ccbcbe16dd2452b2929cb0749995c941459d1a0c7aea7380e7cf8f900d2df969"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p075-302df8e2.pdf",
+   "bytes": 132759,
+   "sha256": "2e9420e74fee1fd429000e4a3726d63e996985db00908034ba17bcf46ab52837"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p080-ca2e77ff.pdf",
+   "bytes": 133248,
+   "sha256": "0e946947d176f24369576ff0ff81751a4be0343db4e5efa15288d1f37de00367"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p083-eda05407.pdf",
+   "bytes": 133669,
+   "sha256": "f93262e45b25c26ae5156175a84874fdde39ea55af3900af215e65540f40aa87"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p088-eeb0fc53.pdf",
+   "bytes": 133420,
+   "sha256": "43064d8a4b40dbede3da1aa04a4165f79b03e406ddae475c0bfc8eb3152ad5c1"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p093-fe6be674.pdf",
+   "bytes": 136969,
+   "sha256": "bb6569c283cc64531d129ee87d2911d0eeb2d6d497e271ef0a19c5258d200202"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p105-fc411db7.pdf",
+   "bytes": 141072,
+   "sha256": "237ed5aab5106091f927c3144d0bfeeda3a0da98cea8aed26eb20117bbfdbf86"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p110-99caf3ca.pdf",
+   "bytes": 132458,
+   "sha256": "896417590891008a1e0b4ec87a2f84f70ba9f89281cf4a282c236c38ed4b8a02"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p113-683ca0ce.pdf",
+   "bytes": 140241,
+   "sha256": "245f34ef29b960032742f6489d789422aa6ea1f4dc185e0fcc4da7e501b9b6df"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p118-b29913c9.pdf",
+   "bytes": 139104,
+   "sha256": "81b7e882c201ce7b096603d498e4895d857aa2e73cffc31ad3aef5686b1e240b"
+  },
+  {
+   "path": "evidence/outlined/city-of-turlock-p121-97c4d04f.pdf",
+   "bytes": 138240,
+   "sha256": "df4fbc8c04d9f83d2814ede7510d31d313bb6428e3a8ff3752e2dcfe9453463e"
+  },
+  {
    "path": "evidence/outlined/city-of-tustin-p007-457de28a.pdf",
    "bytes": 151480,
    "sha256": "d99c8c572f7a21ed5d1c31f67a3f7ecf045d4c989ead533f5a83698f318c5950"
@@ -13467,6 +13747,21 @@
    "sha256": "74b7802f99c2a35ed895f6d5845d11039075cefc6737f0dfe18d92c93e1b454b"
   },
   {
+   "path": "sources/city-of-dinuba-2022-23-66bbf171.pdf",
+   "bytes": 13522956,
+   "sha256": "66bbf171fc8ddb797c4a4926e62258da70561dfcc7720ce1a584693c105a9063"
+  },
+  {
+   "path": "sources/city-of-dinuba-2023-24-ab8cb2da.pdf",
+   "bytes": 14781282,
+   "sha256": "ab8cb2dac681efc89949b2963eab610e45e665414235405d6d2d701f54aa8021"
+  },
+  {
+   "path": "sources/city-of-dinuba-2024-25-6fdb1341.pdf",
+   "bytes": 14763986,
+   "sha256": "6fdb1341a0297b6a25f977a307a50b09d20e48c1b5e7ec35c63455c7d85e50e6"
+  },
+  {
    "path": "sources/city-of-east-palo-alto-2018-19.pdf",
    "bytes": 606039,
    "sha256": "6c01029d258ec3e3cc0307bc10ea248f1a586a57baab8e1228b0f792038100c0"
@@ -14112,6 +14407,11 @@
    "sha256": "a5f0c7b326285bbd773a9f0d802848294efc34242e2ea158060336f987ec29f0"
   },
   {
+   "path": "sources/city-of-turlock-2024-25-91d74c35.pdf",
+   "bytes": 2040206,
+   "sha256": "91d74c355fd51628358504f9410db389fb2dd28478ee79160af61d3e4142b3e9"
+  },
+  {
    "path": "sources/city-of-tustin-2023-24-8c69f8b0.pdf",
    "bytes": 1266227,
    "sha256": "8c69f8b076ce9cffebd5a32c1dd70434fab66ac1426169dd4dbba11b76098c88"
@@ -14473,13 +14773,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 119097,
-   "sha256": "8dcb0324e7a7a80b502009a519c6a8a667a0416abd48fe45a72e7056ee884cec"
+   "bytes": 120824,
+   "sha256": "11144ca82ccc43802c68dc64c0d3726d9fda5091dbe10e4ec85009de5a9f2473"
   },
   {
    "path": "sources/index.json",
-   "bytes": 206822,
-   "sha256": "5ed39a6d73b5661002321cd1bee791ef43b7fbda24ea4402824e98130ee08f92"
+   "bytes": 209813,
+   "sha256": "ee399bf19ef607714162fab0bebe978b22c9e770cf93639c49e77777dc199340"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -14549,7 +14849,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "b7fa76aefc68bcdf4498505a224b3b07b49f2983b63b77ef76ae01eccfcddc4c"
+   "sha256": "df66b592cc0f2b169c06f118251e7733111ad91a4390169f6feccf7d91fad630"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -14564,7 +14864,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "ab72c0a91e0eb205dbb99f932b550bba7e6b9fb7338e77768293ea9b2735f3a6"
+   "sha256": "fd70d4383be78c09b6d1702104f0578c3c5d3182057ea48563828cfca5b329aa"
   },
   {
    "path": "validation/validate.py",
