@@ -3948,6 +3948,20 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "town-of-loomis-2024-25-2756ffda",
+  "receiving_entity": "Town of Loomis",
+  "publication_title": "Development Fee Impact Reports 24/25 (Town Council, January 13, 2026, item 8)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://storage.googleapis.com/proudcity/loomisca/2026/01/b9e32ddc-6-fy-2025-impact-fee-report-sr.pdf",
+  "retrieved_utc": "2026-09-22T12:30:39.777648+00:00",
+  "physical_page_count": 18,
+  "source_sha256": "2756ffdad49a653756764205c1f9a774fcb935ecf5fb6c6f29991968c75b5ef4",
+  "source_bytes": 525993,
+  "source_pdf": "sources/town-of-loomis-2024-25-2756ffda.pdf",
+  "published_data_rows_from_this_source": 6
+ },
+ {
   "source_id": "town-of-tiburon-2023-24-771f45f1",
   "receiving_entity": "Town of Tiburon",
   "publication_title": "FY23-24 AB 1600 Report",

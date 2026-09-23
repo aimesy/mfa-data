@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T09:56:49.024960+00:00",
- "data_rows": 1543,
- "distinct_printed_figures": 1375,
- "receiving_entities": 147,
- "agency_years": 296,
- "fee_programs": 831,
- "source_reports": 275,
- "evidence_pairs": 1375,
+ "built_utc": "2026-09-23T10:18:50.848361+00:00",
+ "data_rows": 1549,
+ "distinct_printed_figures": 1381,
+ "receiving_entities": 148,
+ "agency_years": 297,
+ "fee_programs": 837,
+ "source_reports": 276,
+ "evidence_pairs": 1381,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3050,
- "total_bytes": 775118748,
+ "file_count": 3063,
+ "total_bytes": 776651342,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 12817,
-   "sha256": "c1e69b842b76951c40b046fc2e6531a0741a41c9a0e133e3b329afa29a869c7c"
+   "bytes": 12863,
+   "sha256": "a033c21aad59342059049b4c9d3246664eae7c270412a3ccb6239d9a4c9c2487"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "4921a5ae9640f9ff110ba40cf773194a76555bf6658773836a88916c3e5d5a1b"
+   "sha256": "c2beb0eb1fd9332e82bc9c4e9f679ea4e4ebea36ce66faeb3fc942d71a4ab701"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 611373,
-   "sha256": "ae2b5fffa9ee123635da1016bcce624654425ec624b98b742cc9839a042ba8fd"
+   "bytes": 614032,
+   "sha256": "4715506ee12a4d6bdae47d6d011979fb54e1beb96edad2e3e5728c9456d5d3eb"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3236136,
-   "sha256": "2968cb5653d25ff8860e40fcbdc2046d714264ba31d75d45fa07a0f84d5303b8"
+   "bytes": 3248421,
+   "sha256": "90b1d2ac62aef4de278d2cc8de3f745908f5c26044bd3f39255a8749aa86c0d2"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4834406,
-   "sha256": "d87ae29f20d31f1c8b698eb555a6a4b8293256c95bf953ff75944a9dc477b0d3"
+   "bytes": 4852901,
+   "sha256": "63d5f2ab97e5a1246404fa553c27fdf9492eb0e155a1f5a96a9d33d41cbff3e7"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -6912,6 +6912,36 @@
    "sha256": "a6cfb38f0a42f5407263c13b7232845c390037bdbfa9a9a4cfd429b26a03d1ed"
   },
   {
+   "path": "evidence/extracts/town-of-loomis-p004-6fd157ab.pdf",
+   "bytes": 80574,
+   "sha256": "c93eddf284674e829f1fd6d3a6c0b83a1448726fd8644e9643463a83ae0eedb9"
+  },
+  {
+   "path": "evidence/extracts/town-of-loomis-p006-2c0e160c.pdf",
+   "bytes": 79855,
+   "sha256": "bcd919ede713f900356a9b6062947de6e9d2d266fecd69e18a3b99955cbf80af"
+  },
+  {
+   "path": "evidence/extracts/town-of-loomis-p010-f8b0954c.pdf",
+   "bytes": 79255,
+   "sha256": "64738318d4c15a56d10c0513b7bb94cbf0b028ff8bec2101c360dc6b4bd7f240"
+  },
+  {
+   "path": "evidence/extracts/town-of-loomis-p013-4cb4735d.pdf",
+   "bytes": 81696,
+   "sha256": "6d25bac70bd175435092c87c16aeaf372db7abc456d4bcfab3a53038806950ef"
+  },
+  {
+   "path": "evidence/extracts/town-of-loomis-p015-a40a781d.pdf",
+   "bytes": 81055,
+   "sha256": "15df3d0276aac0887de12ea20e83000c81b61e407f3c3db7e517b34c6abac2d1"
+  },
+  {
+   "path": "evidence/extracts/town-of-loomis-p017-7e812f77.pdf",
+   "bytes": 80285,
+   "sha256": "bbc7b4a2a50961e4ff5f09d1968d63f4932327b9823e43a0830cfe769cfb3ed9"
+  },
+  {
    "path": "evidence/extracts/town-of-tiburon-p002-3a824bb9.pdf",
    "bytes": 45387,
    "sha256": "e2338bbb0b5549bd1993af0d52f64d0319528c8d0c15e7a1bb8310cc796b4681"
@@ -6973,8 +7003,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1431100,
-   "sha256": "b75b3f9bd8fb022d7aef9262874877ab59087fcc6b4a6108c69267c042d95dc8"
+   "bytes": 1437249,
+   "sha256": "ad3120a396a56a3a04de90438ea73d740d2b4e8f9cf8eb97d55c75c4aa59518f"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -13792,6 +13822,36 @@
    "sha256": "ef8c2ca40c8ab02366b55fbedd7d833a33813cc9cce0d9f82ab2e80e6bf279d3"
   },
   {
+   "path": "evidence/outlined/town-of-loomis-p004-6fd157ab.pdf",
+   "bytes": 80634,
+   "sha256": "20ac173cedfdfa782c1f3218d5f443f386d615d643d6e0b3f98c7fc66e359381"
+  },
+  {
+   "path": "evidence/outlined/town-of-loomis-p006-2c0e160c.pdf",
+   "bytes": 79915,
+   "sha256": "2ba3e49beaf6f8e5e25672317468145c0391125ea76dfdbd8e6a1b886f24fe4f"
+  },
+  {
+   "path": "evidence/outlined/town-of-loomis-p010-f8b0954c.pdf",
+   "bytes": 79326,
+   "sha256": "b2ef8a0f493793ea647f69d2215f43dc9cc98f069f9422a0eb2b80be346fac0b"
+  },
+  {
+   "path": "evidence/outlined/town-of-loomis-p013-4cb4735d.pdf",
+   "bytes": 81756,
+   "sha256": "71b4be660e8d9c4a2c5419011b979513c5b3db343d86148f33a4e87aeb9c92d6"
+  },
+  {
+   "path": "evidence/outlined/town-of-loomis-p015-a40a781d.pdf",
+   "bytes": 81114,
+   "sha256": "e0b32015ddb08c2b95fea3efaae4c4356ad2c87b8237678cb7cc79cba81de42b"
+  },
+  {
+   "path": "evidence/outlined/town-of-loomis-p017-7e812f77.pdf",
+   "bytes": 80353,
+   "sha256": "971e6066ccf1942f643f2f362c2716a2235b61c2805a09b5570656bb63a979a3"
+  },
+  {
    "path": "evidence/outlined/town-of-tiburon-p002-3a824bb9.pdf",
    "bytes": 45443,
    "sha256": "0c9e7b34ce960651b06923c00aef10ad9f12d249175dc94a19cd046b46ec7ab8"
@@ -15178,13 +15238,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 122913,
-   "sha256": "32ccba332dc3aa557b7d8713219e31976693b93b1fbce3641c2b153a4cc8897c"
+   "bytes": 123329,
+   "sha256": "335b232ccddf7c2d6efe8320f9b63ca6dd5a85911da9cc933818854c587104f5"
   },
   {
    "path": "sources/index.json",
-   "bytes": 213489,
-   "sha256": "ca1b7d210911efcb8bbb6a736a864b3e98bc64f823df40639a5544d784163ce8"
+   "bytes": 214222,
+   "sha256": "a4a54c80d1a42bba6ebf0740edd3104823562d780898fecb320323acd3c97aff"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -15232,6 +15292,11 @@
    "sha256": "5ca63d46abd53ef3626789c6c64c0e1760760435985b6dbb94ee525c292e30d0"
   },
   {
+   "path": "sources/town-of-loomis-2024-25-2756ffda.pdf",
+   "bytes": 525993,
+   "sha256": "2756ffdad49a653756764205c1f9a774fcb935ecf5fb6c6f29991968c75b5ef4"
+  },
+  {
    "path": "sources/town-of-tiburon-2023-24-771f45f1.pdf",
    "bytes": 157542,
    "sha256": "771f45f1e3034c4736811d0d8988650c9a21791fd5beff028b1d7419f3e788cf"
@@ -15254,7 +15319,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "281d8446080998f6238c10e959b223def5b6256fd4189a6daa108bd813af70d9"
+   "sha256": "79bba0ff26854a7b27561e8a6bcf5b8703add141c37c2026bae414921448ca2b"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -15269,7 +15334,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "abe2ec998a075e944d9484c52cfeead9130aad22f9960f196c678eab305ff6fa"
+   "sha256": "9d64e9a1d24a9ff65a178cde5832a36672f8a750ba7b4fe83d4fc2eaedec32d9"
   },
   {
    "path": "validation/validate.py",
