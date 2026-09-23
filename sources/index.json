@@ -1316,6 +1316,20 @@
   "published_data_rows_from_this_source": 3
  },
  {
+  "source_id": "city-of-laguna-hills-2024-25",
+  "receiving_entity": "City of Laguna Hills",
+  "publication_title": "City of Laguna Hills annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.lagunahillsca.gov/DocumentCenter/View/9179/FY2425-Development-Impact-Fees-Annual-Report?bidId=",
+  "retrieved_utc": "2026-09-22T08:27:57.614046+00:00",
+  "physical_page_count": 3,
+  "source_sha256": "06393afb9e39f71cbf87a9f56141fe08d212590312b1e05a7b517c1d2043b70e",
+  "source_bytes": 256906,
+  "source_pdf": "sources/city-of-laguna-hills-2024-25.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
   "source_id": "city-of-lodi-2022-23-1e886606",
   "receiving_entity": "City of Lodi",
   "publication_title": "Annual Impact Mitigation Fee Program Report for the City of Lodi, Fiscal Year 2022/23",
