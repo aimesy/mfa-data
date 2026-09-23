@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T00:47:45.282112+00:00",
- "data_rows": 1264,
- "distinct_printed_figures": 1096,
- "receiving_entities": 124,
- "agency_years": 252,
- "fee_programs": 659,
- "source_reports": 231,
- "evidence_pairs": 1096,
+ "built_utc": "2026-09-23T01:16:07.958703+00:00",
+ "data_rows": 1266,
+ "distinct_printed_figures": 1098,
+ "receiving_entities": 125,
+ "agency_years": 253,
+ "fee_programs": 661,
+ "source_reports": 232,
+ "evidence_pairs": 1098,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2448,
- "total_bytes": 619059560,
+ "file_count": 2453,
+ "total_bytes": 619441459,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11377,
-   "sha256": "44c6e6b9e07562e27c61636654c336b28b7caa3dd6a032c9b6fcd0d7dc420c40"
+   "bytes": 11430,
+   "sha256": "66bb05fc6d8207636d56f6def3a380e6f7f4a8f79170be1a810ff382f9d9e82b"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1266,
-   "sha256": "556628cb1da803db9f372bf20e6755c708b0ab23b7aa585a35bd09e37b297bb7"
+   "sha256": "68302d7ffc1bd91df15dd83d0c34fdf787253d1ace86b23f2c5df502111919e6"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 504181,
-   "sha256": "38968a70c17e257ad752b2e7ff9fa4a69dd9784510dad301ad164f3e9ba73ee4"
+   "bytes": 505500,
+   "sha256": "57fef76719233e2a17598d55fcea184056e81ca88c17a038b7d0455f3db49a58"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2697168,
-   "sha256": "d25583e7d90336825f2c6853e7d57b49d5e76b1636e20b8bdc109b84a053953d"
+   "bytes": 2701116,
+   "sha256": "4ce5a44e09e18cc4634d267945184dcf240a9748fe74cf5f96c5cb3b3e69a4bf"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4006041,
-   "sha256": "ed0facf917fc9905dec71730e648bd42436088b7507d4205f87a53f872fdcacd"
+   "bytes": 4012063,
+   "sha256": "44118e746251c85adbc67664fe2ecb82aa7e4e8a1b859cb88748cf598c928649"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -2585,6 +2585,16 @@
    "path": "evidence/extracts/city-of-moorpark-p032-1c82523a.pdf",
    "bytes": 49183,
    "sha256": "8602339ab37c750fa78ed54a3729d3b1e8c14faacfa288d3ec19f73f8ffcf4fb"
+  },
+  {
+   "path": "evidence/extracts/city-of-mountain-view-p002-04897815.pdf",
+   "bytes": 44149,
+   "sha256": "42082381f59e787e3b31db44ddab72434b55c13f80cd0473667901babc6825a1"
+  },
+  {
+   "path": "evidence/extracts/city-of-mountain-view-p005-1254f190.pdf",
+   "bytes": 41760,
+   "sha256": "6a2e38d238c297b7fd6f8c23850612f0f6c1ba035503011528d784f6dfc0b1bf"
   },
   {
    "path": "evidence/extracts/city-of-murrieta-p002-24c94829.pdf",
@@ -5578,8 +5588,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1145566,
-   "sha256": "a3f97b78bd401532870f1bd55a65abbfa1c002983f611764ca50a996d35e1e0b"
+   "bytes": 1147648,
+   "sha256": "3707e1b57477450adbd0490ae9576b4f0883f5d5fe0b822432d5e0e6c14b6a98"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -8070,6 +8080,16 @@
    "path": "evidence/outlined/city-of-moorpark-p032-1c82523a.pdf",
    "bytes": 49238,
    "sha256": "a6cbb285710ff3f3fa4ebac3077181b78d3e83d03094d8f4fe320f0ad7a26d3f"
+  },
+  {
+   "path": "evidence/outlined/city-of-mountain-view-p002-04897815.pdf",
+   "bytes": 44203,
+   "sha256": "20da5cf47ffed0e8a6a44b3e16a06758255f582ff19648bdd83db3a7c4e08eda"
+  },
+  {
+   "path": "evidence/outlined/city-of-mountain-view-p005-1254f190.pdf",
+   "bytes": 41816,
+   "sha256": "6b792e7e47a17bb29b5bb4561584d24109452b13b77542b680cd71c380380e0e"
   },
   {
    "path": "evidence/outlined/city-of-murrieta-p002-24c94829.pdf",
@@ -11522,6 +11542,11 @@
    "sha256": "0e182ef4dcd1d3ca06c0b95a44ffdb07badff3821b09453f2f334e7a8c40a4cc"
   },
   {
+   "path": "sources/city-of-mountain-view-2024-25-02e171e1.pdf",
+   "bytes": 195290,
+   "sha256": "02e171e17c6337753ede4a151c48459a536c5fce831c1696af4e9b4306222d80"
+  },
+  {
    "path": "sources/city-of-murrieta-2014-15.pdf",
    "bytes": 141641,
    "sha256": "0c5d86eb2914368c49b24aef1eea7fb8cba3a7a53c12ad2f5f9697dca47406b5"
@@ -12178,13 +12203,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 104648,
-   "sha256": "d703f3c1e3cd112dbe903b4e4892d97ab4fe3fcd49d478922164c7e22f79376f"
+   "bytes": 105118,
+   "sha256": "4a97e596eeedee22eb242cd836850d9aaef079ada7f19bb3e98b2efaf4b1f84c"
   },
   {
    "path": "sources/index.json",
-   "bytes": 181242,
-   "sha256": "cbf030c9cba794773dc352e170cd3359acff923caa681487b6a06e6930475424"
+   "bytes": 182029,
+   "sha256": "d89b2e5973c935c49086d18d45c55633c041cda817c3f90f7bc54792a92af699"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -12244,7 +12269,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3058,
-   "sha256": "45aa18d97f1d8535959bfa4f3b8bce6851bc819b8882c785018d9a616a5ef4ef"
+   "sha256": "c1f9dd7a2bc93efb43d3b59123952a5c3507a482b56ee10e130b73cd5727c8b4"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -12259,7 +12284,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2591,
-   "sha256": "c8163e3094bbdc2c9186d9ecb02f220e5e9e7d14cd1e74bfae28120da5678c71"
+   "sha256": "bc7f99464f5daafc2f56b323b7d06aea684715e843781d39e001c27c72903418"
   },
   {
    "path": "validation/validate.py",

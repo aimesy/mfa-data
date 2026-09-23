@@ -1330,6 +1330,20 @@
   "published_data_rows_from_this_source": 6
  },
  {
+  "source_id": "city-of-mountain-view-2024-25-02e171e1",
+  "receiving_entity": "City of Mountain View",
+  "publication_title": "ATT 1 - FY 24-25 Annual Compliance Report for Development Impact Fees (Council item 204890, agenda date 2025-11-18)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://legistar1.granicus.com/mountainview/attachments/22665edd-39fe-44d4-882a-44fcfb572eda.pdf",
+  "retrieved_utc": "2026-09-22T06:59:46.029810+00:00",
+  "physical_page_count": 25,
+  "source_sha256": "02e171e17c6337753ede4a151c48459a536c5fce831c1696af4e9b4306222d80",
+  "source_bytes": 195290,
+  "source_pdf": "sources/city-of-mountain-view-2024-25-02e171e1.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
   "source_id": "city-of-murrieta-2014-15",
   "receiving_entity": "City of Murrieta",
   "publication_title": "City of Murrieta impact fee report, fiscal year 2014-15",

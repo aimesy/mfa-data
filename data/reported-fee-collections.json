@@ -2660,7 +2660,7 @@
   "outline_rect_pdf_points": "[369.8800048828125, 114.59294128417969, 426.5350341796875, 133.3644561767578]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Parks and Recreation Facilities Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2024 49,839.23 plus Fees Collected 541,413.23 and Interest Earned - and Other Revenues - and Transfers In -, less Total Expenses 1,601.81 and Transfers Out -, gives the printed Ending Balance as of June 30, 2025 of 589,650.65. The printed Total Revenues of 541,413.23 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -2703,7 +2703,7 @@
   "outline_rect_pdf_points": "[393.3999938964844, 159.1129608154297, 450.0550231933594, 177.8844757080078]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Traffic Facilities Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2024 13,959.41 plus Fees Collected 141,816.46 and Interest Earned - and Other Revenues - and Transfers In -, less Total Expenses 251.80 and Transfers Out -, gives the printed Ending Balance as of June 30, 2025 of 155,524.07. The printed Total Revenues of 155,775.87 is the opening balance with the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -24762,7 +24762,7 @@
   "outline_rect_pdf_points": "[336.54449462890625, 198.6413116455078, 389.9656066894531, 217.78038024902344]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Developer Fees, in its ledger for Construction Impact Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance 7,100,876 plus Developer Fees 1,314,533 and Interest income 227,780 and Unrealized gain/(loss) on investment* 407,879, less Expenditures (1,234,974), gives the printed Ending balance of 7,816,095.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -24805,7 +24805,7 @@
   "outline_rect_pdf_points": "[428.822998046875, 204.51583862304688, 472.57684326171875, 223.55322265625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees, in its ledger for Heritage Tree In-Lieu Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance 429,626 plus Fees 264,413, less Expenditures -, gives the printed Ending Balance of 694,039.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -24848,7 +24848,7 @@
   "outline_rect_pdf_points": "[386.5980224609375, 208.36407470703125, 430.73486328125, 227.3790740966797]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Developer Fees, in its ledger for Recreation In-Lieu Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance 2,644,315 plus Developer Fees 254,800 and Interest income 83,745 and Unrealized gain/(loss) on investment* 34,145 and Transfer in from other funds** 725,414, less Expenditures (2,655,666), gives the printed Ending balance of 1,086,753.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -24891,7 +24891,7 @@
   "outline_rect_pdf_points": "[415.13885498046875, 202.1251220703125, 437.47784423828125, 221.20509338378906]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Developer fees, in its ledger for Storm Drainage Impact Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance 164,178 plus Developer fees 450 and Interest income 5,317 and Unrealized gain/(loss) on investment* 8,830, less Expenditures (11,436), gives the printed Ending Balance of 167,339.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -25413,6 +25413,92 @@
   "source_limitations": "The report gives this fund's fees collected as one figure beside interest and other revenues it prints on separate lines."
  },
  {
+  "record_id": "city-of-mountain-view-2024-25-citywide-transportation-impact-fund-total_fees_collected",
+  "receiving_entity": "City of Mountain View",
+  "entity_type": "city",
+  "county": "Santa Clara",
+  "fiscal_year": "2024-25",
+  "fiscal_year_start": "2020-07-01",
+  "fiscal_year_end": "2025-06-30",
+  "fee_program": "Citywide Transportation Impact Fund",
+  "fee_category": "transportation",
+  "measure": "total_fees_collected",
+  "measure_as_printed": "Citywide Transportation Impact Fees",
+  "measure_role": "primary_reported_figure",
+  "figure_group_id": "city-of-mountain-view-2024-25-citywide-transportation-impact-fund",
+  "is_primary_in_figure_group": "true",
+  "value_usd": "72234.0",
+  "source_value_text": "72,234",
+  "value_is_printed_zero": "false",
+  "land_use_scope": "not_split_in_source",
+  "land_use_basis": "The report prints one undivided figure of fees collected for this fee and does not divide it by land use.",
+  "accounting_basis_source_read": "not_stated_in_source",
+  "gross_or_net_source_read": "not_stated_in_source",
+  "fiscal_year_basis": "ledger_headed_beginning_balance_july_1_2024",
+  "publication_title": "ATT 1 - FY 24-25 Annual Compliance Report for Development Impact Fees (Council item 204890, agenda date 2025-11-18)",
+  "publication_type": "annual_fee_report_66006",
+  "source_id": "city-of-mountain-view-2024-25-02e171e1",
+  "physical_pdf_page": 2,
+  "printed_page": "",
+  "internal_identifier": "Citywide Transportation Impact Fund / line Citywide Transportation Impact Fees",
+  "source_sha256": "02e171e17c6337753ede4a151c48459a536c5fce831c1696af4e9b4306222d80",
+  "source_pdf": "sources/city-of-mountain-view-2024-25-02e171e1.pdf",
+  "official_source_url": "https://legistar1.granicus.com/mountainview/attachments/22665edd-39fe-44d4-882a-44fcfb572eda.pdf",
+  "retrieved_utc": "2026-09-22T06:59:46.029810+00:00",
+  "page_extract_pdf": "evidence/extracts/city-of-mountain-view-p002-04897815.pdf",
+  "outlined_figure_pdf": "evidence/outlined/city-of-mountain-view-p002-04897815.pdf",
+  "outline_rect_pdf_points": "[425.9920654296875, 507.58001708984375, 472.21649169921875, 523.5800170898438]",
+  "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
+  "review_batch": "sw26-vertical-ledgers",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
+  "measure_read_from_source": "The outlined figure stands on the line the report labels Citywide Transportation Impact Fees, in its ledger for Citywide Transportation Impact Fund.",
+  "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Balance, July 1, 2024 2,140,247 plus Investment Earnings 59,499, less Citywide Transportation Impact Fees 72,234 and Capital Project Refunds 73,277, gives the printed Unexpended/Available Balance, June 30, 2025 of 2,345,257. The printed Total Unaudited Revenues of 205,010 is the sum of the inflows printed above it.",
+  "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
+ },
+ {
+  "record_id": "city-of-mountain-view-2024-25-housing-impact-fund-total_fees_collected",
+  "receiving_entity": "City of Mountain View",
+  "entity_type": "city",
+  "county": "Santa Clara",
+  "fiscal_year": "2024-25",
+  "fiscal_year_start": "2020-07-01",
+  "fiscal_year_end": "2025-06-30",
+  "fee_program": "Housing Impact Fund",
+  "fee_category": "affordable_housing",
+  "measure": "total_fees_collected",
+  "measure_as_printed": "Housing Impact Fees",
+  "measure_role": "primary_reported_figure",
+  "figure_group_id": "city-of-mountain-view-2024-25-housing-impact-fund",
+  "is_primary_in_figure_group": "true",
+  "value_usd": "96128.0",
+  "source_value_text": "96,128",
+  "value_is_printed_zero": "false",
+  "land_use_scope": "not_split_in_source",
+  "land_use_basis": "The report prints one undivided figure of fees collected for this fee and does not divide it by land use.",
+  "accounting_basis_source_read": "not_stated_in_source",
+  "gross_or_net_source_read": "not_stated_in_source",
+  "fiscal_year_basis": "ledger_headed_beginning_balance_july_1_2024",
+  "publication_title": "ATT 1 - FY 24-25 Annual Compliance Report for Development Impact Fees (Council item 204890, agenda date 2025-11-18)",
+  "publication_type": "annual_fee_report_66006",
+  "source_id": "city-of-mountain-view-2024-25-02e171e1",
+  "physical_pdf_page": 5,
+  "printed_page": "",
+  "internal_identifier": "Housing Impact Fund / line Housing Impact Fees",
+  "source_sha256": "02e171e17c6337753ede4a151c48459a536c5fce831c1696af4e9b4306222d80",
+  "source_pdf": "sources/city-of-mountain-view-2024-25-02e171e1.pdf",
+  "official_source_url": "https://legistar1.granicus.com/mountainview/attachments/22665edd-39fe-44d4-882a-44fcfb572eda.pdf",
+  "retrieved_utc": "2026-09-22T06:59:46.029810+00:00",
+  "page_extract_pdf": "evidence/extracts/city-of-mountain-view-p005-1254f190.pdf",
+  "outlined_figure_pdf": "evidence/outlined/city-of-mountain-view-p005-1254f190.pdf",
+  "outline_rect_pdf_points": "[379.5315856933594, 478.3000183105469, 442.0280456542969, 494.3000183105469]",
+  "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
+  "review_batch": "sw26-vertical-ledgers",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
+  "measure_read_from_source": "The outlined figure stands on the line the report labels Housing Impact Fees, in its ledger for Housing Impact Fund.",
+  "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Balance, July 1, 2024 40,081,740 plus Investment Earnings 1,168,714 and Other Revenue 49,362, less Housing Impact Fees 96,128 and Total Unaudited Expenditures (13,309,022), gives the printed Unexpended Balance of 28,086,922. The printed Total Unaudited Revenues of 1,314,204 is the sum of the inflows printed above it.",
+  "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
+ },
+ {
   "record_id": "city-of-murrieta-2014-15-fund-127-dif-fire-mixed-or-unallocated-fees-collected",
   "receiving_entity": "City of Murrieta",
   "entity_type": "city",
@@ -25837,7 +25923,7 @@
   "outline_rect_pdf_points": "[408.55426025390625, 190.18406677246094, 452.8044128417969, 205.37213134765625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Civic Facilities Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2022 924,103.29 plus Fees Collected 56,874.06 and Interest Earned 9,661.37 and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2023 of 990,638.72. The printed Total Revenues of 66,535.43 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -25880,7 +25966,7 @@
   "outline_rect_pdf_points": "[410.05426025390625, 219.964111328125, 454.3044128417969, 235.1521759033203]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Corporation Yard Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2022 (466,355.47) plus Fees Collected 13,407.66 and Interest Earned (4,458.68) and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2023 of (457,406.49). The printed Total Revenues of 8,948.98 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -25923,7 +26009,7 @@
   "outline_rect_pdf_points": "[405.55426025390625, 178.18406677246094, 449.8044128417969, 193.37213134765625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Drainage Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2022 1,165,721.34 plus Fees Collected 53,111.04 and Interest Earned 12,002.70 and Transfers In 0.00, less Total Expenses 7,392.89 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2023 of 1,223,442.19. The printed Total Revenues of 65,113.74 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -25966,7 +26052,7 @@
   "outline_rect_pdf_points": "[408.55426025390625, 219.964111328125, 452.8044128417969, 235.1521759033203]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for General Government Systems Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2022 227,649.79 plus Fees Collected 26,394.59 and Interest Earned 2,502.74 and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2023 of 256,547.12. The printed Total Revenues of 28,897.33 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26009,7 +26095,7 @@
   "outline_rect_pdf_points": "[410.05426025390625, 219.964111328125, 454.3044128417969, 235.1521759033203]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Open Space Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2022 758,018.24 plus Fees Collected 73,294.11 and Interest Earned 8,188.89 and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2023 of 839,501.24. The printed Total Revenues of 81,483 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26052,7 +26138,7 @@
   "outline_rect_pdf_points": "[408.55426025390625, 251.70408630371094, 452.8044128417969, 266.89215087890625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Recreational & Cultural Facilities Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2022 3,032,954.40 plus Fees Collected 86,939.81 and Interest Earned 30,405.47 and Transfers In 0.00, less Total Expenses 33,000.00 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2023 of 3,117,299.68. The printed Total Revenues of 117,345.28 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26095,7 +26181,7 @@
   "outline_rect_pdf_points": "[405.5687561035156, 343.98406982421875, 454.2912292480469, 359.1721496582031]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Streets & Intersections Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2022 12,161,924.65 plus Fees Collected 682,328.26 and Interest Earned 126,035.26 and Transfers In 0.00, less Total Expenses 44,583.64 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2023 of 12,925,704.53. The printed Total Revenues of 808,363.52 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26138,7 +26224,7 @@
   "outline_rect_pdf_points": "[410.05426025390625, 251.70408630371094, 454.3044128417969, 266.89215087890625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Transit Facilities Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2022 113,248.01 plus Fees Collected 21,530.58 and Interest Earned 1,297.25 and Transfers In 0.00, less Total Expenses 3,094.41 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2023 of 132,981.43. The printed Total Revenues of 22,827.83 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26181,7 +26267,7 @@
   "outline_rect_pdf_points": "[408.50909423828125, 178.09616088867188, 452.7455139160156, 193.26966857910156]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Civic Facilities Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2023 990,638.72 plus Fees Collected 41,952.82 and Interest Earned 27,665.04 and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2024 of 1,060,256.58. The printed Total Revenues of 69,617.86 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 990,638.72 is the ending balance printed for it in the FY2022-23 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26224,7 +26310,7 @@
   "outline_rect_pdf_points": "[413.012939453125, 219.87615966796875, 452.7786560058594, 235.04966735839844]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Corporation Yard Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2023 (457,406.49) plus Fees Collected 8,517.18 and Interest Earned (12,026.57) and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2024 of (460,915.88). The printed Total Revenues of -3,509.39 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance (457,406.49) is the ending balance printed for it in the FY2022-23 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26267,7 +26353,7 @@
   "outline_rect_pdf_points": "[408.50909423828125, 178.09616088867188, 452.7455139160156, 193.26966857910156]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Drainage Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2023 1,223,442.19 plus Fees Collected 43,270.67 and Interest Earned 33,937.58 and Transfers In 0.00, less Total Expenses 189.99 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2024 of 1,300,460.45. The printed Total Revenues of 77,208.25 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 1,223,442.19 is the ending balance printed for it in the FY2022-23 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26310,7 +26396,7 @@
   "outline_rect_pdf_points": "[408.50909423828125, 219.87615966796875, 452.7455139160156, 235.04966735839844]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for General Government Systems Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2023 256,547.12 plus Fees Collected 20,046.89 and Interest Earned 7,410.46 and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2024 of 284,004.47. The printed Total Revenues of 27,457.35 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26353,7 +26439,7 @@
   "outline_rect_pdf_points": "[408.50909423828125, 219.87615966796875, 452.7455139160156, 235.04966735839844]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Open Space Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2023 839,501.24 plus Fees Collected 55,704.30 and Interest Earned 23,984.21 and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2024 of 919,189.75. The printed Total Revenues of 79,688.51 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26396,7 +26482,7 @@
   "outline_rect_pdf_points": "[402.5687561035156, 219.964111328125, 451.2912292480469, 235.1521759033203]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Recreational & Cultural Facilities Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2023 3,117,299.68 plus Fees Collected 100,781.99 and Interest Earned 84,898.86 and Transfers In 0.00, less Total Expenses 49,250.00 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2024 of 3,253,730.53. The printed Total Revenues of 185,680.85 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 3,117,299.68 is the ending balance printed for it in the FY2022-23 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26439,7 +26525,7 @@
   "outline_rect_pdf_points": "[404.025146484375, 343.8961486816406, 452.7322692871094, 359.0696716308594]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Streets & Intersections Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2023 12,925,704.53 plus Fees Collected 397,993.47 and Interest Earned 354,756.28 and Transfers In 0.00, less Total Expenses 82,495.89 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2024 of 13,595,958.39. The printed Total Revenues of 752,749.75 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 12,925,704.53 is the ending balance printed for it in the FY2022-23 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26482,7 +26568,7 @@
   "outline_rect_pdf_points": "[408.55426025390625, 251.70408630371094, 452.8044128417969, 266.89215087890625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Transit Facilities Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2023 132,981.43 plus Fees Collected 13,707.11 and Interest Earned (216.86) and Transfers In 0.00, less Total Expenses 154,782.75 and Transfers Out 0.00, gives the printed Ending Balance as of June 30, 2024 of (8,311.07). The printed Total Revenues of 13,490.25 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26525,7 +26611,7 @@
   "outline_rect_pdf_points": "[414.512939453125, 178.16270446777344, 454.2786560058594, 193.34996032714844]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Civic Facilities Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2024 1,060,256.58 plus Fees Collected 8,624.08 and Interest Earned 41,393.00 and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 472.42, gives the printed Ending Balance as of June 30, 2025 of 1,109,801.24. The printed Total Revenues of 50,017.08 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 1,060,256.58 is the ending balance printed for it in the FY2023-24 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26568,7 +26654,7 @@
   "outline_rect_pdf_points": "[414.512939453125, 219.9427032470703, 454.2786560058594, 235.1299591064453]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Corporation Yard Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2024 (460,915.88) plus Fees Collected 1,776.39 and Interest Earned (17,780.43) and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 63.24, gives the printed Ending Balance as of June 30, 2025 of (476,983.16). The printed Total Revenues of -16,004.04 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance (460,915.88) is the ending balance printed for it in the FY2023-24 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26611,7 +26697,7 @@
   "outline_rect_pdf_points": "[408.50909423828125, 178.16270446777344, 452.7455139160156, 193.34996032714844]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Drainage Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2024 1,300,460.45 plus Fees Collected 10,717.28 and Interest Earned 50,776.08 and Transfers In 0.00, less Total Expenses 3,503.46 and Transfers Out 455.00, gives the printed Ending Balance as of June 30, 2025 of 1,357,995.35. The printed Total Revenues of 61,493.36 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 1,300,460.45 is the ending balance printed for it in the FY2023-24 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26654,7 +26740,7 @@
   "outline_rect_pdf_points": "[414.512939453125, 219.9427032470703, 454.2786560058594, 235.1299591064453]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for General Government Systems Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2024 284,004.47 plus Fees Collected 2,802.50 and Interest Earned 11,106.76 and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 215.08, gives the printed Ending Balance as of June 30, 2025 of 297,698.65. The printed Total Revenues of 13,909.26 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26697,7 +26783,7 @@
   "outline_rect_pdf_points": "[414.512939453125, 219.9427032470703, 454.2786560058594, 235.1299591064453]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Open Space Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2024 919,189.75 plus Fees Collected 7,785.48 and Interest Earned 35,897.63 and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 597.81, gives the printed Ending Balance as of June 30, 2025 of 962,275.05. The printed Total Revenues of 43,683.11 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26740,7 +26826,7 @@
   "outline_rect_pdf_points": "[408.55426025390625, 219.89808654785156, 452.8044128417969, 235.0779266357422]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Recreational & Cultural Facilities Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2024 3,253,730.53 plus Fees Collected 23,403.21 and Interest Earned 124,142.72 and Transfers In 0.00, less Total Expenses 71,428.41 and Transfers Out 1,796.95, gives the printed Ending Balance as of June 30, 2025 of 3,328,051.10. The printed Total Revenues of 147,545.93 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 3,253,730.53 is the ending balance printed for it in the FY2023-24 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26783,7 +26869,7 @@
   "outline_rect_pdf_points": "[410.00909423828125, 343.9626770019531, 454.2455139160156, 359.1499328613281]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Streets & Intersections Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2024 13,595,958.39 plus Fees Collected 82,044.60 and Interest Earned 512,723.00 and Transfers In 0.00, less Total Expenses 435,081.11 and Transfers Out 3,008.11, gives the printed Ending Balance as of June 30, 2025 of 13,752,636.77. The printed Total Revenues of 594,767.60 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 13,595,958.39 is the ending balance printed for it in the FY2023-24 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -26826,7 +26912,7 @@
   "outline_rect_pdf_points": "[414.55963134765625, 394.6380920410156, 454.3376159667969, 409.81793212890625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Transit Facilities Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance as of July 1, 2024 (8,311.07) plus Fees Collected 2,842.86 and Interest Earned (211.76) and Transfers In 0.00, less Total Expenses 0.00 and Transfers Out 101.39, gives the printed Ending Balance as of June 30, 2025 of (5,781.36). The printed Total Revenues of 2,631.10 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -27600,7 +27686,7 @@
   "outline_rect_pdf_points": "[411.94976806640625, 404.0462341308594, 464.53631591796875, 420.3877258300781]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Affordable Housing Impact Fees.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Starting Balance 22,530,930 plus Fees Collected 2,238,625 and Interest Earned (Fund 1870) 651,080, less Refunds 0 and Expenditures 0, gives the printed Ending Balance as of June 30, 2023 of 25,420,635.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -27643,7 +27729,7 @@
   "outline_rect_pdf_points": "[413.4490966796875, 300.2462463378906, 466.03564453125, 316.5877380371094]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Jobs/Housing Impact Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Starting Balance 11,891,730 plus Fees Collected 2,276,425 and Interest Earned (Fund 1870) 315,214, less Refunds 0 and Expenditures (3,965,000), gives the printed Ending Balance as of June 30, 2023 of 10,518,369.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -27686,7 +27772,7 @@
   "outline_rect_pdf_points": "[421.489013671875, 547.5662231445312, 474.0755615234375, 563.9077758789062]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Transportation Impact Fees.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Starting Balance 8,254,810 plus Fees Collected 1,979,184 and Interest Earned * 230,420, less Refunds 69,874 and Expenditures** 1,064,656, gives the printed Ending Balance as of June 30, 2023 *** of 9,329,885.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -27729,7 +27815,7 @@
   "outline_rect_pdf_points": "[415.3599853515625, 430.75457763671875, 467.96002197265625, 449.029296875]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected (Fund 1870, 1872), in its ledger for Affordable Housing Impact Fees.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Starting Balance 25,420,635 plus Fees Collected (Fund 1870, 1872) 3,310,216 and Interest Earned (Fund 1870, 1872) 531,103, less Refunds (137,724) and Expenditures (10,962,124), gives the printed Ending Balance as of June 30, 2024 of 18,162,106. The reading is corroborated across separately published reports: this fee's printed beginning balance 25,420,635 is the ending balance printed for it in the FY2022-23 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -27772,7 +27858,7 @@
   "outline_rect_pdf_points": "[412.3599853515625, 143.83453369140625, 467.7200012207031, 162.1092529296875]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Transportation Impact Fees.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Starting Balance 9,373,212 plus Fees Collected 1,312,509 and Interest Earned 436,870, less Refunds (180,197) and Expenditures (461,068), gives the printed Ending Balance as of June 30, 2024 *** of 10,481,326.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -27815,7 +27901,7 @@
   "outline_rect_pdf_points": "[415.5252990722656, 441.0062255859375, 468.1338195800781, 457.34771728515625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected (Fund 1872), in its ledger for Affordable Housing Impact Fees.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Starting Balance 18,162,106 plus Fees Collected (Fund 1872) 1,312,062 and Interest Earned (Fund 1872) 438,420, less Refunds (11,964) and Expenditures (6,577,455) and Under-reported AHIF Expenditures from Prior Reporting** (2,586,118), gives the printed Ending Balance as of June 30, 2025 of 10,737,051. The reading is corroborated across separately published reports: this fee's printed beginning balance 18,162,106 is the ending balance printed for it in the FY2023-24 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -27858,7 +27944,7 @@
   "outline_rect_pdf_points": "[370.35992431640625, 157.86622619628906, 415.4054260253906, 174.20774841308594]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for City of Oakland Impact Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Starting Balance 5,501,667 plus Fees Collected 165,352 and Interest Earned 216,237, less Refunds (0) and Expenditures (1,459,155), gives the printed Ending Balance as of June 30, 2025 of 4,424,101.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -27901,7 +27987,7 @@
   "outline_rect_pdf_points": "[451.218017578125, 349.626220703125, 468.04815673828125, 365.96771240234375]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected (Fund 1871), in its ledger for Jobs/Housing Impact Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Starting Balance 13,964,433 plus Fees Collected (Fund 1871) 0 and Interest Earned (Fund 1871) 431,572, less Refunds 0 and Expenditures (718,000) and Under-reported JHIF Expenditures from Prior (1,131,545), gives the printed Ending Balance as of June 30, 2025 of 12,546,460.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -27944,7 +28030,7 @@
   "outline_rect_pdf_points": "[422.8092956542969, 145.2661895751953, 467.82843017578125, 161.6077117919922]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Transportation Impact Fees.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Starting Balance 10,561,596 plus Fees Collected 227,593 and Interest Earned 426,400, less Refunds 0 and Expenditures (1,473,770), gives the printed Ending Balance as of June 30, 2025 of 9,741,818.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -28159,7 +28245,7 @@
   "outline_rect_pdf_points": "[220.88999938964844, 310.21319580078125, 280.38568115234375, 325.9875793457031]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Developer Fees Collected, in its ledger for Public Arts In-Lieu Fee, Fund 150.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Fund Balance 790,260 plus Developer Fees Collected 157,849 and Investment Income Earned 63,125, less Capital Projects & Expenses (512,678), gives the printed Ending Fund Balance of 498,556.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -33878,7 +33964,7 @@
   "outline_rect_pdf_points": "[347.6000061035156, 564.4810180664062, 428.6109924316406, 581.9119873046875]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Developer Fees, in its ledger for Below Market Rate Housing Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Balance 253,820 plus Developer Fees 461 and Interest Income / (Expense) -, less Expenditures -, gives the printed Ending Balance of 254,281.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -33921,7 +34007,7 @@
   "outline_rect_pdf_points": "[385.0, 390.2079772949219, 466.4720153808594, 410.26397705078125]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Developer Fees, in its ledger for Tree Replacement Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Balance 1,132,343 plus Developer Fees 297,649 and Interest Income / (Expense) 410,166, less Expenditures (97,366), gives the printed Ending Balance of 1,742,792.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -35942,7 +36028,7 @@
   "outline_rect_pdf_points": "[614.6805419921875, 214.96202087402344, 646.2039794921875, 226.56411743164062]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Parks Mitigation Fee (Fund 532).",
   "arithmetic_check": "The ledger's own printed lines account for each other: FY 2023-24 Ending Fund Balance 43,767,479 plus Fees Collected 1,508,002 and Interest Earned 1,468,464, less Expenditures (6,023,065), gives the printed FY 2024-25 Ending Fund Balance of 40,720,880.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -35985,7 +36071,7 @@
   "outline_rect_pdf_points": "[640.030029296875, 236.7758331298828, 666.70068359375, 249.60382080078125]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Sanitary Sewer Connection Fee (Fund 594).",
   "arithmetic_check": "The ledger's own printed lines account for each other: FY 2023-24 Ending Fund Balance (167,750,089) plus Fees Collected 545,586, less Expenditures (8,108,204), gives the printed FY 2024-25 Ending Fund Balance of (175,312,707).",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -36028,7 +36114,7 @@
   "outline_rect_pdf_points": "[637.3605346679688, 230.80934143066406, 672.114501953125, 243.29483032226562]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Sanitary Sewer Conveyance Fee (Fund 594).",
   "arithmetic_check": "The ledger's own printed lines account for each other: FY 2023-24 Ending Fund Balance 55,815,618 plus Fees Collected 1,328,550 and Interest Earned 2,048,922, less Expenditures (467,919), gives the printed FY 2024-25 Ending Fund Balance of 58,725,171.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -36071,7 +36157,7 @@
   "outline_rect_pdf_points": "[700.9767456054688, 231.8833770751953, 721.7640991210938, 244.36830139160156]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Storm Drain Fee (Fund 535).",
   "arithmetic_check": "The ledger's own printed lines account for each other: FY 2023-24 Ending Fund Balance 300,670 plus Fees Collected 1,869 and Interest Earned 10,940, less Expenditures Adjustment -, gives the printed FY 2024-25 Ending Fund Balance of 313,479.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -36114,7 +36200,7 @@
   "outline_rect_pdf_points": "[648.89306640625, 193.86891174316406, 675.8253784179688, 205.5869140625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Traffic Mitigation Fee (Fund 123 and 533).",
   "arithmetic_check": "The ledger's own printed lines account for each other: FY 2023-24 Ending Fund Balance 8,991,018 plus Fees Collected 414,853 and Interest Earned 249,350, less Expenditures (4,939,039), gives the printed FY 2024-25 Ending Fund Balance of 4,716,182.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -36716,7 +36802,7 @@
   "outline_rect_pdf_points": "[376.239990234375, 449.0415954589844, 419.1288757324219, 466.6369934082031]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Collected, in its ledger for Citywide Traffic Impact Fee.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning Balance, July 1, 2023 1,145,877 plus Fees Collected 162,077 and Interest Earned 35,629 and Transfer-in 0, less Total 197,706 and Total Disbursements (161,466), gives the printed Ending Balance, June 30, 2024 of 1,182,117. The printed Total of 197,706 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37103,7 +37189,7 @@
   "outline_rect_pdf_points": "[289.6499938964844, 184.02566528320312, 361.1999816894531, 199.0513916015625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Child Care Impact Fees, in its ledger for Childcare Impact Fee (Fund 830).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2022 13,901,164 plus Interest Earned 248,825 and Unrealized Gains/Losses (91,734), less Child Care Impact Fees 542,089 and Total Disbursements (492,800), gives the printed Remaining balance as of June 30, 2023 of 14,107,544. The printed Total Additions of 699,180 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37146,7 +37232,7 @@
   "outline_rect_pdf_points": "[332.0299987792969, 199.86563110351562, 403.55999755859375, 214.891357421875]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Commerical Linkage Impact Fees, in its ledger for Commercial Linkage Impact Fee Program (Fund 823).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2022 8,914,100 plus Unrealized Gains/Losses (66,410) and Interest Earned 187,576, less Commerical Linkage Impact Fees 7,377,990 and Total Disbursements (1,384,869), gives the printed Remaining balance as of June 30, 2023 of 15,028,387. The printed Total Additions of 7,499,156 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37189,7 +37275,7 @@
   "outline_rect_pdf_points": "[271.5299987792969, 197.82565307617188, 343.0799865722656, 212.85137939453125]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Impact Fees, in its ledger for East of 101 Sewer Impact Fee (Fund 810).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2022 4,872,806 plus Impact Fees 350,946 and Unrealized Gains/Losses (31,836) and Interest Earned 86,447, less Total Disbursements (2,800), gives the printed Remaining balance as of June 30, 2023 of 5,275,564. The printed Total Additions of 405,557 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37232,7 +37318,7 @@
   "outline_rect_pdf_points": "[250.77000427246094, 211.62564086914062, 322.29998779296875, 226.6513671875]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Library Impact Fee, in its ledger for Library Impact Fee (Fund 824).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2022 674 plus Unrealized Gains/Losses - and Interest Earned 13, less Library Impact Fee 3,622 and Total Disbursements -, gives the printed Remaining balance as of June 30, 2023 of 4,309. The printed Total Additions of 3,635 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37275,7 +37361,7 @@
   "outline_rect_pdf_points": "[316.5299987792969, 184.02566528320312, 388.0799865722656, 199.0513916015625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Impact Fees, in its ledger for Oyster Point Interchange Impact Fee (Fund 840).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2022 29,836 plus Impact Fees 105,913 and Unrealized Gains/Losses (564) and Interest Earned 1,586, less Total Disbursements (100,000), gives the printed Remaining balance as of June 30, 2023 of 36,771. The printed Total Additions of 106,935 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37318,7 +37404,7 @@
   "outline_rect_pdf_points": "[271.8900146484375, 197.82565307617188, 343.44000244140625, 212.85137939453125]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Impact Fees, in its ledger for Sewer Capacity Charges (Fund 730).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2022 10,408,664 plus Impact Fees 1,107,479 and Unrealized Gains/Losses (70,852) and Interest Earned 192,716, less Total Disbursements (2,800), gives the printed Remaining balance as of June 30, 2023 of 11,635,207. The printed Total Additions of 1,229,343 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37361,7 +37447,7 @@
   "outline_rect_pdf_points": "[332.0299987792969, 211.62564086914062, 403.55999755859375, 226.6513671875]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Impact Fees, in its ledger for Transportation Impact Fee (Fund 825).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2022 3,890,857 plus Impact Fees 8,036 and Unrealized Gains/Losses (25,049) and Interest Earned 67,831, less Total Disbursements (54,099), gives the printed Remaining balance as of June 30, 2023 of 3,887,577. The printed Total Additions of 50,818 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37404,7 +37490,7 @@
   "outline_rect_pdf_points": "[326.67999267578125, 185.46249389648438, 380.7831115722656, 200.46728515625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Child Care Impact Fees, in its ledger for Childcare Impact Fee (Fund 830).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2023 14,107,544 plus Interest Earned 414,263 and Unrealized Gains/Losses 189,896, less Child Care Impact Fees 485,015 and Total Disbursements (39,769), gives the printed Remaining balance as of June 30, 2024 of 15,156,949. The printed Total Additions of 1,089,174 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 14,107,544 is the ending balance printed for it in the FY2022-23 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37447,7 +37533,7 @@
   "outline_rect_pdf_points": "[298.0, 185.34249877929688, 356.9742431640625, 200.3472900390625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Impact Fees, in its ledger for East of 101 Sewer Impact Fee (Fund 810).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2023 5,275,564 plus Impact Fees 861,755 and Unrealized Gains/Losses 73,046 and Interest Earned 160,684, less Total Disbursements (7,979), gives the printed Remaining balance as of June 30, 2024 of 6,363,070. The printed Total Additions of 1,095,485 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 5,275,564 is the ending balance printed for it in the FY2022-23 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37490,7 +37576,7 @@
   "outline_rect_pdf_points": "[299.32000732421875, 220.3824920654297, 365.8494567871094, 235.3872833251953]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Library Impact Fee, in its ledger for Library Impact Fee (Fund 824).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2023 4,309 plus Unrealized Gains/Losses 373 and Interest Earned 895, less Library Impact Fee 38,361 and Disbursements -, gives the printed Remaining balance as of June 30, 2024 of 43,938. The printed Total Additions of 39,629 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 4,309 is the ending balance printed for it in the FY2022-23 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37533,7 +37619,7 @@
   "outline_rect_pdf_points": "[307.4800109863281, 174.1824951171875, 356.51318359375, 189.18728637695312]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Impact Fees, in its ledger for Oyster Point Interchange Impact Fee (Fund 840).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2023 36,771 plus Impact Fees 884,195 and Unrealized Gains/Losses 5,573 and Interest Earned 13,513, less Total Disbursements (884,000), gives the printed Remaining balance as of June 30, 2024 of 56,052. The printed Total Additions of 903,281 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37576,7 +37662,7 @@
   "outline_rect_pdf_points": "[309.0400085449219, 194.94247436523438, 363.1431579589844, 209.947265625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Impact Fees, in its ledger for Sewer Capacity Charges (Fund 730).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2023 11,635,207 plus Impact Fees 1,453,256 and Unrealized Gains/Losses 163,571 and Interest Earned 359,265, less Total Disbursements (3,652), gives the printed Remaining balance as of June 30, 2024 of 13,607,647. The printed Total Additions of 1,976,092 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37619,7 +37705,7 @@
   "outline_rect_pdf_points": "[294.2799987792969, 180.302490234375, 348.38311767578125, 195.30728149414062]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Child Care Impact Fees, in its ledger for Childcare Impact Fee (Fund 830).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2024 15,156,949 plus Interest Earned 560,393 and Unrealized Gains/Losses 307,431, less Child Care Impact Fees 594,076 and Total Disbursements 120,553, gives the printed Remaining balance as of June 30, 2025 of 16,739,402. The printed Total Additions of 1,461,900 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 15,156,949 is the ending balance printed for it in the FY2023-24 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -37662,7 +37748,7 @@
   "outline_rect_pdf_points": "[258.5199890136719, 224.58248901367188, 325.03216552734375, 239.5872802734375]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Library Impact Fee, in its ledger for Library Impact Fee (Fund 824).",
   "arithmetic_check": "The ledger's own printed lines account for each other: Beginning balance, July 1, 2024 43,938 plus Unrealized Gains/Losses 923 and Interest Earned 5,797, less Library Impact Fee 1,395 and Disbursements -, gives the printed Remaining balance as of June 30, 2025 of 52,053. The printed Total Additions of 8,115 is the sum of the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 43,938 is the ending balance printed for it in the FY2023-24 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43166,7 +43252,7 @@
   "outline_rect_pdf_points": "[449.64642333984375, 497.5600280761719, 510.3583984375, 514.9520263671875]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Received, in its ledger for Traffic Impact Fees.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Balance as of July 1, 2023 579,506.64 plus Fees Received 13,917.20 and Interest Revenue 26,454.55, less Expenditures 161,090.17, gives the printed Balance as of June 30, 2024 of 458,788.22. The printed Total Available Resources of 619,878.39 is the opening balance with the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43209,7 +43295,7 @@
   "outline_rect_pdf_points": "[461.91998291015625, 429.7205505371094, 512.6328125, 447.0871887207031]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels Fees Received, in its ledger for Traffic Development Impact Fees.",
   "arithmetic_check": "The ledger's own printed lines account for each other: Balance as of July 1, 2024 458,788.22 plus Fees Received 5,297.94 and Interest Revenue 24,527.90, less Expenditures 59,765.01, gives the printed Balance as of June 30, 2025 of 428,849.05. The printed Total Available Resources of 488,614.06 is the opening balance with the inflows printed above it. The reading is corroborated across separately published reports: this fee's printed beginning balance 458,788.22 is the ending balance printed for it in the FY2023-24 report.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43467,7 +43553,7 @@
   "outline_rect_pdf_points": "[455.1083068847656, 428.9930114746094, 504.07537841796875, 447.7645263671875]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Aquatic Center Facilities Fees - Unincorporated Area (Fund 2640).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 84,928.88 plus FEES COLLECTED 17,290.30 and INTEREST EARNED 471.80, less TOTAL EXPENDITURES 85,221.20, gives the printed ENDING BALANCE 06/30/23 of 17,469.78. The printed TOTAL REVENUE of 17,762.10 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43510,7 +43596,7 @@
   "outline_rect_pdf_points": "[462.6683044433594, 329.39300537109375, 505.9928283691406, 348.1645202636719]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for California Water Company Area - Fire Hydrants (Fund 5218).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 8,634.38 plus FEES COLLECTED 1,559.09 and INTEREST EARNED 94.99, less TOTAL EXPENSE -, gives the printed ENDING BALANCE 06/30/23 of 10,288.46. The printed TOTAL REVENUE of 1,654.08 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43553,7 +43639,7 @@
   "outline_rect_pdf_points": "[451.3883056640625, 489.7130126953125, 505.9957275390625, 508.4845275878906]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Chico Urban Area Street Improvement (Fund 5204).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 772,362.44 plus FEES COLLECTED 152,289.94 and INTEREST EARNED 8,645.20, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 933,297.58. The printed TOTAL REVENUE of 160,935.14 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43596,7 +43682,7 @@
   "outline_rect_pdf_points": "[456.4283142089844, 530.3930053710938, 505.3953857421875, 549.1644897460938]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Countywide General Government Facilities (Fund 5201).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 667,298.98 plus FEES COLLECTED 79,485.74 and INTEREST EARNED 15,879.29, less TOTAL EXPENDITURES 282,330.38, gives the printed ENDING BALANCE 06/30/23 of 480,333.63. The printed TOTAL REVENUE of 95,365.03 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43639,7 +43725,7 @@
   "outline_rect_pdf_points": "[456.4283142089844, 532.9129638671875, 505.3953857421875, 551.6844482421875]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Criminal Justice Facilities (Fund 5205).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 274,037.33 plus FEES COLLECTED 40,720.16 and INTEREST EARNED 3,393.01, less TOTAL EXPENDITURES 1,195.62, gives the printed ENDING BALANCE 06/30/23 of 316,954.88. The printed TOTAL REVENUE of 44,113.17 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43682,7 +43768,7 @@
   "outline_rect_pdf_points": "[455.1083068847656, 331.7929992675781, 504.07537841796875, 350.56451416015625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for District Facilities Fees (Incorporated Area) (Fund 2528).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 111,222.68 plus FEES COLLECTED 12,043.87 and INTEREST EARNED 2,058.72, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 125,325.27. The printed TOTAL REVENUE of 14,102.59 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43725,7 +43811,7 @@
   "outline_rect_pdf_points": "[460.7483215332031, 410.0329895019531, 504.0728454589844, 428.80450439453125]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for District Facilities Fees (Unincorporated Area) (Fund 2524).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 55,670.96 plus FEES COLLECTED 1,860.60 and INTEREST EARNED 999.11, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 58,530.67. The printed TOTAL REVENUE of 2,859.71 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43768,7 +43854,7 @@
   "outline_rect_pdf_points": "[456.4283142089844, 501.35302734375, 505.3953857421875, 520.12451171875]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Fire Facilities (Fund 5223).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 1,607,507.91 plus FEES COLLECTED 86,372.27 and INTEREST EARNED 22,026.36 and LOAN INTEREST PAYMENT (From Fund 5202) - and LOAN PRINCIPAL PAYMENT (From Fund 5202) 57,000.00, less TOTAL EXPENDITURES 2,741.21, gives the printed ENDING BALANCE 06/30/23 of 1,770,165.33. The printed TOTAL REVENUE of 165,398.63 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43811,7 +43897,7 @@
   "outline_rect_pdf_points": "[456.4283142089844, 414.2330017089844, 505.3953857421875, 433.0045166015625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Health & Social Services Facilities (Fund 5207).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 34,306.95 plus FEES COLLECTED 12,616.57 and INTEREST EARNED 237.13, less TOTAL EXPENDITURES 286.51, gives the printed ENDING BALANCE 06/30/23 of 46,874.14. The printed TOTAL REVENUE of 12,853.70 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43854,7 +43940,7 @@
   "outline_rect_pdf_points": "[456.4283142089844, 459.9530029296875, 505.3953857421875, 478.7245178222656]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Jail Facilities (Fund 5202).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 3,916.87 plus FEES COLLECTED 56,553.73 and INTEREST EARNED 289.60, less TOTAL EXPENDITURES 58,330.78, gives the printed ENDING BALANCE 06/30/23 of 2,429.42. The printed TOTAL REVENUE of 56,843.33 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43897,7 +43983,7 @@
   "outline_rect_pdf_points": "[456.4283142089844, 414.2330017089844, 505.3953857421875, 433.0045166015625]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Library Facilities (Fund 5212).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 488,180.96 plus FEES COLLECTED 27,536.29 and INTEREST EARNED 9,206.46, less TOTAL EXPENDITURES 83,512.84, gives the printed ENDING BALANCE 06/30/23 of 441,410.87. The printed TOTAL REVENUE of 36,742.75 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43940,7 +44026,7 @@
   "outline_rect_pdf_points": "[462.6683044433594, 568.6729736328125, 505.9928283691406, 587.4444580078125]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for North Chico Specific Plan (NCSP)--Fire Station (Fund 5230).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 115,672.91 plus FEES COLLECTED 5,634.00 and INTEREST EARNED 1,736.78, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 123,043.69. The printed TOTAL REVENUE of 7,370.78 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -43983,7 +44069,7 @@
   "outline_rect_pdf_points": "[457.0283203125, 511.4329833984375, 505.9953918457031, 530.2044677734375]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for North Chico Specific Plan (NCSP)--Parks (Fund 5231).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 205,027.85 plus FEES COLLECTED 10,476.00 and INTEREST EARNED 3,067.65, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 218,571.50. The printed TOTAL REVENUE of 13,543.65 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44026,7 +44112,7 @@
   "outline_rect_pdf_points": "[457.0283203125, 569.0330200195312, 505.9953918457031, 587.8045043945312]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for North Chico Specific Plan (NCSP)--Roads & Bridges (Fund 5228).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 221,030.27 plus FEES COLLECTED 15,183.00 and INTEREST EARNED 3,221.89, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 239,435.16. The printed TOTAL REVENUE of 18,404.89 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44069,7 +44155,7 @@
   "outline_rect_pdf_points": "[462.6683044433594, 565.79296875, 505.9928283691406, 584.564453125]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for North Chico Specific Plan (NCSP)--Storm Drainage (Fund 5229).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 263,377.42 plus FEES COLLECTED 4,087.00 and INTEREST EARNED 4,146.22, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 271,610.64. The printed TOTAL REVENUE of 8,233.22 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44112,7 +44198,7 @@
   "outline_rect_pdf_points": "[462.6683044433594, 511.4329833984375, 505.9928283691406, 530.2044677734375]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for North Chico Specific Plan (NCSP)--Trails System (Fund 5227).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 47,328.32 plus FEES COLLECTED 2,367.00 and INTEREST EARNED 709.26, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 50,404.58. The printed TOTAL REVENUE of 3,076.26 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44155,7 +44241,7 @@
   "outline_rect_pdf_points": "[455.1083068847656, 320.27301025390625, 504.07537841796875, 339.0445251464844]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Park Acquisition Fees (Incorporated Area) (Fund 2526).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 184,559.55 plus FEES COLLECTED 18,133.16 and INTEREST EARNED 3,401.53, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 206,094.24. The printed TOTAL REVENUE of 21,534.69 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44198,7 +44284,7 @@
   "outline_rect_pdf_points": "[455.1083068847656, 320.27301025390625, 504.07537841796875, 339.0445251464844]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Park Development Fees (Incorporated Area) (Fund 2527).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 543,288.22 plus FEES COLLECTED 52,378.00 and INTEREST EARNED 10,005.08, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 605,671.30. The printed TOTAL REVENUE of 62,383.08 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44241,7 +44327,7 @@
   "outline_rect_pdf_points": "[460.7483215332031, 432.9530029296875, 504.0728454589844, 451.7245178222656]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Park Development Fees (Unincorporated Area) (Fund 2522).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 141,333.24 plus FEES COLLECTED 8,062.60 and INTEREST EARNED 2,553.36, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 151,949.20. The printed TOTAL REVENUE of 10,615.96 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44284,7 +44370,7 @@
   "outline_rect_pdf_points": "[457.50830078125, 327.8330078125, 506.4753723144531, 346.6045227050781]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Park Development (Fund 2480).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 360,347.02 plus FEES COLLECTED 64,125.00 and INTEREST EARNED 7,374.74, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 431,846.76. The printed TOTAL REVENUE of 71,499.74 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44327,7 +44413,7 @@
   "outline_rect_pdf_points": "[456.7882995605469, 377.87298583984375, 505.75537109375, 396.6445007324219]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Park Facilities Fees - Unincorporated Area (Fund 2532).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 154,622.06 plus FEES COLLECTED 21,685.80 and INTEREST EARNED 2,731.40, less TOTAL EXPENDITURES 8,297.85, gives the printed ENDING BALANCE 06/30/23 of 170,741.41. The printed TOTAL REVENUE of 24,417.20 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44370,7 +44456,7 @@
   "outline_rect_pdf_points": "[449.46832275390625, 425.39300537109375, 504.07574462890625, 444.1645202636719]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Park Land & Facilities Fees - Unincorporated Area (Fund 2620).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 724,789.95 plus FEES COLLECTED 138,584.17 and INTEREST EARNED 12,648.34, less TOTAL EXPENDITURES 52,907.48, gives the printed ENDING BALANCE 06/30/23 of 823,114.98. The printed TOTAL REVENUE of 151,232.51 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44413,7 +44499,7 @@
   "outline_rect_pdf_points": "[455.1083068847656, 429.7130126953125, 504.07537841796875, 448.4845275878906]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Public Use (Community Center) Fees - Unincorporated Area (Fund 2630).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 119,857.00 plus FEES COLLECTED 19,240.53 and INTEREST EARNED 2,188.04, less TOTAL EXPENDITURES 243.32, gives the printed ENDING BALANCE 06/30/23 of 141,042.25. The printed TOTAL REVENUE of 21,428.57 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44456,7 +44542,7 @@
   "outline_rect_pdf_points": "[450.7882995605469, 509.75299072265625, 505.3957214355469, 528.5244750976562]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Sheriff Facilities (Fund 5222).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 814,058.96 plus FEES COLLECTED 137,624.37 and INTEREST EARNED 23,404.01 and LOAN INTEREST PAYMENT (From Fund 5202) - and LOAN PRINCIPAL PAYMENT (From Fund 5202) -, less TOTAL EXPENSE 482,818.11, gives the printed ENDING BALANCE 06/30/23 of 492,269.23. The printed TOTAL REVENUE of 161,028.38 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44499,7 +44585,7 @@
   "outline_rect_pdf_points": "[460.7483215332031, 310.4329833984375, 504.0728454589844, 329.2044982910156]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Sub-Division Fees (Fund 2520).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 8,425.70 plus FEES COLLECTED 1,673.77 and INTEREST EARNED 156.58, less TOTAL EXPENDITURES -, gives the printed ENDING BALANCE 06/30/23 of 10,256.05. The printed TOTAL REVENUE of 1,830.35 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44542,7 +44628,7 @@
   "outline_rect_pdf_points": "[462.6683044433594, 501.35302734375, 505.9928283691406, 520.12451171875]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Thermalito Drainage (Fund 5209).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 238,397.11 plus FEES COLLECTED 3,960.00 and INTEREST EARNED 1,366.85, less TOTAL EXPENDITURES 990.00, gives the printed ENDING BALANCE 06/30/23 of 242,733.96. The printed TOTAL REVENUE of 5,326.85 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44585,7 +44671,7 @@
   "outline_rect_pdf_points": "[451.3883056640625, 539.7529907226562, 505.9957275390625, 558.5244750976562]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Transportation Facilities Fees Unincorporated Area (Fund 5215).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 1,164,956.59 plus FEES COLLECTED 182,408.74 and INTEREST EARNED 14,136.26, less TOTAL EXPENDITURES 7,821.27, gives the printed ENDING BALANCE 06/30/23 of 1,353,680.32. The printed TOTAL REVENUE of 196,545 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."
@@ -44628,7 +44714,7 @@
   "outline_rect_pdf_points": "[456.4283142089844, 522.593017578125, 505.3953857421875, 541.364501953125]",
   "validation_status": "published_reported_collection_reviewed_in_statewide_lane",
   "review_batch": "sw26-vertical-ledgers",
-  "reviewed_utc": "2026-09-22T22:36:43.655344+00:00",
+  "reviewed_utc": "2026-09-23T01:09:30.069815+00:00",
   "measure_read_from_source": "The outlined figure stands on the line the report labels FEES COLLECTED, in its ledger for Unincorporated General Government Facilities (Fund 5206).",
   "arithmetic_check": "The ledger's own printed lines account for each other: BEGINNING BALANCE 07/01/22 495,920.43 plus FEES COLLECTED 73,717.28 and INTEREST EARNED 6,137.96, less TOTAL EXPENDITURES 2,173.83, gives the printed ENDING BALANCE 06/30/23 of 573,601.84. The printed TOTAL REVENUE of 79,855.24 is the sum of the inflows printed above it.",
   "source_limitations": "This report covers this one fee and prints its collection as a single undivided figure."

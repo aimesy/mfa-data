@@ -9312,6 +9312,38 @@
   "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
  },
  {
+  "evidence_id": "04897815355b3644",
+  "receiving_entity": "City of Mountain View",
+  "source_id": "city-of-mountain-view-2024-25-02e171e1",
+  "physical_pdf_page": 2,
+  "printed_page": "",
+  "internal_identifier": "Citywide Transportation Impact Fund / line Citywide Transportation Impact Fees",
+  "quoted_label": "Citywide Transportation Impact Fees",
+  "quoted_value_text": "72,234",
+  "page_extract_pdf": "evidence/extracts/city-of-mountain-view-p002-04897815.pdf",
+  "page_extract_sha256": "42082381f59e787e3b31db44ddab72434b55c13f80cd0473667901babc6825a1",
+  "outlined_figure_pdf": "evidence/outlined/city-of-mountain-view-p002-04897815.pdf",
+  "outlined_figure_sha256": "20da5cf47ffed0e8a6a44b3e16a06758255f582ff19648bdd83db3a7c4e08eda",
+  "outline_rect_pdf_points": "[425.9920654296875, 507.58001708984375, 472.21649169921875, 523.5800170898438]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
+  "evidence_id": "1254f190b78f58d0",
+  "receiving_entity": "City of Mountain View",
+  "source_id": "city-of-mountain-view-2024-25-02e171e1",
+  "physical_pdf_page": 5,
+  "printed_page": "",
+  "internal_identifier": "Housing Impact Fund / line Housing Impact Fees",
+  "quoted_label": "Housing Impact Fees",
+  "quoted_value_text": "96,128",
+  "page_extract_pdf": "evidence/extracts/city-of-mountain-view-p005-1254f190.pdf",
+  "page_extract_sha256": "6a2e38d238c297b7fd6f8c23850612f0f6c1ba035503011528d784f6dfc0b1bf",
+  "outlined_figure_pdf": "evidence/outlined/city-of-mountain-view-p005-1254f190.pdf",
+  "outlined_figure_sha256": "6b792e7e47a17bb29b5bb4561584d24109452b13b77542b680cd71c380380e0e",
+  "outline_rect_pdf_points": "[379.5315856933594, 478.3000183105469, 442.0280456542969, 494.3000183105469]",
+  "row_band_note": "The surrounding printed row is not reproduced here because it can carry figures this release refused. Open the outlined page to see the figure in its printed context."
+ },
+ {
   "evidence_id": "6e6659917c2230b0",
   "receiving_entity": "City of Nevada City",
   "source_id": "nevada-county-rtmf-2022-23",
