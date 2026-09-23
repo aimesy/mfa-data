@@ -1442,6 +1442,20 @@
   "published_data_rows_from_this_source": 11
  },
  {
+  "source_id": "city-of-lompoc-2024-25-20c4786f",
+  "receiving_entity": "City of Lompoc",
+  "publication_title": "City of Lompoc development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.cityoflompoc.com/home/showpublisheddocument/720/639027665118770000",
+  "retrieved_utc": "2026-09-22T08:28:30.796104+00:00",
+  "physical_page_count": 32,
+  "source_sha256": "20c4786fd6456e9f22b814ccca8b4b2656979d20a736721e929e5525a4b831e3",
+  "source_bytes": 419941,
+  "source_pdf": "sources/city-of-lompoc-2024-25-20c4786f.pdf",
+  "published_data_rows_from_this_source": 7
+ },
+ {
   "source_id": "city-of-los-angeles-2022-23-0645385a",
   "receiving_entity": "City of Los Angeles",
   "publication_title": "Informational Report - Park Fee Information Board Report FY 2023 (Nov 16 2023)",
