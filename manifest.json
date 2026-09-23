@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T02:55:38.008163+00:00",
- "data_rows": 1330,
- "distinct_printed_figures": 1162,
- "receiving_entities": 129,
- "agency_years": 259,
- "fee_programs": 696,
- "source_reports": 238,
- "evidence_pairs": 1162,
+ "built_utc": "2026-09-23T03:52:28.020651+00:00",
+ "data_rows": 1333,
+ "distinct_printed_figures": 1165,
+ "receiving_entities": 130,
+ "agency_years": 262,
+ "fee_programs": 698,
+ "source_reports": 241,
+ "evidence_pairs": 1165,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2587,
- "total_bytes": 676385520,
+ "file_count": 2596,
+ "total_bytes": 679752442,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11664,
-   "sha256": "53b2b718593fdc4b68abaa27b1341f72d3f4619fd5c7b1baa618dc47726a405d"
+   "bytes": 11734,
+   "sha256": "b90ab06fbc0a90161cf602c3401e2c523edcdf1404b9220f66e95d7cf6310e50"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1266,
-   "sha256": "8a3c24dfb1e5330b276d6e0cd9351c4cfe35b8768ffa42f1809af4b64e322241"
+   "sha256": "080b3430585212295565a782f4ce915c1a9cb441e56b046770a0d593f7979d56"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 529461,
-   "sha256": "1f7cbfb5734425c804778afbb897c515a64fcb86cfab4e1ef5fc27abe58594c5"
+   "bytes": 531411,
+   "sha256": "2992555c5c2758fd7e9ffc200b7c44d4ff9e3fb4f5e8bbc4c0480c43d04a3782"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2828731,
-   "sha256": "ab83a682619f234d14d8df566944bae4d1e1dcfadc256485858bb299b5100b6e"
+   "bytes": 2834255,
+   "sha256": "0860be0aaaa451eafac63fe7f36ff6db27801cf16b93a328a0aa78f4bb828a49"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4206120,
-   "sha256": "2182fe11d8bf076e32aa5794d98e673dac9b885efabdf24f9ac78cdeacb2ec15"
+   "bytes": 4214755,
+   "sha256": "de58a6656de44231722fbf17fc841fec174d032aeef5776de5989eca55eade5a"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -3007,6 +3007,11 @@
    "sha256": "80f9600dbfca2ded2dd4d664ebca79a4cca9e3e8e2a6ceea3ae1b10099414744"
   },
   {
+   "path": "evidence/extracts/city-of-palm-springs-p007-dcec1479.pdf",
+   "bytes": 15546,
+   "sha256": "e45ea2aa9f2b35630756ac4e1d7690ad5f72deed90c493177c2c9beb83386e28"
+  },
+  {
    "path": "evidence/extracts/city-of-pasadena-p001-24918e91.pdf",
    "bytes": 60394,
    "sha256": "61c2481eec684e5c1d06d644ef857daf4542ab0e8540d261f71f79f5a5fb903c"
@@ -4170,6 +4175,16 @@
    "path": "evidence/extracts/city-of-temecula-p002-b5ad120c.pdf",
    "bytes": 65965,
    "sha256": "3b3407c3f876f5806c9b6d9af6e01a20a32c652e74007f46842db3fa0a3a1a70"
+  },
+  {
+   "path": "evidence/extracts/city-of-tustin-p007-457de28a.pdf",
+   "bytes": 151692,
+   "sha256": "24e1c75bda8fedf0e9aa546e3ea5248ca68575560a5c8cd52436f09bb7fc4b51"
+  },
+  {
+   "path": "evidence/extracts/city-of-tustin-p013-f8b714ef.pdf",
+   "bytes": 163381,
+   "sha256": "fc9cc1660abf3413027152e4b6745cc5253c2f230d209441c1c0cadb133feaff"
   },
   {
    "path": "evidence/extracts/city-of-upland-p004-3bc8ef0a.pdf",
@@ -5908,8 +5923,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1214220,
-   "sha256": "bb636ae524c124fdf4c9986a371dba6f1989c9090bdf281d729e044c635fe6fa"
+   "bytes": 1217301,
+   "sha256": "412cf9375dbbb7c5ff26a8feca7dbf13018a42b5196f3d9b0dff244de28960ee"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -6473,8 +6488,8 @@
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-29677513.pdf",
-   "bytes": 199669,
-   "sha256": "988898df57f3064dc52e39a288ae2b6e2fc13c55a2267819756b2ef1e5da2af0"
+   "bytes": 199670,
+   "sha256": "c10f82c89af3bf45b816b939626ebb6f2ea162bdf4a4d13f39e2c631c9da2080"
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-4b31f234.pdf",
@@ -6483,23 +6498,23 @@
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-57ed2dfb.pdf",
-   "bytes": 199671,
-   "sha256": "fb6df34f21e711e2e77d95435474ef7fc6343aa30b098e2f555745e670ec944a"
+   "bytes": 199670,
+   "sha256": "82f591df305bcd8719018fa88b39dd8110c228c3b5548c1d0fb80fac101edee3"
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-5c8350be.pdf",
-   "bytes": 569926,
-   "sha256": "a32617c6cacb6584a446698d9dfcd3e340e44729ba261edfb585d1cb202cecc3"
+   "bytes": 569927,
+   "sha256": "75fadf4eea69955a9e4d8db9fc83bc0e528ee02ea37c93ca7350a1cd4c12ce96"
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-60505a94.pdf",
-   "bytes": 199668,
-   "sha256": "bc4deabc44212df507966291a6bcfc71bd3787db87c2370e3fd096744c30fa35"
+   "bytes": 199669,
+   "sha256": "ae145e715a06a7f3b6ddce83be0dd6fedd3c3aec0ecf2c934c6e9221cd83e564"
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-773ffd15.pdf",
    "bytes": 569925,
-   "sha256": "e15806089c196df1f7b95d928e7aa043510f2fa15d20ff0a04eac35e278f8f03"
+   "sha256": "a2fb10afb03970e908d1ca815158d3e98c4edb957f5323658fd38c395b35f547"
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-a0d41a1b.pdf",
@@ -6508,18 +6523,18 @@
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-a6964b96.pdf",
-   "bytes": 199667,
-   "sha256": "0e0dbd162874e7844154df523ff3596683f8b0ddf73963c19afe32734dfc5e92"
+   "bytes": 199668,
+   "sha256": "f12640517d747bffd12cc52f90844a8d827407a78f828b004ef2b5e367f43a87"
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-b7322600.pdf",
-   "bytes": 569926,
-   "sha256": "22357485883ce318eab317170d725b61333035bfacaff8877080e04aecfeeafe"
+   "bytes": 569924,
+   "sha256": "c6372e843bcf2e11b738f30e9b8515db999a83cf8bb10ad1f2c66e19a2117ecf"
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-bdb78b11.pdf",
-   "bytes": 199669,
-   "sha256": "79ad8e0948c39c6db92eedfc09c4a4fbab8bece165505a5fd300e7ae4a4e978c"
+   "bytes": 199668,
+   "sha256": "5c7319945f463ba2163360b6a1080c0f7aa944c93a6a173c71dcde6e427a9e22"
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-cfed92eb.pdf",
@@ -6533,13 +6548,13 @@
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-e9026cda.pdf",
-   "bytes": 569922,
-   "sha256": "4bbf7e4216b0fa0831b0390fa894e35d7f99f932a778c462adaa21adaff2b3bf"
+   "bytes": 569921,
+   "sha256": "8f04d9851126c8f47d22a32011c320218971c7dd4dde95b0abd39081e98d09e1"
   },
   {
    "path": "evidence/outlined/city-of-brentwood-p011-f6479de4.pdf",
    "bytes": 569925,
-   "sha256": "132b882df7afa1913032901f56a967490e22965b5c112670641fdb2b818dc9e4"
+   "sha256": "093888d00601b40fc40281385c122b474460ef289b9fcfd8d9ac293f8f8a2690"
   },
   {
    "path": "evidence/outlined/city-of-calimesa-p004-0cdfc32f.pdf",
@@ -8822,6 +8837,11 @@
    "sha256": "10590a5ebfad458cfc1c4adf9f13834dd053cb6f3e19590bee7081e40c75efc1"
   },
   {
+   "path": "evidence/outlined/city-of-palm-springs-p007-dcec1479.pdf",
+   "bytes": 15611,
+   "sha256": "22711e651aca3306144612f313377c41279c492c89c573349eabbbdc25e87e53"
+  },
+  {
    "path": "evidence/outlined/city-of-pasadena-p001-24918e91.pdf",
    "bytes": 60468,
    "sha256": "abd283ea71523132c2560a21e9eadf9b0bad946a8bad201028c0a583d61bb412"
@@ -8923,8 +8943,8 @@
   },
   {
    "path": "evidence/outlined/city-of-pomona-p009-14977a2c.pdf",
-   "bytes": 72574,
-   "sha256": "4cc053dc4714c9f4095980ea075e8356d3ed2c3d702b96eeea8e3a409b30659b"
+   "bytes": 72575,
+   "sha256": "d4e1904d3ab324df2799eebf02e11121ea8b1dd0173314a6558884383c0813e7"
   },
   {
    "path": "evidence/outlined/city-of-pomona-p009-14e33088.pdf",
@@ -8939,17 +8959,17 @@
   {
    "path": "evidence/outlined/city-of-pomona-p009-389e0e6d.pdf",
    "bytes": 72574,
-   "sha256": "9e037313487ac27124b057ead198901f869fbaabe3db939ddf99aa3048ff33dd"
+   "sha256": "93817748d1928f41ecc2a41509256a8601ae998325d2194b43062bb1360a0e06"
   },
   {
    "path": "evidence/outlined/city-of-pomona-p009-396428fb.pdf",
-   "bytes": 72573,
-   "sha256": "fbee8f6756e718cca3e71a8932aa2e82a1b0d79e9a2ff999604b5e12c07fe1f9"
+   "bytes": 72570,
+   "sha256": "e2912185bda526fcf0548429950d67fc520d353f41dc11d46aa3aa4133e049de"
   },
   {
    "path": "evidence/outlined/city-of-pomona-p009-3b0f005d.pdf",
-   "bytes": 72573,
-   "sha256": "d12844275b4ab3675c31491c4599a63d1cfa995870ef700b27c4e37a4ca9c773"
+   "bytes": 72571,
+   "sha256": "1e7c2a5aca1748a9f9c7ccc97895e1e0fcf04f848cc4bd0c537e3f64c52220c6"
   },
   {
    "path": "evidence/outlined/city-of-pomona-p009-53c807e2.pdf",
@@ -8968,8 +8988,8 @@
   },
   {
    "path": "evidence/outlined/city-of-pomona-p009-d68b40b7.pdf",
-   "bytes": 72573,
-   "sha256": "3d854ba0d1d01bf9f8bcc254cec7ad56d3c89e527280157eee947eff9988bb8f"
+   "bytes": 72570,
+   "sha256": "814acce445b634242cfab132368a6b66a36c5cdc03b9cae09a9fcf10b29f2e16"
   },
   {
    "path": "evidence/outlined/city-of-pomona-p009-e98cc0a0.pdf",
@@ -8989,12 +9009,12 @@
   {
    "path": "evidence/outlined/city-of-pomona-p009-fba659b2.pdf",
    "bytes": 72574,
-   "sha256": "2fee8e9a555241fbee1ff03bfe83952d32b47d34d6f5f3cfc0aa8c9d1ef41ba1"
+   "sha256": "9f7751d2cda4e966f0bce939cda4e4c647d3bb56093998acf85137c1b8def3bd"
   },
   {
    "path": "evidence/outlined/city-of-pomona-p009-fcdc4034.pdf",
-   "bytes": 72574,
-   "sha256": "1c93a782b6f917a7ea0174db4cacfc1998714db858182b5d80c974d18cbc0825"
+   "bytes": 72572,
+   "sha256": "1433ee310ababfbb34f7fb51e419678d1b8a76011584930a4104cd1325da344a"
   },
   {
    "path": "evidence/outlined/city-of-rancho-mirage-p009-12938589.pdf",
@@ -9985,6 +10005,16 @@
    "path": "evidence/outlined/city-of-temecula-p002-b5ad120c.pdf",
    "bytes": 66026,
    "sha256": "1be1f4a7491ea642fb48db7094070e95cb163b1daee7a71618130705c7c4c3db"
+  },
+  {
+   "path": "evidence/outlined/city-of-tustin-p007-457de28a.pdf",
+   "bytes": 151480,
+   "sha256": "d99c8c572f7a21ed5d1c31f67a3f7ecf045d4c989ead533f5a83698f318c5950"
+  },
+  {
+   "path": "evidence/outlined/city-of-tustin-p013-f8b714ef.pdf",
+   "bytes": 163171,
+   "sha256": "0292fe37e5fc264be2f671ffbda7e36716fa13257716b8a6a2f1ac2633c0acb4"
   },
   {
    "path": "evidence/outlined/city-of-upland-p004-3bc8ef0a.pdf",
@@ -12262,6 +12292,11 @@
    "sha256": "da1276e49dc5e40690143035332af5dee5b6a7e7d8f05e61105f4b0535eb892f"
   },
   {
+   "path": "sources/city-of-palm-springs-2023-24-f8562a23.pdf",
+   "bytes": 124798,
+   "sha256": "f8562a2356d60d5750eb7edb64d548698021df205517a166e57748b0079d51af"
+  },
+  {
    "path": "sources/city-of-palm-springs-2024-25-b8bbc248.pdf",
    "bytes": 229137,
    "sha256": "b8bbc24863d7a6322bd4a3ff5e17a85fe9f6e67d2d4855a2741a890056ab6c2d"
@@ -12520,6 +12555,16 @@
    "path": "sources/city-of-temecula-2023-24.pdf",
    "bytes": 247658,
    "sha256": "dc62f0303f7e6a05a3b7b18554028e82b6dd348b7aa6f7b68ace3da52e723901"
+  },
+  {
+   "path": "sources/city-of-tustin-2023-24-8c69f8b0.pdf",
+   "bytes": 1266227,
+   "sha256": "8c69f8b076ce9cffebd5a32c1dd70434fab66ac1426169dd4dbba11b76098c88"
+  },
+  {
+   "path": "sources/city-of-tustin-2024-25-a07994d0.pdf",
+   "bytes": 1292361,
+   "sha256": "a07994d069af5f8353bb8f0b9e0fd2d9f691da065fe5f8d402d83c06b2045dcb"
   },
   {
    "path": "sources/city-of-upland-2024-25-3045978f.pdf",
@@ -12873,13 +12918,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 107605,
-   "sha256": "fb8ab1407b0d86a9cc2962d68933f669260e77c4e85144c4455e6781b08e2554"
+   "bytes": 108830,
+   "sha256": "25a56b805d7bd7a8f543a5ff6917e2aeb6ced75a971115e6b5ab79ef3dcd720f"
   },
   {
    "path": "sources/index.json",
-   "bytes": 186422,
-   "sha256": "8c4d58c9c58d26b18f96d1248f4fd11a2b93182211dd8a702ac71f6843883ed1"
+   "bytes": 188602,
+   "sha256": "e36695afda585b6ae2274faf479587b033c3e830505daa83b6e45aa07fd4265c"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -12939,7 +12984,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3058,
-   "sha256": "64d01f60ad262645fae5ba1d6edd35cdfa2f99dbbdb79320cb10c757f2ea1a39"
+   "sha256": "73c428b84c9cd0cc390ba4a14a365c947688d792091b966d8a3c596b4328b60d"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -12954,7 +12999,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2591,
-   "sha256": "60da55e65c7c0cc5a8f48c5bf31d4b847440d18ccfbe6fb677796f3f438e8380"
+   "sha256": "7e7a2431446c9d71cbe2b0dc71b0ca5ae26e77f1e786aa8707564a9085c48bf4"
   },
   {
    "path": "validation/validate.py",

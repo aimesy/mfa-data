@@ -1568,6 +1568,20 @@
   "published_data_rows_from_this_source": 4
  },
  {
+  "source_id": "city-of-palm-springs-2023-24-f8562a23",
+  "receiving_entity": "City of Palm Springs",
+  "publication_title": "City of Palm Springs development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.palmspringsca.gov/home/showpublisheddocument/92044/638868965056200000",
+  "retrieved_utc": "2026-09-22T08:28:37.455925+00:00",
+  "physical_page_count": 10,
+  "source_sha256": "f8562a2356d60d5750eb7edb64d548698021df205517a166e57748b0079d51af",
+  "source_bytes": 124798,
+  "source_pdf": "sources/city-of-palm-springs-2023-24-f8562a23.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "city-of-palm-springs-2024-25-b8bbc248",
   "receiving_entity": "City of Palm Springs",
   "publication_title": "City of Palm Springs development impact fee report, fiscal year 2024-25",
@@ -2280,6 +2294,34 @@
   "source_bytes": 247658,
   "source_pdf": "sources/city-of-temecula-2023-24.pdf",
   "published_data_rows_from_this_source": 8
+ },
+ {
+  "source_id": "city-of-tustin-2023-24-8c69f8b0",
+  "receiving_entity": "City of Tustin",
+  "publication_title": "Agenda Report - Fiscal Year 2023-2024 Development Impact Fee Report (Assembly Bill 1600)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://tustin.granicus.com/MetaViewer.php?view_id=5&clip_id=2642&meta_id=159932",
+  "retrieved_utc": "2026-09-22T07:00:10.671401+00:00",
+  "physical_page_count": 14,
+  "source_sha256": "8c69f8b076ce9cffebd5a32c1dd70434fab66ac1426169dd4dbba11b76098c88",
+  "source_bytes": 1266227,
+  "source_pdf": "sources/city-of-tustin-2023-24-8c69f8b0.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-tustin-2024-25-a07994d0",
+  "receiving_entity": "City of Tustin",
+  "publication_title": "Agenda Report - Fiscal Year 2024-2025 Development Impact Fee Report (AB 1600 / Gov. Code 66006)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://tustin.granicus.com/MetaViewer.php?view_id=5&clip_id=2825&meta_id=170133",
+  "retrieved_utc": "2026-09-22T07:00:08.058977+00:00",
+  "physical_page_count": 15,
+  "source_sha256": "a07994d069af5f8353bb8f0b9e0fd2d9f691da065fe5f8d402d83c06b2045dcb",
+  "source_bytes": 1292361,
+  "source_pdf": "sources/city-of-tustin-2024-25-a07994d0.pdf",
+  "published_data_rows_from_this_source": 1
  },
  {
   "source_id": "city-of-upland-2024-25-3045978f",
