@@ -672,6 +672,48 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "city-of-davis-2022-23",
+  "receiving_entity": "City of Davis",
+  "publication_title": "City of Davis annual development impact fee report, fiscal year 2022-23",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.cityofdavis.org/home/showpublisheddocument/22110/639221220200130000",
+  "retrieved_utc": "2026-09-22T12:57:09.763680+00:00",
+  "physical_page_count": 10,
+  "source_sha256": "5ba830504fd5196235ace8772c4d38c7ff5876b1038f15aaaf1f53e292da8a28",
+  "source_bytes": 174603,
+  "source_pdf": "sources/city-of-davis-2022-23.pdf",
+  "published_data_rows_from_this_source": 4
+ },
+ {
+  "source_id": "city-of-davis-2023-24",
+  "receiving_entity": "City of Davis",
+  "publication_title": "City of Davis annual development impact fee report, fiscal year 2023-24",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.cityofdavis.org/home/showpublisheddocument/22112/639221220202670000",
+  "retrieved_utc": "2026-09-22T12:57:10.191656+00:00",
+  "physical_page_count": 10,
+  "source_sha256": "e5abb46e7b25e9d2281c6eefe07286cfb86c405e71baed7addb6eef45e0cda0e",
+  "source_bytes": 287540,
+  "source_pdf": "sources/city-of-davis-2023-24.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-davis-2024-25",
+  "receiving_entity": "City of Davis",
+  "publication_title": "City of Davis annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.cityofdavis.org/home/showpublisheddocument/22114/639221220204770000",
+  "retrieved_utc": "2026-09-22T12:57:10.524458+00:00",
+  "physical_page_count": 10,
+  "source_sha256": "74b7802f99c2a35ed895f6d5845d11039075cefc6737f0dfe18d92c93e1b454b",
+  "source_bytes": 294833,
+  "source_pdf": "sources/city-of-davis-2024-25.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
   "source_id": "city-of-east-palo-alto-2018-19",
   "receiving_entity": "City of East Palo Alto",
   "publication_title": "City of East Palo Alto impact fee report, fiscal year 2018-19",

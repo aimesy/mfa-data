@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-22T23:56:57.565282+00:00",
- "data_rows": 1226,
- "distinct_printed_figures": 1058,
- "receiving_entities": 122,
- "agency_years": 247,
- "fee_programs": 636,
- "source_reports": 224,
- "evidence_pairs": 1058,
+ "built_utc": "2026-09-23T00:19:40.399171+00:00",
+ "data_rows": 1240,
+ "distinct_printed_figures": 1072,
+ "receiving_entities": 123,
+ "agency_years": 250,
+ "fee_programs": 641,
+ "source_reports": 227,
+ "evidence_pairs": 1072,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2365,
- "total_bytes": 612562656,
+ "file_count": 2396,
+ "total_bytes": 614613973,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 11242,
-   "sha256": "014594c68a6fe57648c2789d4d5859a650765d9ff2a2b4c12ed42cc6b1a7d526"
+   "bytes": 11312,
+   "sha256": "a57a3e54267fac7e87daa823e394521262a3e1e471b0094e88c428d9bebd6e9e"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1266,
-   "sha256": "af51fd6c0021cade8f3513617ab5ed00d6b67f863e74be2cbd3fdf2153ea3183"
+   "sha256": "f754b42b38d02f9061b671f7c0edcf29f9aa1702b014f1fd2e60690bd99a22c6"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 489660,
-   "sha256": "d0cbd8f33a571c2ef6a93f519cc0c8f2484663bd3e0a6033df0421eb9318179e"
+   "bytes": 494681,
+   "sha256": "298e0cabeef4b3013dc117f58bef3ee43f4c699ca176298453bed7538f091077"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2619075,
-   "sha256": "8c8763191f8e86065de8b9be231d3248ab504a48cb770592ca4857d24b7220f3"
+   "bytes": 2647187,
+   "sha256": "e151a36e0ea382dcc31c109716288bfe16df2e614127738c1ba9638480e751c2"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 3888468,
-   "sha256": "752bb81668a644f7428ee10797a6d76a14b695d1105b1cfbb9c59174b779edeb"
+   "bytes": 3931098,
+   "sha256": "f6336d34f1431d852e743781d14cbd8fe6c3101bf626bb3d40edf8b45692b3d6"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -1125,6 +1125,76 @@
    "path": "evidence/extracts/city-of-culver-city-p001-f5487260.pdf",
    "bytes": 85636,
    "sha256": "568eadbcfe8ca46baa0b5d65d275a9a496e188eaf9472a3a7f851ea78b69d528"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-2cd8698c.pdf",
+   "bytes": 10363,
+   "sha256": "9469397535fd51d621706e473da713c496efc6653ea5db268cefa89030ce51b9"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-5b28f8a9.pdf",
+   "bytes": 56038,
+   "sha256": "0d690d6be76836b01346b21c8b8f64a99d62b10cd3e9cc6594f6a38cfc974d55"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-5d8fdc51.pdf",
+   "bytes": 55762,
+   "sha256": "87dbb2ed814fd20327105fafa1f0003a5499f495f053ee8f99aeadb39b7f8783"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-5e32b235.pdf",
+   "bytes": 55750,
+   "sha256": "f11db096d73223628d40ad52976af18a4762f3efbbeadc25b760b9867f773ae6"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-65fbe3d7.pdf",
+   "bytes": 10363,
+   "sha256": "2171f7fed681c2b1c260d253209dbebc83b25a51881ea95d94cd22992c6f7c54"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-691c8d1a.pdf",
+   "bytes": 56038,
+   "sha256": "f1b807b8951eee15dbdb8c9b93edb329845f3e925efa8e5ccd6194d7482dc94a"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-8c3cdaff.pdf",
+   "bytes": 56038,
+   "sha256": "fb233741a843af6b11e3136ca943b2700b41fb4af7d6f68732f872d19c54851c"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-97184744.pdf",
+   "bytes": 56038,
+   "sha256": "d0a36d2bc64cec03c9165cfb0b671c0cf3b1bf34a1d69c4924f7621f1bd87b3d"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-c063c822.pdf",
+   "bytes": 55762,
+   "sha256": "22fe4d8394c7cb2085f11f0ff32adde89112489a11ae90e464ae2cbb56d566f3"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-caa443f1.pdf",
+   "bytes": 56038,
+   "sha256": "584561fca6d890d2ef5cb75d025a127637ec333352a1ed1a06de0a2c3d71d96b"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-caf08262.pdf",
+   "bytes": 10363,
+   "sha256": "c8e33d34d0fc5edb741b0850c30b2dbcf789a3379c1d0f8f338b4c2df3e5365d"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-d013b91e.pdf",
+   "bytes": 55762,
+   "sha256": "f3d07c3f566a2eea817a3ad07c961ebab78c6ace97b9a0f21b0ae0120d75adf0"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-e8673b37.pdf",
+   "bytes": 10363,
+   "sha256": "257dad4cfde7a451e1757089d93d5a5710b6184ed28e2f57bb18405a9f3e113c"
+  },
+  {
+   "path": "evidence/extracts/city-of-davis-p004-f14b0652.pdf",
+   "bytes": 55762,
+   "sha256": "46aea7c6770b53443ead4b856c0ca476bb869b489130d2039307f843728e2fc0"
   },
   {
    "path": "evidence/extracts/city-of-east-palo-alto-p010-99837c97.pdf",
@@ -5388,8 +5458,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1106970,
-   "sha256": "b5d5da2d1cc68a037956b643814e602bfe554fbb602acdfde73240f12a35ea3e"
+   "bytes": 1120597,
+   "sha256": "f7ead5a63b212c81c3d6c908c9ab6a08f1595d42c74407c9bcc3a6180a8c06d8"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -6420,6 +6490,76 @@
    "path": "evidence/outlined/city-of-culver-city-p001-f5487260.pdf",
    "bytes": 85696,
    "sha256": "960156dc45a48648713bb5f7e1f5ed6157ce4ebe6b50bbc61dda493307acecc0"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-2cd8698c.pdf",
+   "bytes": 10423,
+   "sha256": "03b2542ba9026bea5e972293e613fda21203e71adb136231d927d36ccf87bd72"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-5b28f8a9.pdf",
+   "bytes": 56101,
+   "sha256": "736e9db09ee9516c3d23efb4fb1a6764a882f4517d40bcd865dd400a124700d0"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-5d8fdc51.pdf",
+   "bytes": 55822,
+   "sha256": "d8574f37d276decf027428c4b0606ad0fa9df6593e8a4cc9ef72a5923a82109c"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-5e32b235.pdf",
+   "bytes": 55821,
+   "sha256": "56b150c52cb7eecc5870f7157680522944cf78cb82f1f017e5821b54b27bbc36"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-65fbe3d7.pdf",
+   "bytes": 10422,
+   "sha256": "386014c5bfc49d53a84c1384957e835b887a15a67b645d9473858edd8c9c0f33"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-691c8d1a.pdf",
+   "bytes": 56099,
+   "sha256": "8c23e716d5f9cfa2a47ae852e61ef7fff697e337b4260d8cfab0162dbefa8a66"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-8c3cdaff.pdf",
+   "bytes": 56099,
+   "sha256": "18248d233df74106ab9ff94649010862876860a07c740a178826216b8b6f2af1"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-97184744.pdf",
+   "bytes": 56098,
+   "sha256": "a460777cf196dcc22f465ec6006610dc25c3961d60e280c4934cf6c90c71efe4"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-c063c822.pdf",
+   "bytes": 55822,
+   "sha256": "8e9bad648a203cd2d6050644938a11bcf14c131384f1ef8ed07c7fa419ea6a1a"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-caa443f1.pdf",
+   "bytes": 56096,
+   "sha256": "5bd641b41af392025ac9b190a51ce2c64fba199db7e0cc216b959d2be0d1a0a1"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-caf08262.pdf",
+   "bytes": 10421,
+   "sha256": "dfcc28a9b13b5170c1c16bcdbdd541f5dadf61ff5671d5c21609ae60f6382c3c"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-d013b91e.pdf",
+   "bytes": 55821,
+   "sha256": "a380696454895ec0be778686e70c1eae7cd04b007e66a481e7061093b6ce3fef"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-e8673b37.pdf",
+   "bytes": 10422,
+   "sha256": "56891dd5b11746b21239d779678ce7c67f82460e0717bf1125b72608f556b845"
+  },
+  {
+   "path": "evidence/outlined/city-of-davis-p004-f14b0652.pdf",
+   "bytes": 55821,
+   "sha256": "bc019b0d97f7bb2706fa5bfb485231e2f488444d507a32be3b68b4c0aafb43f6"
   },
   {
    "path": "evidence/outlined/city-of-east-palo-alto-p010-99837c97.pdf",
@@ -10912,6 +11052,21 @@
    "sha256": "e9ba70533d0763c682bef2a46c4b764861573a618e91a756a24bfce450f315f5"
   },
   {
+   "path": "sources/city-of-davis-2022-23.pdf",
+   "bytes": 174603,
+   "sha256": "5ba830504fd5196235ace8772c4d38c7ff5876b1038f15aaaf1f53e292da8a28"
+  },
+  {
+   "path": "sources/city-of-davis-2023-24.pdf",
+   "bytes": 287540,
+   "sha256": "e5abb46e7b25e9d2281c6eefe07286cfb86c405e71baed7addb6eef45e0cda0e"
+  },
+  {
+   "path": "sources/city-of-davis-2024-25.pdf",
+   "bytes": 294833,
+   "sha256": "74b7802f99c2a35ed895f6d5845d11039075cefc6737f0dfe18d92c93e1b454b"
+  },
+  {
    "path": "sources/city-of-east-palo-alto-2018-19.pdf",
    "bytes": 606039,
    "sha256": "6c01029d258ec3e3cc0307bc10ea248f1a586a57baab8e1228b0f792038100c0"
@@ -11763,13 +11918,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 101601,
-   "sha256": "e256c226eec2a5f599393ee0fb8e7238b3703b3bc2bc86e832e54d7bcc5ab06e"
+   "bytes": 102702,
+   "sha256": "0b799ac5b8504e92fe889ef3d64193e9cc8f653ede3e784be4e5108712d1bf9e"
   },
   {
    "path": "sources/index.json",
-   "bytes": 175968,
-   "sha256": "9b30e51a9abaac45d48c7e9dd7fafa756240e07a044f66920314a3cbc70a181e"
+   "bytes": 178020,
+   "sha256": "264dfca74b396d5f790ec1522ad62d025ea3bceba91f03a2616eb8edaf394aef"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -11829,7 +11984,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3058,
-   "sha256": "03548d51499e023d34b6a994b88d012470d4ef02e7d6e8860084d68272016b0c"
+   "sha256": "cdb4b22fe3e568881e9b4786c0977d9a6c2193aa7466bfe0aeb3775024be9ae7"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -11844,7 +11999,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2591,
-   "sha256": "fc0baaf536d2f65c7aa60cb6f59183f91799e32fc9c54851416a58f0d9891242"
+   "sha256": "c110298bc620414f7fa53f60e0f22e9f01e2d471c97a92e55b9e1cc41f3af803"
   },
   {
    "path": "validation/validate.py",
