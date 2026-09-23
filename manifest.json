@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T06:52:45.321374+00:00",
- "data_rows": 1388,
- "distinct_printed_figures": 1220,
- "receiving_entities": 137,
- "agency_years": 278,
- "fee_programs": 731,
- "source_reports": 257,
- "evidence_pairs": 1220,
+ "built_utc": "2026-09-23T07:22:12.583212+00:00",
+ "data_rows": 1399,
+ "distinct_printed_figures": 1231,
+ "receiving_entities": 138,
+ "agency_years": 280,
+ "fee_programs": 737,
+ "source_reports": 259,
+ "evidence_pairs": 1231,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 2722,
- "total_bytes": 697775035,
+ "file_count": 2746,
+ "total_bytes": 699763080,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 12224,
-   "sha256": "8b7e9e4f242277def3a98bdff9ea491b5a98c3ab16d5b59ccab298f79bcfd303"
+   "bytes": 12285,
+   "sha256": "e36bfe13ea6b02bff51bdba9edc7a9a51cde53ccc6fec97e712ceeb8dbce5e01"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "07114953db24ed0b71a5cca6ecb9987476adcb0db6c5097285cc9838961bc85a"
+   "sha256": "eff8ce780616a376819871736f09d17f1999b1d2a213d4e20ad6d76e32adc139"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 554563,
-   "sha256": "96949f3482c16cca7daa875f8f4cf391872895d49f11e416699c67ffdc1bcae7"
+   "bytes": 558539,
+   "sha256": "1bd3fd9d23d3ac33ef4e2ed106cdbfc7091b4c92656253028c01019bb56c414b"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 2937201,
-   "sha256": "41c536ad9c889edda283364a9dcba8b792e41e0c5bf19192be0648b43ee7bfdd"
+   "bytes": 2956864,
+   "sha256": "87238332943413b513d68a551f3f5037f4c8c9548e868f873eb471c5cc58ee49"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 4374806,
-   "sha256": "561bf95aa5039f62c115efa172b7e125b40b6498ac47e18da6f83829cb4f19d0"
+   "bytes": 4405898,
+   "sha256": "b65966466c9a137566e3063bd83b1caff075e39ba44e3249d48f0c75f1089371"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -2660,6 +2660,61 @@
    "path": "evidence/extracts/city-of-moorpark-p032-1c82523a.pdf",
    "bytes": 49183,
    "sha256": "8602339ab37c750fa78ed54a3729d3b1e8c14faacfa288d3ec19f73f8ffcf4fb"
+  },
+  {
+   "path": "evidence/extracts/city-of-morro-bay-p006-018beba9.pdf",
+   "bytes": 43452,
+   "sha256": "7a650ade2255b221891c56b7b6609b88d4c41da6e81134bf7cf09b8706f47f57"
+  },
+  {
+   "path": "evidence/extracts/city-of-morro-bay-p006-2d4f5461.pdf",
+   "bytes": 43452,
+   "sha256": "6a06a507e53f44a40e1983a207f69bdf96b8b29abe4a6fab27c4d717cb18a964"
+  },
+  {
+   "path": "evidence/extracts/city-of-morro-bay-p006-3a8aa6e4.pdf",
+   "bytes": 43452,
+   "sha256": "bea72a37836ffe48ba81b8741b3f966053d3b90e47954752fcf977eb76fe85bd"
+  },
+  {
+   "path": "evidence/extracts/city-of-morro-bay-p006-40e7c1f7.pdf",
+   "bytes": 43452,
+   "sha256": "87eace186756cb0a8172beddd170f07a711973ca2d4d6ded3bf6781d4e998901"
+  },
+  {
+   "path": "evidence/extracts/city-of-morro-bay-p006-5604a392.pdf",
+   "bytes": 43452,
+   "sha256": "0cbdc6b0dbe59638f47af456edec886cb8dcdf4f5182c36b98966ad90c7b7f6e"
+  },
+  {
+   "path": "evidence/extracts/city-of-morro-bay-p006-f6cef60f.pdf",
+   "bytes": 43452,
+   "sha256": "263b119877de7ca0fc648b2afe0b1767eec15a5e2ff89d5d20ad54df18efbd6a"
+  },
+  {
+   "path": "evidence/extracts/city-of-morro-bay-p010-0d9742e4.pdf",
+   "bytes": 72388,
+   "sha256": "5ed2109c46fafc5d6cea97fb3c29a34968d9a6a46dc83e70d73992de99fabe04"
+  },
+  {
+   "path": "evidence/extracts/city-of-morro-bay-p010-171f84ca.pdf",
+   "bytes": 72388,
+   "sha256": "96a26af2f6c84422947060776eed820adb28d4d05bd042d5ec5fc1c27173b71f"
+  },
+  {
+   "path": "evidence/extracts/city-of-morro-bay-p010-1cc640e0.pdf",
+   "bytes": 72388,
+   "sha256": "534c3d26e604d304d5c332effed41c56240c6564210b67e330d5270034d07401"
+  },
+  {
+   "path": "evidence/extracts/city-of-morro-bay-p010-1ed57aa5.pdf",
+   "bytes": 72388,
+   "sha256": "9ac0993419c929153c68826f40ee415c902791989a285bb2cec695644d460ffc"
+  },
+  {
+   "path": "evidence/extracts/city-of-morro-bay-p010-5b35dfaf.pdf",
+   "bytes": 72388,
+   "sha256": "a42d21e8b3f101c421bd683760ed941ca550f68b72bbe94855ec9c1aaa9438dd"
   },
   {
    "path": "evidence/extracts/city-of-mountain-view-p002-04897815.pdf",
@@ -6198,8 +6253,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1273917,
-   "sha256": "7e0d77474e13877516658765e44294c891f92a4115dfbb212a77f06bfa0c2289"
+   "bytes": 1285152,
+   "sha256": "e3cbaa4b408d001534dd462f4b8752af263c13f32b94429c15a61f4054f3fa9f"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -8765,6 +8820,61 @@
    "path": "evidence/outlined/city-of-moorpark-p032-1c82523a.pdf",
    "bytes": 49238,
    "sha256": "a6cbb285710ff3f3fa4ebac3077181b78d3e83d03094d8f4fe320f0ad7a26d3f"
+  },
+  {
+   "path": "evidence/outlined/city-of-morro-bay-p006-018beba9.pdf",
+   "bytes": 43510,
+   "sha256": "156065dda22c316cd3aaedbb03284156af5dffa08a279373b6e1c2e523bb3bab"
+  },
+  {
+   "path": "evidence/outlined/city-of-morro-bay-p006-2d4f5461.pdf",
+   "bytes": 43511,
+   "sha256": "ef9dca86e5104e3d076bb19534f0a9d479c60c56b69bf28b4e0b943ac73c8c89"
+  },
+  {
+   "path": "evidence/outlined/city-of-morro-bay-p006-3a8aa6e4.pdf",
+   "bytes": 43504,
+   "sha256": "6fc724c8115cd3a880ac37eb6d439716e87dc53585e87a6ca480a02cb0eacbc0"
+  },
+  {
+   "path": "evidence/outlined/city-of-morro-bay-p006-40e7c1f7.pdf",
+   "bytes": 43511,
+   "sha256": "423a5088529c26aef6f6595bdbfba89975ae5a7ea3b33c78d178da9d8b31ef93"
+  },
+  {
+   "path": "evidence/outlined/city-of-morro-bay-p006-5604a392.pdf",
+   "bytes": 43511,
+   "sha256": "604d68976c17bd054392cd639914d7b10a1c627affbe465358f74d5e9d7a5e9d"
+  },
+  {
+   "path": "evidence/outlined/city-of-morro-bay-p006-f6cef60f.pdf",
+   "bytes": 43510,
+   "sha256": "8b08be15a7e5807cead8368ac2dcbf2f2aa73593084ee12a0c313d412913b025"
+  },
+  {
+   "path": "evidence/outlined/city-of-morro-bay-p010-0d9742e4.pdf",
+   "bytes": 72445,
+   "sha256": "77dd218bb9a3f3a32d6ceafbb30bd65a9e014b9572da8c48ed3f6f64fcd359dd"
+  },
+  {
+   "path": "evidence/outlined/city-of-morro-bay-p010-171f84ca.pdf",
+   "bytes": 72445,
+   "sha256": "620a9e52f9f7e2dab5ba5d23e7af8596bfa45670b8777f57294c69a0453cb646"
+  },
+  {
+   "path": "evidence/outlined/city-of-morro-bay-p010-1cc640e0.pdf",
+   "bytes": 72444,
+   "sha256": "f0bc3c000813d73582be201756383749b41c06647710a09ec944eff43834df9d"
+  },
+  {
+   "path": "evidence/outlined/city-of-morro-bay-p010-1ed57aa5.pdf",
+   "bytes": 72444,
+   "sha256": "0b0be4d105d86c51044ad2eab55398a906e9bb989096db6adac427f27474d9de"
+  },
+  {
+   "path": "evidence/outlined/city-of-morro-bay-p010-5b35dfaf.pdf",
+   "bytes": 72445,
+   "sha256": "4725b6b6e0ab71d089ea92ef4cbfff6dc8fbef7a505148dffc078433d716988c"
   },
   {
    "path": "evidence/outlined/city-of-mountain-view-p002-04897815.pdf",
@@ -12797,6 +12907,16 @@
    "sha256": "0e182ef4dcd1d3ca06c0b95a44ffdb07badff3821b09453f2f334e7a8c40a4cc"
   },
   {
+   "path": "sources/city-of-morro-bay-2022-23-692ad20d.pdf",
+   "bytes": 407077,
+   "sha256": "692ad20d23938863a4bfe357159ed25f295ac10b8b502d76952cee9aaafb62e5"
+  },
+  {
+   "path": "sources/city-of-morro-bay-2023-24-0142915b.pdf",
+   "bytes": 266739,
+   "sha256": "0142915b14c350d51bcd28b83a83ffbc670be936a83b61fdb1b3c5f46af2d0f4"
+  },
+  {
    "path": "sources/city-of-mountain-view-2024-25-02e171e1.pdf",
    "bytes": 195290,
    "sha256": "02e171e17c6337753ede4a151c48459a536c5fce831c1696af4e9b4306222d80"
@@ -13548,13 +13668,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 115476,
-   "sha256": "f4066fb20ccb06a17e277de929afb680b7255e2e8f1b901f0877b885c12896d3"
+   "bytes": 116292,
+   "sha256": "90dde87083f3071641ce0fd1a49858a5ab51b765c1af7213c9ce1257ae5e9cbe"
   },
   {
    "path": "sources/index.json",
-   "bytes": 200340,
-   "sha256": "42743076948f0430bbaf88a8c59eb5d706de59b75bfb516bdd617199d8deb524"
+   "bytes": 201794,
+   "sha256": "e8bf10100f1480698cd6fea361fb0e783d3c780b5b5a7637f0c06c32362425a6"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -13614,7 +13734,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "2001657a900ec9cd8977bce00e8541a4fe8839c42dae558187fa242f37f32c49"
+   "sha256": "d6881141487e87ef84729e6c2d3f4e7d7e3872e849b8bc6215b21e66b7007e8f"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -13629,7 +13749,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "e6252dcc140d67923fafbe90285de6bbb20375420eaeaba528c75f2cba284d9c"
+   "sha256": "21778f9ab726440201b29d2a1ba50a76325bb161617f3803ad6014bbd3a9cc61"
   },
   {
    "path": "validation/validate.py",
