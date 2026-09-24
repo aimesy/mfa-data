@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-24T04:38:42.975387+00:00",
- "data_rows": 1727,
- "distinct_printed_figures": 1559,
- "receiving_entities": 164,
- "agency_years": 323,
- "fee_programs": 973,
- "source_reports": 300,
- "evidence_pairs": 1559,
+ "built_utc": "2026-09-24T05:04:01.125799+00:00",
+ "data_rows": 1733,
+ "distinct_printed_figures": 1565,
+ "receiving_entities": 165,
+ "agency_years": 325,
+ "fee_programs": 976,
+ "source_reports": 302,
+ "evidence_pairs": 1565,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3443,
- "total_bytes": 836546046,
+ "file_count": 3457,
+ "total_bytes": 838171625,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13757,
-   "sha256": "421acb87ecc5c1c62598dcf3f3ff0109672d8bc65b457bac88d08109e8b4d784"
+   "bytes": 13818,
+   "sha256": "cd06aae7f16c37806c415b8a1c078ddfa7075b9baaabeed25664e2ba7e079edb"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "783cacd1b25a345174c12cfcbd12b1cc7b72a1c57cded5a88a7b862446c3e422"
+   "sha256": "a3e6727c02730efc2dddaff860b91efb1905636f4a56bdfa7c45d8868bd0d1b5"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 683406,
-   "sha256": "c17659254b86e27502c5d74b85f5e1ef2f7566ba6d5c40bee4052fda5ea90e2a"
+   "bytes": 686197,
+   "sha256": "1f14f72b7c95c8cd3546bf3f69e9b05eeea6cd6afd449a542e100cbd6e903997"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3610361,
-   "sha256": "bfa678b2cf29d9f9665853b4857e13a0d662072caa0b4851fff3ae3865f99b01"
+   "bytes": 3622954,
+   "sha256": "8d1388ca08357a4042c6c309a2a636b95fc8378b26043147289de3b2f030ad68"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5399353,
-   "sha256": "ba385ffdaa7834e4599965c9b406febeb7a0ea56e55748c5b951c2dad6507151"
+   "bytes": 5418168,
+   "sha256": "18ec33676e0386d946ac52a7dfaceb677ec69e1da5ec52747087d516cae53f7e"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -3987,6 +3987,36 @@
    "sha256": "465c04c16f7ab4eb3a349bc523cb433aeaaea42b5ec44c20c7129e2d63a4143a"
   },
   {
+   "path": "evidence/extracts/city-of-redlands-p004-74d6bc29.pdf",
+   "bytes": 94992,
+   "sha256": "d116f119f3b3bb0343b469cbcaecba405abb23027af11a68847671196dc58028"
+  },
+  {
+   "path": "evidence/extracts/city-of-redlands-p004-aef1f47e.pdf",
+   "bytes": 54067,
+   "sha256": "f61af2ccbef28f746851e0f425f3e8250d64a2bad405164d240b49ddab0f3183"
+  },
+  {
+   "path": "evidence/extracts/city-of-redlands-p011-7d2c5e28.pdf",
+   "bytes": 57760,
+   "sha256": "022abd76c51d90fc1e98ac9632d641718c0db1431e5645091a1ac77750ee7a39"
+  },
+  {
+   "path": "evidence/extracts/city-of-redlands-p012-5fea518b.pdf",
+   "bytes": 110509,
+   "sha256": "5f9122223e896ad94c9565b493567099fe706119379e5da506ca03be25738679"
+  },
+  {
+   "path": "evidence/extracts/city-of-redlands-p013-748890ae.pdf",
+   "bytes": 45468,
+   "sha256": "66a257ce49a69977df792c6656c3469c9be799f555a7141189fd778856bf46ac"
+  },
+  {
+   "path": "evidence/extracts/city-of-redlands-p014-bc27eabc.pdf",
+   "bytes": 93997,
+   "sha256": "80d39e905ec7135632dac7426d854ead47563659d8f4d409008b83ab207d3950"
+  },
+  {
    "path": "evidence/extracts/city-of-redwood-city-p016-1837fc49.pdf",
    "bytes": 89035,
    "sha256": "797e8d9a75c8b777936c78213019bc61af4939ca251a732cea88c666f0988d16"
@@ -7893,8 +7923,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1620439,
-   "sha256": "4406c2b1df7a1cadeb692a9d87d514b586ec7b0c30a05420d95f568a760d6f59"
+   "bytes": 1626472,
+   "sha256": "fdc8ae2cf65a1cd8e155cdf36f40269cad4963680ebb30097536d4ce3fc6bb74"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -11785,6 +11815,36 @@
    "path": "evidence/outlined/city-of-rancho-mirage-p014-24e4e1d8.pdf",
    "bytes": 73218,
    "sha256": "78af3f8a135a317a6b191fd3e89b340bb350fa1d52cbc9825569cb6c0de709aa"
+  },
+  {
+   "path": "evidence/outlined/city-of-redlands-p004-74d6bc29.pdf",
+   "bytes": 95049,
+   "sha256": "5f65d61f1d2cdfaacd5e293ce8b0508592854971a4417ec922313e3d2284ff0b"
+  },
+  {
+   "path": "evidence/outlined/city-of-redlands-p004-aef1f47e.pdf",
+   "bytes": 54125,
+   "sha256": "c5e3c33b33352c3f82589e3f498ba7d42116af1c488081a02e18985e1a0181a3"
+  },
+  {
+   "path": "evidence/outlined/city-of-redlands-p011-7d2c5e28.pdf",
+   "bytes": 57818,
+   "sha256": "3859e9ccadbfbb6ced73656d49d2ad0ef19f83ab7de58d4250f835acf1b69a53"
+  },
+  {
+   "path": "evidence/outlined/city-of-redlands-p012-5fea518b.pdf",
+   "bytes": 110567,
+   "sha256": "8e73153be6df5fe01f499ebf192362f7bb768f699d8be505aa7712788218bbb8"
+  },
+  {
+   "path": "evidence/outlined/city-of-redlands-p013-748890ae.pdf",
+   "bytes": 45526,
+   "sha256": "c1e61c03738d48ab42e7884b3b1ef4adec5efd0964f314f2b1e3ae731e08a8cf"
+  },
+  {
+   "path": "evidence/outlined/city-of-redlands-p014-bc27eabc.pdf",
+   "bytes": 94055,
+   "sha256": "34e8ec567aa22d5efddbfd3128a82debc0e2ff8d9ef2aa70e580c9585a59b959"
   },
   {
    "path": "evidence/outlined/city-of-redwood-city-p016-1837fc49.pdf",
@@ -16472,6 +16532,16 @@
    "sha256": "9b1eb8ce21d08ac6ca1539e57d899e5e42f1d6907399e0ab44f52cffc55e6085"
   },
   {
+   "path": "sources/city-of-redlands-2022-23-b39d0d44.pdf",
+   "bytes": 405833,
+   "sha256": "b39d0d441d82e29a97d1c445d0d8769f8bdd18d28aba204cbd2e25f89a67206b"
+  },
+  {
+   "path": "sources/city-of-redlands-2023-24-194ff749.pdf",
+   "bytes": 263234,
+   "sha256": "194ff7497d00c10348003172ac5b365ef683513f2f0b69455181fa73258c7222"
+  },
+  {
    "path": "sources/city-of-redwood-city-2022-23-06ca4176.pdf",
    "bytes": 641310,
    "sha256": "06ca417619a218cb627494bec4f43d5a7c547d6cac66874a4150e56623286df7"
@@ -17138,13 +17208,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 133331,
-   "sha256": "f9f3425fc0efd028eaa4e6427e063a3c981fd9b401d18aaa867b2ec6fe67e7cb"
+   "bytes": 134155,
+   "sha256": "b7f61671e9fba2c801edcf71606c10d0c21b784c4eb095a507a5e8bc95d3258a"
   },
   {
    "path": "sources/index.json",
-   "bytes": 231854,
-   "sha256": "3687bc26ad3567a07d17c049da4dad107192c39daa6959a0cb3b8bef2945008d"
+   "bytes": 233316,
+   "sha256": "0a8c242aba29dac82cb07428db1ac24c9ddb5fef040add30a65647408b83f344"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -17219,7 +17289,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "777b5e8138f16aca4fa2663187bec0b703578c79e0d01d226c086826f45e55eb"
+   "sha256": "1fe7477607ce0b1e0081341f6f85904e72e83b9c6600d32034acffc5a749008c"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -17234,7 +17304,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "afbed07c3d923452708ef7f67563a168fcdae7d065e70bd03c86dd0f2b04416a"
+   "sha256": "ecf5c3d65a9ab49217a4ba7aecd89f6f0e38f5ed57b546a0b1e7f9533b73dfaf"
   },
   {
    "path": "validation/validate.py",

@@ -2226,6 +2226,34 @@
   "published_data_rows_from_this_source": 6
  },
  {
+  "source_id": "city-of-redlands-2022-23-b39d0d44",
+  "receiving_entity": "City of Redlands",
+  "publication_title": "Annual Report on Development Impact Fees - FY 2022-2023 (final AB 1600 report)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://www.redlands.gov/wp-content/uploads/2023/12/5204_5204_final_ab_1600_report_2022-23_draft.pdf",
+  "retrieved_utc": "2026-09-22T07:07:24.767662+00:00",
+  "physical_page_count": 22,
+  "source_sha256": "b39d0d441d82e29a97d1c445d0d8769f8bdd18d28aba204cbd2e25f89a67206b",
+  "source_bytes": 405833,
+  "source_pdf": "sources/city-of-redlands-2022-23-b39d0d44.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
+  "source_id": "city-of-redlands-2023-24-194ff749",
+  "receiving_entity": "City of Redlands",
+  "publication_title": "Annual Report on Development Impact Fees - FY 2023-2024 (final AB 1600 report)",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2023-24",
+  "official_source_url": "https://www.redlands.gov/wp-content/uploads/2024/11/final_ab_1600_report_2023-24.pdf",
+  "retrieved_utc": "2026-09-22T07:07:24.386045+00:00",
+  "physical_page_count": 21,
+  "source_sha256": "194ff7497d00c10348003172ac5b365ef683513f2f0b69455181fa73258c7222",
+  "source_bytes": 263234,
+  "source_pdf": "sources/city-of-redlands-2023-24-194ff749.pdf",
+  "published_data_rows_from_this_source": 3
+ },
+ {
   "source_id": "city-of-redwood-city-2022-23-06ca4176",
   "receiving_entity": "City of Redwood City",
   "publication_title": "City of Redwood City annual development impact fee report, fiscal year 2022-23",
