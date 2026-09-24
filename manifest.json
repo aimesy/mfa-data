@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-23T18:58:05.345336+00:00",
- "data_rows": 1713,
- "distinct_printed_figures": 1545,
- "receiving_entities": 163,
- "agency_years": 321,
- "fee_programs": 966,
- "source_reports": 298,
- "evidence_pairs": 1545,
+ "built_utc": "2026-09-24T04:38:42.975387+00:00",
+ "data_rows": 1727,
+ "distinct_printed_figures": 1559,
+ "receiving_entities": 164,
+ "agency_years": 323,
+ "fee_programs": 973,
+ "source_reports": 300,
+ "evidence_pairs": 1559,
  "fiscal_years": [
   "2013-14",
   "2014-15",
@@ -23,8 +23,8 @@
   "2024-25"
  ],
  "held_rows_published": 0,
- "file_count": 3413,
- "total_bytes": 834725641,
+ "file_count": 3443,
+ "total_bytes": 836546046,
  "files": [
   {
    "path": ".gitattributes",
@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 13698,
-   "sha256": "241330dcdfea97695efaad912087b9744004d6f4742f48ed558cf4075883a732"
+   "bytes": 13757,
+   "sha256": "421acb87ecc5c1c62598dcf3f3ff0109672d8bc65b457bac88d08109e8b4d784"
   },
   {
    "path": "data/capital-spending.csv",
@@ -44,12 +44,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "1fd2c231961bb7751e1081a32a273a804a1421b1d44662ca1e28eb6a696cce72"
+   "sha256": "783cacd1b25a345174c12cfcbd12b1cc7b72a1c57cded5a88a7b862446c3e422"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 678563,
-   "sha256": "ac22b56b00d7103b7ee8aabe254a8e5136617bf0ea5e387336d5ab6a82945bc8"
+   "bytes": 683406,
+   "sha256": "c17659254b86e27502c5d74b85f5e1ef2f7566ba6d5c40bee4052fda5ea90e2a"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -58,13 +58,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 3584965,
-   "sha256": "11287779b31c34bf7680d365a17d6056fe716727afd8886aecfe6697bfcb3e12"
+   "bytes": 3610361,
+   "sha256": "bfa678b2cf29d9f9665853b4857e13a0d662072caa0b4851fff3ae3865f99b01"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 5359415,
-   "sha256": "5bd630dd50ff8ac5b139fda3c85d809a16f55baf440103810c9f18a79c0122d8"
+   "bytes": 5399353,
+   "sha256": "ba385ffdaa7834e4599965c9b406febeb7a0ea56e55748c5b951c2dad6507151"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -5802,6 +5802,76 @@
    "sha256": "c588236f559d282522d68a375e0443f8fbe6372593ac9bfd745c46645a166684"
   },
   {
+   "path": "evidence/extracts/city-of-waterford-p004-14aaef53.pdf",
+   "bytes": 54165,
+   "sha256": "e9b483caeeadd759d3c0f26fca88408d77a420dd5c646876ad698d3319b809d2"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p004-20153daa.pdf",
+   "bytes": 51074,
+   "sha256": "3c8f531f2741b6ff386ae9f096d9ca99005058039e849c49769b1debef12c98d"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p005-4c0aee24.pdf",
+   "bytes": 48598,
+   "sha256": "b05028303c2d24a175a0f69bc2b33f3d971d10ac2e16f88ecc8788181e8d58bf"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p005-f56f17b2.pdf",
+   "bytes": 51404,
+   "sha256": "c942d5a7c014ad5ed603e737a280854134dae6b69ab9c442341e9fac462a2e72"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p006-72a4e891.pdf",
+   "bytes": 49204,
+   "sha256": "88c7a25cbcd2c982fc91675fc96b9bce5281e687cc9179b01652e6e4100777f5"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p006-85132e35.pdf",
+   "bytes": 51378,
+   "sha256": "2b74a683af9fcb26242505c85575b953e20cd03a9af205b3f8082d614331e0d8"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p007-4e97ca46.pdf",
+   "bytes": 49492,
+   "sha256": "f0924d43112aefa7ac53b4fed24ae86d6cf897c8aea218236e993a2210ca4f5b"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p007-77320516.pdf",
+   "bytes": 51732,
+   "sha256": "09d848cd9deefd66cd0bcfcbf39078cdfe608af32c82d5ef11ff8796a7382a07"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p008-a8b9928d.pdf",
+   "bytes": 49955,
+   "sha256": "1610742b30b20c210fda155b3db2f314758b0cc6c2a82b9c4a9f7b4e194f1ce8"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p008-d5185503.pdf",
+   "bytes": 53774,
+   "sha256": "27611b0aeec217e6adcf8fde274ef74420423483da4dec6fa6ea721f08bb7cf5"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p009-0d2223ea.pdf",
+   "bytes": 48300,
+   "sha256": "de6a041111544b38ee50fd6b85a1d1d728cd5f691c280ff81c54e1722865b5f4"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p009-f18aeb8e.pdf",
+   "bytes": 51482,
+   "sha256": "41cf2b53cad728fa56899f35be2db0ad9b6fecad2f4e443de0a16346b5360b07"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p011-3ea0b257.pdf",
+   "bytes": 51593,
+   "sha256": "14653cf503e099e027a80725369ff6b37e403de1305062f200f3404e99c2f00d"
+  },
+  {
+   "path": "evidence/extracts/city-of-waterford-p011-6b0ae672.pdf",
+   "bytes": 49354,
+   "sha256": "d048b688585041aabd5b9e5ace3d7415ede314b831d585e48b3cc63013c9bb1d"
+  },
+  {
    "path": "evidence/extracts/city-of-west-sacramento-p008-73d69d02.pdf",
    "bytes": 67694,
    "sha256": "5c492b54f6bcafb3ae478dcee8c3e1f69f11a602c7c66f2b5e6393b500ddfc0d"
@@ -7823,8 +7893,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 1606063,
-   "sha256": "4dc75267e55cbc2983761cd05e1ee53ff37f10edd1ff6cfa61b01f6918ddd8a3"
+   "bytes": 1620439,
+   "sha256": "4406c2b1df7a1cadeb692a9d87d514b586ec7b0c30a05420d95f568a760d6f59"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -13532,6 +13602,76 @@
    "sha256": "3b4d930e9eb67c4666b1ff360781d8d7b15a5899d50a8c69ffd994cdc175dba0"
   },
   {
+   "path": "evidence/outlined/city-of-waterford-p004-14aaef53.pdf",
+   "bytes": 54220,
+   "sha256": "c7ff9c516da1e97069baa8fdf5829e10382207cfd02a1def1797a1625ad714e3"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p004-20153daa.pdf",
+   "bytes": 51138,
+   "sha256": "25baf5532f7e1758a7d1c56e9920ee353aa1b0eadde4294f92d6f31c2e71d42f"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p005-4c0aee24.pdf",
+   "bytes": 48660,
+   "sha256": "0e4b9fc1d7dddb2060be46f3513a6641b073881076a9f3a17653932eeebf0dc4"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p005-f56f17b2.pdf",
+   "bytes": 51461,
+   "sha256": "55b1b35fa50a5d35e4a0e4e3427cde3b9be5a565dedc71ea309076251565ffe7"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p006-72a4e891.pdf",
+   "bytes": 49262,
+   "sha256": "f018376ffbc00df12696fe0686976d5e714663c96fd36755fa186677fe19efb1"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p006-85132e35.pdf",
+   "bytes": 51432,
+   "sha256": "0ee7d2c785f1ec8498f84885931ed51bbd2032884cb54a3094c9187d3b31a485"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p007-4e97ca46.pdf",
+   "bytes": 49551,
+   "sha256": "639ecf7e7c244d0972c8b8ace3f768b7195d103e2e8a3f64708899d646e61fd0"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p007-77320516.pdf",
+   "bytes": 51787,
+   "sha256": "beec6ed8178ea6221666ef75a8f59ce4812d03997bfada95e4a665047182de6b"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p008-a8b9928d.pdf",
+   "bytes": 50014,
+   "sha256": "e923e02b3f87da5c6a8417d9fb840becf8d5219c6d4e4b1981c14148cacd74a4"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p008-d5185503.pdf",
+   "bytes": 53831,
+   "sha256": "77241462a10c23388595a69449ba6a62c3a7d074cbb370cdbc8c7a17cfb6e3db"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p009-0d2223ea.pdf",
+   "bytes": 48354,
+   "sha256": "bac127ede8844313dd05d3a8d34b265155137f01675dd342be39576e2a5c7d41"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p009-f18aeb8e.pdf",
+   "bytes": 51538,
+   "sha256": "5f51962898078607eca2024d58e5ad011e34dc93125625c9e5f2713d2c34e978"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p011-3ea0b257.pdf",
+   "bytes": 51648,
+   "sha256": "55eb073e415f2c2804aa6857e7c9a72f0cf664119f6551331fc411fae9b6422f"
+  },
+  {
+   "path": "evidence/outlined/city-of-waterford-p011-6b0ae672.pdf",
+   "bytes": 49409,
+   "sha256": "21905cc1ca2abe297acbd1c7596a546167e23f87e6b76b50c78f7cb4aa1fbc06"
+  },
+  {
    "path": "evidence/outlined/city-of-west-sacramento-p008-73d69d02.pdf",
    "bytes": 67752,
    "sha256": "998d8df89dc9909da2ffb77fc24f5614fea6f2442fa6f01f06a270c11b499252"
@@ -16617,6 +16757,16 @@
    "sha256": "b7c87152d4dc69a721e513bb1a56b1dcfd660aa33ef988056da6d71328280773"
   },
   {
+   "path": "sources/city-of-waterford-2022-23-6b0f0474.pdf",
+   "bytes": 191445,
+   "sha256": "6b0f0474c374b65cb8e618bf60553997e310749ad3ed714933a61c6d28ba52df"
+  },
+  {
+   "path": "sources/city-of-waterford-2023-24-fa01d2f8.pdf",
+   "bytes": 118260,
+   "sha256": "fa01d2f8d8501793e29037b27a45b00fd6ef8e1eacd5082cd55440902b7ef7e7"
+  },
+  {
    "path": "sources/city-of-west-sacramento-2022-23-58943f94.pdf",
    "bytes": 398371,
    "sha256": "58943f94796d0168d7ae7a684eec115bd72112052cd10a2043d496886fcac419"
@@ -16988,13 +17138,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 132511,
-   "sha256": "bb4bfe9c6d646dfa49d71257dba7d156069270d1e7b0afd78193658ff4132c88"
+   "bytes": 133331,
+   "sha256": "f9f3425fc0efd028eaa4e6427e063a3c981fd9b401d18aaa867b2ec6fe67e7cb"
   },
   {
    "path": "sources/index.json",
-   "bytes": 230396,
-   "sha256": "f07b7a1255989cc5f63f05d61e3208132cabdff4d5142237ba9bb5649a5a8a6c"
+   "bytes": 231854,
+   "sha256": "3687bc26ad3567a07d17c049da4dad107192c39daa6959a0cb3b8bef2945008d"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -17069,7 +17219,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "7c94ecb5429900de21229f9d84ae87a1d75871d48f3bb6db7bfd7c999b8ccb69"
+   "sha256": "777b5e8138f16aca4fa2663187bec0b703578c79e0d01d226c086826f45e55eb"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -17084,7 +17234,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2592,
-   "sha256": "9d5597fffa3a03da9bb960acdeea6301af13d4993e04b1fe2a91af362bac6877"
+   "sha256": "afbed07c3d923452708ef7f67563a168fcdae7d065e70bd03c86dd0f2b04416a"
   },
   {
    "path": "validation/validate.py",
