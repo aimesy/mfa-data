@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-24T18:14:53.167704+00:00",
- "data_rows": 2532,
- "distinct_printed_figures": 2364,
- "receiving_entities": 171,
- "agency_years": 447,
- "fee_programs": 1096,
- "source_reports": 429,
- "evidence_pairs": 2364,
+ "built_utc": "2026-09-24T19:04:28.790486+00:00",
+ "data_rows": 2540,
+ "distinct_printed_figures": 2372,
+ "receiving_entities": 177,
+ "agency_years": 455,
+ "fee_programs": 1102,
+ "source_reports": 437,
+ "evidence_pairs": 2372,
  "fiscal_years": [
   "2008-09",
   "2009-10",
@@ -25,11 +25,12 @@
   "2021-22",
   "2022-23",
   "2023-24",
-  "2024-25"
+  "2024-25",
+  "2025-26"
  ],
  "held_rows_published": 0,
- "file_count": 5182,
- "total_bytes": 1160454922,
+ "file_count": 5206,
+ "total_bytes": 1164689249,
  "files": [
   {
    "path": ".gitattributes",
@@ -38,8 +39,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 14849,
-   "sha256": "385da20ac36a9dc0f01de9317a3fa6d0d6c9572562bc34539db81e9933f09859"
+   "bytes": 15190,
+   "sha256": "80ceccb88918447509fabb191f0de0ad4bc9914869e71d6bce55c4be4941d721"
   },
   {
    "path": "data/capital-spending.csv",
@@ -49,12 +50,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "b6cecf129672b42546ad1fcefa01a50a3ccf4555c33122236e2414de33b51942"
+   "sha256": "d56ca0137e43bc617a5e5019eb492fb9512a29d60a0048d424991db229a2ff58"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 970599,
-   "sha256": "fcf4b567f7d271c6730ea5cd64daf5236067db87b735768a70013732a0a8b961"
+   "bytes": 977532,
+   "sha256": "981b2eaf412f6b98bcb90d5570988d0ea679317644e3fbfc42c1f1491ed043f5"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -63,13 +64,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 5315913,
-   "sha256": "2d38e4aa4da0db6b2f0b3aa3216f9ae448790d7e21495a3677fd160027407d2e"
+   "bytes": 5332813,
+   "sha256": "a3e04656e0f9e11de511f4895ccd4e3b2bc1b940d3928358973cddc3baef62e3"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 7940352,
-   "sha256": "7bcc2b4830a87c31f86ce2008f803acac398a1d4096479ca812a65542b7dabf1"
+   "bytes": 7965562,
+   "sha256": "46d909913471ffa8378d5f7393f6b6e09b221c98a022fca4d4cd6562f4695d95"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -115,6 +116,11 @@
    "path": "evidence/extracts/antioch-unified-p003-50b89960.pdf",
    "bytes": 50768,
    "sha256": "0efeb65cf0172a331097fe7f3c22b5d09acf4299327bd7ded6cced1671da949d"
+  },
+  {
+   "path": "evidence/extracts/baldwin-park-unified-p002-a9e56779.pdf",
+   "bytes": 70441,
+   "sha256": "858efca8a304b30d2d7b838f5e26f98962ba3d59cf58536c7f86e2c866a34170"
   },
   {
    "path": "evidence/extracts/beaumont-unified-p003-5d021355.pdf",
@@ -11727,6 +11733,11 @@
    "sha256": "8d1615e27836a284264979353416bb38b254c658deffdf15fb40a655c44d40ab"
   },
   {
+   "path": "evidence/extracts/howell-mountain-elementary-p004-2b421ca2.pdf",
+   "bytes": 42823,
+   "sha256": "f58edf0dab25b867d924e122dfd5bfef73e88c9f804e003a7e55057406475dbe"
+  },
+  {
    "path": "evidence/extracts/lake-valley-fire-protection-district-p060-f33944db.pdf",
    "bytes": 76149,
    "sha256": "d8ae4e479818213225611537f3f3d0fc430e687f8b1371019e38042e167d27e6"
@@ -11745,6 +11756,21 @@
    "path": "evidence/extracts/natomas-unified-school-district-p002-7f9cab37.pdf",
    "bytes": 91694,
    "sha256": "dea330cb571825e7840a0160b169bdc51a105b1227883a5d0acb1712bda6aa81"
+  },
+  {
+   "path": "evidence/extracts/novato-unified-p002-b3089f77.pdf",
+   "bytes": 93661,
+   "sha256": "dc69ec82a455279cc98f9c2c4ac161c192d41c9d0c7b38d18d9a25a617881660"
+  },
+  {
+   "path": "evidence/extracts/novato-unified-p002-c080ab3c.pdf",
+   "bytes": 79242,
+   "sha256": "63a2ad94da89cf814c9795a142e931679145ac2bd2ad34a8369a6b3a93b4fe3b"
+  },
+  {
+   "path": "evidence/extracts/oxnard-union-high-p003-0e9d767c.pdf",
+   "bytes": 88367,
+   "sha256": "d8def577ba9ec37eb87f6387209ed9abafdeebb622d493e6aa49e49d96cc71ba"
   },
   {
    "path": "evidence/extracts/pioneer-fire-protection-district-p072-ad774c8d.pdf",
@@ -11802,6 +11828,11 @@
    "sha256": "ad08ca192def5e25703b0843344ef7cfc1a036a899e733f58c120b11123689a3"
   },
   {
+   "path": "evidence/extracts/san-ysidro-elementary-p005-523a964e.pdf",
+   "bytes": 109678,
+   "sha256": "d441b683bc69609263b4df258d3f680cd68d6664b8970ef5e557838f168a1382"
+  },
+  {
    "path": "evidence/extracts/sonoma-county-fire-district-p046-00168561.pdf",
    "bytes": 36384,
    "sha256": "bf6d88d84c7ab7e88efeda90a1839087f1075805429c569d57cd9d57c310e7f6"
@@ -11830,6 +11861,16 @@
    "path": "evidence/extracts/sunrise-recreation-and-park-district-p001-62607a07.pdf",
    "bytes": 32525,
    "sha256": "a6cfb38f0a42f5407263c13b7232845c390037bdbfa9a9a4cfd429b26a03d1ed"
+  },
+  {
+   "path": "evidence/extracts/sweetwater-union-high-p002-379bd703.pdf",
+   "bytes": 61256,
+   "sha256": "79d52686cc5b6376cdc865907653f55babe005a9139d26d7c2e4a705f727595a"
+  },
+  {
+   "path": "evidence/extracts/sweetwater-union-high-p002-8f48cf03.pdf",
+   "bytes": 10496,
+   "sha256": "708e83161cefc323237b3139c60b53160cd7f86f5d035282c3f9bad13c0c139a"
   },
   {
    "path": "evidence/extracts/town-of-loomis-p004-6fd157ab.pdf",
@@ -11923,8 +11964,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 2448551,
-   "sha256": "27c0294a0c6b882ca92d2b5408b1fc1b72e6cdf58c9ee04e7b7a289f73a6c29a"
+   "bytes": 2456737,
+   "sha256": "313d120513c10609aa9ff044060a4d96e3cae350a2693b0886cf041079fc52d8"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -11940,6 +11981,11 @@
    "path": "evidence/outlined/antioch-unified-p003-50b89960.pdf",
    "bytes": 50829,
    "sha256": "ae53ee14dcffcc98bc1bf7ea48baae5d48cc6f24c703fa6ca02e3592c5aeb4c8"
+  },
+  {
+   "path": "evidence/outlined/baldwin-park-unified-p002-a9e56779.pdf",
+   "bytes": 70501,
+   "sha256": "c6194d6a7797af0ddf42c56a413400e19b3358b00415622f12fb951c041914d3"
   },
   {
    "path": "evidence/outlined/beaumont-unified-p003-5d021355.pdf",
@@ -23552,6 +23598,11 @@
    "sha256": "b085451cb4b90fa742df36a6ea220af8c5619bf1acfd904c336b3cccd7bc1016"
   },
   {
+   "path": "evidence/outlined/howell-mountain-elementary-p004-2b421ca2.pdf",
+   "bytes": 42879,
+   "sha256": "16da243bde9241cf0548081fdc3becead7a001375d4f3e697b342a18c1957dd5"
+  },
+  {
    "path": "evidence/outlined/lake-valley-fire-protection-district-p060-f33944db.pdf",
    "bytes": 76208,
    "sha256": "77ed321dd52e74d0ded5446a5d5aa5f370cfccdd44e442ebe71bec51458146eb"
@@ -23570,6 +23621,21 @@
    "path": "evidence/outlined/natomas-unified-school-district-p002-7f9cab37.pdf",
    "bytes": 91748,
    "sha256": "65b611d6156ed75d7d271ce86b373b661ba2230d0fe87b91d3124166ca3e78b7"
+  },
+  {
+   "path": "evidence/outlined/novato-unified-p002-b3089f77.pdf",
+   "bytes": 93715,
+   "sha256": "ad5df9267c58df6038cf2bab3e71e6b86cfe712bd391b0bd5adf1426e9f77d3c"
+  },
+  {
+   "path": "evidence/outlined/novato-unified-p002-c080ab3c.pdf",
+   "bytes": 79299,
+   "sha256": "36e0543ccf3d63170a4e5a56e2917e4e7e92da1d1467a2488f6e46bee8c938d5"
+  },
+  {
+   "path": "evidence/outlined/oxnard-union-high-p003-0e9d767c.pdf",
+   "bytes": 88427,
+   "sha256": "9522df1e383cb3c57bad64b049410f3b689408ffe98c3b8b712f951194de3284"
   },
   {
    "path": "evidence/outlined/pioneer-fire-protection-district-p072-ad774c8d.pdf",
@@ -23627,6 +23693,11 @@
    "sha256": "256741a65cc3f4b3de75215b2f1019e51a57574d9be9ce5a2e21010e1afc215b"
   },
   {
+   "path": "evidence/outlined/san-ysidro-elementary-p005-523a964e.pdf",
+   "bytes": 109734,
+   "sha256": "ec64a311640696f7a0f69d2e98b66ef8128ad22d88c7c9e02e2e70c627e0a744"
+  },
+  {
    "path": "evidence/outlined/sonoma-county-fire-district-p046-00168561.pdf",
    "bytes": 36438,
    "sha256": "78d5530019f4da452a223962bb468a62eba7333c070c54a5d5234282d07a05fa"
@@ -23655,6 +23726,16 @@
    "path": "evidence/outlined/sunrise-recreation-and-park-district-p001-62607a07.pdf",
    "bytes": 32592,
    "sha256": "ef8c2ca40c8ab02366b55fbedd7d833a33813cc9cce0d9f82ab2e80e6bf279d3"
+  },
+  {
+   "path": "evidence/outlined/sweetwater-union-high-p002-379bd703.pdf",
+   "bytes": 61310,
+   "sha256": "a604ce8950b2ab7e30fd8718fbd54576a0cc0fb5ca2739a7b57c0ba4e5130089"
+  },
+  {
+   "path": "evidence/outlined/sweetwater-union-high-p002-8f48cf03.pdf",
+   "bytes": 10552,
+   "sha256": "916c5cae4b63690443c8164d2edb6c4f823c8e9f3ea6dc5b7909803b68acafae"
   },
   {
    "path": "evidence/outlined/town-of-loomis-p004-6fd157ab.pdf",
@@ -23760,6 +23841,11 @@
    "path": "sources/antioch-unified-2023-24.pdf",
    "bytes": 393372,
    "sha256": "b9079d9b81766afbec0f1add2b2dfd01ae44e614d56f03dabc603b3bf581591d"
+  },
+  {
+   "path": "sources/baldwin-park-unified-2020-21-35c2c159.pdf",
+   "bytes": 331673,
+   "sha256": "35c2c15908db3b6134991463ccd980366dcaafbe7c732a29b08ceb9bb1c6fcfe"
   },
   {
    "path": "sources/beaumont-unified-2024-25.pdf",
@@ -25837,14 +25923,19 @@
    "sha256": "1c0db88679eb086f6dbab6a012a3f44f7be642593c1fa499e5d1b14ee7447f27"
   },
   {
+   "path": "sources/howell-mountain-elementary-2025-26-ae20ac48.pdf",
+   "bytes": 194004,
+   "sha256": "ae20ac48181ba66094b09777facb53753060840cb62ef31ab68215be92202a69"
+  },
+  {
    "path": "sources/index.csv",
-   "bytes": 193723,
-   "sha256": "efc9add6357e981a6378cd2735c14313bf1d565a96a6dc08188e330fcab98e6a"
+   "bytes": 197181,
+   "sha256": "8a1a9b0e0bcf8bb675d9fbf7b0ae86107ef7400d5e71866f4ab3ec8b42b8460b"
   },
   {
    "path": "sources/index.json",
-   "bytes": 333306,
-   "sha256": "9a6594f4e97e67bf6ed27a2d3942a2ea720d89c8991408c3703e312d979870c0"
+   "bytes": 339314,
+   "sha256": "18450f0a3c8f8788fed091882fae39138d2fc0a9190e9eb948c815b1531c42e8"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -25860,6 +25951,21 @@
    "path": "sources/nevada-county-rtmf-2022-23.pdf",
    "bytes": 566250,
    "sha256": "cfe7926e76e23be1da2771b0a55bc8a855bdeb7e8310923a513075e952eec849"
+  },
+  {
+   "path": "sources/novato-unified-2022-23-02ea49e3.pdf",
+   "bytes": 254729,
+   "sha256": "02ea49e33c9a458eb66708baeff3363de591c4b8bc232a453bdced9f90ae9fd1"
+  },
+  {
+   "path": "sources/novato-unified-2024-25-ea9f3cb9.pdf",
+   "bytes": 214559,
+   "sha256": "ea9f3cb91d0b3b28cbcd1788a3dbe037b580cc607a6f342ac35d072b498f6ce1"
+  },
+  {
+   "path": "sources/oxnard-union-high-2022-23-88439f6e.pdf",
+   "bytes": 426373,
+   "sha256": "88439f6eef6dd69554a4695b1bd2d95b51e4a4d9f1f1391d588fba8d40fc69d0"
   },
   {
    "path": "sources/saddleback-valley-unified-2015-16.pdf",
@@ -25892,6 +25998,21 @@
    "sha256": "5ca63d46abd53ef3626789c6c64c0e1760760435985b6dbb94ee525c292e30d0"
   },
   {
+   "path": "sources/san-ysidro-elementary-2019-20-cb183d49.pdf",
+   "bytes": 1378492,
+   "sha256": "cb183d4960c7e4b2e01d1e383fb883152637d83530d85b622b2dd52d6b2d6b11"
+  },
+  {
+   "path": "sources/sweetwater-union-high-2017-18-1631940e.pdf",
+   "bytes": 59681,
+   "sha256": "1631940e3e3d900f65b5f771b94b0feab71a5f11efc02d94011abe5bc8beb123"
+  },
+  {
+   "path": "sources/sweetwater-union-high-2018-19-8775e51a.pdf",
+   "bytes": 195399,
+   "sha256": "8775e51a93e0d5d042e5edeb7283d7cbf84d523c440fdb3dd7f5f76050bfa38b"
+  },
+  {
    "path": "sources/town-of-loomis-2024-25-2756ffda.pdf",
    "bytes": 525993,
    "sha256": "2756ffdad49a653756764205c1f9a774fcb935ecf5fb6c6f29991968c75b5ef4"
@@ -25919,7 +26040,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "464dda2377c96876078c1d6656c8af476b8a4a662de1859eb6841fd30fade6eb"
+   "sha256": "4e2e907d2b4a8fc5479fdaf018ba4a633e57918c9e59dfa38c6d1d65a8b4a7e9"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -25934,7 +26055,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2707,
-   "sha256": "ef66c61465f6f80db7f9476165ea435cacc032ce5acb7b7ac6b92b523eea02a2"
+   "sha256": "153e95aa088b115f0eef021d8fbd06eabb6467e978e2e192939237479faecadc"
   },
   {
    "path": "validation/validate.py",

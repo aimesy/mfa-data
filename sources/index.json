@@ -28,6 +28,20 @@
   "published_data_rows_from_this_source": 2
  },
  {
+  "source_id": "baldwin-park-unified-2020-21-35c2c159",
+  "receiving_entity": "Baldwin Park Unified",
+  "publication_title": "Combined Annual and Five Year Developer Fees Report",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2020-21",
+  "official_source_url": "https://4.files.edl.io/6f9e/12/09/21/181452-dec7a95b-fde3-4d41-8955-e1e75fc9d48d.pdf",
+  "retrieved_utc": "2026-09-24T08:34:35.493433+00:00",
+  "physical_page_count": 3,
+  "source_sha256": "35c2c15908db3b6134991463ccd980366dcaafbe7c732a29b08ceb9bb1c6fcfe",
+  "source_bytes": 331673,
+  "source_pdf": "sources/baldwin-park-unified-2020-21-35c2c159.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "beaumont-unified-2024-25",
   "receiving_entity": "Beaumont Unified",
   "publication_title": "Beaumont Unified impact fee report, fiscal year 2024-25",
@@ -5866,6 +5880,20 @@
   "published_data_rows_from_this_source": 1
  },
  {
+  "source_id": "howell-mountain-elementary-2025-26-ae20ac48",
+  "receiving_entity": "Howell Mountain Elementary",
+  "publication_title": "2025–2026 Developer Fee Annual Report",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2025-26",
+  "official_source_url": "https://ecs-cluster-bucket-wsos-prod-two.s3.us-west-2.amazonaws.com/uploads/sites/71/2025-2026-Developer-Fee-Annual-Report.pdf",
+  "retrieved_utc": "2026-09-24T09:46:40.103816+00:00",
+  "physical_page_count": 4,
+  "source_sha256": "ae20ac48181ba66094b09777facb53753060840cb62ef31ab68215be92202a69",
+  "source_bytes": 194004,
+  "source_pdf": "sources/howell-mountain-elementary-2025-26-ae20ac48.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "combined-filing-3476ee5f6f57",
   "receiving_entity": "Lake Valley Fire Protection District",
   "publication_title": "Lake Valley Fire Protection District impact fee report, fiscal year 2024-25",
@@ -5919,6 +5947,48 @@
   "source_sha256": "6042835392d614724b93f56bc7430c96d7af4dc3c397900c8ffc638eec919bc1",
   "source_bytes": 334540,
   "source_pdf": "sources/natomas-unified-school-district-2024-25.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "novato-unified-2022-23-02ea49e3",
+  "receiving_entity": "Novato Unified",
+  "publication_title": "Annual Accounting of Developer Fees for Fiscal Year Ending June 30, 2023 (12.5.23 Board Meeting)",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://files.smartsites.parentsquare.com/8315/annual_accounting_of_developer_fees_for_fiscal_year_ending_june_30_2023_12523_board_meeting.pdf",
+  "retrieved_utc": "2026-09-24T05:58:54.145104+00:00",
+  "physical_page_count": 4,
+  "source_sha256": "02ea49e33c9a458eb66708baeff3363de591c4b8bc232a453bdced9f90ae9fd1",
+  "source_bytes": 254729,
+  "source_pdf": "sources/novato-unified-2022-23-02ea49e3.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "novato-unified-2024-25-ea9f3cb9",
+  "receiving_entity": "Novato Unified",
+  "publication_title": "Annual Accounting of Developer Fees for Fiscal Year Ending 06/30/2025 (12/02/2025 Board Meeting)",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://files.smartsites.parentsquare.com/8315/annual_accounting_of_developer_fees_for_fiscal_year_ending_06302025.pdf",
+  "retrieved_utc": "2026-09-24T05:58:53.760759+00:00",
+  "physical_page_count": 4,
+  "source_sha256": "ea9f3cb91d0b3b28cbcd1788a3dbe037b580cc607a6f342ac35d072b498f6ce1",
+  "source_bytes": 214559,
+  "source_pdf": "sources/novato-unified-2024-25-ea9f3cb9.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "oxnard-union-high-2022-23-88439f6e",
+  "receiving_entity": "Oxnard Union High",
+  "publication_title": "2022-2023 Annual Reportable Fees Report",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2022-23",
+  "official_source_url": "https://resources.finalsite.net/images/v1732735706/oxnardunionorg/wgnuegyzxakcqztnbp2a/2022-23AnnualDeveloperFeesReport_pub113023.pdf",
+  "retrieved_utc": "2026-09-24T14:29:54.306654+00:00",
+  "physical_page_count": 6,
+  "source_sha256": "88439f6eef6dd69554a4695b1bd2d95b51e4a4d9f1f1391d588fba8d40fc69d0",
+  "source_bytes": 426373,
+  "source_pdf": "sources/oxnard-union-high-2022-23-88439f6e.pdf",
   "published_data_rows_from_this_source": 1
  },
  {
@@ -6048,6 +6118,20 @@
   "published_data_rows_from_this_source": 2
  },
  {
+  "source_id": "san-ysidro-elementary-2019-20-cb183d49",
+  "receiving_entity": "San Ysidro Elementary",
+  "publication_title": "Annual & 5-Year Reportable Fees Report 2019-20 (12/14/2020)",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2019-20",
+  "official_source_url": "https://resources.finalsite.net/images/v1763462677/ghg0zziafucjaqcqi5t8/Annual_and_Five_Year_Report_SYSD_1920_FN.pdf",
+  "retrieved_utc": "2026-09-24T18:15:25.607783+00:00",
+  "physical_page_count": 11,
+  "source_sha256": "cb183d4960c7e4b2e01d1e383fb883152637d83530d85b622b2dd52d6b2d6b11",
+  "source_bytes": 1378492,
+  "source_pdf": "sources/san-ysidro-elementary-2019-20-cb183d49.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
   "source_id": "county-of-sacramento-2022-23-vineyard-southgate-park-improvement",
   "receiving_entity": "Southgate Recreation and Park District",
   "publication_title": "County of Sacramento development impact fee annual reports, FY 2022-23 (Exhibit A to the Board of Supervisors filing)",
@@ -6087,6 +6171,34 @@
   "source_sha256": "1ad46275a2d6579b9adbe3fada588f3aa90902069d12bdce03d4d7952d44f9af",
   "source_bytes": 36280,
   "source_pdf": "sources/county-of-sacramento-2022-23-sunrise-rpd.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "sweetwater-union-high-2017-18-1631940e",
+  "receiving_entity": "Sweetwater Union High",
+  "publication_title": "Annual and Five-Year Reportable Fees Report FY 2017-2018",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2017-18",
+  "official_source_url": "https://drive.usercontent.google.com/download?id=1JStAFxXv_K9NjbY1yGNY2FCTxd2819Yn&export=download",
+  "retrieved_utc": "2026-09-24T14:28:56.197789+00:00",
+  "physical_page_count": 8,
+  "source_sha256": "1631940e3e3d900f65b5f771b94b0feab71a5f11efc02d94011abe5bc8beb123",
+  "source_bytes": 59681,
+  "source_pdf": "sources/sweetwater-union-high-2017-18-1631940e.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "sweetwater-union-high-2018-19-8775e51a",
+  "receiving_entity": "Sweetwater Union High",
+  "publication_title": "Annual and Five-Year Reportable Fees Report FY 2018-2019",
+  "publication_type": "combined_annual_and_five_year",
+  "covers_fiscal_year": "2018-19",
+  "official_source_url": "https://drive.usercontent.google.com/download?id=14QFxhZSzBUxvlXXpdN0BjLBF3DZ_YK5z&export=download",
+  "retrieved_utc": "2026-09-24T14:28:57.810410+00:00",
+  "physical_page_count": 8,
+  "source_sha256": "8775e51a93e0d5d042e5edeb7283d7cbf84d523c440fdb3dd7f5f76050bfa38b",
+  "source_bytes": 195399,
+  "source_pdf": "sources/sweetwater-union-high-2018-19-8775e51a.pdf",
   "published_data_rows_from_this_source": 1
  },
  {

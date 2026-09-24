@@ -1,6 +1,6 @@
 # California impact fees
 
-2532 reviewed rows covering 2364 printed figures, from 171 receiving entities, across fiscal years 2008–09 to 2024–25. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
+2540 reviewed rows covering 2372 printed figures, from 177 receiving entities, across fiscal years 2008–09 to 2025–26. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
 
 This is a research sample, not statewide coverage. Thousands of California agencies levy these fees. Do not sum this into a statewide estimate.
 
@@ -84,6 +84,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | Beaumont Unified | 2024–25 | 1 | $3,171,017 |
 | City of Garden Grove | 2021–22 | 6 | $3,072,830 |
 | City of Pomona | 2023–24, 2024–25 | 15 | $2,917,512 |
+| Sweetwater Union High | 2017–18, 2018–19 | 2 | $2,891,533 |
 | County of Contra Costa | 2022–23, 2023–24 | 29 | $2,707,601 |
 | City of Petaluma | 2023–24, 2024–25 | 12 | $2,532,960 |
 | City of Winters | 2020–21, 2024–25 | 17 | $2,281,625 |
@@ -96,6 +97,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Signal Hill | 2020–21, 2021–22, 2023–24 | 9 | $1,744,516 |
 | County of Santa Barbara | 2023–24 | 15 | $1,690,598 |
 | City of Rio Vista | 2022–23, 2023–24, 2024–25 | 10 | $1,647,965 |
+| San Ysidro Elementary | 2019–20 | 1 | $1,551,167 |
 | City of San Jacinto | 2023–24, 2024–25 | 8 | $1,533,887 |
 | City of Carson | 2020–21, 2021–22 | 7 | $1,532,467 |
 | City of Campbell | 2022–23 | 3 | $1,494,663 |
@@ -117,8 +119,10 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Wheatland | 2023–24, 2024–25 | 19 | $1,012,255 |
 | City of Walnut Creek | 2024–25 | 6 | $992,367 |
 | Sonoma County Fire District | 2022–23, 2023–24, 2024–25 | 3 | $862,580 |
+| Oxnard Union High | 2022–23 | 1 | $831,727 |
 | City of Scotts Valley | 2022–23, 2024–25 | 12 | $801,750 |
 | City of Colton | 2023–24, 2024–25 | 9 | $770,851 |
+| Baldwin Park Unified | 2020–21 | 1 | $768,156 |
 | City of Rancho Mirage | 2024–25 | 6 | $740,118 |
 | City of Tehachapi | 2022–23 | 6 | $739,047 |
 | City of Murrieta | 2014–15, 2016–17 | 3 | $721,217 |
@@ -140,6 +144,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Stanton | 2022–23, 2023–24, 2024–25 | 14 | $382,542 |
 | City of Brawley | 2023–24, 2024–25 | 14 | $372,395 |
 | City of Morro Bay | 2022–23, 2023–24 | 11 | $370,977 |
+| Novato Unified | 2022–23, 2024–25 | 2 | $320,525 |
 | Town of Loomis | 2024–25 | 6 | $304,448 |
 | City of Williams | 2024–25 | 5 | $301,899 |
 | City of Big Bear Lake | 2024–25 | 6 | $299,948 |
@@ -180,6 +185,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Yreka | 2022–23 | 2 | $7,341 |
 | Georgetown Fire Protection District | 2024–25 | 1 | $6,436 |
 | City of Waterford | 2022–23, 2023–24 | 14 | $5,307 |
+| Howell Mountain Elementary | 2025–26 | 1 | $4,736 |
 | City of Napa | 2020–21 | 1 | $4,643 |
 | City of Nevada City | 2022–23 | 1 | $2,870 |
 | City of Riverbank | 2014–15, 2015–16, 2018–19 | 3 | $0 |
