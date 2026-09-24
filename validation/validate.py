@@ -194,6 +194,22 @@ def main():
     blank_value = [r["record_id"] for r in rows if not r["value_usd"]]
     check("no_blank_values_published", not blank_value, str(blank_value[:5]))
 
+    # 8a. every row's fiscal year dates are the first and last day of the year it is filed
+    # under: a fiscal year "2022-23" runs from 2022-07-01 to 2023-06-30.
+    bad_dates = []
+    for r in rows:
+        fy = r["fiscal_year"]
+        if not re.fullmatch(r"\d{4}-\d{2}", fy or ""):
+            bad_dates.append(r["record_id"])
+            continue
+        y0 = int(fy[:4])
+        if (r["fiscal_year_start"] != "%d-07-01" % y0
+                or r["fiscal_year_end"] != "%d-06-30" % (y0 + 1)
+                or (y0 + 1) % 100 != int(fy[-2:])):
+            bad_dates.append(r["record_id"])
+    check("fiscal_year_dates_match_fiscal_year", not bad_dates,
+          "%d rows, e.g. %s" % (len(bad_dates), bad_dates[:3]))
+
     # 9. privacy: no local paths, operator identifiers or key material in published text.
     #    The patterns live in privacy-patterns.json so that this file does not contain the
     #    very strings it searches for and therefore match itself.
