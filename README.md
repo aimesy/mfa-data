@@ -1,6 +1,6 @@
 # California impact fees
 
-2733 reviewed rows covering 2565 printed figures, from 192 receiving entities, across fiscal years 2008–09 to 2025–26. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
+2764 reviewed rows covering 2596 printed figures, from 194 receiving entities, across fiscal years 2008–09 to 2025–26. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
 
 This is a research sample, not statewide coverage. Thousands of California agencies levy these fees. Do not sum this into a statewide estimate.
 
@@ -41,6 +41,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Oakland | 2020–21, 2022–23, 2023–24, 2024–25 | 10 | $15,663,308 |
 | City of Beverly Hills | 2015–16 to 2024–25 | 27 | $15,522,219 |
 | County of Yuba | 2024–25 | 11 | $13,721,408 |
+| City of Folsom | 2024–25 | 19 | $13,330,456 |
 | County of San Bernardino | 2011–12, 2013–14, 2014–15, 2015–16, 2016–17, 2017–18, 2018–19, 2019–20, 2020–21, 2021–22, 2022–23, 2023–24, 2024–25 | 36 | $13,294,660 |
 | City of Oceanside | 2024–25 | 4 | $12,153,674 |
 | City of Petaluma | 2018–19, 2020–21, 2021–22, 2023–24, 2024–25 | 30 | $11,435,129 |
@@ -67,8 +68,8 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Victorville | 2024–25 | 8 | $6,125,534 |
 | City of Culver City | 2022–23, 2023–24, 2024–25 | 13 | $5,958,499 |
 | City of Madera | 2021–22, 2022–23 | 19 | $5,725,714 |
+| City of Foster City | 2021–22 to 2024–25 | 6 | $5,547,237 |
 | City of Los Banos | 2024–25 | 8 | $4,940,759 |
-| City of Foster City | 2022–23, 2023–24, 2024–25 | 4 | $4,923,247 |
 | City of Moorpark | 2018–19 to 2024–25 | 24 | $4,891,704 |
 | City of Glendale | 2022–23, 2023–24 | 6 | $4,770,642 |
 | City of Eastvale | 2016–17, 2018–19, 2019–20, 2020–21, 2023–24, 2024–25 | 19 | $4,657,473 |
@@ -93,6 +94,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Pomona | 2023–24, 2024–25 | 15 | $2,917,512 |
 | City of San Jacinto | 2020–21, 2021–22, 2023–24, 2024–25 | 16 | $2,841,487 |
 | County of Contra Costa | 2022–23, 2023–24 | 29 | $2,707,601 |
+| City of Placerville | 2017–18, 2018–19, 2019–20, 2020–21, 2021–22, 2022–23, 2024–25 | 7 | $2,582,038 |
 | City of Bellflower | 2016–17, 2017–18, 2018–19, 2019–20, 2021–22, 2023–24, 2024–25 | 17 | $2,355,148 |
 | City of Lafayette | 2019–20, 2021–22, 2022–23, 2023–24, 2024–25 | 19 | $2,302,079 |
 | City of Winters | 2020–21, 2024–25 | 17 | $2,281,625 |
@@ -112,7 +114,6 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Campbell | 2022–23 | 3 | $1,494,663 |
 | City of Temecula | 2023–24 | 4 | $1,442,741 |
 | City of Bakersfield | 2022–23, 2024–25 | 24 | $1,441,064 |
-| City of Placerville | 2022–23, 2024–25 | 2 | $1,421,450 |
 | County of Placer | 2022–23 | 16 | $1,364,236 |
 | San Jacinto Unified | 2014–15, 2015–16, 2016–17 | 3 | $1,360,538 |
 | City of Redlands | 2022–23, 2023–24 | 6 | $1,344,602 |
@@ -175,14 +176,15 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | County of Tehama | 2023–24 | 7 | $132,570 |
 | Banning Unified | 2015–16, 2016–17 | 2 | $126,118 |
 | City of Grass Valley | 2022–23 | 1 | $114,833 |
+| City of Fort Bragg | 2016–17, 2017–18, 2021–22, 2024–25 | 7 | $98,847 |
 | City of Orinda | 2024–25 | 3 | $92,397 |
 | CAMERON PARK COMMUNITY SERVICE DISTRICT | 2024–25 | 2 | $86,269 |
-| City of Fort Bragg | 2024–25 | 4 | $84,005 |
 | City of Cotati | 2023–24, 2024–25 | 5 | $74,698 |
 | Lake Valley Fire Protection District | 2024–25 | 1 | $64,117 |
 | Esparto Fire Protection District | 2023–24, 2024–25 | 2 | $57,567 |
 | Georgetown Divide Recreation District | 2024–25 | 1 | $52,891 |
 | City of Albany | 2024–25 | 3 | $51,257 |
+| Camrosa Water District | 2024–25 | 2 | $39,734 |
 | Southgate Recreation and Park District | 2022–23 | 2 | $33,522 |
 | County of San Mateo | 2023–24, 2024–25 | 2 | $29,296 |
 | City of Laguna Hills | 2024–25 | 3 | $21,813 |

@@ -126,6 +126,20 @@
   "published_data_rows_from_this_source": 2
  },
  {
+  "source_id": "camrosa-water-district-2024-25-c9572857",
+  "receiving_entity": "Camrosa Water District",
+  "publication_title": "Camrosa Water District annual development impact fee report, fiscal year 2024-25",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.camrosa.com/wp-content/uploads/2025/12/CWD-Annual-DIF-Report-FY-2025-Final.pdf",
+  "retrieved_utc": "2026-09-25T05:06:04.163432+00:00",
+  "physical_page_count": 7,
+  "source_sha256": "c95728576e3f054c652cf6898774bb395c36cb5c3f07e65f2e808924c81db2cc",
+  "source_bytes": 166636,
+  "source_pdf": "sources/camrosa-water-district-2024-25-c9572857.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
   "source_id": "city-of-albany-2024-25",
   "receiving_entity": "City of Albany",
   "publication_title": "City of Albany annual development impact fee report, fiscal year 2024-25",
@@ -1834,6 +1848,20 @@
   "published_data_rows_from_this_source": 5
  },
  {
+  "source_id": "city-of-folsom-2024-25-ef618aab",
+  "receiving_entity": "City of Folsom",
+  "publication_title": "6/30/25 AB1600",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2024-25",
+  "official_source_url": "https://www.folsom.ca.us/home/showpublisheddocument/23260/639009616067570000",
+  "retrieved_utc": "2026-09-24T23:59:28.716671+00:00",
+  "physical_page_count": 55,
+  "source_sha256": "ef618aab8ca69a14aa9597d67f9ab4951f66cf047229de6f904610ac30f46c6e",
+  "source_bytes": 1287896,
+  "source_pdf": "sources/city-of-folsom-2024-25-ef618aab.pdf",
+  "published_data_rows_from_this_source": 19
+ },
+ {
   "source_id": "city-of-fontana-2024-25",
   "receiving_entity": "City of Fontana",
   "publication_title": "City of Fontana Annual Report on Development Impact Fees, fiscal year ended June 30, 2025",
@@ -1846,6 +1874,48 @@
   "source_bytes": 202688,
   "source_pdf": "sources/city-of-fontana-2024-25.pdf",
   "published_data_rows_from_this_source": 60
+ },
+ {
+  "source_id": "city-of-fort-bragg-2016-17-6369caad",
+  "receiving_entity": "City of Fort Bragg",
+  "publication_title": "Parking In-Lieu Fees 16-17",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2016-17",
+  "official_source_url": "https://legistar1.granicus.com/cityfortbragg/attachments/6de1686c-1b63-4e71-bbe2-e5956f2ed7e8.pdf",
+  "retrieved_utc": "2026-09-25T07:13:51.601789+00:00",
+  "physical_page_count": 3,
+  "source_sha256": "6369caad3b862c67da60bd6e0238fa352e1152060980dbc0f43987e72c44039e",
+  "source_bytes": 387761,
+  "source_pdf": "sources/city-of-fort-bragg-2016-17-6369caad.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-fort-bragg-2017-18-abe3a7f5",
+  "receiving_entity": "City of Fort Bragg",
+  "publication_title": "Parking In-Lieu Fees 17-18",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2017-18",
+  "official_source_url": "https://legistar1.granicus.com/cityfortbragg/attachments/74db3901-438e-49f8-b354-5fd16c50e6a6.pdf",
+  "retrieved_utc": "2026-09-25T07:13:54.009845+00:00",
+  "physical_page_count": 3,
+  "source_sha256": "abe3a7f5175ddea26a91fe9c165c0a4bbed47fac8e08f8faf721051189aeb4c6",
+  "source_bytes": 387592,
+  "source_pdf": "sources/city-of-fort-bragg-2017-18-abe3a7f5.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-fort-bragg-2021-22-b04bccaa",
+  "receiving_entity": "City of Fort Bragg",
+  "publication_title": "Wastewater Capacity Fees FY 21-22",
+  "publication_type": "annual_capacity_charge_report_66013",
+  "covers_fiscal_year": "2021-22",
+  "official_source_url": "https://legistar1.granicus.com/cityfortbragg/attachments/8cee0542-4c63-4b86-8774-482c9aecca33.pdf",
+  "retrieved_utc": "2026-09-25T07:13:28.495410+00:00",
+  "physical_page_count": 3,
+  "source_sha256": "b04bccaa7b5c9306b3ae4bfafdd83d578a4dc67da1ab5c6109cd495872097384",
+  "source_bytes": 485257,
+  "source_pdf": "sources/city-of-fort-bragg-2021-22-b04bccaa.pdf",
+  "published_data_rows_from_this_source": 1
  },
  {
   "source_id": "city-of-fort-bragg-2024-25-0331a873",
@@ -1902,6 +1972,20 @@
   "source_bytes": 887829,
   "source_pdf": "sources/city-of-fort-bragg-2024-25-d48a9c9d.pdf",
   "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-foster-city-2021-22-cee941f5",
+  "receiving_entity": "City of Foster City",
+  "publication_title": "Fiscal Year 2021 Through 2022.pdf",
+  "publication_type": "annual_capacity_charge_report_66013",
+  "covers_fiscal_year": "2021-22",
+  "official_source_url": "https://www.fostercity.org/DocumentCenter/View/539/Fiscal-Year-2021-Through-2022-PDF",
+  "retrieved_utc": "2026-09-25T04:23:21.643763+00:00",
+  "physical_page_count": 6,
+  "source_sha256": "cee941f5c740c1972459bcfab5e19aa2d913e48fc12a53a6fb44e369ad9df605",
+  "source_bytes": 184815,
+  "source_pdf": "sources/city-of-foster-city-2021-22-cee941f5.pdf",
+  "published_data_rows_from_this_source": 2
  },
  {
   "source_id": "city-of-foster-city-2022-23-e588c08a",
@@ -3722,6 +3806,76 @@
   "source_bytes": 1285122,
   "source_pdf": "sources/city-of-petaluma-2024-25-1b2f7fb3.pdf",
   "published_data_rows_from_this_source": 6
+ },
+ {
+  "source_id": "city-of-placerville-2017-18-1e5e2add",
+  "receiving_entity": "City of Placerville",
+  "publication_title": "TIM Fee Report FY 17-18",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2017-18",
+  "official_source_url": "https://www.cityofplacerville.org/media/Engineering/TIM%20Fee/TIM%20Fee%20Report%20FY%2017-18.pdf",
+  "retrieved_utc": "2026-09-25T07:11:25.056158+00:00",
+  "physical_page_count": 5,
+  "source_sha256": "1e5e2add4e6564b84f32b64cd3397090c676f30f361646eb384e64082ee67458",
+  "source_bytes": 201312,
+  "source_pdf": "sources/city-of-placerville-2017-18-1e5e2add.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-placerville-2018-19-8d477dd4",
+  "receiving_entity": "City of Placerville",
+  "publication_title": "TIM Fee Report FY 18-19",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2018-19",
+  "official_source_url": "https://www.cityofplacerville.org/media/Engineering/TIM%20Fee/TIM%20Fee%20Report%20FY%2018-19.pdf",
+  "retrieved_utc": "2026-09-25T07:11:26.078104+00:00",
+  "physical_page_count": 5,
+  "source_sha256": "8d477dd447067be7a3596352df8853dc319632950f897bec0c9f96e5217a05f4",
+  "source_bytes": 197345,
+  "source_pdf": "sources/city-of-placerville-2018-19-8d477dd4.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-placerville-2019-20-d8fdaa04",
+  "receiving_entity": "City of Placerville",
+  "publication_title": "TIM Fee Report FY 19-20",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2019-20",
+  "official_source_url": "https://www.cityofplacerville.org/media/Finance/tim-fee-report/710_sr-tim-fee-report-fy-19-20--04-14-26-fully-executed-final.pdf",
+  "retrieved_utc": "2026-09-25T07:11:26.772926+00:00",
+  "physical_page_count": 5,
+  "source_sha256": "d8fdaa044d56615eaf62290801498e11594fd98f557b2cdeb3aee7b6414784f9",
+  "source_bytes": 285711,
+  "source_pdf": "sources/city-of-placerville-2019-20-d8fdaa04.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-placerville-2020-21-c79fd8c9",
+  "receiving_entity": "City of Placerville",
+  "publication_title": "TIM Fee Report FY 20-21",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2020-21",
+  "official_source_url": "https://www.cityofplacerville.org/media/Finance/tim-fee-report/tim-fee-report-fy20-21-04-28-26-fully-executed.pdf",
+  "retrieved_utc": "2026-09-25T07:11:27.675497+00:00",
+  "physical_page_count": 5,
+  "source_sha256": "c79fd8c970f4c7196d892992a98ca2626a6e1ad686571b33261b3aae2b845049",
+  "source_bytes": 276473,
+  "source_pdf": "sources/city-of-placerville-2020-21-c79fd8c9.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "city-of-placerville-2021-22-2179098e",
+  "receiving_entity": "City of Placerville",
+  "publication_title": "TIM Fee Report FY 21-22",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2021-22",
+  "official_source_url": "https://www.cityofplacerville.org/media/Finance/tim-fee-report/76_sr-tim-fee-report-fy-21-22--05-12-26-fully-executed.pdf",
+  "retrieved_utc": "2026-09-25T07:11:29.687556+00:00",
+  "physical_page_count": 5,
+  "source_sha256": "2179098eee7a03577ea3f5600f6254306b6500bb090d47b65db126d992cd1a67",
+  "source_bytes": 286419,
+  "source_pdf": "sources/city-of-placerville-2021-22-2179098e.pdf",
+  "published_data_rows_from_this_source": 1
  },
  {
   "source_id": "city-of-placerville-2022-23-59351590",

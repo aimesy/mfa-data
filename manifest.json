@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-25T05:56:10.777220+00:00",
- "data_rows": 2733,
- "distinct_printed_figures": 2565,
- "receiving_entities": 192,
- "agency_years": 540,
- "fee_programs": 1151,
- "source_reports": 525,
- "evidence_pairs": 2565,
+ "built_utc": "2026-09-25T08:37:28.535797+00:00",
+ "data_rows": 2764,
+ "distinct_printed_figures": 2596,
+ "receiving_entities": 194,
+ "agency_years": 551,
+ "fee_programs": 1173,
+ "source_reports": 536,
+ "evidence_pairs": 2596,
  "fiscal_years": [
   "2008-09",
   "2009-10",
@@ -29,8 +29,8 @@
   "2025-26"
  ],
  "held_rows_published": 0,
- "file_count": 5680,
- "total_bytes": 1300829784,
+ "file_count": 5753,
+ "total_bytes": 1310221795,
  "files": [
   {
    "path": ".gitattributes",
@@ -39,8 +39,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 16465,
-   "sha256": "c96bd371b0d9ed3d793eeb9e8798b47f8faa982396ec87744162a6ac611c525b"
+   "bytes": 16649,
+   "sha256": "efd1a4ec2dcc1a23d131bdc2dce65c72295e1c1268ca69f8713f99a79f4a86c3"
   },
   {
    "path": "data/capital-spending.csv",
@@ -50,12 +50,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "208bc1f3600a18acec4e8df183addaa1b4a2bbc952b13342a3edd3f68c88836c"
+   "sha256": "7aab84d7917a291857b1580ce5f48da761967072c31470246a07a2704260e619"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 1065104,
-   "sha256": "e2bac90f5fb2f5fe201f34336b2035654f6313d3d5073bc29354e37ac4231af5"
+   "bytes": 1077712,
+   "sha256": "df0bfa9cb81b85bb1b528d8bbbd2531525d5af67d0d1ee6003c0bedc2447111a"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -64,13 +64,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 5724244,
-   "sha256": "a354ac72daf89fe9bb957e71568ee81a1a361b8bd2d6355fe5b12cbfeb1ac470"
+   "bytes": 5785010,
+   "sha256": "953524189d250e2a98d18fde172afd38d01482a7ea17524bc8c6610c6a5a5443"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 8557346,
-   "sha256": "da828eb8e85726927389a535784e2c17a86d3b83a528b0b3635092e8093815ff"
+   "bytes": 8650263,
+   "sha256": "12d6e07594685b9ec61de70caa0ee2b7ce71e504a89c984b9ce4c5048f9e437d"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -151,6 +151,16 @@
    "path": "evidence/extracts/cameron-park-community-service-district-p008-e19830eb.pdf",
    "bytes": 75458,
    "sha256": "0957720193df8383165d0411a2ad2a3b702859a5797125a53339b599e646c436"
+  },
+  {
+   "path": "evidence/extracts/camrosa-water-district-p006-7018e15a.pdf",
+   "bytes": 51427,
+   "sha256": "8ad6aaaf74e63c92c7ccd9a6aa5668e000f363e0034e94a41a823cbbd462cceb"
+  },
+  {
+   "path": "evidence/extracts/camrosa-water-district-p006-e80dc840.pdf",
+   "bytes": 51427,
+   "sha256": "ecdbdf66424cecb7f618ebd29a2fa662ef209aa2d0d468dd161763c2dfd3d5dc"
   },
   {
    "path": "evidence/extracts/city-of-albany-p009-32b9bb31.pdf",
@@ -2738,6 +2748,101 @@
    "sha256": "e1b2115390a7143bf55dda731260dd0ae0d673a963c5dd285643dcb61c567ec0"
   },
   {
+   "path": "evidence/extracts/city-of-folsom-p004-aa3b2f46.pdf",
+   "bytes": 80706,
+   "sha256": "919a3b729e036a31e687de01acec2165a71097deca622783b806a29864f87ba8"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p006-c66f965a.pdf",
+   "bytes": 87850,
+   "sha256": "8d7ee080e7f9fa8b906b9d1b3fc7ee5937baa1b67929f8438b0e5cc5bfd020d2"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p008-f9874b0d.pdf",
+   "bytes": 83076,
+   "sha256": "1c8713472d159b4e19929a788c21c637f7fa2f5894cb287629a05367dd5456d8"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p014-b26b506b.pdf",
+   "bytes": 85606,
+   "sha256": "a3adc7d9f11e7f1fe9138c19fc666544fcf587abc7d4babc053e546e944d84d0"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p016-edfd2131.pdf",
+   "bytes": 84180,
+   "sha256": "ff3eaa89ce12a37746247a234c1c7eae4f1d842700d8d0a549dc3a775cf85f5e"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p018-7f060ab9.pdf",
+   "bytes": 81684,
+   "sha256": "1cbbb4a1ef8199c131ee8722ca20040b691d3fefb3f5c0d2b721206a19c17331"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p020-16e190e2.pdf",
+   "bytes": 81745,
+   "sha256": "e45c84ba37d73cfb3542127edc0009639d4bd7c12cd15aa16b4d3021d2826068"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p022-0ffcb6fb.pdf",
+   "bytes": 86058,
+   "sha256": "258d145171d328dd88693ea4318520d8b1ea2068b8e6470d70585541ad91933a"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p025-8ff07538.pdf",
+   "bytes": 84873,
+   "sha256": "77213e0b1ca3963ee07bc6f2d642eaa1db40d7339fd5ad008f5bf2fb47cd9b03"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p028-8ffd8646.pdf",
+   "bytes": 82359,
+   "sha256": "1f1e09eac57aa3daeeddf5ed52e8cc0eb4461511ed2ca9e7184aed8edecc062b"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p030-e2059c28.pdf",
+   "bytes": 88797,
+   "sha256": "38952ffc3b17fad777ccc4e9edcbed1cd62f9c52a894b41baca83ce2f7e2c59d"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p032-2c8c96a8.pdf",
+   "bytes": 88551,
+   "sha256": "9a1e09e1fe90946a8d3f33ab2b85f95adbb8846c7588d8b0023b015e5f552f67"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p034-8e7662f1.pdf",
+   "bytes": 82601,
+   "sha256": "b41f94684e24b427fe2d587c8b34fda21a768815810808ad4b0eeb1d3e36576a"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p036-5350c765.pdf",
+   "bytes": 80480,
+   "sha256": "6caf31995533cfc9e1b02ea0083d36b7ef8b45c8a8466b07f78dfc8b6ccf0649"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p042-8e4dfe53.pdf",
+   "bytes": 85102,
+   "sha256": "b216bba74a85199df69dfa1814e92f4a86e5bf88fba15ceea8189e89f7445941"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p048-627ea499.pdf",
+   "bytes": 85627,
+   "sha256": "d967c794d74892240a608c95fd4e75ee1279fd152fa22dedfb73ad1ad88c97b7"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p050-1e463df4.pdf",
+   "bytes": 84990,
+   "sha256": "2673610a355b01bcdcf9121c6c96e52b5bbe9e10daf1809b60e5d92742c62380"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p052-d2cf1aae.pdf",
+   "bytes": 88530,
+   "sha256": "f9c920a76282987879683884bea84f7adb5e2dc33a932b7e2c3969feb75900a7"
+  },
+  {
+   "path": "evidence/extracts/city-of-folsom-p054-09b42617.pdf",
+   "bytes": 82288,
+   "sha256": "b6900db8e1dbf10e68aa961b8cdaf166fb7315987898ca007271f4f5ab4cb20a"
+  },
+  {
    "path": "evidence/extracts/city-of-fontana-p004-07638bbc.pdf",
    "bytes": 6776,
    "sha256": "a423a0c685adaadc3e75e3658442005cc54a060aad50087957850a7ba39398e2"
@@ -3038,6 +3143,16 @@
    "sha256": "7834eb6f3d75c71412b7e973a7da479deef0af89d0023c7e8575aa780588bd70"
   },
   {
+   "path": "evidence/extracts/city-of-fort-bragg-p002-3367b1df.pdf",
+   "bytes": 69138,
+   "sha256": "6082101e14a1ac6585430debaac0a6ebbf620e71f1d1d097eb0570cd07527e1f"
+  },
+  {
+   "path": "evidence/extracts/city-of-fort-bragg-p002-530f9b09.pdf",
+   "bytes": 67485,
+   "sha256": "3d565ca4987167f005f3d202fbd3218313d54aeebe16f64ef73540c7108aa047"
+  },
+  {
    "path": "evidence/extracts/city-of-fort-bragg-p002-70c862a7.pdf",
    "bytes": 263588,
    "sha256": "39c8da9f9d01c8b16a7a8c8f62e751e0e6a7bb239d058857e4cffbb54d551050"
@@ -3046,6 +3161,11 @@
    "path": "evidence/extracts/city-of-fort-bragg-p002-cd000357.pdf",
    "bytes": 293691,
    "sha256": "eda0d049c45ec731c2e84f7112c8ca1859554f144990a70bfbac42e1d0e02bde"
+  },
+  {
+   "path": "evidence/extracts/city-of-fort-bragg-p002-f3fc94c3.pdf",
+   "bytes": 67489,
+   "sha256": "fdda2136c3e36f394ac36c51021fbe9946a8d5418251e91a6e14fb5ea46ff095"
   },
   {
    "path": "evidence/extracts/city-of-fort-bragg-p002-f7e2a50c.pdf",
@@ -3066,6 +3186,16 @@
    "path": "evidence/extracts/city-of-foster-city-p002-8ea40df6.pdf",
    "bytes": 86855,
    "sha256": "0abcd624c3e1303008042c74ce7b8148b16a36ff056f66bbbd8ff972129f908e"
+  },
+  {
+   "path": "evidence/extracts/city-of-foster-city-p002-cdeb06da.pdf",
+   "bytes": 100956,
+   "sha256": "88a39793b4a8746e80d3af046332254b2e17584d1475efe3350b66651bc8480b"
+  },
+  {
+   "path": "evidence/extracts/city-of-foster-city-p004-11024ea8.pdf",
+   "bytes": 92936,
+   "sha256": "db6ed31203673b6551e11a77e0b102cc227496562a42ec386f58947b8ebbb0ef"
   },
   {
    "path": "evidence/extracts/city-of-foster-city-p004-6acb87f3.pdf",
@@ -6593,6 +6723,26 @@
    "sha256": "57e99281194bff3f9c6bd36cb9a8a4821fa134780dff97a5045364c7adc13da9"
   },
   {
+   "path": "evidence/extracts/city-of-placerville-p003-51b6096e.pdf",
+   "bytes": 73420,
+   "sha256": "3bcf36d3671f8e359501e318bcc78eeda3d50964018e1b6a9916538510334469"
+  },
+  {
+   "path": "evidence/extracts/city-of-placerville-p003-7fbb4b0d.pdf",
+   "bytes": 77583,
+   "sha256": "38027f2e8e0bcaf77f28e0887ac8b87f8cadb674d78d609fbd6640a3ff39af1f"
+  },
+  {
+   "path": "evidence/extracts/city-of-placerville-p003-8736372f.pdf",
+   "bytes": 86340,
+   "sha256": "6f24ad730a48546e41300e26e9a9dfab195e43617b86ce1143866c1916a30e2d"
+  },
+  {
+   "path": "evidence/extracts/city-of-placerville-p003-96bbfbee.pdf",
+   "bytes": 86321,
+   "sha256": "3f47a17bd9141b0512425e6e5c7640d070e7600a6a781562cc3a6cff019623f1"
+  },
+  {
    "path": "evidence/extracts/city-of-placerville-p003-a7c78b41.pdf",
    "bytes": 71262,
    "sha256": "1642340d025ec2b60122e7a70cd8a5f036935d0b9306eb0d73d42c7c2b1eb060"
@@ -6601,6 +6751,11 @@
    "path": "evidence/extracts/city-of-placerville-p003-bce0f0fe.pdf",
    "bytes": 86564,
    "sha256": "a18eed55708d7641169cae1f8533aa10248f9ab2804ac59e6160eaa3115923be"
+  },
+  {
+   "path": "evidence/extracts/city-of-placerville-p003-bcec0752.pdf",
+   "bytes": 86754,
+   "sha256": "7c07339079a37635275fd325a3ed829cbbf86f874d7a5aaf7e9b8d0b8d8cad3d"
   },
   {
    "path": "evidence/extracts/city-of-pleasanton-p010-5e8636c9.pdf",
@@ -12929,8 +13084,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 2654574,
-   "sha256": "cc2b3324b6d8cb22b8dbc0fe00689630d3ee0b100f173bd3ef0ac100ed96159c"
+   "bytes": 2686184,
+   "sha256": "d206cb0c146e4fbb0735286df560aef487c08385be447c2478cd76303ebe08db"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -12981,6 +13136,16 @@
    "path": "evidence/outlined/cameron-park-community-service-district-p008-e19830eb.pdf",
    "bytes": 75519,
    "sha256": "45d6604955e65e53c7c2199227c18fbc213edc6f2d39a761bed2d10fe53dfe2f"
+  },
+  {
+   "path": "evidence/outlined/camrosa-water-district-p006-7018e15a.pdf",
+   "bytes": 51491,
+   "sha256": "4d939d3e04c0c0ccfbeb5337f06e0a3512cafe352b3ce972703349b6b4aed7fb"
+  },
+  {
+   "path": "evidence/outlined/camrosa-water-district-p006-e80dc840.pdf",
+   "bytes": 51491,
+   "sha256": "e8b4555e7568b5e25c6df7af4db0fae1c7c97c3b20bb0b5b421fbfc0f1306567"
   },
   {
    "path": "evidence/outlined/city-of-albany-p009-32b9bb31.pdf",
@@ -15568,6 +15733,101 @@
    "sha256": "8788cd0cc7dd4224cb1353b98caa1c0680ffdfbfbf27e2b1fa9471a6b2451fd6"
   },
   {
+   "path": "evidence/outlined/city-of-folsom-p004-aa3b2f46.pdf",
+   "bytes": 80774,
+   "sha256": "d3601b7306c49594f6675c06d0134b4ce7b7a05fa36ff1184c6f9619e4a81eb9"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p006-c66f965a.pdf",
+   "bytes": 87919,
+   "sha256": "e2ac2458044126f70fc94faa9e6bb6e428a910af1a6b42b77ba8488c66d4494b"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p008-f9874b0d.pdf",
+   "bytes": 83143,
+   "sha256": "523e686c1a1cb4077a77d575236f248ab0c9f7dbaa22797a48c04afa51d47a15"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p014-b26b506b.pdf",
+   "bytes": 85673,
+   "sha256": "c9cd5e4af8c257a5311afde208e2e96b210164a45f8bd96ccb71e280a266ac83"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p016-edfd2131.pdf",
+   "bytes": 84257,
+   "sha256": "a7a7f034ad74b19bf0922c4ed701c3ea00d11ad70a487a7b32e89be500b6db4f"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p018-7f060ab9.pdf",
+   "bytes": 81751,
+   "sha256": "1a8bb27f331aee3402c0d4b3dc3e7658b1c32bc70c7e7c17ee3258b80b5f80c7"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p020-16e190e2.pdf",
+   "bytes": 81815,
+   "sha256": "92a1b1c3a6ae9a9450ff33eb2b105a1d035b7a0e850cacf3f970181f4759c075"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p022-0ffcb6fb.pdf",
+   "bytes": 86130,
+   "sha256": "006e3d586e52f230e0d224c10ceeba45b5d2e2c29f45a84f74d81d0bcabb4d4c"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p025-8ff07538.pdf",
+   "bytes": 84946,
+   "sha256": "6078d7c98dc0fd644893be8c1fee1adf02f42335fe66f080565809b6a3d5ddb7"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p028-8ffd8646.pdf",
+   "bytes": 82430,
+   "sha256": "8494a7c2b1956cd1efa67d0572cb03a3b338391eacd2b7fd1876386ada3d6b1d"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p030-e2059c28.pdf",
+   "bytes": 88869,
+   "sha256": "a00422c5e875b11d28098c63388319a81cf69102effd88be446cd66338f780ba"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p032-2c8c96a8.pdf",
+   "bytes": 88630,
+   "sha256": "677e0923c98cdb6c94956b0254cda84c0925a513e94b8d162bd386e8c37e398f"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p034-8e7662f1.pdf",
+   "bytes": 82668,
+   "sha256": "3c8a1a0bcabfe47864bd5a8e300f7ae0b9a7868e98bdf44cb8f8d927d4832012"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p036-5350c765.pdf",
+   "bytes": 80550,
+   "sha256": "d54fb2d113931bf4c6b659a5fcf0387ba182ff0d3bfe73725219eb562bfbb9ed"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p042-8e4dfe53.pdf",
+   "bytes": 85173,
+   "sha256": "786d9ef2c94729b6daa201b9d84b776d17bed0575a3b2e9807a622b64c15de94"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p048-627ea499.pdf",
+   "bytes": 85697,
+   "sha256": "3d30233f15ebc3ed755a788266f32f98e968c7a70fe2c31fbec2aeee6bc5fdc0"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p050-1e463df4.pdf",
+   "bytes": 85063,
+   "sha256": "f7595f9272a5cc7daad03405f95a2a30d74c20287dc978b76946d8953b33477d"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p052-d2cf1aae.pdf",
+   "bytes": 88601,
+   "sha256": "a85a681acb48a43573ec8c282c40c74bc049d4abaed1c16cdc1f5e64ac2d099e"
+  },
+  {
+   "path": "evidence/outlined/city-of-folsom-p054-09b42617.pdf",
+   "bytes": 82356,
+   "sha256": "242f253297a14b7bf1693706c7c5e7b1c9923dfd2d58c029ada9c726fb868025"
+  },
+  {
    "path": "evidence/outlined/city-of-fontana-p004-07638bbc.pdf",
    "bytes": 6838,
    "sha256": "beed867a0d6c80bfc6c62815b570b41a39c54e663990ad203851bc0a64c2c2c0"
@@ -15868,6 +16128,16 @@
    "sha256": "2634bcfd052ffb34a4dae443f5d7fc600439603d0de9d733e905abfd21a1724e"
   },
   {
+   "path": "evidence/outlined/city-of-fort-bragg-p002-3367b1df.pdf",
+   "bytes": 69195,
+   "sha256": "02c6c30ac58b4b6d90fe1853475bb311952957bc2b694ab3ad5dd9051138ff70"
+  },
+  {
+   "path": "evidence/outlined/city-of-fort-bragg-p002-530f9b09.pdf",
+   "bytes": 67546,
+   "sha256": "d25b75b6fc4ef4e237e3cad26746e3a3a89b8689bdfa9a5167711732469ab519"
+  },
+  {
    "path": "evidence/outlined/city-of-fort-bragg-p002-70c862a7.pdf",
    "bytes": 263651,
    "sha256": "2de8188e43d3f05f485391353a71b9937c4144de634b83ccbaa51bf116106d1e"
@@ -15876,6 +16146,11 @@
    "path": "evidence/outlined/city-of-fort-bragg-p002-cd000357.pdf",
    "bytes": 293753,
    "sha256": "134ba101cfae3e0dd88921be2901a57c18d06a06aa244c19ad621a01967940bd"
+  },
+  {
+   "path": "evidence/outlined/city-of-fort-bragg-p002-f3fc94c3.pdf",
+   "bytes": 67550,
+   "sha256": "620e1354aa99ebcd9a800f1db96f3f668522a80cdac2e1cb9f15b9f9242dae78"
   },
   {
    "path": "evidence/outlined/city-of-fort-bragg-p002-f7e2a50c.pdf",
@@ -15896,6 +16171,16 @@
    "path": "evidence/outlined/city-of-foster-city-p002-8ea40df6.pdf",
    "bytes": 86909,
    "sha256": "567e913964654a0c2c06713f4d7b71a3e746c8468a5f9b1407656badd11375d4"
+  },
+  {
+   "path": "evidence/outlined/city-of-foster-city-p002-cdeb06da.pdf",
+   "bytes": 101011,
+   "sha256": "7acf8c6a1da66a19433ed2ff53fbf70d3b302a53554c884220d49e86a9d849b6"
+  },
+  {
+   "path": "evidence/outlined/city-of-foster-city-p004-11024ea8.pdf",
+   "bytes": 92995,
+   "sha256": "3c6cc0a99e9c42873efe57e7e4c25ae226563083b5e769039db803e3851b1ca7"
   },
   {
    "path": "evidence/outlined/city-of-foster-city-p004-6acb87f3.pdf",
@@ -19423,6 +19708,26 @@
    "sha256": "00df464801842e71983214e3864444058095cf61efb5995feb80df50a84901fe"
   },
   {
+   "path": "evidence/outlined/city-of-placerville-p003-51b6096e.pdf",
+   "bytes": 73479,
+   "sha256": "3b3a8eb29509df3ea9ac070a4352c7c49b36635b33362c825ef8eadfee436682"
+  },
+  {
+   "path": "evidence/outlined/city-of-placerville-p003-7fbb4b0d.pdf",
+   "bytes": 77643,
+   "sha256": "fcd31ae3f93c45f18dd7f4ac8c05ed29431fdc24ceb47fa5aee33665a9b180e6"
+  },
+  {
+   "path": "evidence/outlined/city-of-placerville-p003-8736372f.pdf",
+   "bytes": 86401,
+   "sha256": "e1e5e32761b3459b9e3cc487996f35584e855d0ad606a51bdc91a5ceba13f7c6"
+  },
+  {
+   "path": "evidence/outlined/city-of-placerville-p003-96bbfbee.pdf",
+   "bytes": 86383,
+   "sha256": "cf8f5986c824274cef0c8a18dbfdd8ec0e705baa493cea708e4428d3313c91e2"
+  },
+  {
    "path": "evidence/outlined/city-of-placerville-p003-a7c78b41.pdf",
    "bytes": 71323,
    "sha256": "867a0cb40fb91a8885e92eef533684d423770d2f35c2e1f54ad12658224d1ddd"
@@ -19431,6 +19736,11 @@
    "path": "evidence/outlined/city-of-placerville-p003-bce0f0fe.pdf",
    "bytes": 86624,
    "sha256": "8f270139c2b7bc6fb86e2ee33d6c461f9dbe03c585d7c6bfe2eeb4a719f491e5"
+  },
+  {
+   "path": "evidence/outlined/city-of-placerville-p003-bcec0752.pdf",
+   "bytes": 86817,
+   "sha256": "e74896787a73d8964518348d60615bcd825eeb841fd579c6dabbc5ca3ec3daac"
   },
   {
    "path": "evidence/outlined/city-of-pleasanton-p010-5e8636c9.pdf",
@@ -25798,6 +26108,11 @@
    "sha256": "0d47c0f7318da56dfbb7af02bba96e5574e9acb9f39b2eec547e026b72f09491"
   },
   {
+   "path": "sources/camrosa-water-district-2024-25-c9572857.pdf",
+   "bytes": 166636,
+   "sha256": "c95728576e3f054c652cf6898774bb395c36cb5c3f07e65f2e808924c81db2cc"
+  },
+  {
    "path": "sources/city-of-albany-2024-25.pdf",
    "bytes": 182402,
    "sha256": "fd21ae74a09d3d5fad010c4c65a55d778eb71363389160a9969518b8db0fb7fd"
@@ -26403,9 +26718,29 @@
    "sha256": "272b4ec124530db0e2ca16783ec689a68e892e66c1f81cf882b31c3c79de2c92"
   },
   {
+   "path": "sources/city-of-folsom-2024-25-ef618aab.pdf",
+   "bytes": 1287896,
+   "sha256": "ef618aab8ca69a14aa9597d67f9ab4951f66cf047229de6f904610ac30f46c6e"
+  },
+  {
    "path": "sources/city-of-fontana-2024-25.pdf",
    "bytes": 202688,
    "sha256": "38d3076fbf9c62c3b48110de0ca63f5a82c4c9036796de179abd5f3d179210d7"
+  },
+  {
+   "path": "sources/city-of-fort-bragg-2016-17-6369caad.pdf",
+   "bytes": 387761,
+   "sha256": "6369caad3b862c67da60bd6e0238fa352e1152060980dbc0f43987e72c44039e"
+  },
+  {
+   "path": "sources/city-of-fort-bragg-2017-18-abe3a7f5.pdf",
+   "bytes": 387592,
+   "sha256": "abe3a7f5175ddea26a91fe9c165c0a4bbed47fac8e08f8faf721051189aeb4c6"
+  },
+  {
+   "path": "sources/city-of-fort-bragg-2021-22-b04bccaa.pdf",
+   "bytes": 485257,
+   "sha256": "b04bccaa7b5c9306b3ae4bfafdd83d578a4dc67da1ab5c6109cd495872097384"
   },
   {
    "path": "sources/city-of-fort-bragg-2024-25-0331a873.pdf",
@@ -26426,6 +26761,11 @@
    "path": "sources/city-of-fort-bragg-2024-25-d48a9c9d.pdf",
    "bytes": 887829,
    "sha256": "d48a9c9d6989175c4769a60781e0f66e886c5856fbd8f3b73f04140f8b7a1779"
+  },
+  {
+   "path": "sources/city-of-foster-city-2021-22-cee941f5.pdf",
+   "bytes": 184815,
+   "sha256": "cee941f5c740c1972459bcfab5e19aa2d913e48fc12a53a6fb44e369ad9df605"
   },
   {
    "path": "sources/city-of-foster-city-2022-23-e588c08a.pdf",
@@ -27071,6 +27411,31 @@
    "path": "sources/city-of-petaluma-2024-25-1b2f7fb3.pdf",
    "bytes": 1285122,
    "sha256": "1b2f7fb359c63f6bba42166f231e8578de5a8d0236197777e8af85e302825115"
+  },
+  {
+   "path": "sources/city-of-placerville-2017-18-1e5e2add.pdf",
+   "bytes": 201312,
+   "sha256": "1e5e2add4e6564b84f32b64cd3397090c676f30f361646eb384e64082ee67458"
+  },
+  {
+   "path": "sources/city-of-placerville-2018-19-8d477dd4.pdf",
+   "bytes": 197345,
+   "sha256": "8d477dd447067be7a3596352df8853dc319632950f897bec0c9f96e5217a05f4"
+  },
+  {
+   "path": "sources/city-of-placerville-2019-20-d8fdaa04.pdf",
+   "bytes": 285711,
+   "sha256": "d8fdaa044d56615eaf62290801498e11594fd98f557b2cdeb3aee7b6414784f9"
+  },
+  {
+   "path": "sources/city-of-placerville-2020-21-c79fd8c9.pdf",
+   "bytes": 276473,
+   "sha256": "c79fd8c970f4c7196d892992a98ca2626a6e1ad686571b33261b3aae2b845049"
+  },
+  {
+   "path": "sources/city-of-placerville-2021-22-2179098e.pdf",
+   "bytes": 286419,
+   "sha256": "2179098eee7a03577ea3f5600f6254306b6500bb090d47b65db126d992cd1a67"
   },
   {
    "path": "sources/city-of-placerville-2022-23-59351590.pdf",
@@ -28149,13 +28514,13 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 237885,
-   "sha256": "b694062f79602e6afb5f90fd68f9663cf1ce15b05f233555bb0885c34ae5ab6d"
+   "bytes": 242073,
+   "sha256": "e5eee74b90e2462f96248c2e6a410f2e2e46b8bc78fead075131445b5475e419"
   },
   {
    "path": "sources/index.json",
-   "bytes": 408034,
-   "sha256": "69f2f627f4a25f092deabca0c46c62fe68850546ebddf745de7fe1cfcbe36baf"
+   "bytes": 415729,
+   "sha256": "1af0b89a0b581add936ac22ebfce91ded3bf0b6ff5de5f69fd0aa652d35979df"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -28410,7 +28775,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "a74545bd4c939bb9ec3579054e58fe63f12ca9cfecdfcbbe52ed86a1d775b9ac"
+   "sha256": "5cd8eb4fd6fbb035014a034fefb576e111a2f9ddeedfb5b4e2da0e7f5bccbb24"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -28425,7 +28790,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2707,
-   "sha256": "33939ea024f682501d5d4b5f31f96c08555ad378f342cbfd3a4fc70d95b0230a"
+   "sha256": "272d5cdfbc808c064c9a32b54ffffe2fc7ed687fcdd254bcf2cf713f432b6281"
   },
   {
    "path": "validation/validate.py",
