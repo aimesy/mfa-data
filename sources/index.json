@@ -2366,6 +2366,48 @@
   "published_data_rows_from_this_source": 8
  },
  {
+  "source_id": "city-of-indio-2017-18-c5359997",
+  "receiving_entity": "City of Indio",
+  "publication_title": "AB1600 FY 2018 Click to download AB1600 FY 2018 PDF file",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2017-18",
+  "official_source_url": "https://www.indio.org/home/showpublisheddocument/1304/637874441348570000",
+  "retrieved_utc": "2026-09-24T08:21:11.819717+00:00",
+  "physical_page_count": 7,
+  "source_sha256": "c53599971f7dfbbedb04795bd44c7749a3429a1456950da4173ee04c17048d2f",
+  "source_bytes": 70352,
+  "source_pdf": "sources/city-of-indio-2017-18-c5359997.pdf",
+  "published_data_rows_from_this_source": 5
+ },
+ {
+  "source_id": "city-of-indio-2018-19-06c51963",
+  "receiving_entity": "City of Indio",
+  "publication_title": "AB1600 FY 2019 Click to download AB1600 FY 2019 PDF file",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2018-19",
+  "official_source_url": "https://www.indio.org/home/showpublisheddocument/1306/637874441353530000",
+  "retrieved_utc": "2026-09-24T08:21:10.810899+00:00",
+  "physical_page_count": 9,
+  "source_sha256": "06c51963733a0e15dd03d7960f13ab9bdbde6559167394a645adc01f5a914050",
+  "source_bytes": 59268,
+  "source_pdf": "sources/city-of-indio-2018-19-06c51963.pdf",
+  "published_data_rows_from_this_source": 7
+ },
+ {
+  "source_id": "city-of-indio-2019-20-03edbfb6",
+  "receiving_entity": "City of Indio",
+  "publication_title": "AB1600 FY 2020 Click to download AB1600 FY 2020 PDF file",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2019-20",
+  "official_source_url": "https://www.indio.org/home/showpublisheddocument/1308/637874441358670000",
+  "retrieved_utc": "2026-09-24T08:21:09.986926+00:00",
+  "physical_page_count": 9,
+  "source_sha256": "03edbfb6bd10bf7c5fa3cff70d8cf7318762f53907a017dbc2325c112ae20241",
+  "source_bytes": 152453,
+  "source_pdf": "sources/city-of-indio-2019-20-03edbfb6.pdf",
+  "published_data_rows_from_this_source": 8
+ },
+ {
   "source_id": "city-of-indio-2021-22-38635c9f",
   "receiving_entity": "City of Indio",
   "publication_title": "AB1600 FY 2022 Click to download AB1600 FY 2022 PDF file",
@@ -2377,7 +2419,7 @@
   "source_sha256": "38635c9f2d179ff7e14d9701d88d6a9462217b1333fc6d7f6abf3f7d591e381b",
   "source_bytes": 65984,
   "source_pdf": "sources/city-of-indio-2021-22-38635c9f.pdf",
-  "published_data_rows_from_this_source": 7
+  "published_data_rows_from_this_source": 9
  },
  {
   "source_id": "city-of-indio-2022-23-8a1c3a6e",
@@ -2391,7 +2433,7 @@
   "source_sha256": "8a1c3a6ede8212e9774795b1299cb6eb671ac33efa28b9b742a72e60a5f12f0e",
   "source_bytes": 636318,
   "source_pdf": "sources/city-of-indio-2022-23-8a1c3a6e.pdf",
-  "published_data_rows_from_this_source": 7
+  "published_data_rows_from_this_source": 9
  },
  {
   "source_id": "city-of-lafayette-2019-20-a628ce07",
@@ -6857,6 +6899,48 @@
   "source_sha256": "ae20ac48181ba66094b09777facb53753060840cb62ef31ab68215be92202a69",
   "source_bytes": 194004,
   "source_pdf": "sources/howell-mountain-elementary-2025-26-ae20ac48.pdf",
+  "published_data_rows_from_this_source": 1
+ },
+ {
+  "source_id": "indio-water-authority-2013-14-8bffb302",
+  "receiving_entity": "Indio Water Authority",
+  "publication_title": "FY 2013-2014 AB 1600 Report for IWA",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2013-14",
+  "official_source_url": "https://www.indio.org/home/showpublisheddocument/1568/637877956152270000",
+  "retrieved_utc": "2026-09-24T23:51:46.109672+00:00",
+  "physical_page_count": 3,
+  "source_sha256": "8bffb3020268a18d5159bcf96ebe2121deeb81ca1f922bdc4f79abafe426417d",
+  "source_bytes": 71180,
+  "source_pdf": "sources/indio-water-authority-2013-14-8bffb302.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
+  "source_id": "indio-water-authority-2015-16-e2452b96",
+  "receiving_entity": "Indio Water Authority",
+  "publication_title": "FY 2015-2016 AB 1600 Report for IWA",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2015-16",
+  "official_source_url": "https://www.indio.org/home/showpublisheddocument/1572/637877956162070000",
+  "retrieved_utc": "2026-09-24T23:51:49.903774+00:00",
+  "physical_page_count": 3,
+  "source_sha256": "e2452b96a31a6d1c0cbc91490347c92ef4103a82c863eab97ca93eebfa2c029c",
+  "source_bytes": 89774,
+  "source_pdf": "sources/indio-water-authority-2015-16-e2452b96.pdf",
+  "published_data_rows_from_this_source": 2
+ },
+ {
+  "source_id": "indio-water-authority-2016-17-23312d24",
+  "receiving_entity": "Indio Water Authority",
+  "publication_title": "FY 2016-2017 AB 1600 Report for IWA",
+  "publication_type": "annual_fee_report_66006",
+  "covers_fiscal_year": "2016-17",
+  "official_source_url": "https://www.indio.org/home/showpublisheddocument/1574/637877956167200000",
+  "retrieved_utc": "2026-09-24T23:51:50.317414+00:00",
+  "physical_page_count": 4,
+  "source_sha256": "23312d24a2793bc645d36c049d0494a252d68a67ff03ceb78392c1c3d48945cd",
+  "source_bytes": 963570,
+  "source_pdf": "sources/indio-water-authority-2016-17-23312d24.pdf",
   "published_data_rows_from_this_source": 1
  },
  {

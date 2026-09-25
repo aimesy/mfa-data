@@ -1,13 +1,13 @@
 {
  "release": "mfa-data release 03",
- "built_utc": "2026-09-25T08:37:28.535797+00:00",
- "data_rows": 2764,
- "distinct_printed_figures": 2596,
- "receiving_entities": 194,
- "agency_years": 551,
- "fee_programs": 1173,
- "source_reports": 536,
- "evidence_pairs": 2596,
+ "built_utc": "2026-09-25T09:08:42.622636+00:00",
+ "data_rows": 2793,
+ "distinct_printed_figures": 2625,
+ "receiving_entities": 195,
+ "agency_years": 557,
+ "fee_programs": 1179,
+ "source_reports": 542,
+ "evidence_pairs": 2625,
  "fiscal_years": [
   "2008-09",
   "2009-10",
@@ -29,8 +29,8 @@
   "2025-26"
  ],
  "held_rows_published": 0,
- "file_count": 5753,
- "total_bytes": 1310221795,
+ "file_count": 5817,
+ "total_bytes": 1315239764,
  "files": [
   {
    "path": ".gitattributes",
@@ -39,8 +39,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 16649,
-   "sha256": "efd1a4ec2dcc1a23d131bdc2dce65c72295e1c1268ca69f8713f99a79f4a86c3"
+   "bytes": 16760,
+   "sha256": "105c2a10a8263e7da494d2a0ae605b3a27e4e555fa42d5a30ef38cdb808cbf7e"
   },
   {
    "path": "data/capital-spending.csv",
@@ -50,12 +50,12 @@
   {
    "path": "data/cohort-accounting.json",
    "bytes": 1267,
-   "sha256": "7aab84d7917a291857b1580ce5f48da761967072c31470246a07a2704260e619"
+   "sha256": "16a6f05200975253b019bb3545576537c561cc3e5d7c760bae5eada078039ddf"
   },
   {
    "path": "data/mfa-reviewed-collections.xlsx",
-   "bytes": 1077712,
-   "sha256": "df0bfa9cb81b85bb1b528d8bbbd2531525d5af67d0d1ee6003c0bedc2447111a"
+   "bytes": 1090713,
+   "sha256": "5f07551e72840a29188f4170eae310ea7aad9ba49f111777b1ad19b753fc3bc4"
   },
   {
    "path": "data/refusals-by-reason.csv",
@@ -64,13 +64,13 @@
   },
   {
    "path": "data/reported-fee-collections.csv",
-   "bytes": 5785010,
-   "sha256": "953524189d250e2a98d18fde172afd38d01482a7ea17524bc8c6610c6a5a5443"
+   "bytes": 5848383,
+   "sha256": "fa0a2a03e45532627b2422f4622e78083228a58c00d930b415bbbb68854af11d"
   },
   {
    "path": "data/reported-fee-collections.json",
-   "bytes": 8650263,
-   "sha256": "12d6e07594685b9ec61de70caa0ee2b7ce71e504a89c984b9ce4c5048f9e437d"
+   "bytes": 8743741,
+   "sha256": "5d4187fe15a2e1bb666de1e2a69fb9afabaad353127c4d8363f0cf32d61ded16"
   },
   {
    "path": "data/residential-cash-receipts.csv",
@@ -3988,6 +3988,16 @@
    "sha256": "e68668c2d83e40c7d3d1b1b1096d718e9d91aaedb2a11b0e915704f0dfe537af"
   },
   {
+   "path": "evidence/extracts/city-of-indio-p001-949245b5.pdf",
+   "bytes": 18742,
+   "sha256": "cd7076f03cf32d3ea74581a17eb08e154b824d0a95f0a6dcf281509539406878"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p001-af59499c.pdf",
+   "bytes": 17010,
+   "sha256": "97e4946383cea1ae7b5900a6f6a05eb8c337931bc2350caf4cd6079496b78ff7"
+  },
+  {
    "path": "evidence/extracts/city-of-indio-p001-bfb2595d.pdf",
    "bytes": 20572,
    "sha256": "a3a4a305043030b354c777ca5615a87d743e78b18630fa373a3f693af919aab2"
@@ -3996,6 +4006,11 @@
    "path": "evidence/extracts/city-of-indio-p002-b61356c5.pdf",
    "bytes": 20490,
    "sha256": "70cc977ba1451297a875194fac0de363d3c2998dc09297d7f45c2d5b83c9f843"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p003-461e8dde.pdf",
+   "bytes": 17767,
+   "sha256": "35912369aa0b990dc5a9e9f59404eba200f771b1beb03c277488e3aa8a166db1"
   },
   {
    "path": "evidence/extracts/city-of-indio-p003-49f44942.pdf",
@@ -4008,6 +4023,21 @@
    "sha256": "1708ff57dc729b4cb3bc34b24d5a053744d0cfd2237b91192d38294dfd8fdcf2"
   },
   {
+   "path": "evidence/extracts/city-of-indio-p003-db85eba7.pdf",
+   "bytes": 18227,
+   "sha256": "dee9b24fc7e029311efc59692a7e87421dc9c5caf58ca37facfdc3bc9aa5e191"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p004-488f692f.pdf",
+   "bytes": 17101,
+   "sha256": "f9d43a08a633af148521b7f5b4ce4cf6cb6008a3dea76e20e630ae87aeb4517c"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p004-4c548017.pdf",
+   "bytes": 17990,
+   "sha256": "bbc68d5cf9938d8c0309cbd3996bd2d312d1e3dd60948f8e087e4537be9c755c"
+  },
+  {
    "path": "evidence/extracts/city-of-indio-p004-7506a1c6.pdf",
    "bytes": 629876,
    "sha256": "dcb9a9416239ccbe9917b271d0173e7061c8935a5a1659b7a7dfbc840938207f"
@@ -4016,6 +4046,16 @@
    "path": "evidence/extracts/city-of-indio-p004-bc023ecd.pdf",
    "bytes": 19770,
    "sha256": "c691fc63a8549101284d7df1037eabfd37c90cc98d394b4fad8913c93bd950de"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p004-e908d783.pdf",
+   "bytes": 18221,
+   "sha256": "867772356e16d01a1624b2327ef68b934f95f852bd16077bd98147617347ba5a"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p005-47a08719.pdf",
+   "bytes": 17991,
+   "sha256": "c90c3da719f5aa8590420876d1f0903da2ed43cd947a44e57f5c4dd21be20ee1"
   },
   {
    "path": "evidence/extracts/city-of-indio-p005-b0d573a9.pdf",
@@ -4028,6 +4068,26 @@
    "sha256": "78d5eda0d1f26eb2bed5bff0e200adb41cc6530f4f2ec4b69abd0598e46344ca"
   },
   {
+   "path": "evidence/extracts/city-of-indio-p005-cf29c6d0.pdf",
+   "bytes": 18228,
+   "sha256": "ab32697f5ff464256f6e9f5d37d1445f2c5fd16ba94f373892d32eb611b56eab"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p005-fddfafd7.pdf",
+   "bytes": 16783,
+   "sha256": "01d209248f9146e2a83ba4ff657934b27d590de6f075e7c66d4ac5df16d86cc9"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p006-0d2b651a.pdf",
+   "bytes": 18257,
+   "sha256": "70457ed4dc553bcaeba00e9dd65d726aefd72b284e3e837c463d89671e5d48c9"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p006-4f4d18ba.pdf",
+   "bytes": 16557,
+   "sha256": "8716ee3df4b164be0d46392e4f299ad75427c3148a8bdd65661293107f1a72cc"
+  },
+  {
    "path": "evidence/extracts/city-of-indio-p006-59428f77.pdf",
    "bytes": 19478,
    "sha256": "1dc52b3ff85d5368374bea46499bff0b6d92a176dd001a1dc1fdf6a9c53e706e"
@@ -4038,9 +4098,29 @@
    "sha256": "c6b60a22c088cffd8ad36ed60ae8049836674840704e2b16170464444ec65159"
   },
   {
+   "path": "evidence/extracts/city-of-indio-p006-985c40d8.pdf",
+   "bytes": 18018,
+   "sha256": "94a95a8a6453ca051651b39cb05cb6c0e1284a319948773d5ae11227f8c9c6b8"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p007-01186c22.pdf",
+   "bytes": 17974,
+   "sha256": "dc6328c1ef1ea81ca3b4b162475f523bb78acd42d71e8b04d639e83dd41f1b88"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p007-9927ce34.pdf",
+   "bytes": 16286,
+   "sha256": "07851bcea796ffce72d2d759eb95daaaaf73a9275eac368eb91168840ef161a6"
+  },
+  {
    "path": "evidence/extracts/city-of-indio-p007-bb0db0fd.pdf",
    "bytes": 19529,
    "sha256": "a23b18f8513114b70476a5a17036fe161de0b0988c6756045211d9be730f6d72"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p007-bb2bc406.pdf",
+   "bytes": 18272,
+   "sha256": "57d47995ca522d842488f6dd770f55d3eddc16c3a61e210944ffe86fe5ab6c50"
   },
   {
    "path": "evidence/extracts/city-of-indio-p007-c959fe86.pdf",
@@ -4048,14 +4128,54 @@
    "sha256": "80c91614b425400f503c1f0f6c485d19e3fd6d56cebd1fb300896f5d6ae85f8d"
   },
   {
+   "path": "evidence/extracts/city-of-indio-p008-10617f24.pdf",
+   "bytes": 20181,
+   "sha256": "f1b432446d2c40aa1030d218eba0300993aee5cecfc630c3fc5c091f367728b7"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p008-7eb95fc2.pdf",
+   "bytes": 18120,
+   "sha256": "43ab5f6d3aba4583a60d2b10dfaa9abffebeddf947aea16b4227dd661cd1aa30"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p008-93b4c814.pdf",
+   "bytes": 19859,
+   "sha256": "b2bc32dd140d6aa13e91d003f1ba0ee3a0872c0af6d496c35e04d2e404db1594"
+  },
+  {
    "path": "evidence/extracts/city-of-indio-p008-e6551b7c.pdf",
    "bytes": 629876,
    "sha256": "c9ee3bbb7cdf833086df37a60fe84c2428ba1bf7433aba7f84a6d9285b35e838"
   },
   {
+   "path": "evidence/extracts/city-of-indio-p009-03e2a38e.pdf",
+   "bytes": 19936,
+   "sha256": "ceae804cb4d0e229c7a514b36ea6c84e6eaca2985e43ce8af4b2d7ae188e9df8"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p009-93d8ee3f.pdf",
+   "bytes": 20264,
+   "sha256": "e48126861ad386dcc6b3faf957d7ac20b48c882cc013abcbbeeae168f35302b1"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p009-e7717c17.pdf",
+   "bytes": 18274,
+   "sha256": "1ef5ac6bb8095bbe8b734301036f53bdbb82a922450ae15017785e58dd8c5b43"
+  },
+  {
    "path": "evidence/extracts/city-of-indio-p009-f8ea7823.pdf",
    "bytes": 629876,
    "sha256": "59a1e54b4dd533acf3f7663d42e316edc4530740c8af3f09168bc5a7f00b7b50"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p010-604d82d3.pdf",
+   "bytes": 629876,
+   "sha256": "7117cc6fec0b18884419786b208c18410736dbda4017c4a6cc787e749c6d586c"
+  },
+  {
+   "path": "evidence/extracts/city-of-indio-p011-7f379971.pdf",
+   "bytes": 629876,
+   "sha256": "41173e846e7edf782a89f3ca04bf8bca42ca7071f271a60b31232e0ebc9acf14"
   },
   {
    "path": "evidence/extracts/city-of-lafayette-p008-09394d3d.pdf",
@@ -12703,6 +12823,31 @@
    "sha256": "f58edf0dab25b867d924e122dfd5bfef73e88c9f804e003a7e55057406475dbe"
   },
   {
+   "path": "evidence/extracts/indio-water-authority-p002-891a555f.pdf",
+   "bytes": 8139,
+   "sha256": "f402a31e730e1601992adf5a49a3b42592be80a3026fe9a023579596488d072a"
+  },
+  {
+   "path": "evidence/extracts/indio-water-authority-p002-8eaccc33.pdf",
+   "bytes": 10869,
+   "sha256": "00183d3e1b37498bbf09e0b0f00804134e56475b7b57c5fd898e1d71b495bd15"
+  },
+  {
+   "path": "evidence/extracts/indio-water-authority-p003-5ee8ab9b.pdf",
+   "bytes": 6926,
+   "sha256": "87fcd35ca30bb23b145c13bb35bbef9bcc6c96c2b618f4f6463cb618a4765f64"
+  },
+  {
+   "path": "evidence/extracts/indio-water-authority-p003-abf08f6b.pdf",
+   "bytes": 10517,
+   "sha256": "980b227b465fbfe1262415d578403036e6ee0c46b67866b8880998ea43051019"
+  },
+  {
+   "path": "evidence/extracts/indio-water-authority-p004-03af6a49.pdf",
+   "bytes": 5348,
+   "sha256": "90e650e92d0ed136c3ce0a8a102f787f6b401a46cace5118c8240966ca2aeb9f"
+  },
+  {
    "path": "evidence/extracts/lake-valley-fire-protection-district-p060-f33944db.pdf",
    "bytes": 76149,
    "sha256": "d8ae4e479818213225611537f3f3d0fc430e687f8b1371019e38042e167d27e6"
@@ -13084,8 +13229,8 @@
   },
   {
    "path": "evidence/index.json",
-   "bytes": 2686184,
-   "sha256": "d206cb0c146e4fbb0735286df560aef487c08385be447c2478cd76303ebe08db"
+   "bytes": 2715418,
+   "sha256": "086b8994f4821d018b725e9d57ddd529bce278d5610e9a6f32e564f28692a8d8"
   },
   {
    "path": "evidence/outlined/american-canyon-fire-protection-district-p002-f0927f65.pdf",
@@ -16973,6 +17118,16 @@
    "sha256": "2d2514a313b40cecab8fdb6f6e54e4adb3ed6dd349cb06667df9b7129a863c22"
   },
   {
+   "path": "evidence/outlined/city-of-indio-p001-949245b5.pdf",
+   "bytes": 18802,
+   "sha256": "5b02025f74e3f8a76b508048f614bfa15bf5fbd3ad18508b14f7337a8094ee47"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p001-af59499c.pdf",
+   "bytes": 17071,
+   "sha256": "3f94a5628f667ed53e28e51540c204192bde8e5aa091fe7dcc33fe185202947e"
+  },
+  {
    "path": "evidence/outlined/city-of-indio-p001-bfb2595d.pdf",
    "bytes": 20632,
    "sha256": "a813f5b656fa8bd8571184f3f7f3cf98f72589e8a9e4a20da1972c59e637db1f"
@@ -16981,6 +17136,11 @@
    "path": "evidence/outlined/city-of-indio-p002-b61356c5.pdf",
    "bytes": 20555,
    "sha256": "880fbdafef0fcbba13b60207f0cc5ab3e482bc7d2bb15754e7449951ee229e10"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p003-461e8dde.pdf",
+   "bytes": 17829,
+   "sha256": "3f207dfac9a356a34d4d36e7cf293a8803fbc0a819c06f284ac0d562050a5697"
   },
   {
    "path": "evidence/outlined/city-of-indio-p003-49f44942.pdf",
@@ -16993,6 +17153,21 @@
    "sha256": "99c27751a3909bf1072c8e2c729af0d13617ca15b7e80a4f24197477812b950e"
   },
   {
+   "path": "evidence/outlined/city-of-indio-p003-db85eba7.pdf",
+   "bytes": 18289,
+   "sha256": "401ac889f540900a4349b2603929dc984a60fe3bdfcd46e8407f732995d4279e"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p004-488f692f.pdf",
+   "bytes": 17162,
+   "sha256": "f2cd354801baf8e695f486f40115841300fb838f65869184ceac26853e84e80e"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p004-4c548017.pdf",
+   "bytes": 18050,
+   "sha256": "648240cebd21d4d6bb1349d9218cb67959132f56e0355a255fc15202afa369bd"
+  },
+  {
    "path": "evidence/outlined/city-of-indio-p004-7506a1c6.pdf",
    "bytes": 630428,
    "sha256": "8b25275be53a2d050ff0c3bebafbb23f821a377dcb9d6102504d0bdc4046e907"
@@ -17001,6 +17176,16 @@
    "path": "evidence/outlined/city-of-indio-p004-bc023ecd.pdf",
    "bytes": 19833,
    "sha256": "72c501fe6cc13bc81d7cb4d5f8c373ce5c6f50ad1427b5cb43ef2231b4b68817"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p004-e908d783.pdf",
+   "bytes": 18282,
+   "sha256": "822fc7e14da026fee5d03ebd25e1e017c57fdc407d828aa69772314fdbcd2b61"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p005-47a08719.pdf",
+   "bytes": 18054,
+   "sha256": "224c8dd588e0946c40c0cc4b5b20ba866e670238e66f50907ceda20e39cfaf6c"
   },
   {
    "path": "evidence/outlined/city-of-indio-p005-b0d573a9.pdf",
@@ -17013,6 +17198,26 @@
    "sha256": "bec724115df724baf38ea2011262036659c581dddd72f7f118cdd70de41c554f"
   },
   {
+   "path": "evidence/outlined/city-of-indio-p005-cf29c6d0.pdf",
+   "bytes": 18287,
+   "sha256": "7fd371d3516bc6565b8c8289a609f8055fb124ae6756e39e7e4a4a303d696669"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p005-fddfafd7.pdf",
+   "bytes": 16843,
+   "sha256": "9d25b6429c4fa85ea575b3e8365218b67296e1663453c5112be344964bd82f4e"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p006-0d2b651a.pdf",
+   "bytes": 18317,
+   "sha256": "d55d6f1b48ea8cc96672d67da66c821a5854d26a3d1c15bd0e9c90acce4bf8fa"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p006-4f4d18ba.pdf",
+   "bytes": 16616,
+   "sha256": "375ec1b2a37c1e14cb16f93f6f37799be90a7ad471da945c96a58a663f373d6a"
+  },
+  {
    "path": "evidence/outlined/city-of-indio-p006-59428f77.pdf",
    "bytes": 19540,
    "sha256": "82d21e72daceee257010d9a15d93681e0e189fe74b7c73fcf789619944dc4588"
@@ -17023,9 +17228,29 @@
    "sha256": "de8bee2adf05adadfc4f041606f5d29ba177d8cd094ccdad5c6b10bcf5deeec9"
   },
   {
+   "path": "evidence/outlined/city-of-indio-p006-985c40d8.pdf",
+   "bytes": 18078,
+   "sha256": "8c474d8f8b903f9b3d28aada988f51b945992ffe0e07f1765f0ac027210ebaca"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p007-01186c22.pdf",
+   "bytes": 18038,
+   "sha256": "f64f78f0f9e0c4a27fd889cdb4b2c7f02a27c59a5f0f6607da3f4b55aa070e97"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p007-9927ce34.pdf",
+   "bytes": 16349,
+   "sha256": "95d385fc2b48f7cde24007ddd8c98fa0405303abb4220fdff32a2f2fc90ea15b"
+  },
+  {
    "path": "evidence/outlined/city-of-indio-p007-bb0db0fd.pdf",
    "bytes": 19590,
    "sha256": "fdb6d9573e8298b8026513b0dc94dbe99e78e4924aaa4885d31e467fa919c4d7"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p007-bb2bc406.pdf",
+   "bytes": 18335,
+   "sha256": "1af181bdb6b59136b35982de781374c228f78d35617fa6289d57b79f28e71dbd"
   },
   {
    "path": "evidence/outlined/city-of-indio-p007-c959fe86.pdf",
@@ -17033,14 +17258,54 @@
    "sha256": "2b982bc622f06474a5a0e8b69597908c2b4b4c2aca9e6799dc9a2b5d0cf0e261"
   },
   {
+   "path": "evidence/outlined/city-of-indio-p008-10617f24.pdf",
+   "bytes": 20246,
+   "sha256": "e87838ff0fc05ced117b899bdec4bd4a7fcdafc9bebd3c7bdfd87654278a6eb4"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p008-7eb95fc2.pdf",
+   "bytes": 18176,
+   "sha256": "913d72c524cca45fac8e137bcf22c81646f84afd3e32905999ce2a3aa7bdf333"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p008-93b4c814.pdf",
+   "bytes": 19911,
+   "sha256": "dd3b25ed85fe98e33de056fb4150062627e48d5717dc25fad11ea1b6057fe0c9"
+  },
+  {
    "path": "evidence/outlined/city-of-indio-p008-e6551b7c.pdf",
    "bytes": 630426,
    "sha256": "e49844c48b787a7c9d2e11cd610d14fc7e5bcad194b3bf6c329f483f2af9689c"
   },
   {
+   "path": "evidence/outlined/city-of-indio-p009-03e2a38e.pdf",
+   "bytes": 19992,
+   "sha256": "2e2b315f5fcaffb8a8479fc23909da9d0039dae0138257902f3fbc92f31c2499"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p009-93d8ee3f.pdf",
+   "bytes": 20315,
+   "sha256": "22cfa48ffb89d942ccfce8b1a86f43942aae690eb27b22d41436174163948bdc"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p009-e7717c17.pdf",
+   "bytes": 18332,
+   "sha256": "b5b3f16bf8d8c425836d011b4a77ccc4402a13248de6397009bf4e22eb97a30d"
+  },
+  {
    "path": "evidence/outlined/city-of-indio-p009-f8ea7823.pdf",
    "bytes": 630426,
    "sha256": "29f7c70c5fd50d6e64165394113792fd4a887c9e5a12ae21074b8b0e0a409870"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p010-604d82d3.pdf",
+   "bytes": 630425,
+   "sha256": "d27fa207a6218a81d19733ba8f60274dbe6a3fac9d1ab6c01cf512e0279237bf"
+  },
+  {
+   "path": "evidence/outlined/city-of-indio-p011-7f379971.pdf",
+   "bytes": 630428,
+   "sha256": "1255b9ec5f6cf7a1b91776ddf19f51dd2bdb3c44f666fd342ff83b70208bb19c"
   },
   {
    "path": "evidence/outlined/city-of-lafayette-p008-09394d3d.pdf",
@@ -25688,6 +25953,31 @@
    "sha256": "16da243bde9241cf0548081fdc3becead7a001375d4f3e697b342a18c1957dd5"
   },
   {
+   "path": "evidence/outlined/indio-water-authority-p002-891a555f.pdf",
+   "bytes": 8201,
+   "sha256": "c5736d46636f82ce0b5c902c0f0b5ad0e1ffdfffa797c13aee9cb7504399d68e"
+  },
+  {
+   "path": "evidence/outlined/indio-water-authority-p002-8eaccc33.pdf",
+   "bytes": 10924,
+   "sha256": "e35cc99d973e1d4c8f28fbc2b6bc8473511c9c8656f0fa6c2700c2afd3f84343"
+  },
+  {
+   "path": "evidence/outlined/indio-water-authority-p003-5ee8ab9b.pdf",
+   "bytes": 6988,
+   "sha256": "eb7895189d4823259063a5b9dd7a4a609eeae5e546db1190cf613dfe676843d6"
+  },
+  {
+   "path": "evidence/outlined/indio-water-authority-p003-abf08f6b.pdf",
+   "bytes": 10582,
+   "sha256": "2a4a344cf89c649f66a51280eab0dbd29fd0b7e8af011da56c6c18ceccc523c5"
+  },
+  {
+   "path": "evidence/outlined/indio-water-authority-p004-03af6a49.pdf",
+   "bytes": 5400,
+   "sha256": "cca0b94f55357264c0145522bf016d588d0312f4b1a363f4fb9659e1c75627aa"
+  },
+  {
    "path": "evidence/outlined/lake-valley-fire-protection-district-p060-f33944db.pdf",
    "bytes": 76208,
    "sha256": "77ed321dd52e74d0ded5446a5d5aa5f370cfccdd44e442ebe71bec51458146eb"
@@ -26896,6 +27186,21 @@
    "path": "sources/city-of-huntington-beach-2024-25.pdf",
    "bytes": 9225362,
    "sha256": "aae8538d647e89d3ab407a534c8d55444f36b7c34698df5da91656e3c0bb231b"
+  },
+  {
+   "path": "sources/city-of-indio-2017-18-c5359997.pdf",
+   "bytes": 70352,
+   "sha256": "c53599971f7dfbbedb04795bd44c7749a3429a1456950da4173ee04c17048d2f"
+  },
+  {
+   "path": "sources/city-of-indio-2018-19-06c51963.pdf",
+   "bytes": 59268,
+   "sha256": "06c51963733a0e15dd03d7960f13ab9bdbde6559167394a645adc01f5a914050"
+  },
+  {
+   "path": "sources/city-of-indio-2019-20-03edbfb6.pdf",
+   "bytes": 152453,
+   "sha256": "03edbfb6bd10bf7c5fa3cff70d8cf7318762f53907a017dbc2325c112ae20241"
   },
   {
    "path": "sources/city-of-indio-2021-22-38635c9f.pdf",
@@ -28514,13 +28819,28 @@
   },
   {
    "path": "sources/index.csv",
-   "bytes": 242073,
-   "sha256": "e5eee74b90e2462f96248c2e6a410f2e2e46b8bc78fead075131445b5475e419"
+   "bytes": 244238,
+   "sha256": "74c0d996ae0d0b8b4afb000feab0fef2697925b0a03a887a985e92e54a3f7bf0"
   },
   {
    "path": "sources/index.json",
-   "bytes": 415729,
-   "sha256": "1af0b89a0b581add936ac22ebfce91ded3bf0b6ff5de5f69fd0aa652d35979df"
+   "bytes": 419808,
+   "sha256": "3474403fb44998bcbe073d80cd289e4905633dfd2c103329cfee453697c883f3"
+  },
+  {
+   "path": "sources/indio-water-authority-2013-14-8bffb302.pdf",
+   "bytes": 71180,
+   "sha256": "8bffb3020268a18d5159bcf96ebe2121deeb81ca1f922bdc4f79abafe426417d"
+  },
+  {
+   "path": "sources/indio-water-authority-2015-16-e2452b96.pdf",
+   "bytes": 89774,
+   "sha256": "e2452b96a31a6d1c0cbc91490347c92ef4103a82c863eab97ca93eebfa2c029c"
+  },
+  {
+   "path": "sources/indio-water-authority-2016-17-23312d24.pdf",
+   "bytes": 963570,
+   "sha256": "23312d24a2793bc645d36c049d0494a252d68a67ff03ceb78392c1c3d48945cd"
   },
   {
    "path": "sources/moorpark-unified-2024-25.pdf",
@@ -28775,7 +29095,7 @@
   {
    "path": "validation/independent-review.json",
    "bytes": 3059,
-   "sha256": "5cd8eb4fd6fbb035014a034fefb576e111a2f9ddeedfb5b4e2da0e7f5bccbb24"
+   "sha256": "3e605cb2c4b0ccb87e18db786c067f95ae92143ed69fc4cef7d53a4ecae145b0"
   },
   {
    "path": "validation/privacy-patterns.json",
@@ -28790,7 +29110,7 @@
   {
    "path": "validation/review.json",
    "bytes": 2707,
-   "sha256": "272d5cdfbc808c064c9a32b54ffffe2fc7ed687fcdd254bcf2cf713f432b6281"
+   "sha256": "659dd95c8023cc63c1c7624fc2fe467bdaba3cd014533ba12cbfe1f876607b27"
   },
   {
    "path": "validation/validate.py",

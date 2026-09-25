@@ -1,6 +1,6 @@
 # California impact fees
 
-2764 reviewed rows covering 2596 printed figures, from 194 receiving entities, across fiscal years 2008–09 to 2025–26. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
+2793 reviewed rows covering 2625 printed figures, from 195 receiving entities, across fiscal years 2008–09 to 2025–26. Every published figure was read from the original report, outlined on the page it sits on, checked against the source’s own arithmetic, and reviewed twice before release.
 
 This is a research sample, not statewide coverage. Thousands of California agencies levy these fees. Do not sum this into a statewide estimate.
 
@@ -29,6 +29,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Menifee | 2023–24, 2024–25 | 40 | $28,565,446 |
 | City of Oxnard | 2017–18, 2018–19, 2019–20, 2021–22, 2022–23, 2023–24 | 43 | $27,534,770 |
 | City of Stockton | 2020–21 to 2023–24 | 19 | $25,799,781 |
+| City of Indio | 2017–18, 2018–19, 2019–20, 2021–22, 2022–23 | 38 | $23,837,103 |
 | City of San Luis Obispo | 2022–23, 2023–24, 2024–25 | 25 | $23,629,554 |
 | Riverside Unified | 2019–20 to 2024–25 | 6 | $21,774,257 |
 | City of Sacramento | 2022–23, 2024–25 | 23 | $21,123,530 |
@@ -48,7 +49,6 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Santa Ana | 2022–23, 2023–24, 2024–25 | 46 | $11,302,926 |
 | City of San Juan Capistrano | 2019–20, 2022–23, 2023–24 | 8 | $10,423,463 |
 | City of Mountain View | 2016–17, 2018–19, 2020–21, 2022–23, 2023–24, 2024–25 | 11 | $10,311,817 |
-| City of Indio | 2021–22, 2022–23 | 14 | $10,107,257 |
 | City of Lincoln | 2020–21 | 8 | $10,098,317 |
 | City of Davis | 2020–21 to 2024–25 | 23 | $9,867,710 |
 | City of Chula Vista | 2021–22 | 7 | $9,830,077 |
@@ -74,6 +74,7 @@ Amounts are the sum of each entity’s primary rows only, in the fiscal years pr
 | City of Glendale | 2022–23, 2023–24 | 6 | $4,770,642 |
 | City of Eastvale | 2016–17, 2018–19, 2019–20, 2020–21, 2023–24, 2024–25 | 19 | $4,657,473 |
 | City of Redwood City | 2022–23, 2024–25 | 8 | $4,554,941 |
+| Indio Water Authority | 2013–14, 2015–16, 2016–17 | 5 | $4,284,676 |
 | City of Wildomar | 2018–19, 2021–22, 2022–23, 2024–25 | 50 | $4,265,476 |
 | City of El Paso de Robles (Paso Robles) | 2023–24, 2024–25 | 2 | $4,043,496 |
 | City of Encinitas | 2023–24, 2024–25 | 10 | $4,033,437 |
